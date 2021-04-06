@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PGI_5315"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5315</ph> — Contracting by Negotiation</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5315.dita#AFFARS_AF_PGI_5315"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_209-90.dita#AFFARS_AF_PGI_5315_209_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_371-5.dita#AFFARS_AF_PGI_5315_371_5"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_402-90.dita#AFFARS_AF_PGI_5315_402_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_403-4-90___Section_890.dita#AFFARS_AF_PGI_5315_403_4"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404-3-90.dita#AFFARS_AF_PGI_5315_404_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404-70-90___DD_Form_1547.dita#AFFARS_AF_PGI_5315_404_70"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_407-91.dita#AFFARS_AF_PGI_5315_407_91"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_408-90___Submission_of_Section_890.dita#AFFARS_AF_PGI_5315_408_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5315.dita#AFFARS_AFICC_PGI_5315"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C__Chapter_35.dita#AFFARS_AFICC_PGI_5315_403_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_404-1-90a.dita#AFFARS_AFICC_PGI_5315_404_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_407-90.dita#AFFARS_AFICC_PGI_5315_407_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5315.dita#AFFARS_AFMC_PGI_5315"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_207.dita#AFFARS_AFMC_PGI_5315_207"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3.dita#AFFARS_AFMC_PGI_5315_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3a.dita#AFFARS_AFMC_PGI_5315_3_a"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3b.dita#AFFARS_AFMC_PGI_5315_3_b"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3c.dita#AFFARS_AFMC_PGI_5315_3_c"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3d.dita#AFFARS_AFMC_PGI_5315_3_d"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3e.dita#AFFARS_AFMC_PGI_5315_3_e"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_402-90.dita#AFFARS_AFMC_PGI_5315_402_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C_,_Chapter_35.dita#AFFARS_AFMC_PGI_5315_403_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404-1-90a.dita#AFFARS_AFMC_PGI_5315_404_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404-2-90.dita#AFFARS_AFMC_PGI_5315_404_2"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404-3-90.dita#AFFARS_AFMC_PGI_5315_404_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406-1.dita#AFFARS_AFMC_PGI_5315_406_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406-3.dita#AFFARS_AFMC_PGI_5315_406_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406-3-90.dita#AFFARS_AFMC_PGI_5315_406_3_90"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407-1-90.dita#AFFARS_AFMC_PGI_5315_407_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407-2.dita#AFFARS_AFMC_PGI_5315_407_2"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5315.dita#AFFARS_SMC_PGI_5315"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_203.dita#AFFARS_SMC_PGI_5315_203"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3.dita#AFFARS_SMC_PGI_5315_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3a.dita#AFFARS_SMC_PGI_5315_3a"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3b.dita#AFFARS_SMC_PGI_5315_3b"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3c.dita#AFFARS_SMC_PGI_5315_3c"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3d.dita#AFFARS_SMC_PGI_5315_3d"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3e.dita#AFFARS_SMC_PGI_5315_3e"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3f.dita#AFFARS_SMC_PGI_5315_3f"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3g.dita#AFFARS_SMC_PGI_5315_3g"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_404-1-90a.dita#AFFARS_SMC_PGI_5315_404_1"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_406-3.dita#AFFARS_SMC_PGI_5315_406_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5315.dita#AFFARS_USAFA_PGI_5315"
+                        class="- topic/xref "/>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5315_3.dita#AFFARS_USAFA_PGI_5315_3"
+                              class="- topic/xref "/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

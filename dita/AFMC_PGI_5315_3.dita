@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AFMC_PGI_5315_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5315.3
+         </ph> (1.4.1.1)   SSA Appointment</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a) AFMC/CA is the Source Selection Authority for AFPEO/CM services acquisitions &gt;$100M &lt; $1B, unless further delegated. </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(b) SSAs have been standardized as follows:<ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">(1)</b>
+                           <b class="+ topic/ph hi-d/b ">Air Force Life Cycle Management Center (AFLCMC) (</b>contracting organizations are located at Wright-Patterson Air Force Base,  Eglin Air Force Base, Hanscom Air Force Base, Gunter Annex, Lackland Air Force Base, Randolph Air Force Base, Peterson Air Force Base, Offutt Air Force Base, Tinker Air Force Base, Hill Air Force Base and Robins Air Force Base):   </p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="4" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="83.2pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="139.5pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="135pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col4"
+                        colwidth="117pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry namest="col1" nameend="col4" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </p>
+                     </entry>
+                     <entry namest="col3" nameend="col4" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry "/>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">All Locations  </b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Wright-Patterson</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Hanscom</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">≥$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFLCMC/CC/CA</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Group Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">&gt; $10M &lt; $100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Commander/Director of the requiring </b>
+                           <b class="+ topic/ph hi-d/b ">Directorate/GSU/DRU or 2 letter</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b "> </b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Group Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                        </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+         <p outputclass="Normal" class="- topic/p ">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="112.1pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="198pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="151.1pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">≥$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFNWC/CC/CA</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">1 </b>
+                           <b class="+ topic/ph hi-d/b "> </b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">  &gt; $10M  &lt;$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Commander/Director of the requiring </b>
+                           <b class="+ topic/ph hi-d/b ">Directorate</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b "> </b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b ">  </b>
+                        </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+         <p outputclass="Normal" class="- topic/p ">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="111.5pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="189.9pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="165.8pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry "/>
+                     <entry namest="col2" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Source Selection Authority </b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">≥ $100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFRL/CC/CA</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFRL/CC/CA</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">
+                              <u class="+ topic/ph hi-d/u ">&gt;</u>
+                           </b>
+                           <b class="+ topic/ph hi-d/b "> $50M &lt; $100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Technical Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Technical Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">&gt; $10M &lt; $50M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Technical Division Chief</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Technical Division Chief</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                        </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">   1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the Technical Director chain.</p>
+         <p outputclass="Normal" class="- topic/p ">    2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the Technical Director chain.</p>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="94.5pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="198pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="180pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">≥$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFSC/CC/CA</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                           <b class="+ topic/ph hi-d/b ">  </b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">&gt; $10M  &lt;$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Commander/Director of the requiring </b>
+                           <b class="+ topic/ph hi-d/b ">Directorate</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b "> </b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Air Base Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b ">  </b>
+                        </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">           1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+         <p outputclass="Normal" class="- topic/p ">           2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within </p>
+         <p outputclass="Normal" class="- topic/p ">         the requiring activity chain.</p>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="94.5pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="202.5pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="180pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">≥$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">AFTC/CC/CA</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Test Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">1</b>
+                           <b class="+ topic/ph hi-d/b ">  </b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">&gt; $10M  &lt;$100M</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Commander/Director of the requiring </b>
+                           <b class="+ topic/ph hi-d/b ">Directorate</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b "> </b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Test Wing Commander/Director</b>
+                           <b class="+ topic/ph hi-d/b ">2</b>
+                           <b class="+ topic/ph hi-d/b ">  </b>
+                        </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">           1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the    requiring activity chain;</p>
+         <p outputclass="Normal" class="- topic/p ">          2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c) Many source selection teams request and document delegation of SSA in the Acquisition Strategy Panel charts, and/or Acquisition Plan/LCMP, which eliminates the need to process a separate delegation memo.  When using a separate delegation memo, PCOs may use the templates below:</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_staff_summary_sheet_template.dotx"
+                  scope="external"
+                  format="dotx"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">Delegation of Source Selection Authority Staff Summary Sheet Template</u>
+            </xref> 
+         </p>
+         <p id="p__AFMC_PGI_5315.3_1" class="- topic/p ">             
+            <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_memo_template.docx"
+                  scope="external"
+                  format="docx"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">Delegation of Source Selection Authority Memo Template</u>
+            </xref>
+         </p>
+      </conbody>
+   </concept>
+</dita>

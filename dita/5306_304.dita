@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5306_304"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5306.304</ph> Approval of the Justification</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a)   </p>
+            </li>
+         </ol>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="103.1pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="186.4pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="178pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Justification Value</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Approval Authority</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Delegability</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <u class="+ topic/ph hi-d/u ">&lt;</u> $700K</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Chief of the Contracting Office</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Delegable to contracting officer, consistent with warrant level </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">&gt; $700K <u class="+ topic/ph hi-d/u ">&lt; </u>$13.5M</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Procuring Activity </p>
+                        <p class="- topic/p ">Competition Advocate</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Not further delegable</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">&gt; $13.5M <u class="+ topic/ph hi-d/u ">&lt;</u> $93M</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">PEO/Head of Procuring Activity<ph class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">*</u>
+                           </ph> / Designated Alternate if they meet the criteria in <xref href="https://acquisition.gov/content/part-6-competition-requirements"
+                                 scope="external"
+                                 format="html"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">FAR <ph outputclass="FAR" class="- topic/ph ">6.304</ph>(a)(3)</u>
+                           </xref>.  If they do not meet the criteria in <xref href="https://acquisition.gov/content/part-6-competition-requirements"
+                                 scope="external"
+                                 format="html"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">FAR <ph outputclass="FAR" class="- topic/ph ">6.304</ph>(a)(3)</u>
+                           </xref> = Senior Procurement Executive </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Delegable to Flag/General Officer or civilian SES </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">&gt; $93M**</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Senior Procurement Executive    </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Not further delegable</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal (Web)" class="- topic/p ">* For the Air Force, in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">2.101</ph>, procuring activity is synonymous with contracting activity.</p>
+         <p outputclass="Normal (Web)" class="- topic/p ">**J&amp;As for actions exceeding $93M must be coordinated with the DAS(C) or the ADAS(C) and approved by the SPE).  The contracting officer must submit justifications requiring approval by the SPE simultaneously to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aq-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQ</u>
+            </xref> and to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> after coordination by the SCO.  Allow 18 days for staffing and SPE approval after receipt by <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aq-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQ</u>
+            </xref>.  J&amp;A packages submitted to SAF/AQ shall include an electronic Staff Summary Sheet (<ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">eSSS</u>
+            </ph>
+            <ph class="- topic/ph "/>) in the body of the email or as an attachment (Word document only).  Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the J&amp;A package, and list each attachment under “Tabs” on the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/eSSS.docx"
+                  scope="external"
+                  format="docx"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">eSSS</u>
+            </xref> using the exact electronic file name (e.g., ACE Acquisition Strategy) of the corresponding attachment.  If a J&amp;A supports an indefinite-delivery type contract, see AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="5316_504.dita">5316.504</xref>
+            </ph>(c)(1)(ii)(D) for processing instructions. The SCO may authorize solicitation release after the justification is reviewed for adequacy and forwarded to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aq-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQ</u>
+            </xref>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u "> and </u>
+            </ph>
+            <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref>.  Submit questions or concerns regarding processing a J&amp;A for SPE approval to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref>.</p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(e)  <u class="+ topic/ph hi-d/u ">Prior to contract award:</u>  After a J&amp;A has been approved, but prior to contract award, if the dollar value of the contract is expected to exceed the original J&amp;A approval authority, the contracting officer must submit an amended J&amp;A to the appropriate approving authority for approval.  The amended J&amp;A shall identify the dollar increase from the initial, approved J&amp;A.</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(f)  <u class="+ topic/ph hi-d/u ">After contract award:</u>  When a proposed contract action is for new work outside the scope of the original contract, the contracting officer must submit a new J&amp;A as a stand-alone document to the appropriate approving authority based on the dollar value of the contract action for the new work.  New work should not commence until the new J&amp;A is approved unless authorized in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">6.302-2</ph>, Unusual and Compelling Urgency.  See <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="DFARS_5343_102_90"
+                        href="5343_102-90.dita#AFFARS_5343_102_90">5343.102-90</xref> regarding contract scope considerations.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(g)  A new J&amp;A is not required for:<ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(1)  a decrease in the dollar value or scope of the effort; or</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(2)  an increase in the estimated dollar value of in-scope work, except as described in (e) above.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AFMC_PGI_5306_304.dita">AFMC PGI 5306.304</xref>
+            </ph>.</p>
+         <p id="p__Toc38364623" outputclass="Normal (Web)" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="SMC_PGI_5306_304.dita">SMC PGI 5306.304</xref>
+            </ph>.</p>
+      </conbody>
+   </concept>
+</dita>

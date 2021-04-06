@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AFMC_PGI_5315_406_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5315.406-3
+         </ph> Documenting the Negotiation</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(a)  For contract actions valued below the TINA threshold, the AF Streamlined PNM Format for <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/streamlined_pnm_SUPPLIES.doc"
+                        scope="external"
+                        format="doc"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">supplies</u>
+                  </xref> or <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/streamlined_pnm_SERVICES.doc"
+                        scope="external"
+                        format="doc"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">services</u>
+                  </xref>, or any other format which adequately addresses the basis of the proposed, objective, and negotiated amounts is available for use.  If the value of the contract action exceeds the TINA threshold and no exception to TINA applies, it is expected that the pricing documentation will address the cost element composition of the proposed, objective, and negotiated positions at an appropriate level of detail based on the value and complexity of the pricing action.     <ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(1)Capture the proposed, objective and negotiated positions in applicable pricing document, including contract actions that incorporate additions or deletions, even when there is no change in contract value.</p>
+                     </li>
+                     <li id="li__AFMC_PGI_5315.406-3-90"
+                         outputclass="List 2"
+                         class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(2)The PNM template referenced in <ph outputclass="AF PGI" class="- topic/ph ">
+                              <xref outputclass="fm:ParaNumOnly"
+                                    format="dita"
+                                    class="- topic/xref "
+                                    href="AF_PGI_5301_170-2.dita">AF PGI 5301.170-2</xref>
+                           </ph>(b)(2) may be utilized.  </p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

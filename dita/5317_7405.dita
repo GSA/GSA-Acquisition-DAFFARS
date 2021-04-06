@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5317_7405"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5317.7405</ph> Plans and Reports</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal" class="- topic/p ">To comply with the Consolidated UCA Management Plan and Semi-annual Consolidated UCA Management Report requirements described in DFARS <ph outputclass="DFARS" class="- topic/ph ">217.7405</ph>, SCOs are required to ensure UCAs with a value equal to or exceeding $5 million are input/updated in the <xref href="https://www.afcontracting.hq.af.mil/enterprise_metrics/index.cfm"
+                  scope="external"
+                  format="cfm"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">UCA Reporting Tool</u>
+            </xref> on a semi-annual basis no later than April 10th and October 10th of each year.  For any reportable UCA that falls 30 days behind its schedule, update status in the reporting tool to identify actions taken to get back on schedule.  In addition, the SCO shall ensure a copy of the record of weighted guidelines, or alternative documentation, for each definitized UCA with a value equal to or exceeding $100 million, as described in DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">217.7405</ph>(1), is included with the semi-annual reporting.  Special access program offices will provide the information directly to the DAS(C)/ADAS(C), as appropriate.  </p>
+      </conbody>
+   </concept>
+</dita>

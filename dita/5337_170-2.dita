@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5337_170_2"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5337.170-2</ph> Approval Requirements</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(a)(1)  The Services Designated Official (SDO) (see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFI 63-138</u>
+                  </xref>, <i class="+ topic/ph hi-d/i ">Acquisition of Services</i>) will approve acquisitions of services to be purchased through a contract or task order above the SAT that is not performance based. </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">“IAW <xref href="http://www4.law.cornell.edu/uscode/10/2330.html"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">10 USC 2330</u>
+            </xref>, the Services Designated Official (SDO) has approved the attached Performance Work Statement and Quality Assurance Surveillance Plan ensuring requirements are performance based to the maximum extent practicable.”</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_SMC_PGI_5309_504"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5309.504
+         </ph> Contracting Officer Responsibilities</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(c)(1) See the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/guide_to_preparing_OCI_DandF_template.docx"
+                        scope="external"
+                        format="docx"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">Guide to Preparing an Organizational Conflict of Interest (OCI) Determination and Findings (D&amp;F)</u>
+                  </xref> for helpful tips on performing the contracting officer’s OCI analysis.<ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(2) Use the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/OCI_DandF_Template.docx"
+                                 scope="external"
+                                 format="docx"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">OCI D&amp;F Template</u>
+                           </xref> as a guide to documenting the contracting officer’s OCI analysis in the D&amp;F required by FAR <ph outputclass="FAR" class="- topic/ph ">9.5</ph>.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+            <li id="li__SMC_PGI_5309.506" outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(e) When issuing the notification at FAR <ph outputclass="FAR" class="- topic/ph ">9.504</ph>(e), consider requesting submission of an OCI Mitigation Plan consistent with the SMC <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/OCI_mitigation_plan_checklist.docx"
+                        scope="external"
+                        format="docx"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">OCI Mitigation Plan Checklist</u>
+                  </xref>. </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

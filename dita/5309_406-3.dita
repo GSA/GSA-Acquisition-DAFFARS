@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5309_406_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5309.406-3</ph> Procedures</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Investigation and referral</i>.  <ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  Any non-responsibility determination.</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  Any indictment, conviction, or civil judgment (including those listed on required certifications, or those disclosed in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">3.1003</ph> or FAR <ph outputclass="FAR" class="- topic/ph ">52.203-13</ph> relating to an offeror’s or contractor’s lack of integrity or business honesty, regardless of whether the indictment, conviction, or civil judgment related to a government contract.</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">3</i>)  Any recommended or final termination for default or for cause.</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>)  Any recommendation for debarment or suspension.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">(<i class="+ topic/ph hi-d/i ">5</i>)  Any debarred or suspended contractor who bids on a Government contract (including those who indicate debarment or suspension on required certifications).<ol class="- topic/ol ">
+                              <li outputclass="List 3" class="- topic/li ">
+                                 <p outputclass="List 3" class="- topic/p ">(ii)  The contracting officer must provide additional information as requested by SAF/GCR.  </p>
+                              </li>
+                           </ol>
+                        </p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Decision-making process</i>.<ol class="- topic/ol ">
+                     <li id="li__Toc38287295" outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(2)  If SAF/GCR determines that a hearing is required, the contracting activity must provide witnesses and other support as requested.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

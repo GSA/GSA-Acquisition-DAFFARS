@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AFMC_PGI_5304_1602"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5304.1602
+         </ph> Supplementary PII Numbers</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)(3)(i)(90)  Use the letter "K" in the second position of the supplementary PII number for PIOs unless separately identified below: </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">L -- AFSC/Tinker</p>
+         <p outputclass="Normal" class="- topic/p ">M -- AFSC/Hill OL</p>
+         <p outputclass="Normal" class="- topic/p ">Q -- AFSC/Robins OL</p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)(3)(iii)(90)  AFMC procurements which are completely administered by the purchasing office should use normal modification numbering procedures for amended shipping instructions (ASIs). All other AFMC procurements should use the letter "T" in the second position of the supplementary PII number for ASIs unless separately identified below: </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">U-- AFSC/Tinker</p>
+         <p outputclass="Normal" class="- topic/p ">V-- AFSC/Hill OL </p>
+         <p id="p__AFMC_PGI_5304.7103-1-90"
+            outputclass="Normal"
+            class="- topic/p ">Y-- AFSC/Robins OL</p>
+      </conbody>
+   </concept>
+</dita>

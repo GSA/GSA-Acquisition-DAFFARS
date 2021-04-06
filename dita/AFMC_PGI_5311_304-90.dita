@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AFMC_PGI_5311_304_90"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5311.304-90
+         </ph> Contract Clause</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a)  New Manufactured Material – Surplus Not Acceptable.  When it has been determined surplus is not acceptable, the contracting officer may include the following suggested contract language substantially as written in Section B (CLIN Description) of applicable CLIN(s) in the solicitation:</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Only new manufactured material, as defined in </i>
+            <i class="+ topic/ph hi-d/i ">FAR <ph outputclass="FAR" class="- topic/ph ">52.211-5</ph>
+            </i>
+            <i class="+ topic/ph hi-d/i ">, will be acceptable in satisfaction of this requirement. Surplus material is not acceptable and surplus offers will not be considered</i>
+            <i class="+ topic/ph hi-d/i "> for award.</i>
+         </p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b)  Acceptable New and Unused Surplus Material.  When new and unused material is acceptable, the contracting officer may include the following suggested contract language substantially as written in Section B (CLIN Description) of applicable CLIN(s) in the solicitation:</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">New and unused material is acceptable provided it has never been installed or used. It shows no signs of rust, corrosion, or other deterioration due to age or improper packaging/preservation. It has not been reconditioned and shows no evidence of disassembly or reassembly.</i>
+         </p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)  Part Number Verification.  The contracting officer may include additional inspection criteria identified on <xref href="http://static.e-publishing.af.mil/production/1/afmc/form/afmc813/afmc813.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFMC Form 813</u>
+                  </xref>, Surplus Material Worksheet, substantially as written below, in Section C (Statement of Work):</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Items </i>
+            <i class="+ topic/ph hi-d/i ">must</i>
+            <i class="+ topic/ph hi-d/i "> be of the correct part number, </i>
+            <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(insert part number</u>
+            </i>
+            <i class="+ topic/ph hi-d/i ">)</i>
+            <i class="+ topic/ph hi-d/i ">, and </i>
+            <i class="+ topic/ph hi-d/i ">must</i>
+            <i class="+ topic/ph hi-d/i "> have been manufactured by </i>
+            <i class="+ topic/ph hi-d/i ">(</i>
+            <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">insert manufacturer's name/MFC appearing on contractor's certificate</u>
+            </i>
+            <i class="+ topic/ph hi-d/i ">)</i>
+            <i class="+ topic/ph hi-d/i ">.</i>
+            <i class="+ topic/ph hi-d/i "> </i>
+         </p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(d)   Listing of Surplus Material.  To comply with FAR <ph outputclass="FAR" class="- topic/ph ">11.302</ph>(b) the contracting officer may include the following suggested contract language substantially as written in Section L (Notice to Offerors) when contemplating acquisition of surplus material:</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Offeror is required to submit the following information for each surplus item:</i>
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a) Surplus Item Identification: _______________</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">NSN: </i>
+            <i class="+ topic/ph hi-d/i ">_______________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Noun: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">PN: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Drawing Revision Letter: </i>
+                  <i class="+ topic/ph hi-d/i ">____________</i>
+                  <i class="+ topic/ph hi-d/i "> Manufacturer: </i>
+                  <i class="+ topic/ph hi-d/i ">____________</i>
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b) Federal Supply Code for Manufacturer (FSCM) marked on items per MIL-STD-130: ____________</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(c) Quantity available for verification at dealer's facility: </i>
+                  <i class="+ topic/ph hi-d/i ">____________</i>
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(d) Original manufacturer, government contract number: ____________</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(e) Material was subsequently purchased as surplus from: </i>
+                  <i class="+ topic/ph hi-d/i ">____________</i>
+                  <i class="+ topic/ph hi-d/i "> </i>
+                  <i class="+ topic/ph hi-d/i ">(Manufacturer or Agency)</i>
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(f) DLA sale number ____________ and date of sale by Government: ____________</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(g) Do you have the drawings for this item? If yes, what is the revision letter/number and the date of the last revision of the drawings? </i>
+                  <i class="+ topic/ph hi-d/i ">____________</i>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(h) History of items since initially sold as surplus by Government or manufacturer: _____________________</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(i) Are items being offered in original unbroken containers? ____________</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(j) Date of manufacture or packaging: _______________</i>
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(k) Material offered is warranted by the Contractor for a period of ____ months as contemplated by FAR <ph outputclass="FAR" class="- topic/ph ">52.246-17</ph>, Warranty of Supplies of a Noncomplex Nature. (12 Months is presumed unless otherwise specified. If surplus is purchased, warranty may or may not be included in the award.)</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(l) The surplus items offered fit the conditional definition indicated below: (Check the appropriate definition and provide requested information. Use additional paper if more space is necessary.) (NOTE: Dates, Technical Order compliance, quality considerations, and component sources are essential information for categories (2), (3), and (4) below.)</i>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">[  ]</i>
+            <i class="+ topic/ph hi-d/i "> (1) New and unused: material has never been installed or used. It shows no signs of rust, corrosion, or other deterioration due to age or improper packaging/preservation. It has not been reconditioned and shows no evidence of disassembly or reassembly.</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">[  ]</i>
+            <i class="+ topic/ph hi-d/i "> (2) New and reconditioned: material has never been installed or used. It shows no signs of rust, corrosion, or other deterioration due to age or improper packaging/preservation. Reconditioning is allowed to the extent that gaskets, seals, O-rings, or other such cure-dated items have been or will be replaced prior to use in accordance with the applicable technical orders and specifications.</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Source of reconditioning: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Summary of reconditioning: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">[  ]</i>
+            <i class="+ topic/ph hi-d/i "> (3) New and modified: material has never been installed or used. It shows no signs of rust, corrosion, or other deterioration due to age or improper packaging/preservation. Components may have been (or may need to be) replaced in accordance with the applicable technical specifications for the purpose of configuration update or modification.</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Source of modification: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Summary of modification: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">[  ]</i>
+            <i class="+ topic/ph hi-d/i "> (4) Used and overhauled: material, which has been previously installed in operational equipment. It has been or can be completely overhauled, repaired, reconditioned, or modified per the applicable technical specifications to serviceable status.</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Source of overhaul: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Overhaul technical order: </i>
+            <i class="+ topic/ph hi-d/i ">____________</i>
+         </p>
+      </conbody>
+   </concept>
+</dita>

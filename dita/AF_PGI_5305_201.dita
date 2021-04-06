@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AFFARS_PGI_5305_201"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFFARS PGI 5305.201</ph> General</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="4" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="85.95pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="168.6pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="88.45pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col4"
+                        colwidth="124pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Acquisition</b>
+                        </p>
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Phase</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Purpose of Synopsis</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">FAR References</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Notice Type</b>
+                        </p>
+                        <p class="- topic/p ">(as listed on FBO)</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry morerows="6" class="- topic/entry ">
+                        <p class="- topic/p ">Pre-solicitation</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Business fairs​</p>
+                        <p class="- topic/p ">- Long-range procurement estimates</p>
+                        <p class="- topic/p ">- Small business events</p>
+                        <p class="- topic/p ">- Broad market surveys</p>
+                        <p class="- topic/p ">- Industry Days (for information exchanges prior to drafting solicitation)</p>
+                        <p class="- topic/p ">- Draft Solicitation </p>
+                        <p class="- topic/p ">- Notice of Presolicitation Conference (may be used in conjunction with draft solicitations)</p>
+                        <p class="- topic/p ">- Request for Information (RFI)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.205(c)</p>
+                     </entry>
+                     <entry morerows="1" valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Special Notice</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- RFI; when utilizing the authority at FAR <ph outputclass="FAR" class="- topic/ph ">6.302-1</ph>
+                        </p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">206.302-1</ph>(d)</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- To determine possible sources</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">15.201(c)</p>
+                     </entry>
+                     <entry morerows="1" valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Sources Sought</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">-When utilizing the authority at FAR <ph outputclass="FAR" class="- topic/ph ">6.302-1</ph>
+                        </p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">206.302-1</ph>(d)</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Notice of Bundling</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">DFARS <ph outputclass="DFARS" class="- topic/ph ">205.205-70</ph>
+                        </p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Intent to Bundle Requirements</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry "/>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.203(a)</p>
+                     </entry>
+                     <entry morerows="1" valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Presolicitation</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Notice of intent to solicit and negotiate with only one source (Sole Source)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.203(a)</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry morerows="5" class="- topic/entry ">
+                        <p class="- topic/p ">Solicitation</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Final RFP</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.201</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Solicitation 1 </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Amend a solicitation</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">15.206</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Mod/Amendment 2 </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Notice of Pre-Proposal/Pre-Bid Conference</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.205(c)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Special Notice</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Commercial Item combined RFP and synopsis</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">12.603</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Combined Synopsis/Solicitation</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Notice of Solicitation Cancellation</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.207(f)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Cancellation</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">-Sale of surplus property (Informal invitations for bid)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">DFARS <ph outputclass="DFARS" class="- topic/ph ">246.604-3</ph>
+                        </p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Sale of Surplus Property</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry morerows="3" class="- topic/entry ">
+                        <p class="- topic/p ">Award</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Award greater than $25,000</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.301</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Award Notice</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Approved J&amp;A (redacted)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">6.305</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Justification &amp; Approval</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Exception to Fair Opportunity provision (redacted)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">16.505</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Fair Opportunity</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- LSJ (redacted)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">8.405-6</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Limited Sources Justification</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Post Award</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">- Modification (new work) not covered under previous synopsis</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">5.201(b)(1)(ii)</p>
+                     </entry>
+                     <entry valign="middle" class="- topic/entry ">
+                        <p class="- topic/p ">Award Notice</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">1</b>   When posting a final RFP and upon login to the FBO homepage, the PCO selects “Mod/Amend Notice”.  Upload final RFP documents to FBO via a modification to an existing Presolicitation Notice. At the screen where the documents are uploaded, the PCO identifies the upload as a Solicitation package type in order for the synopsis to post properly. </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2</b>   When posting an RFP amendment and upon login to the FBO homepage, the PCO selects “Mod/Amend Notice”.  Upload amendment documents to FBO via modification to an existing Solicitation Notice.  At the screen where the documents are uploaded, the PCO identifies the upload as a Mod/Amendment package type in order for the synopsis to post properly.</p>
+      </conbody>
+   </concept>
+</dita>

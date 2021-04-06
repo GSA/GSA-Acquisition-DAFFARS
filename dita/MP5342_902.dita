@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5342_902"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">MP5342.902</ph> — Bankruptcy Procedures</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(a)  When an office (typically contracting, financial management, or legal) first learns of bankruptcy proceedings that may involve or affect the Air Force, that office must as a minimum provide notice to its supporting contracting, financial management, and legal offices.  Once the contracting office and legal office are notified, they must work as a team to carry out the following responsibilities:<ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(1)  The contracting office must furnish notice of the bankruptcy to any affected buying activities and to the Defense Finance and Accounting Service Office of General Counsel (DFAS-HGB) at the following address:</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">Office of General Counsel</p>
+         <p outputclass="Normal" class="- topic/p ">DFAS-HGB</p>
+         <p outputclass="Normal" class="- topic/p ">Defense Finance and Accounting Service</p>
+         <p outputclass="Normal" class="- topic/p ">8899 E. 56th Street</p>
+         <p outputclass="Normal" class="- topic/p ">Indianapolis, IN 46249-0160</p>
+         <p outputclass="Normal" class="- topic/p ">The legal office must furnish notice to the Bankruptcy Branch of the Commercial Litigation Division of the Air Force Legal Services Agency (AFLOA/JAQ) at the following address:</p>
+         <p outputclass="Normal" class="- topic/p ">AFLOA/JAQ</p>
+         <p outputclass="Normal" class="- topic/p ">1500 West Perimeter Road, Suite 4100</p>
+         <p outputclass="Normal" class="- topic/p ">Joint Base Andrews, MD 20762</p>
+         <p outputclass="Normal" class="- topic/p ">Provide notice irrespective of whether any contracts have been closed, terminated, or still have performance outstanding.  Make notifications via the most expeditious method, but no later than three days after learning of the bankruptcy.  Notify promptly, whether or not all required information is initially available, and even in cases where it appears the notifying office, itself, received late notice.  Ensure the notification includes:  </p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(b)  The contracting officer and supporting attorney must consult <xref href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFLOA/JAQ</u>
+                  </xref> prior to taking any of the following actions regarding the debtor/contractor:<ol class="- topic/ol ">
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(1)  Issuing a show cause letter or cure notice; </p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(2)  Terminating a contract, either for default or the convenience of the Government, or canceling a contract or an order under a contract;</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(3)  Setting off or recouping debts, or otherwise attempting to collect or recover amounts owed by the debtor/contractor;</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(4)  Demanding or otherwise seeking to recover Government property;</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(5)  Initiating reprocurement of the goods or services provided under a contract; </p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(6)  Issuing a new contract to or exercising an option to extend a contract with the debtor/contractor; or</p>
+                     </li>
+                     <li outputclass="List 2" class="- topic/li ">
+                        <p outputclass="List 2" class="- topic/p ">(7)  Beginning or continuing any judicial or administrative action or proceeding against the debtor/contractor that could have been brought before the bankruptcy petition was filed.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

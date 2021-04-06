@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5325_7002_2"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">MP5325.7002-2</ph> — Exceptions</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List_0_bold" class="- topic/p ">1.   Domestic Non-Availability Determinations (DNAD) Under DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7002</ph>
+         </p>
+         <p id="p__Toc38365658" outputclass="Normal" class="- topic/p ">Follow these mandatory procedures when requesting approval to purchase restricted items under DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7002</ph>; for example, food, clothing, tents, tarpaulins, covers, cotton and hand or measuring tools.  The requirement to comply with these statutory and regulatory restrictions applies to procurements in excess of the simplified acquisition threshold.  This MP provides assistance in determining the applicability of restrictions when drafting a DNAD.  A DNAD must be tailored to your acquisition.  In some cases it may not be possible to obtain all of the data specified in the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_02.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">DNAD</u>
+            </xref>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u "> template</u>
+            </ph>; however, contracting officers should make every effort to do so.  See DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7002</ph> for the entire list.</p>
+         <p outputclass="List_0_bold" class="- topic/p ">2.   DNAD Exception</p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <b class="+ topic/ph hi-d/b ">a.   Individual DNADs</b>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">When a contractor asserts that a domestic item identified at DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7002-1</ph> is not available, a DNAD is required; the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_02.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">DNAD</u>
+            </xref> must be coordinated through the SCO and <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> before submission to the Secretary of the Air Force (SecAF) for approval.  The SecAF may grant a DNAD if compliant items, identified at DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7002-1</ph>, of satisfactory quality and sufficient quantity, and in the required form, cannot be procured at U.S. market prices as and when needed.  This approval authority is not delegable.  This exception should not be read to require that the compliant material/item must be totally unavailable (i.e., cannot be obtained at any cost).  There is some cost limit that should be recognizable by a contracting officer, and that a reasonable person would agree, makes the material/item effectively “unavailable.”</p>
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">
+                  <b class="+ topic/ph hi-d/b ">b.   Class DNADs</b>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">Contracting officers may continue to use OUSD (AT&amp;L) approved class DNADs that cover food, clothing, fabrics, and hand or measuring tools for new contracts if the DNAD was signed by the Undersecretary of Defense (OUSD) (AT&amp;L) or by a Service Secretary.  The OUSD (AT&amp;L) DNADs currently available for reciprocal use are posted on the <xref href="http://www.dcma.mil/dnads/"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">DCMA </u>
+               <u class="+ topic/ph hi-d/u ">w</u>
+               <u class="+ topic/ph hi-d/u ">ebsite</u>
+            </xref>.  If a class DNAD is used, the contracting officer must prepare a Determination and Finding (D&amp;F) approved by the SCO.  This approval may not be further delegated.  The contracting officer must obtain legal review to support the determination.</p>
+      </conbody>
+   </concept>
+</dita>

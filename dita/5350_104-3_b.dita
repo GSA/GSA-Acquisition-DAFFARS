@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5350_104_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5350.104-3</ph> (b)(1)   Action on Indemnification Requests</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal" class="- topic/p ">See the <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">“</u>
+            </ph>
+            <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Other_Pubs/Other_Guides/Indemnification_Guide.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">Air Force Indemnification Guide for Unusually Hazardous or Nuclear Risk</u>
+            </xref>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">s</u>
+               <u class="+ topic/ph hi-d/u ">”</u>
+            </ph> for additional information. Upon completion of all buying activity coordination, the contracting officer must forward the indemnification request through the SCO to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> for staffing to the SECAF.</p>
+      </conbody>
+   </concept>
+</dita>

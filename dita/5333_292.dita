@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5333_292"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5333.292</ph> Appeals to the United States Court of Federal Claims (COFC)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a)  The Department of Justice represents the Air Force in appeals brought before the COFC.  The Commercial Law and Litigation Directorate (AFLOA/JAQ) serves as the Air Force counsel with the Department of Justice in such appeals.</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b)  The contracting officer must notify the cognizant legal office and the SCO of any notice of appeal to the COFC.   The cognizant legal office must forward a copy of the notice to <xref href="mailto:usaf.pentagon.saf-gc.list.rss-saf-gcr@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/GC</u>
+                     <u class="+ topic/ph hi-d/u ">R</u>
+                  </xref> and <xref href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFLOA/JAQ</u>
+                  </xref>.</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)  The contracting officer must assist the cognizant legal office in preparing the litigation report.  The contracting officer must obtain approval from the AFLOA/JAQ trial attorney prior to releasing the litigation report outside government.</p>
+            </li>
+         </ol>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFICC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AFICC_PGI_5333_9000.dita">AFICC PGI 5333.9000</xref>
+            </ph>.</p>
+      </conbody>
+   </concept>
+</dita>

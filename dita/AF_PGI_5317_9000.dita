@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_AF_PGI_5317_9000"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AF PGI 5317.9000
+         </ph> Associate Contractor Agreements</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal (Web)" class="- topic/p ">“Associate Contractor Agreements” (ACA) are agreements between contractors working on government contracts or projects that specify requirements for them to share information, data, technical knowledge, expertise, or resources. </p>
+         <p outputclass="Normal (Web)" class="- topic/p ">Prime contractor to subcontractor relationships do not constitute ACAs, and are not subject to this section’s requirements. The contracting officer may require ACAs when contractors working on separate Government contracts must cooperate, share resources or otherwise jointly participate in working on contracts or projects.  The contractor should tailor each ACA to the requirements of the individual contracting situation and may consult with the contracting officer as required. Suggested Contract Language for Statement of Work or Performance Work Statement:</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">(a) The Contractor should enter into Associate Contractor Agreements (ACA) for any portion of the contract requiring joint participation in the accomplishment of the Government’s requirement.  The agreements should include the basis for sharing information, data, technical knowledge, expertise, and/or resources essential to the integration of the (</i>
+                  <i class="+ topic/ph hi-d/i ">
+                     <u class="+ topic/ph hi-d/u ">insert name of the program or project)</u>
+                  </i>
+                  <i class="+ topic/ph hi-d/i ">, to ensure the greatest degree of cooperation for the development of the program to meet the terms of the contract.  Associate contractors are listed in (g) below.</i>
+               </p>
+            </li>
+         </ol>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colwidth="156.85pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colwidth="155.1pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colwidth="155.55pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p outputclass="Normal (Web)" class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Contractor</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p outputclass="Normal (Web)" class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Address</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p outputclass="Normal (Web)" class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Program / Contract</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry "/>
+                     <entry class="- topic/entry "/>
+                     <entry class="- topic/entry "/>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry "/>
+                     <entry class="- topic/entry "/>
+                     <entry class="- topic/entry "/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>
