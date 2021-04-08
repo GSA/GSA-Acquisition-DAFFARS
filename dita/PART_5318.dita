@@ -1,66 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="PART_5318"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="PART_5318">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5318</ph> — Emergency Acquisitions</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318a.dita#AFFARS_SUBPART_5318_000"
-                        class="- topic/xref "/>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318a.dita#AFFARS_SUBPART_5318_000"/>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318b.dita#AFFARS_5318_001"
-                              class="- topic/xref "/>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318b.dita#AFFARS_5318_001"/>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_125.dita#AFFARS_5318_125"
-                              class="- topic/xref "/>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_125.dita#AFFARS_5318_125"/>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_2.dita#AFFARS_SUBPART_5318_2"
-                        class="- topic/xref "/>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_2.dita#AFFARS_SUBPART_5318_2"/>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_201.dita#AFFARS_5318_201"
-                              class="- topic/xref "/>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_201.dita#AFFARS_5318_201"/>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_202.dita#AFFARS_5318_202"
-                              class="- topic/xref "/>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_202.dita#AFFARS_5318_202"/>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_270.dita#AFFARS_5318_270"
-                              class="- topic/xref "/>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_270.dita#AFFARS_5318_270"/>
                      </p>
                   </li>
                </ul>
