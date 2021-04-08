@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5345.3</title>
+   <topicref navtitle="SUBPART 5345.3 — PROVIDING GOVERNMENT PROPERTY TO CONTRACTORS"
+             href="../../SUBPART_5345_3.dita"
+             outputclass="SubPart"
+             props="SUBPART 5345.3"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5345.301   Use and Rental"
+                href="../../5345_301.dita"
+                outputclass="subtopic"
+                props="5345.301"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5345.301 Use and Rental</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5345.302   Contracts with Foreign Governments or International Organizations"
+                href="../../5345_302.dita"
+                outputclass="subtopic"
+                props="5345.302"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5345.302 Contracts with Foreign Governments or
+                        Internationa...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

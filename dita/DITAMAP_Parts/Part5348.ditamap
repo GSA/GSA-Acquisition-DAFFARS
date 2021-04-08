@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5348</title>
+   <topicref navtitle="PART 5351 — Use of Government Sources by     Contractors"
+             href="../PART_5351.dita"
+             outputclass="Part"
+             props="PART 5351"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicmeta class="- map/topicmeta ">
+         <navtitle class="- topic/navtitle ">PART 5351 — Use of Government Sources by Contractors</navtitle>
+      </topicmeta>
+   </topicref>
+</map>

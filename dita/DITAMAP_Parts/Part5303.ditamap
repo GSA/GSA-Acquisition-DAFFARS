@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5303</title>
+   <topicref navtitle="PART 5303 — Improper Business Practices and Personal Conflicts of Interest"
+             href="../PART_5303.dita"
+             outputclass="Part"
+             props="PART 5303"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5303.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.5</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.6.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.6</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.7.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.7</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.9.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.9</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.10.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.10</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5303.11.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5303.11</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

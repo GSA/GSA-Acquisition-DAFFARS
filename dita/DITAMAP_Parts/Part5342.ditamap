@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5342</title>
+   <topicref navtitle="PART 5345 — Government Property"
+             href="../PART_5345.dita"
+             outputclass="Part"
+             props="PART 5345"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5345.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5345.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5345.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5345.3</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

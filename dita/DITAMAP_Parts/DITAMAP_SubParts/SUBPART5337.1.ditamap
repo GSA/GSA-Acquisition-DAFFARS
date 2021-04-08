@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5337.1</title>
+   <topicref navtitle="SUBPART 5337.1 — SERVICE CONTRACTS (GENERAL)"
+             href="../../SUBPART_5337_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5337.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5337.104   Personal Services Contracts"
+                href="../../5337_104.dita"
+                outputclass="subtopic"
+                props="5337.104"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5337.104 Personal Services Contracts</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5337.106   Funding and Term of Service Contracts"
+                href="../../5337_106.dita"
+                outputclass="subtopic"
+                props="5337.106"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5337.106 Funding and Term of Service Contracts</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5337.113-1   Waiver of Cost Allowability Limitations"
+                href="../../5337_113-1.dita"
+                outputclass="subtopic"
+                props="5337.113-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5337.113-1 Waiver of Cost Allowability Limitations</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5337.170-2   Approval Requirements"
+                href="../../5337_170-2.dita"
+                outputclass="subtopic"
+                props="5337.170-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5337.170-2 Approval Requirements</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

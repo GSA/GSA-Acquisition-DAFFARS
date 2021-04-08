@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5304.6</title>
+   <topicref navtitle="SUBPART 5304.6 — CONTRACT REPORTING"
+             href="../../SUBPART_5304_6.dita"
+             outputclass="SubPart"
+             props="SUBPART 5304.6"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5304.604 (2)   Responsibilities"
+                href="../../5304_604.dita"
+                outputclass="subtopic"
+                props="5304.604"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5304.604 (2) Responsibilities</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

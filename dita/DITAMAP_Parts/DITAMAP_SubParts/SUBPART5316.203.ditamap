@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5316.203</title>
+   <topicref navtitle="SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT"
+             href="../../SUBPART_5316_203.dita"
+             outputclass="SubPart"
+             props="SUBPART 5316.203"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5316.203-4   Contract Clauses "
+                href="../../5316_203-4.dita"
+                outputclass="subtopic"
+                props="5316.203-4"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5316.203-4 Contract Clauses</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

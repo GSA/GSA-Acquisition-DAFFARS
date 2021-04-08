@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5337.2</title>
+   <topicref navtitle="SUBPART 5337.2 — ADVISORY AND ASSISTANCE SERVICES "
+             href="../../SUBPART_5337_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5337.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5337.204   Guidelines for Determining Availability of Personnel"
+                href="../../5337_204.dita"
+                outputclass="subtopic"
+                props="5337.204"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5337.204 Guidelines for Determining Availability of
+                        Personn...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

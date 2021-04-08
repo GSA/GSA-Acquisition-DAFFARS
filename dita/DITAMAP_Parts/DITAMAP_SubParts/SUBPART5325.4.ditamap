@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5325.4</title>
+   <topicref navtitle="SUBPART 5325.4 — TRADE AGREEMENTS"
+             href="../../SUBPART_5325_4.dita"
+             outputclass="SubPart"
+             props="SUBPART 5325.4"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5325.403   World Trade Organization Government Procurement Agreement and Free Trade Agreements"
+                href="../../5325_403.dita"
+                outputclass="subtopic"
+                props="5325.403"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5325.403 World Trade Organization Government Procurement
+                        Ag...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

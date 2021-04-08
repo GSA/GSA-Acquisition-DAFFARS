@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5314.4</title>
+   <topicref navtitle="SUBPART 5314.4 — OPENING OF BIDS AND AWARD OF CONTRACT"
+             href="../../SUBPART_5314_4.dita"
+             outputclass="SubPart"
+             props="SUBPART 5314.4"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5314.407-3   Other Mistakes Disclosed Before Award"
+                href="../../5314_407-3.dita"
+                outputclass="subtopic"
+                props="5314.407-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5314.407-3 Other Mistakes Disclosed Before Award</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

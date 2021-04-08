@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5319.2</title>
+   <topicref navtitle="SUBPART 5319.2 — POLICIES"
+             href="../../SUBPART_5319_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5319.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5319.201   General Policy"
+                href="../../5319_201.dita"
+                outputclass="subtopic"
+                props="5319.201"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5319.201 General Policy</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

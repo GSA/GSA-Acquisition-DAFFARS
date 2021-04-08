@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5325.10</title>
+   <topicref navtitle="SUBPART 5325.10 — ADDITIONAL FOREIGN ACQUISITION REGULATIONS"
+             href="../../SUBPART_5325_10.dita"
+             outputclass="SubPart"
+             props="SUBPART 5325.10"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5325.1001   Waiver of Right to Examination of Records"
+                href="../../5325_1001.dita"
+                outputclass="subtopic"
+                props="5325.1001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5325.1001 Waiver of Right to Examination of Records</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5349.5</title>
+   <topicref navtitle="SUBPART 5349.5 — CONTRACT TERMINATION CLAUSES"
+             href="../../SUBPART_5349_5.dita"
+             outputclass="SubPart"
+             props="SUBPART 5349.5"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5349.501-70   Special Termination Costs"
+                href="../../5349_501-70.dita"
+                outputclass="subtopic"
+                props="5349.501-70"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5349.501-70 Special Termination Costs</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

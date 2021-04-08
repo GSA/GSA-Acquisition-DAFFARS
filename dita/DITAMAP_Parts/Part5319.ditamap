@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5319</title>
+   <topicref navtitle="PART 5319 — Small Business Programs"
+             href="../PART_5319.dita"
+             outputclass="Part"
+             props="PART 5319"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5319.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5319.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.5</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5319.8.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.8</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5319.13.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.13</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5319.14.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.14</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5319.15.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5319.15</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

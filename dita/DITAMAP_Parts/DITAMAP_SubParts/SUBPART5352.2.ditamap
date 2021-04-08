@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5352.2</title>
+   <topicref navtitle="SUBPART 5352.2 — TEXT OF PROVISIONS AND CLAUSES"
+             href="../../SUBPART_5352_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5352.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5352.201-9101   Ombudsman"
+                href="../../5352_201-9101.dita"
+                outputclass="subtopic"
+                props="5352.201-9101"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.201-9101 Ombudsman</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.204-9000 Notification of Government Security Activity and     Visitor Group Security Agreements"
+                href="../../5352_204-9000.dita"
+                props="5352.204-9000"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.204-9000 Notification of Government Security Activity
+                        ...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.209-9000 Organizational Conflict of Interest "
+                href="../../5352_209-9000.dita"
+                props="5352.209-9000"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.209-9000 Organizational Conflict of Interest</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.209-9001 Potential Organizational Conflict of Interest"
+                href="../../5352_209-9001.dita"
+                props="5352.209-9001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.209-9001 Potential Organizational Conflict of
+                        Interest</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.217-9000 Long Lead Limitation of Government Liability"
+                href="../../5352_217-9000.dita"
+                props="5352.217-9000"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.217-9000 Long Lead Limitation of Government Liability</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.223-9000 Elimination of Use of Class I Ozone Depleting     Substances (ODS)"
+                href="../../5352_223-9000.dita"
+                props="5352.223-9000"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.223-9000 Elimination of Use of Class I Ozone
+                        Depleting...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.223-9001 Health and Safety on Government Installations"
+                href="../../5352_223-9001.dita"
+                props="5352.223-9001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.223-9001 Health and Safety on Government
+                        Installations</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.228-9101 Insurance Certificate Requirement in Spain     (USAFE)"
+                href="../../5352_228-9101.dita"
+                props="5352.228-9101"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.228-9101 Insurance Certificate Requirement in Spain
+                        (U...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.242-9000 Contractor Access to Air Force Installations"
+                href="../../5352_242-9000.dita"
+                props="5352.242-9000"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.242-9000 Contractor Access to Air Force Installations</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5352.242-9001 Common Access Cards (CAC) for Contractor     Personnel"
+                href="../../5352_242-9001.dita"
+                props="5352.242-9001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5352.242-9001 Common Access Cards (CAC) for Contractor
+                        Pers...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

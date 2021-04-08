@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5305</title>
+   <topicref navtitle="PART 5305 — Publicizing Contract Actions"
+             href="../PART_5305.dita"
+             outputclass="Part"
+             props="PART 5305"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5305.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5305.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5305.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5305.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5305.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5305.3</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5305.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5305.5</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

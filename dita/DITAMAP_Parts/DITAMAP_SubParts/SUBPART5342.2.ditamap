@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5342.2</title>
+   <topicref navtitle="SUBPART 5342.2 — CONTRACT ADMINISTRATION SERVICES"
+             href="../../SUBPART_5342_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5342.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5342.202   Assignment of Contract Administration"
+                href="../../5342_202.dita"
+                outputclass="subtopic"
+                props="5342.202"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5342.202 Assignment of Contract Administration</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

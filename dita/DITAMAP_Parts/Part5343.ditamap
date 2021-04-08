@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5343</title>
+   <topicref navtitle="PART 5346  — Quality Assurance"
+             href="../PART_5346.dita"
+             outputclass="Part"
+             props="PART 5346 "
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5346.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5346.1</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

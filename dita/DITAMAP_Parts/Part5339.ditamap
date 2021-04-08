@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5339</title>
+   <topicref navtitle="PART 5342 — Contract Administration and Audit Services"
+             href="../PART_5342.dita"
+             outputclass="Part"
+             props="PART 5342"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5342.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5342.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5342.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5342.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5342.9.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5342.9</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5342.15.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5342.15</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5342.71.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5342.71</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5340</title>
+   <topicref navtitle="PART 5343 — Contract Modifications"
+             href="../PART_5343.dita"
+             outputclass="Part"
+             props="PART 5343"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5343.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5343.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5343.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5343.2</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

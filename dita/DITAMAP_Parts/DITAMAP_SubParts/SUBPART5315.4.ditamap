@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5315.4</title>
+   <topicref navtitle="SUBPART 5315.4 — CONTRACT PRICING"
+             href="../../SUBPART_5315_4.dita"
+             outputclass="SubPart"
+             props="SUBPART 5315.4"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5315.400 (S-90)"
+                href="../../5315_400.dita"
+                outputclass="subtopic"
+                props="5315.400"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.400 (S-90)</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.403-1   Prohibition on Obtaining Certified Cost or Pricing Data ( and )"
+                href="../../5315_403-1.dita"
+                outputclass="subtopic"
+                props="5315.403-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.403-1 Prohibition on Obtaining Certified Cost or
+                        Prici...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.403-3   Requiring Data Other Than Certified Cost or Pricing Data"
+                href="../../5315_403-3.dita"
+                outputclass="subtopic"
+                props="5315.403-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.403-3 Requiring Data Other Than Certified Cost or
+                        Pric...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.403-4   Requiring Certified Cost or Pricing Data ( and )"
+                href="../../5315_403-4.dita"
+                outputclass="subtopic"
+                props="5315.403-4"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.403-4 Requiring Certified Cost or Pricing Data ( and
+                        )</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.404-1-90   Pricing Assistance or Pricing Assistance Waiver"
+                href="../../5315_404-1-90.dita"
+                outputclass="subtopic"
+                props="5315.404-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.404-1-90 Pricing Assistance or Pricing Assistance
+                        Waiv...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.404-2   Data to Support Proposal Analysis"
+                href="../../5315_404-2.dita"
+                outputclass="subtopic"
+                props="5315.404-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.404-2 Data to Support Proposal Analysis</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.404-4   Profit"
+                href="../../5315_404-4.dita"
+                outputclass="subtopic"
+                props="5315.404-4"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.404-4 Profit</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.404-70-90   DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751"
+                href="../../5315_404-70-90.dita"
+                outputclass="subtopic"
+                props="5315.404-70"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.404-70-90 DD Form 1547, Record of Weighted Guidelines
+                        ...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.406-1   Prenegotiation Objectives"
+                href="../../5315_406-1.dita"
+                outputclass="subtopic"
+                props="5315.406-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.406-1 Prenegotiation Objectives</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.406-3   Documenting the Negotiation"
+                href="../../5315_406-3.dita"
+                outputclass="subtopic"
+                props="5315.406-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.406-3 Documenting the Negotiation</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.407-3   Forward Pricing Rate Agreements"
+                href="../../5315_407-3.dita"
+                outputclass="subtopic"
+                props="5315.407-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.407-3 Forward Pricing Rate Agreements</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.407-4   Should-cost Review"
+                href="../../5315_407-4.dita"
+                outputclass="subtopic"
+                props="5315.407-4"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.407-4 Should-cost Review</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.407-90   Contract Audit Follow-Up (CAFU)"
+                href="../../5315_407-90.dita"
+                outputclass="subtopic"
+                props="5315.407-90"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.407-90 Contract Audit Follow-Up (CAFU)</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5315.408   Solicitation Provisions and Contract Clauses"
+                href="../../5315_408.dita"
+                outputclass="subtopic"
+                props="5315.408"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5315.408 Solicitation Provisions and Contract Clauses</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5301.1</title>
+   <topicref navtitle="SUBPART 5301.1 – PURPOSE, AUTHORITY, and ISSUANCE"
+             href="../../SUBPART_5301_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5301.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5301.101   Purpose"
+                href="../../5301_101.dita"
+                outputclass="subtopic"
+                props="5301.101"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.101 Purpose</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.105-1   Publication and Code Arrangement"
+                href="../../5301_105-1.dita"
+                outputclass="subtopic"
+                props="5301.105-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.105-1 Publication and Code Arrangement</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.170   Peer Reviews"
+                href="../../5301_170.dita"
+                outputclass="subtopic"
+                props="5301.170"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.170 Peer Reviews</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5318.000</title>
+   <topicref navtitle="SUBPART 5318.000 — SCOPE OF PART"
+             href="../../SUBPART_5318a.dita"
+             outputclass="SubPart"
+             props="SUBPART 5318.000"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5318.001   Definition"
+                href="../../5318b.dita"
+                outputclass="subtopic"
+                props="5318.001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5318.001 Definition</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5318.125   Protest to GAO"
+                href="../../5318_125.dita"
+                outputclass="subtopic"
+                props="5318.125"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5318.125 Protest to GAO</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

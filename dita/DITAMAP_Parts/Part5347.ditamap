@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5347</title>
+   <topicref navtitle="PART 5350 — Extraordinary Contractual Actions and the Safety Act"
+             href="../PART_5350.dita"
+             outputclass="Part"
+             props="PART 5350"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5350.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5350.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5350.102.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5350.102</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5350.103.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5350.103</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5350.104.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5350.104</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

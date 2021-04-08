@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5346</title>
+   <topicref navtitle="PART 5349 — Termination of Contracts"
+             href="../PART_5349.dita"
+             outputclass="Part"
+             props="PART 5349"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5349.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5349.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5349.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5349.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5349.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5349.5</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5349.70.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5349.70</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

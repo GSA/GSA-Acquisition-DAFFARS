@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5322.3</title>
+   <topicref navtitle="SUBPART 5322.3 — CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE"
+             href="../../SUBPART_5322_3.dita"
+             outputclass="SubPart"
+             props="SUBPART 5322.3"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5322.302   Liquidated Damages and Overtime Pay"
+                href="../../5322_302.dita"
+                outputclass="subtopic"
+                props="5322.302"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5322.302 Liquidated Damages and Overtime Pay</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

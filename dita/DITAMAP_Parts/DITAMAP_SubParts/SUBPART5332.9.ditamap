@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5332.9</title>
+   <topicref navtitle="SUBPART 5332.9 —PROMPT PAYMENT"
+             href="../../SUBPART_5332_9.dita"
+             outputclass="SubPart"
+             props="SUBPART 5332.9"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5332.901   Applicability"
+                href="../../5332_901.dita"
+                outputclass="subtopic"
+                props="5332.901"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5332.901 Applicability</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5332.906   Making Payments"
+                href="../../5332_906.dita"
+                outputclass="subtopic"
+                props="5332.906"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5332.906 Making Payments</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

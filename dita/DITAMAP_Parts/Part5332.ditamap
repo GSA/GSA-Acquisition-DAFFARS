@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5332</title>
+   <topicref navtitle="PART 5334 — Major System Acquisition"
+             href="../PART_5334.dita"
+             outputclass="Part"
+             props="PART 5334"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref navtitle="5334.203   INTERIM CHANGE:  See Air Force Class Deviation 2018-U0001 ()."
+                href="../5334_203.dita"
+                outputclass="subtopic"
+                props="5334.203"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5334.203 INTERIM CHANGE: See Air Force Class Deviation
+                     2018...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

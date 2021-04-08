@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5337</title>
+   <topicref navtitle="PART 5339 — Acquisition of Information Technology"
+             href="../PART_5339.dita"
+             outputclass="Part"
+             props="PART 5339"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref navtitle="5339.7201-90"
+                href="../5339_7201-90.dita"
+                outputclass="subtopic"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5339.7201-90</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="PART 5340 — Reserved"
+                href="../PART_5340.dita"
+                outputclass="Part"
+                props="PART 5340"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">PART 5340 — Reserved</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

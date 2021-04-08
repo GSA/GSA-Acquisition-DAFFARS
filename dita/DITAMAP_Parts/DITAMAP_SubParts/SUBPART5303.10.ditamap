@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5303.10</title>
+   <topicref navtitle="SUBPART 5303.10 — CONTRACTOR CODE OF BUSINESS ETHICS AND CONDUCT"
+             href="../../SUBPART_5303_10.dita"
+             outputclass="SubPart"
+             props="SUBPART 5303.10"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5303.1003   Requirements"
+                href="../../5303_1003.dita"
+                outputclass="subtopic"
+                props="5303.1003"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5303.1003 Requirements</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

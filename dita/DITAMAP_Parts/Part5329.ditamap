@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5329</title>
+   <topicref navtitle="PART 5331 — Contract Cost Principles and Procedures"
+             href="../PART_5331.dita"
+             outputclass="Part"
+             props="PART 5331"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicmeta class="- map/topicmeta ">
+         <navtitle class="- topic/navtitle ">PART 5331 — Contract Cost Principles and Procedures</navtitle>
+      </topicmeta>
+   </topicref>
+</map>
