@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_403"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5301.403</ph> Individual Deviations</title>
-      <conbody class="- topic/body  concept/conbody "/>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5301_403">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5301.403</ph> Individual Deviations</title>
+      <conbody>
+         <ol>
+            <li>
+               <p>(1)(i) SCOs are authorized to approve individual deviations except as described in (ii) below or as described in DFARS 201.402(1) and DFARS 201.403(2).</p>
+            </li>
+            <li>
+               <p/>
+               <ol>
+                  <li>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                     <p/>
+                  </li>
+                  <li>
+                     <p>(ii) SAF/AQC is the approval authority for individual deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref format="pdf"
+                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/deviation_request.pdf"
+                              scope="external">Deviation Request</xref> template. Deviation requests must be submitted through the SCO to <xref format="html"
+                              href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                              scope="external">SAF/AQC</xref> for approval. This approval authority must not be further delegated. When a proposed deviation, as described herein, also requires a waiver from DFARS 215.3, DoD Source Selection Procedures, the waiver process in MP5315.3, para 1.2.4., must also be followed.</p>
+                  </li>
+                  <li>
+                     <p>(iii) INTERIM CHANGE: See Air Force Deviation 2019-U0002 (Policy Memo <xref format="pdf"
+                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-06.pdf"
+                              scope="external">19-C-06</xref>).</p>
+                  </li>
+               </ol>
+               <p/>
+               <p/>
+            </li>
+         </ol>
+      </conbody>
    </concept>
 </dita>
