@@ -22,6 +22,8 @@
             <li>
                <p>(ii) Contractors may be placed on the CRWL when their ability to successfully perform space program contracts is uncertain due to any of the following:</p>
                <p/>
+               <p/>
+               <p/>
                <ol>
                   <li>
                      <p>(A) Poor performance or award fee scores below 50%.</p>
@@ -39,20 +41,32 @@
                      <p>(D) Security or foreign ownership and control issues.</p>
                   </li>
                </ol>
+               <p/>
             </li>
             <li>
                <p>(iii) For any of the following actions on space program solicitations or contracts (See AFFARS 5302) follow the procedures at MP5309.190:</p>
+               <p/>
+               <p/>
                <ol>
                   <li>
                      <p>(A) Soliciting a sole source proposal.</p>
                   </li>
+                  <li outputclass="Normal">
+                     <p>(B) Entering into discussions (FAR <ph outputclass="FAR">15.306</ph>(d)) (or equivalent activity) or awarding a competitive contract or awarding a sole source contract.</p>
+                  </li>
+                  <li outputclass="Normal">
+                     <p>(C) Providing consent to subcontract when the subcontract is valued in excess of $3M or 5% of the prime contract value, whichever is lesser.</p>
+                  </li>
+                  <li outputclass="Normal">
+                     <p>(D) Exercising a contract option.</p>
+                  </li>
+                  <li id="p__Toc38287285" outputclass="Normal">
+                     <p>(E) Executing a contract modification resulting from an engineering change proposal.</p>
+                  </li>
                </ol>
+               <p/>
             </li>
          </ol>
-         <p align="left" outputclass="Normal">(B) Entering into discussions (FAR <ph outputclass="FAR">15.306</ph>(d)) (or equivalent activity) or awarding a competitive contract or awarding a sole source contract.</p>
-         <p align="left" outputclass="Normal">(C) Providing consent to subcontract when the subcontract is valued in excess of $3M or 5% of the prime contract value, whichever is lesser.</p>
-         <p align="left" outputclass="Normal">(D) Exercising a contract option.</p>
-         <p align="left" id="p__Toc38287285" outputclass="Normal">(E) Executing a contract modification resulting from an engineering change proposal.</p>
       </conbody>
    </concept>
 </dita>
