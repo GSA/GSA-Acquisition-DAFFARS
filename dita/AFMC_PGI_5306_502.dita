@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="changeme">
+      <title>
+         <ph props="autonumber"/>AFMC PGI 5306.502 Duties and Responsibilities</title>
+      <conbody>
+         <p>3. Appointment of the Competition and Commercial Advocate</p>
+         <p>The AFMC Competition and Commercial Advocate appoints the primary and alternate AFMC procuring activity Competition and Commercial Advocates via certificate. SCOs may nominate, for each subordinate organization designated as an AFMC procuring activity above, a primary and alternate Competition and Commercial Advocate to the AFMC Competition and Commercial Advocate by submitting to <xref format="html"
+                  href="mailto:HQAFMCPK.PKQ.Workflow@us.af.mil"
+                  scope="external">AFMC/PKQ Workflow</xref> the <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/competition_advocate_nomination.pdf"
+                  scope="external">Competition and Commercial Advocate Nomination</xref> package and including the information below:</p>
+         <ol>
+            <li>
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>(a) Candidate resume</p>
+            </li>
+            <li>
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>(b) Competition action oﬃcer contact information, if applicable</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
