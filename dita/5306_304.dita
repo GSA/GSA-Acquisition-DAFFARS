@@ -8,14 +8,16 @@
       <conbody>
          <ol>
             <li outputclass="List 1">
-               <p outputclass="List 1">(a)</p>
+               <p outputclass="List 1">INTERIM CHANGE: See <xref format="pdf"
+                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-20.pdf"
+                        scope="external">CPM 20-C-20</xref>.</p>
             </li>
          </ol>
          <table colsep="1" rowsep="1">
             <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="1031*"/>
-               <colspec colname="2" colnum="2" colwidth="1864*"/>
-               <colspec colname="3" colnum="3" colwidth="178*"/>
+               <colspec colname="1" colnum="1" colwidth="34*"/>
+               <colspec colname="2" colnum="2" colwidth="61*"/>
+               <colspec colname="3" colnum="3" colwidth="6*"/>
                <tbody>
                   <row>
                      <entry>
@@ -134,8 +136,8 @@
             </xref>.</p>
          <ol>
             <li outputclass="Normal (Web)">
-(4) Changes recommended during the staffing process must be adjudicated by the contracting officer in coordination with SAF/AQC prior to submitting the J&amp;A to the SPE for approval.
-</li>
+               <p>(4) Changes recommended during the staffing process must be adjudicated by the contracting officer in coordination with SAF/AQC prior to submitting the J&amp;A to the SPE for approval.</p>
+            </li>
             <li outputclass="List 1">
                <p outputclass="List 1">(e) <u>Prior to contract award:</u> After a J&amp;A has been approved, but prior to contract award, if the dollar value of the contract is expected to exceed the original J&amp;A approval authority, the contracting officer must submit an amended J&amp;A to the appropriate approving authority for approval. The amended J&amp;A shall identify the dollar increase from the initial, approved J&amp;A.</p>
             </li>
@@ -154,6 +156,7 @@
                      <p outputclass="List 2">(2) an increase in the estimated dollar value of in-scope work, except as described in (e) above.</p>
                   </li>
                </ol>
+               <p/>
                <p/>
             </li>
          </ol>

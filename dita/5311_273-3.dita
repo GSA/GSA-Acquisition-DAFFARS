@@ -6,9 +6,13 @@
       <title>
          <ph outputclass="topicnum" props="autonumber">5311.273-3</ph> Procedures</title>
       <conbody>
-(3) Submit determinations through the SCO to <xref format="html"
-               href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-               scope="external">SAF/AQC</xref> for HCA approval (see MP5301.601(a)(i)).
-</conbody>
+         <ol>
+            <li>
+               <p>(3) Submit determinations through the SCO to <xref format="html"
+                        href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external">SAF/AQC</xref> for HCA approval (see MP5301.601(a)(i)).</p>
+            </li>
+         </ol>
+      </conbody>
    </concept>
 </dita>
