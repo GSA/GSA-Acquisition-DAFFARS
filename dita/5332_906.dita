@@ -6,9 +6,14 @@
       <title>
          <ph outputclass="topicnum" props="autonumber">5332.906</ph> Making Payments</title>
       <conbody>
-(a) INTERIM CHANGE: See <xref format="pdf"
-               href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-               scope="external">CPM 19-C-11.</xref>
+         <ol>
+            <li>
+               <p>(a) INTERIM CHANGE: See <xref format="pdf"
+                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                        scope="external">CPM 19-C-11.</xref>
+               </p>
+            </li>
+         </ol>
       </conbody>
    </concept>
 </dita>

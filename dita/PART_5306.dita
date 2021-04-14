@@ -1,65 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="PART_5306">
       <title>
          <ph props="autonumber">PART 5306</ph> — Competition Requirements</title>
       <body>
-         <ul outputclass="TOC">
+         <p>INTERIM CHANGE: See CPM 20-C-20</p>
+         <ul otherprops="TOC">
             <li>
-               <p/>
-               <ul outputclass="TOC">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5306_2.dita#AFFARS_SUBPART_5306_2"/>
+               </p>
+               <ul otherprops="TOC">
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_202.dita#AFFARS_5306_202"/>
+                     </p>
                   </li>
                </ul>
-               <p/>
-               <p/>
             </li>
             <li>
-               <p/>
-               <ul outputclass="TOC">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5306_3.dita#AFFARS_SUBPART_5306_3"/>
+               </p>
+               <ul otherprops="TOC">
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_302-1.dita#AFFARS_5306_302_1"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_302-2.dita#AFFARS_5306_302_2"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_302-4.dita#AFFARS_5306_302_4"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_303-1.dita#AFFARS_5306_303_1"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_303-1-90.dita#AFFARS_5306_303_1_90"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_303-2.dita#AFFARS_5306_303_2"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_304.dita#AFFARS_5306_304"/>
+                     </p>
                   </li>
                </ul>
-               <p/>
-               <p/>
             </li>
             <li>
-               <p/>
-               <ul outputclass="TOC">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5306_5.dita#AFFARS_SUBPART_5306_5"/>
+               </p>
+               <ul otherprops="TOC">
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_501.dita#AFFARS_5306_501"/>
+                     </p>
                   </li>
                   <li>
-                     <p/>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5306_502.dita#AFFARS_5306_502"/>
+                     </p>
                   </li>
                </ul>
-               <p/>
-               <p/>
             </li>
          </ul>
-         <p>INTERIM CHANGE: See CPM 20-C-20</p>
       </body>
    </topic>
 </dita>

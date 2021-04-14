@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5316_601"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5316.601</ph> (d)   Limitations</title>
-      <conbody class="- topic/body  concept/conbody "/>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5316_601">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5316.601</ph> (d) Limitations</title>
+      <conbody>
+         <p>INTERIM CHANGES: See <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+                  scope="external">CPM 20-C-09</xref> and <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
+                  scope="external">CPM 20-C-10</xref>.</p>
+         <ol>
+            <li>
+               <p>(i)(A)(2) Submit the D&amp;F required pursuant to DFARS 216.601(d)(i)(A)(2) through the SCO to <xref format="html"
+                        href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                        scope="external">SAF/AQC</xref> for approval. See MP5301.601(a)(i).</p>
+               <ol>
+                  <li>
+                     <p>(3) See MP5301.601(a)(i).</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
    </concept>
 </dita>
