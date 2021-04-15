@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5301_602_2">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5301.602-2</ph> Responsibilities</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(c)(i) Legal Review</p>
+						<ol>
+							<li>
+								<p/>
+								<ol>
+									<li>
+										<p>(A) Contracting officers must obtain legal advice during all phases of acquisitions. See the tailorable <xref format="pdf"
+    												href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/legal_review.pdf"
+    												scope="external">Legal Review</xref> template. In particular, contracting officers must obtain legal advice, coordination, and review from the supporting legal office for the following situations, regardless of dollar amount:</p>
+									</li>
+								</ol>
+								<p/>
+							</li>
+						</ol>
+						<p/>
+					</li>
+					<li>
+						<p/>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2"/>
+								<p/>(1) When there is doubt or controversy about the interpretation or application of statutes, directives, and regulations; <p/>
+								<ol>
+									<li outputclass="List 2">
+										<p/>
+									</li>
+								</ol>
+								<p/>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) When using or applying unique or unusual contract provisions;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) When actions are likely to be subject to public scrutiny or receive higher-level agency attention;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(4) When a protest or claim is likely;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(5) When contemplating the use of alternative dispute resolution;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(6) Use of liquidated damages provisions in contracts for other than construction;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(7) Award fee or award term plans;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(8) Source selection decisions and supporting documentation for actions accomplished pursuant to the requirements of MP5315.3<ph>
+										<u>;</u>
+									</ph>
+								</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(9) Issues dealing with licensing, technical data rights and patents;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(10) Mistakes in bid (See FAR <ph outputclass="FAR">14.407</ph>);</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(11) Protests before and after award;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(12) Ratifications;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(13) Disputes;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(14) Contractor claims;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(15) Termination for default/cause;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(16) Terminations for convenience, except cancellations or terminations of purchase orders;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(17) Debarment or suspension actions;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(18) Individual or class deviations; and,</p>
+							</li>
+							<li>
+								<p>(19) Any other legal issue at the discretion of the contracting officer or supporting legal office.</p>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+								<ol>
+									<li>
+										<p>(B) All Justifications and Approvals (J&amp;A) requests for actions expected to exceed $700,000</p>
+									</li>
+									<li>
+										<p>(C) In addition to the general conditions identified in 5301.602-2(c)(i)(A) above, contracting officers must obtain legal review of Operational contract actions expected to exceed $500,000 and AFMC and SMC Non-Operational contract actions expected to exceed $1,000,000, as follows: INTERIM CHANGE: See <xref format="pdf"
+    												href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+    												scope="external">Policy Memo 19-C-12</xref>.</p>
+									</li>
+								</ol>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(1) Solicitations and amendments, except administrative amendments;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) Proposed contracts and modifications;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) Orders for supplies or services issued under indefinite delivery type contracts (FAR <ph outputclass="FAR">16.5</ph>), including GWACs, and Federal Supply Schedules (FSS), that require negotiation at the order level; and</p>
+							</li>
+							<li>
+								<p>(4) Orders under Blanket Purchase Agreements (BPA) established under FSS.</p>
+								<p/>
+								<p/>
+								<p/>
+								<ol>
+									<li>
+										<p>(D) Legal review is not normally required for:</p>
+									</li>
+								</ol>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+								<p/>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(1) Funding actions without any other changes;</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) Unilateral exercise of pre-priced options that were reviewed and approved at the time of award of the basic contract; or</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) Except as indicated at 5301.602-2(c)(i)(C)(3), order solicitations and orders issued against existing contracts in accordance with all terms and conditions of the basic contract.</p>
+							</li>
+						</ol>
+						<p/>
+						<p/>
+						<p/>
+					</li>
+				</ol>
+				<p outputclass="Normal">See <ph outputclass="AFMC PGI">
+						<xref format="dita"
+    							href="AFMC_PGI_5301_602_2.dita"
+    							outputclass="fm:ParaNumOnly">AFMC PGI 5301.602-2</xref>
+					</ph>(c)(i)(A) and (C).</p>
+				<p outputclass="Body Text 2">See <ph outputclass="SMC PGI">
+						<xref format="dita"
+    							href="SMC_PGI_5301_602-2.dita"
+    							outputclass="fm:ParaNumOnly">SMC PGI 5301.602-2</xref>
+					</ph>.</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(d) For Designation, Assignment, and Responsibilities of a Contracting Officer’s Representative, see <ph outputclass="MP">MP5301.602-2</ph>(d).</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

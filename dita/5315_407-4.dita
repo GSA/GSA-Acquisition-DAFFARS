@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5315_407_4"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5315.407-4</ph> Should-cost Review</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b)  <i class="+ topic/ph hi-d/i ">Program should-cost review</i>.<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4)  The contracting office organizes and manages the program should-cost review.  The team chief is responsible for the completion of the should-cost review team report.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li id="li__Toc38364944"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c)(2)(B) See MP5301.601(a)(i).<b class="+ topic/ph hi-d/b ">  </b>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

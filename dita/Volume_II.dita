@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita ditaarch:DITAArchVersion="1.2">
+		<CoverVolume id="Volume_II"
+           			ditaarch:DITAArchVersion="1.2"
+           			class="- topic/topic ">
+			<CTitle class="- topic/title ">Volume II - PGI</CTitle>
+		</CoverVolume>
+	</dita>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="AFFARS_PGI_5339">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5339</ph> — Acquisition of Information Technology</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5339.dita#AFFARS_AFMC_PGI_5339"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5339_101-90.dita#AFFARS_AFMC_PGI_5339_101_90"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

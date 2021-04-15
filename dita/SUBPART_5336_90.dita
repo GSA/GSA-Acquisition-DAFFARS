@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SUBPART_5336_90"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title outputclass="Subpart"
+     				class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">SUBPART 5336.90</ph> — CONSTRUCTION PROGRAM ADMINISTRATION</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5336_9001.dita">AF PGI 5336.9001</xref>
+					</ph>.</p>
+				<p id="p_p533692"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5336_9002.dita">AF PGI 5336.9002</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

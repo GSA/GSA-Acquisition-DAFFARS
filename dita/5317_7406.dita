@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5317_7406"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5317.7406</ph> Contract Clauses</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Contracting officers must insert the clause at AFFARS <ph outputclass="AFFARS"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="5352_217-9000.dita">5352.217-9000</xref>
+					</ph>, <i class="+ topic/ph hi-d/i ">Long Lead Limitation of Government Liability</i>, in all long-lead procurement solicitations and contracts initiated with advance procurement funds.</p>
+			</conbody>
+		</concept>
+	</dita>

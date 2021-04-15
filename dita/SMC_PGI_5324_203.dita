@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_SMC_PGI_5324_203">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">SMC PGI 5324.203</ph> Policy</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) The 61st Communications Squadron administers the Freedom of Information Act (FOIA) program for Los Angeles AFB (including SMC contracting workload accomplished at Kirtland AFB and Peterson AFB) and processes requests for SMC contract records under the provisions of the Freedom of Information Act. The Los Angeles FOIA page is located at:</p>
+					</li>
+				</ol>
+				<p outputclass="Normal">
+					<xref format="aspx"
+    						href="https://insidesmc.losangeles.af.mil/sites/61cs/services/pafoiaprogram/default.aspx"
+    						scope="external">
+						<u>https://insidesmc.losangeles.af.mil/sites/61cs/services/pafoiaprogram/default.aspx</u>
+					</xref>
+				</p>
+				<ol>
+					<li>
+						<p>(1) The FOIA requestor should not be directly contacted. All communication should go through the <xref format="html"
+    								href="https://insidesmc.losangeles.af.mil/sites/home/FOIA-PA/default.aspx"
+    								scope="external">Base FOIA Manager</xref>.</p>
+					</li>
+					<li>
+						<p>(2) Your program attorney will assist you in determining if the requested information is fully releasable, partially releasable or should be denied in total.</p>
+					</li>
+					<li>
+						<p>(3) Training: <xref format="html"
+    								href="https://insidesmc.losangeles.af.mil/sites/pk/Style%20Library/PON/modules/06-FOIA/default.aspx"
+    								scope="external">Responding to FOIA Requests Point of Need Training</xref>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

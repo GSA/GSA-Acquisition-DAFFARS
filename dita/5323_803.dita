@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5323_803"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5323.803</ph> Policy</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li id="li__Toc38365406"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a) Requiring activities must obtain approval in accordance with <xref href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi32-7086/afi32-7086.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">AFI 32-7086</u>
+							</xref>, <i class="+ topic/ph hi-d/i ">Hazardous Materials Management,</i> Chapter 3, before a specification or standard that requires the use of a class I ozone-depleting substance (ODS), or that can be met only through the use of an ODS, is authorized in any solicitation or contract/order.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

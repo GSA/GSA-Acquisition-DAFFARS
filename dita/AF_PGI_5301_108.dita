@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AF_PGI_5301_108"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AF PGI 5301.108</ph> FAR Conventions</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b)  Submit delegations to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil?subject=Delegations"
+    								scope="external"
+    								format="mailto"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
+							</xref> for inclusion in the PGI.  </p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(c) The total estimated value of an acquisition is the basis for determining the applicable dollar threshold. <ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) For competitive, multiple award acquisitions, the total estimated value is the cumulative value of all potential awards, except for A&amp;E services, BAAs, SBIRs, and STTRs, use the individual contract value;  </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)  For competitive acquisitions, the highest proposed amount in the competitive range;   </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)  For sole source acquisitions, the negotiation objective including any requested settlement range;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4)  For modifications, the sum of the absolute value of the price increase and/or decrease is the total estimated value.  For example, a price increase of $4M and decrease of $3M results in an estimated value of $7M;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5)  The total estimated value of a BPA or task and delivery order an indefinite delivery type contract is the estimated value of all future orders; and</p>
+								</li>
+								<li id="li__AF_PGI_5301.170-2"
+  									outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6)  For defective pricing actions, the DCAA Recommended Price Adjustment (RPA).</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

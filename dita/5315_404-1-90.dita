@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5315_404_1"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5315.404-1</ph> -90   Pricing Assistance or Pricing Assistance Waiver</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a)Required thresholds for requesting pricing assistance:</p>
+					</li>
+				</ol>
+				<table frame="all"
+     					rowsep="1"
+     					colsep="1"
+     					class="- topic/table ">
+					<tgroup cols="3"
+      						class="- topic/tgroup ">
+						<colspec colname="col1"
+       							colwidth="150.75pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col2"
+       							colwidth="131.25pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col3"
+       							colwidth="138.75pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<tbody class="- topic/tbody ">
+							<row class="- topic/row ">
+								<entry namest="col1"
+     									nameend="col2"
+     									valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Sole Source</b>
+									</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Competitive</b>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">PEO (Systems)</b>
+									</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">All Other</b>
+									</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">All</b>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">$25M or more</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">$10M or more</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">$100M or more</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) See <ph outputclass="MP"
+  								class="- topic/ph ">MP5315.404-1</ph>-90(b) for procedures for requesting pricing assistance.</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c) See <ph outputclass="MP"
+  								class="- topic/ph ">MP5315.404-1</ph>-90(c) for procedures for requesting a pricing assistance waiver for actions that meet or exceed the required thresholds identified in 5315.404-1-90(a). </p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFICC PGI"
+  						class="- topic/ph ">AFICC PGI 5315.404-1-90</ph>.</p>
+				<p id="p__Toc38364937"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">AFMC PGI 5315.404-1-90</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">SMC PGI 5315.404-1-90</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5303_1003"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5303.1003</ph> Requirements</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b)(2)(i) Upon receipt of the required disclosure or any notification, contracting officers, working with legal counsel, must ensure that appropriate steps are taken to preserve remedies available to the government.  Contracting officers also must consider how the disclosed information may impact pending contract actions in terms of the contractor’s present responsibility and/or the contractor’s past performance.  The contracting officer must promptly provide a copy of any disclosure or notification received to the SCO and to <xref href="mailto:usaf.pentagon.saf-gc.mbx.saf-gcr-workflow@mail.mil"
+    								scope="external"
+    								format="mailto"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">SAF/GCR</u>
+							</xref> using the procedures at 5309.406-3.</p>
+					</li>
+					<li id="li__Toc38284419"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b)(2)(ii) The Government must safeguard and treat the information obtained pursuant to a contractor’s disclosure or notification as confidential where the information has been marked as “confidential” or “proprietary” by the company.  Even if the information is not marked, the contracting officer should not publicly disclose the information without prior notification to the contractor.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

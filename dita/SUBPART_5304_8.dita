@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SUBPART_5304_8"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title outputclass="Subpart"
+     				class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">SUBPART 5304.8</ph> — GOVERNMENT CONTRACT FILES</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38364654"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5304_802.dita">SMC PGI 5304.802</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

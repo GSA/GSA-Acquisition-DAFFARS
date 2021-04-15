@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5339_7201_90"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">5339.7201-90</ph> Data Servers/Centers Approval Process</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p class="- topic/p ">Purchase Request packages for data servers/centers must include SAF/CIO A6 approval to be accepted as valid for procurement action by a contracting officer.  See <xref href="http://static.e-publishing.af.mil/production/1/saf_cio_a6/publication/afgm2018-17-02/afgm2018-17-02.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">AFGM 2018-17-02</u>
+					</xref>, <i class="+ topic/ph hi-d/i ">Air Force Enterprise Information Technology Management</i>, Section 4, paragraph 4.3.</p>
+			</conbody>
+		</concept>
+	</dita>

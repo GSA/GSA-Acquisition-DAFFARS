@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5317_204_90">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AFMC PGI 5317.204-90</ph> Contracts</title>
+			<conbody>
+				<p id="p__AFMC_PGI_5317.7404-3-90"
+ 					outputclass="Normal">Option clauses designed for contracts that include technical achievement milestones, such as first article approval, qualification test approval or other test and/or development demonstration events should use event-driven milestones for the option exercise window (e.g., completion of event XYZ or XX days after completion of event XYZ) in lieu of calendar-based dates (e.g., 15 Mar 2007).</p>
+			</conbody>
+		</concept>
+	</dita>

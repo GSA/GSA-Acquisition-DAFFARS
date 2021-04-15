@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="AFFARS_PGI_5322">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5322</ph> — Application of Labor Laws to Government Acquisitions</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SMC_PGI_5322.dita#AFFARS_SMC_PGI_5322"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5322_101-1-90.dita#AFFARS_5322_101_1_90"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

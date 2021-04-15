@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5316_203_4"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5316.203-4</ph> Contract Clauses </title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5316_203-4.dita">AF PGI 5316.203-4</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

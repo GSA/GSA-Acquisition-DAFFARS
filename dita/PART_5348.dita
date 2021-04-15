@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5348">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5348</ph> — Value Engineering</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5348_1.dita#AFFARS_SUBPART_5348_1"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5348_104-3.dita#AFFARS_5348_104_3"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AFMC_PGI_5301_9001_93"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5301.9001-93</ph> Clearance Documentation</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Files submitted for clearance review should include, at a minimum, the following documentation. The list below is not totally inclusive. </p>
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(a) Business Clearance for competitive acquisitions requesting approval to issue the solicitation:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Solicitation (and all amendments, if applicable) in chronological order</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Acquisition Plan (or other Acquisition Planning Documentation)/Acquisition Strategy (as applicable)</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) J&amp;A (if for limited sources)</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Source Selection Plan (if applicable)</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Other applicable file items of the Contract File Content Checklist (e.g., Purchase Request, determinations, synopses, Award Fee/Incentive Plan, and if services, required documentation and Services Designated Official (SDO) approvals, and SSA briefing charts if available)</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Clearance briefing charts (if required by the CAA). </p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b) Business Clearance for noncompetitive contract actions requesting approval to begin negotiations:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) J&amp;A, Fair Opportunity Exception, or Sole Source justification restricting consideration of schedule contractors (as applicable);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Acquisition Plan/Acquisition Strategy (as applicable);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) In-scope determination for modifications to existing contracts;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Request for Proposal;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Contractor proposal (or pricelists/pricing/other required documentation for orders under FSS/multiple award contract vehicles); </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Preliminary Price Negotiation Memorandum (Pre-PNM).  </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(7)  Signed technical evaluation with figures that track to both the proposal and Government objective position detailed in the Pre-PNM;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(8)  Draft award document (including proposed Section B CLIN structure and applicable clauses and special contract requirements) if available. If the contract action involves a contract modification, include a copy of the contract (conformed, if appropriate). If the action is a noncompetitive order provide the basic contract ordering vehicle (if available). If an action is awarded under a Broad Agency Announcement (BAA), include the BAA solicitation and proposal evaluation/selection for award documentation in addition to other required file documentation;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(9) Other applicable file items in the Contract File Content Checklist (e.g., Purchase Request, determinations, synopses, Award Fee/Incentive Plan, technical evaluations, audits or field pricing reports, and if services, required documentation and SDO approvals);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(10) Clearance briefing charts (if required by the CAA).</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(c) Contract Clearance for all competitive acquisitions with discussions requesting approval to request Final Proposal Revisions (FPRs):<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Contractors’ proposals (and all revisions and updates if applicable) in chronological order; </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Evaluation Notices, offerors’ responses, and government evaluation of responses;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) SSEB Initial Report;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Signed technical evaluation;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Draft determination of adequate price competition in accordance with FAR <ph outputclass="FAR"
+  											class="- topic/ph ">15.403-1</ph>(c)(1)(i) (or price evaluation documentation for orders);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Proposed request for Final Proposal Revisions;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(7) Other applicable file items in the Contract File Content Checklist (including all items required for Business Clearance, updated Award Fee/Incentive Plans, (if applicable) and if services, required documentation and SDO approvals, and SSA briefing charts, if available);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(8) Clearance briefing charts (if required by the CAA).  </p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(d) Contract Clearance for all competitive acquisitions requesting approval for the Source Selection Authority to make a source selection decision (either with or without discussions):  <ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Contractors’ proposals (and all revisions and updates if applicable) in chronological order; </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Proposed award document(s) in ready to award format;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) Signed SSEB Report (or price evaluation documentation for orders);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Signed technical evaluation;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Determination of adequate price competition in accordance with FAR <ph outputclass="FAR"
+  											class="- topic/ph ">15.403-1</ph>(c)(1)(i) (or price evaluation documentation for orders);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Other applicable file items in the Contract File Content Checklist (including all items required for Business Clearance, updated Award Fee/Incentive Plans, (if applicable) and if services, required documentation and SDO approvals, and SSA briefing charts, if available);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(7) Clearance briefing charts (if required by the CAA).  </p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(e) Contract Clearance for all noncompetitive contract actions requesting approval to award:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Proposed award document; if the contract action involves a contract modification include a copy of the contract (conformed, if appropriate). If the action is a noncompetitive order provide the basic contract ordering vehicle (if available). If an action is awarded under a BAA, include the BAA solicitation and proposal evaluation/selection for award documentation in addition to other required tab documentation;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Signed PNM that complies with FAR <ph outputclass="FAR"
+  											class="- topic/ph ">15.406-1</ph> (or price evaluation documentation for orders);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)  Signed technical evaluation with figures that track to both the proposal and Government objective position detailed in the PNM;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Other applicable file items in the Contract File Content Checklist (including all items required for Business Clearance, plus the Certificate of Current Cost or Pricing Data, audits or field pricing reports not previously included in the file (as applicable), and Congressional Notification, if applicable);</p>
+								</li>
+								<li id="li__AFMC_PGI_5301.91"
+  									outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Clearance briefing charts (if required by the CAA).  </p>
+								</li>
+							</ol>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

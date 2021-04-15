@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AFMC_PGI_5332_703"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5332.703</ph> Contract Funding Requirements</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">For release of solicitations in advance of funding availability, MAJCOM authorization for Contracting is delegated to the COCO.</p>
+			</conbody>
+		</concept>
+	</dita>

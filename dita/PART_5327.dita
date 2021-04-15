@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5327">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5327</ph> — Patents, Data, and Copyrights</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5327_2.dita#AFFARS_SUBPART_5327_2"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5327_201-2.dita#AFFARS_5327_201_2"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5327_303.dita#AFFARS_5327_303"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5327_90--F.dita#AFFARS_5327_90"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5327_9000.dita#AFFARS_5327_9000"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

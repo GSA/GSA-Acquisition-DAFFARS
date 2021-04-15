@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5336_602_3"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5336.602-3</ph> Evaluation Board Functions</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38365485"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See MP5301.601(a)(i).</p>
+			</conbody>
+		</concept>
+	</dita>

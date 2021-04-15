@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="AFFARS_PGI_5306">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5306</ph> — Competition Requirements</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AF_PGI_5306.dita#AFFARS_AF_PGI_5306"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AF_PGI_5306_302-4.dita#AFFARS_AF_PGI_5306_302_4"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5306.dita#AFFARS_AFMC_PGI_5306"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5306_304.dita#AFFARS_AFMC_PGI_5306_304"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5306_501.dita#AFFARS_AFMC_PGI_5306_501"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SMC_PGI_5306.dita#AFFARS_SMC_PGI_5306"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5306_301-90.dita#AFFARS_SMC_PGI_5306_301_90"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5306_302-2.dita#AFFARS_SMC_PGI_5306_302_2"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5306_304.dita#AFFARS_SMC_PGI_5306_304"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5306_502.dita#AFFARS_SMC_PGI_5306_502"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="USAFA_PGI_5306.dita#AFFARS_USAFA_PGI_5306"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="USAFA_PGI_5306_502.dita#AFFARS_USAFA_PGI_5306_502"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5319_505"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5319.505</ph> Rejecting Small Business Administration Recommendations</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) See MP5301.601(a)(i).</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(d)  When notified by the SBA that it has filed an appeal with the Agency Head, follow MP5319 to prepare an appeal file.  Forward the appeal file through the SCO to <xref href="mailto:usaf.pentagon.saf-sb.mbx.saf-sb-workflow@mail.mil"
+    								scope="external"
+    								format="mailto"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">SAF/SB</u>
+							</xref> (with a courtesy copy to the MAJCOM Small Business office) to arrive in SAF/SB within ten workdays after receipt of the formal appeal.</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">AFMC PGI 5319.505</ph>.</p>
+				<p id="p_p53197"
+ 					outputclass="Normal (Web)"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AFMC_PGI_5319_602-3.dita">AFMC PGI 5319.602-3</xref>
+					</ph>.</p>
+				<p id="p__Toc38293718"
+ 					outputclass="Normal (Web)"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5319_705-2.dita">AF PGI 5319.705-2</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

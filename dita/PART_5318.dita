@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5318">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5318</ph> — Emergency Acquisitions</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5318a.dita#AFFARS_SUBPART_5318_000"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5318b.dita#AFFARS_5318_001"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5318_125.dita#AFFARS_5318_125"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5318_2.dita#AFFARS_SUBPART_5318_2"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5318_201.dita#AFFARS_5318_201"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5318_202.dita#AFFARS_5318_202"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5318_270.dita#AFFARS_5318_270"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

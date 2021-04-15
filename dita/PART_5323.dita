@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5323">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5323</ph> — Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5323_3.dita#AFFARS_SUBPART_5323_3"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5323_370-4.dita#AFFARS_5323_370_4"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5323_7.dita#AFFARS_SUBPART_5323_7"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5323_703.dita#AFFARS_5323_703"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5323_8.dita#AFFARS_SUBPART_5323_8"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5323_803.dita#AFFARS_5323_803"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5323_804-90.dita#AFFARS_5323_804_90"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5323_90.dita#AFFARS_SUBPART_5323_90"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5323_9001.dita#AFFARS_5323_9001"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

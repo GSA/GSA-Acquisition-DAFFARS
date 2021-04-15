@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AF_PGI_5316_506"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AF PGI 5316.506</ph> Solicitation Provisions and Contract Clauses</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(d)(1) Include the cumulative final date for the total “effective period” of the contract in the blank at the end of FAR clause 52.216-21(f), Requirements to cover the exercise of option periods and the performance of all options included in all future orders.</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(e) Include the cumulative final date for the total “effective period” of the contract in the blank at the end of FAR clause 52.216-22(d), Indefinite Quantity to cover the exercise of option periods and the performance of all options included in all future orders.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

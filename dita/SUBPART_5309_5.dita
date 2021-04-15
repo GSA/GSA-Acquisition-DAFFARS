@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5309_5">
+			<title outputclass="Subpart">
+				<ph outputclass="topicnum"
+  					props="autonumber">SUBPART 5309.5</ph> —ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</title>
+			<conbody>
+				<p id="p__Toc38287297">See <ph outputclass="SMC PGI">
+						<xref format="dita"
+    							href="SMC_PGI_5309_5.dita"
+    							outputclass="fm:ParaNumOnly">SMC PGI 5309.5</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

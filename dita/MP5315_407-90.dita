@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_MP5315_407_90">
+			<title>
+				<ph props="autonumber">MP5315.407-90</ph> — Contract Audit Follow-up (CAFU)</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">a. <xref format="html"
+    								href="https://obamawhitehouse.archives.gov/omb/circulars_a050/"
+    								scope="external">
+								<u>Office of Management and Budget (OMB) Circular No. A-50</u>
+							</xref>, <i>Audit Follow-up;</i>
+						</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">b. <xref format="pdf?ver=2019-01-31-121535-483"
+    								href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/765003p.pdf?ver=2019-01-31-121535-483"
+    								scope="external">
+								<u>Department of Defense Instruction (DoDI) 7650.03</u>
+							</xref>, <i>Follow-up on Government Accountability Office (GAO), Inspector General of the Department of Defense (IG DoD), and Internal Audit Reports;</i> and</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">c. <xref format="pdf"
+    								href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/764002p.pdf"
+    								scope="external">
+								<u>Department of Defense Instruction (DoDI) 7640.02</u>
+							</xref>, <i>Policy for Follow-up on Contract Audit Reports.</i>
+						</p>
+					</li>
+				</ol>
+				<p outputclass="Normal (Web)">The publications above establish policy and responsibilities, reporting requirements, and follow-up procedures for contract audit reports issued by the Government Accountability Office (GAO), Inspector General of the Department of Defense (IG DoD), Defense Contract Audit Agency (DCAA), and the other internal audit agencies (such as the Air Force Audit Agency (AFAA)).</p>
+				<ol>
+					<li outputclass="">
+						<p>2. SAF/AQCP manages the Air Force CAFU program and delegates the reporting requirements of <xref format="pdf"
+    								href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+    								scope="external">DoDI 7640.02</xref> to HQ AFMC/PKF.</p>
+					</li>
+					<li outputclass="Normal (Web)">
+						<p>3.CAFU requirements for DCAA audit reports:</p>
+						<ol>
+							<li>
+								<p>(i) Designate a CAFU focal point to manage the organization’s CAFU program in accordance with these procedures. The CAFU Focal Point:</p>
+							</li>
+						</ol>
+						<p/>
+						<p/>
+					</li>
+					<li>
+						<p>a. <b>SCO RESPONSIBILITIES</b>: SCOs:</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) Monitors and ensures proper and timely resolution and disposition of contract audit reports within the focal point’s organization.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(b) Maintains current records on all reportable audits, from receipt through disposition. For open reports, this includes written milestone plans comprised, as a minimum, of target resolution and disposition dates.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(c) Ensures that acquisition personnel within their organization are properly trained in the use of contract audit reports and the requirements of the CAFU program.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(d) Ensures that the organization’s semi-annual CAFU status report is prepared in accordance with these procedures using the web-based CAFU tool and User’s manual located on the <xref format="html"
+    								href="http://www.dcma.mil/"
+    								scope="external">
+								<u>Defense Contract Management Agency (DCMA)</u>
+							</xref> website. When the security classification of a contract or an audit precludes the use of the DCMA website, SCOs must seek approval from HQ AFMC/PKF to use alternate means of reporting.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(e) Directs periodic evaluations of the organization’s CAFU program to determine whether they are adequate and result in timely, appropriate resolution and disposition of audit reports.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">b. <b>CONTRACTING OFFICER (CO) RESPONSIBILITIES</b>: The CO is responsible for reaching agreement with the contractor and has wide latitude and discretion in that regard. Accordingly, the procedure contained herein is structured in consonance with the independent, decision-making role of the CO and the financial advisory role of the contract auditor. COs should give full consideration to contract audit advice and must pursue timely and proper resolution and disposition of contract audit reports. Resolution of contract audit reports, other than pre-award reports, is required by OMB Circular A-50 to be accomplished within six months of report issuance. Disposition should take place as soon as possible after resolution. Per <xref format="pdf"
+    								href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+    								scope="external">
+								<u>DoDI 7640.02</u>
+							</xref>, Enclosure 3, Section 3.a, reportable audits should normally be disposed of within 12 months after issuance. The CO must document the disposition of all reported findings and recommendations in a signed and dated memorandum in accordance with <xref format="pdf"
+    								href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+    								scope="external">
+								<u>DoDI 7640.02</u>
+							</xref>, Enclosure 3, Section 3.b.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">c. <b>TRACKING OF AUDIT REPORTS</b>: Contracting activities must track all contract audit reports. Tracking of non-reportable audits may be accomplished using records maintained in the contract file or in the CAFU on-line system. The designated focal point at each Air Force contracting activity maintains contract audit follow-up information on a current basis. The audit tracking information will normally be managed centrally at MAJCOM/DRU headquarters (except for HQ AFMC and SMC, where this tracking will occur at the field activity). For auditor-determined final, indirect cost rate reports, a report is considered received for follow-up tracking purposes when it is forwarded by the auditor to the cognizant Administrative Contracting Officer (ACO) for resolution and disposition.</p>
+					</li>
+					<li>
+						<p>d. <b>REPORTING OF AUDIT REPORTS</b>: Reportable audits are identified in the Glossary of <xref format="pdf"
+    								href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+    								scope="external">
+								<u>DoDI 7640.02</u>
+							</xref>. The information to be reported on each audit is identified in Enclosure 4 of the same regulation. MAJCOM/DRU/SMC semi-annual status reports will be automatically transmitted using the on-line CAFU system. The reports must cover the semi-annual periods ending 31 Mar and 30 Sep and must be completed in the on-line CAFU system no later than the end of the reporting period. If there are no audits, a negative report must be prepared and submitted to HQ AFMC/PKF. All activities must make every possible effort to ensure the completeness and accuracy of their semi-annual reporting submission. Special attention should be focused on ensuring the most accurate data is submitted on any audit listed as unresolved and over 6 months old.</p>
+						<p/>
+						<p/>
+						<p/>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2">4. CAFU for GAO, IG DoD, and Internal Audit Reports<b>:</b> These procedures apply to audit reports which disclose contract pricing issues and are issued directly to the buying activity. COs shall provide:</p>
+							</li>
+						</ol>
+						<p/>
+						<p/>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">a. An initial response to the GAO/IG DoD/Internal Audit Agency within 60 days of receipt of the audit report; and</p>
+					</li>
+					<li>
+						<p>b. A copy of the initial response and the disposition documents to the following:</p>
+					</li>
+					<li>
+						<p>(i) SAF/FMPF, 1130 Air Force Pentagon, Washington, DC 20330-1130.</p>
+						<p outputclass="">(ii) SAF/AQCP, 1060 Air Force Pentagon, 4C149, Washington, DC 20330-1060.</p>
+						<p outputclass="">(iii) Office of the Inspector General, Department of Defense, Attn: DAIG, GAO Report Analysis, 4800 Mark Center Drive, Alexandria, VA 22350-1500.</p>
+						<p/>
+						<p/>
+					</li>
+				</ol>
+				<p outputclass="Normal">See <ph outputclass="AFICC PGI">
+						<xref format="dita"
+    							href="AFICC_PGI_5315_407-90.dita"
+    							outputclass="fm:ParaNumOnly">AFICC PGI 5315.407-90</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

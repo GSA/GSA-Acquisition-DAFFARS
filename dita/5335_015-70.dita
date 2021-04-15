@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5335_015_70"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5335.015-70</ph> Special Use Allowances for Research Facilities Acquired by Educational      Institutions</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c)  See MP5301.601(a)(i).</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(d)(3)(ii)  See MP5301.601(a)(i).</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFICC PGI"
+  						class="- topic/ph ">AFICC PGI 5335.015-70</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5335_017-3.dita">SMC PGI 5335.017-3</xref>
+					</ph>.</p>
+				<p id="p__Toc38365471"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5335_017-90.dita">SMC PGI 5335.017-90</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SUBPART_5306_3"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title outputclass="Subpart"
+     				class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">SUBPART 5306.3</ph> — OTHER THAN FULL AND OPEN COMPETITION</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38364616"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">SMC PGI 5306.301</ph>
+				</p>
+			</conbody>
+		</concept>
+	</dita>

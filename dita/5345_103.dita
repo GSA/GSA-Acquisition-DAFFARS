@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5345_103"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5345.103</ph> General</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38365530"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">AF PGI 5345.103-70-90</ph>. </p>
+			</conbody>
+		</concept>
+	</dita>

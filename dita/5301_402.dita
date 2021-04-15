@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5301_402">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5301.402</ph> Policy</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(2) Submit requests for deviations requiring USD(A&amp;S)/DPC approval through the SCO to <xref format="html"
+    								href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+    								scope="external">SAF/AQC</xref> for processing. See the tailorable <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/deviation_request.pdf"
+    								scope="external">Deviation Request</xref> template.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

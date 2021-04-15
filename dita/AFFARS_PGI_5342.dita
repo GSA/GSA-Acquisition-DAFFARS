@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="AFFARS_PGI_5342">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5342</ph> — Contract Administration and Audit Services</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AF_PGI_5342.dita#AFFARS_AF_PGI_5342"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AF_PGI_5342_202.dita#AFFARS_AF_PGI_5342_202"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5342.dita#AFFARS_AFMC_PGI_5342"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5342_1503-90.dita#AFFARS_AFMC_PGI_5342_1503_90"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SMC_PGI_5342.dita#AFFARS_SMC_PGI_5342"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5342_503-1.dita#AFFARS_5342_503_1"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

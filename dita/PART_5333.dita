@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5333">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5333</ph> — Protests, Disputes, and Appeals</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5333_1.dita#AFFARS_SUBPART_5333_1"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_102.dita#AFFARS_5333_102"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_103.dita#AFFARS_5333_103"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_104.dita#AFFARS_5333_104"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_105.dita#AFFARS_5333_105"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_170.dita#AFFARS_5333_170"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5333_2.dita#AFFARS_SUBPART_5333_2"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_211.dita#AFFARS_5333_211"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_214.dita#AFFARS_5333_214"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_215.dita#AFFARS_5333_215"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_290.dita#AFFARS_5333_290"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_291.dita#AFFARS_5333_291"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5333_292.dita#AFFARS_5333_292"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

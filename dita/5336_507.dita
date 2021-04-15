@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5336_507"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5336.507</ph> Permits and Responsibilities</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38365482"
+ 					outputclass="Normal"
+ 					class="- topic/p ">When the clause at FAR <ph outputclass="FAR"
+  						class="- topic/ph ">52.236-7</ph>, Permits and Responsibilities, is used in solicitations and contracts OCONUS, the clause must be modified to reflect “host government and political subdivisions” in lieu of “Federal, State, and Municipal.”</p>
+			</conbody>
+		</concept>
+	</dita>

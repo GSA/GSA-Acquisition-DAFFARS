@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5307_104_90"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5307.104-90</ph> Solicitation Release</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a)  For ACAT programs, see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">AFI 63-101/20-101</u>
+							</xref> (paragraph 4.3.1) and <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430"
+    								scope="external"
+    								format="pdf?ver=2017-08-11-170656-430"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">DoDI 5000.02</u>
+							</xref>. </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b)  For all other acquisitions, the contracting officer must not release the solicitation until the approval official has approved the Acquisition Plan (AP) or Streamlined Acquisition Strategy Summary (SASS) unless the acquisition is being conducted pursuant to the authority of FAR <ph outputclass="FAR"
+  								class="- topic/ph ">6.302-2</ph>, unusual and compelling urgency.</p>
+					</li>
+					<li id="li__Toc38287062"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c)  For acquisitions utilizing policies and procedures in accordance with FAR <ph outputclass="FAR"
+  								class="- topic/ph ">15.3</ph>, see FAR <ph outputclass="FAR"
+  								class="- topic/ph ">15.303</ph> and the <xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">DoD Source Selection Procedures</u>
+							</xref>.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

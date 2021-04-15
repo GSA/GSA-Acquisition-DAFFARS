@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AFMC_PGI_5304_100_90"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5304.100-90</ph> Contract Level Time Metrics</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__AFMC_PGI_5304.101-90"
+ 					outputclass="Normal"
+ 					class="- topic/p ">Center PKs should establish lead time metrics consistent with mission requirements.  Center PKs should measure performance against these metrics at least on an annual basis taking the appropriate steps to ensure continuous improvements in lead times.</p>
+			</conbody>
+		</concept>
+	</dita>

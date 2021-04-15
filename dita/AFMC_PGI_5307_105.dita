@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AFMC_PGI_5307_105"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5307.105</ph> Contents of Written APs</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li id="li__AFMC_PGI_5307.107-2"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a) If the format of the AP Template is substantively tailored (i.e., ASP Charts are used for AP), the associated documentation should address at a minimum, all applicable AP content requirements prescribed by FAR and Supplements.  </p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

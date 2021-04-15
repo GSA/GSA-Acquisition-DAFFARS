@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_MP5332_470">
+			<title>
+				<ph props="autonumber">MP5332.470</ph> — Advance Payment Pool</title>
+			<conbody>
+				<p outputclass="Normal">Advance payment requests must be processed as follows:</p>
+				<ol>
+					<li>(1) The responsible contracting officer must compile the advance payment request package in accordance with FAR 32.4 and DFARS 232.4 and submit it to the SCO for coordination. The SCO must submit the request through <xref format="html"
+    							href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    							scope="external">SAF/AQC</xref> workflow. SAF/AQC forwards the package to <xref format="html"
+    							href="mailto:usaf.pentagon.saf-fm.mbx.saf-fmpa-audit-liaison@mail.mil"
+    							scope="external">SAF/FMPA</xref> for review and approval. AFRCO and SpRCO will submit the request directly to the DAS(C)/ADAS(C), as appropriate.</li>
+					<li>(2) SAF/FMPA will evaluate the request to determine if advance payments are justified. Assistance may be solicited from other sources such as contracting officers, auditors, disbursing officers, and, if necessary, field visits to the contractor or institution. For nonprofit educational or research institutions, SAF/FMPA will determine if approved advance payments will be disbursed from an advance payment pool in accordance with DFARS 232.470. When approved, SAF/FMPA will forward the findings, determinations, and authorization for advance payments and/or the advance payment pool agreement to the responsible contracting officer. The contracting officer must ensure all applicable advance payment clauses are incorporated into each contract. The clause at DFARS 252.232-7000, Advance Payment Pool, must be incorporated into each contract that is covered by the agreement.</li>
+					<li outputclass="Normal">
+						<p>(3) The Air Force accounting and finance office is responsible for the disbursing functions of the advance payment pool agreement.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

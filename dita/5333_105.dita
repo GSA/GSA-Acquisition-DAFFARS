@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5333_105">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5333.105</ph> Protests to the United States Court of Federal Claims (COFC)</title>
+			<conbody>
+				<p outputclass="Normal">The Air Force Commercial Litigation Field Support Center (<xref format="html"
+    						href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+    						scope="external">AF/JACQ</xref>) serves as the Air Force agency counsel to the Department of Justice (DoJ) for protests at the COFC and assists the assigned DoJ attorney in defending Air Force interests. The contracting officer must inform <xref format="html"
+    						href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+    						scope="external">AF/JACQ</xref> of any notice of protest at the COFC and provide support as requested by AF/JACQ. Also notify the SCO and the supporting field legal office.</p>
+			</conbody>
+		</concept>
+	</dita>

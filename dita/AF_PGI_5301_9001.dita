@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AF_PGI_5301_9001"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AF PGI 5301.9001</ph> (b)   Clearance:  Multi-Functional Independent Review Teams</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<b class="+ topic/ph hi-d/b ">1. Objective.  </b>The use of<b class="+ topic/ph hi-d/b "> </b>multi-functional independent review teams (MIRT) is considered a best practice for high dollar value or complex competitive acquisitions.  MIRTs conduct independent reviews to ensure the quality and effectiveness of the competitive contracting process, and may facilitate cross-sharing of best practices and lessons learned.  The MIRT operates in an advisory capacity in its assessment of the acquisition approach employed, and the consistency and sufficiency of the source selection team products.</p>
+					</li>
+					<li id="li__Ref58383052"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<b class="+ topic/ph hi-d/b ">2. </b>
+							<b class="+ topic/ph hi-d/b ">Guidelines.</b>
+							<b class="+ topic/ph hi-d/b ">  </b>To promote an understanding of the MIRT process and to ensure the process is value added, the CAA and SSA should establish the rules of engagement for the MIRT (e.g., how many reviews are planned, the expected duration of each review, and what is required to close MIRT comments prior to the CAA granting clearance, as well as the relationship between the clearance process and source selection process events).</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">
+							<b class="+ topic/ph hi-d/b ">3. Typical MIRT Process.</b>
+							<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">3.1.</b> The CAA should establish an independent and objective process, tailored to the needs of the acquisition, employing cross-functional subject matter experts (SME) with source selection experience and knowledge of current source selection procedures. The CAA should ensure that the established review process encourages frank and open discussion among MIRT members concerning their observations and recommendations.</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">3.2. </b>For maximum benefit, MIRTs should be formed at the beginning of an acquisition with membership agreed to by the CAA. When the DAS(C) or ADAS(C) is the CAA, the SCO may appoint the MIRT and interact with the SSA as needed.  Recommended team members include the Technical/Requirements Activity, Legal, Contracting, Finance/Cost, Small Business, and participants from other specialized areas as needed.  A member from the SAF/AQCP Field Support Team may be requested to participate on MIRTs when DAS(C) or ADAS(C) is the CAA or on a case-by-case basis.  Submit requests for SAF/AQCP participation to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil?subject=MIRT%20Support%20Request"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
+										</xref>.  To promote consistency, the same MIRT members should participate in each critical decision point review for the duration of the acquisition unless otherwise agreed to by the CAA. To prevent bias, MIRT members should not be members of the source selection team.  The use of contractors on a MIRT is discouraged.  </p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<b class="+ topic/ph hi-d/b ">4. Critical Decision Points (CDP).</b>  The CAA and SSA typically determine the CDPs, or other focus areas, to be reviewed by the MIRT for each acquisition.  The CDPs below are examples of opportunities for MIRT activity.  CDPs 1 and 2 would occur prior to the request for Business Clearance, and CDPs 3, 4 and 5 would occur prior to request for Contract Clearance.  </p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">CDP#1:</b>  Review draft ASP Brief or review of draft Acquisition Plan (AP). (Includes review of requirements documents, results of market research and risk assessment, and incentive structure, as applicable.) </p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">CDP#2:</b>  Review Sections L and M of the Request for Proposal (RFP). (Includes review of Source Selection Plan, requirements documents, and other portions of the solicitation, as necessary, to ensure executable evaluation criteria.)</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">CDP#3:</b>  Review draft Initial Evaluation/Competitive Range Brief or review of draft Award without Discussions Brief.  (Review of these draft briefs includes review of supporting documentation and evaluation notices or interim ratings, etc.)</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">CDP#4:</b>  Review draft Final Proposal Revision (FPR) Request. (Review of this draft brief includes review of pre-FPR brief including interim ratings after discussions, etc.)</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">CDP#5:</b>  Review draft Source Selection Decision briefing. (Review of this draft brief includes review of the Source Selection Evaluation Board Report, Source Selection Advisory Council Comparative Analysis Report and Award Recommendation, etc.)</p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<b class="+ topic/ph hi-d/b ">5.  MIRT Work Product.</b>  The MIRT typically out briefs the source selection team at the conclusion of each MIRT review conducted, and an assessment to the CAA on the state of the acquisition.  The MIRT assessment and contracting officer disposition of MIRT comments/recommendations may be included with the applicable Business and Contract Clearance requests at the CAA’s discretion.  Contracting officers should advise the CAA of any unresolved MIRT comments.  The SSA should be provided a copy of MIRT reports for their information and use as appropriate.  </p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

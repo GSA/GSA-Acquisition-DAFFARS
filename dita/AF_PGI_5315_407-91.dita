@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_AF_PGI_5315_407_91"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AF PGI 5315.407-91</ph> Formula Pricing Agreements (FPA)</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(a) An FPA is any pricing agreement with a contractor that identifies the categories of purchases to be covered (e.g., F-l00 replenishment spares) and:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Establishes the pricing methodology for more than one future contract action; and/or,</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Establishes a pricing methodology for corporate contracts and strategic sourcing agreements; and/or,</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) Specifies the direct cost inputs and the rates and/or factors to be applied to identified bases plus profit or fee.</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) FPAs are not Forward Pricing Rate Agreements (FPRA).  An FPRA is usually limited to an agreement on individual rates or factors (including Cost Estimating Relationships (CER)), applies to items not specified in the agreement, and is required to be used by all buying activities.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) A contracting officer may consider establishing FPAs in order to reduce administrative costs and lead times associated with negotiation of large numbers of contract actions for items that can be identified or described in the agreement. FPAs typically are established only with contractors under Government in-plant contract administration cognizance and having a resident DCAA auditor. Contracting offices contemplating an FPA with a contractor without in-plant administration and/or DCAA representation, should do so only if they have the staffing/capability to administer the FPA themselves. Use of an FPA does not exempt proposals from TINA or other applicable laws or regulations.</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(c) Content and Structure of FPAs.  All FPAs should:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Be in writing and signed by the contracting officer and an authorized representative of the contractor;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Cover no cost elements that would require discrete estimating and analysis;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) Identify all rates and factors that are a part of the FPA. An FPA may reference FPRA(s), as long as it prescribes the effect and treatment of any changes in the FPRA(s);</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Establish terms and conditions covering application of the agreement, its expiration date, and any data requirements for systematic monitoring (e.g., provisions for review of actual cost data) to ensure its continuing validity;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Provide for cancellation at the option of either party;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Require the contractor to notify the contracting officer and the cognizant contract auditor of any significant change in its estimating/accounting system or the cost or pricing data and describe the impact on the FPA;</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(7) Require the contractor to identify in each specific pricing proposal where the agreement is used:<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i) The FPA and the date of the latest certification of cost or pricing data supporting it; and,</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii) Any items in the proposal that are not priced under the agreement;</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(8) Indicate that the FPA should not be used if the contractor’s purchasing, estimating or accounting systems are disapproved by the Government;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(9) Allow for the contracting officer, or designated representative, to perform detailed cost or price analysis on random samples of proposed items and/or items that have unit prices that are significantly higher than previous buys;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(10) Be supported by certified cost or pricing data (see FAR <ph outputclass="FAR"
+  											class="- topic/ph ">15.403-4</ph>) and a signed Certificate of Current Cost or Pricing Data that is submitted when agreement on the FPA is reached (and annually thereafter);</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(11) Provide that contractual documents for items priced using the FPA, include:<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i) The statement at FAR <ph outputclass="FAR"
+  														class="- topic/ph ">52.215-10</ph>, Price Reduction for Defective Certified Cost or Pricing Data; and,</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii) A clause incorporating the FPA by reference.</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(12) Be based on a pricing methodology that ensures that unit prices are in proportion to the item’s base cost (see FAR <ph outputclass="FAR"
+  											class="- topic/ph ">15.404-1</ph>(f)) and that prices may be adjusted, if it is found that:<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i) Cost or pricing data supporting the FPA were not accurate, current or complete; or,</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii) The price was developed through incorrect application of the FPA.</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(d) Contracting office responsibilities, as appropriate: <ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Establish appropriate approval levels for FPAs;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Maintain a list of FPAs that identifies each company and the group of items covered under each FPA;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) Conduct periodic reviews of FPAs and contract actions priced using FPAs; and,</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Establish agreements with appropriate contract administration offices to provide field pricing support, negotiation support, and administrative support of Air Force FPAs.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(e) Contracting officer responsibilities, as appropriate:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1) Obtain field pricing support, including contract audit and technical reviews, in the evaluation and negotiation of FPAs;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Prepare a price negotiation memorandum covering the pricing factors used in each FPA, including a discussion on how profit or fee was calculated [using <xref href="https://www.wgl.wpafb.af.mil/wgl/Default.asp"
+    											scope="external"
+    											format="asp"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">Weighted Guidelines</u>
+										</xref> or an alternate structured approach];</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3) Semi-annually request (through the ACO) the DCAA resident auditor to determine if the contractor is complying with FPA procedures;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Annually review each FPA to determine its validity by evaluating recorded cost data, and renegotiate the FPA if appropriate;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5) Determine the effect changed conditions may have on the FPA’s validity. Cancel an FPA when appropriate and notify all interested parties;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6) Do not use a cancelled FPA;</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(7) Conduct an evaluation of each proposal under an FPA in order to ensure that the FPA applies to the items and to determine the reasonableness of discrete cost inputs and any non-covered costs (e.g., nonrecurring costs);<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i) Compare proposed prices with prior prices, Government estimates, and purchase request estimates to ensure reasonableness, as use of an FPA does not relieve the CO of the responsibility to ensure that the price is fair and reasonable;</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii) Conduct detailed cost analysis on random samples of proposed items and/or items that have unit prices that are significantly higher than previous buys; and, (iii) Ensure that individual contract actions priced using the FPA comply with the terms of the FPA.</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(f) Contractors could have FPAs, or similar agreements, with other Air Force activities and/or non-Air Force activities. COs may consider using these agreements, but should take care to ensure that the FPA to be used addresses all aspects of their acquisition situation.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

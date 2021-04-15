@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SMC_PGI_5304_802"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5304.802</ph> Contract Files  </title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__SMC_PGI_5304.803"
+ 					outputclass="Normal"
+ 					class="- topic/p ">Programmatic, contract negotiation, and contract management decisions all rely on information contained in the contract itself, as do contract clearances and other reviews. Therefore, a current and accurate conformed contract is important to have readily available as a basis for sound decision-making, not only to the contracting office but also to the entire program team and staff review team.  Although contracting officers are ultimately responsible, all members of the acquisition team should take an active role in maintaining the contract file and ensuring the conformed contract is up to date.  As a helpful companion to the conformed contract, contracting officers may wish to keep a log (using a spreadsheet with line items for each modification is a good choice) of summary-level statistics such as contract value and funded levels (overall and by CLIN, cumulative and by modification, and broken out by component such as cost, award fee, fixed fee, etc.), accounting classification reference number (ACRN), periods of performance, option exercise dates, etc.</p>
+			</conbody>
+		</concept>
+	</dita>

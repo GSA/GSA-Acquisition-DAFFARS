@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_MP5303_104_5"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">MP5303.104-5</ph> Disqualification</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b)  In addition to the parties identified at FAR <ph outputclass="FAR"
+  								class="- topic/ph ">3.104-5</ph>(b), if the source selection authority is the MAJCOM/FOA/DRU/CC or CD, the disqualification notice must be coordinated through the MAJCOM/FOA/DRU JA and the SCO.  The notice must include the items at FAR <ph outputclass="FAR"
+  								class="- topic/ph ">3.104-5</ph>(b) and the following:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  Name of requestor</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)  Current position/job title</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)  Projected retirement date</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4)  Impact on program/unit mission if disqualification is granted</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5)  Proposed replacement individual for official acquisition duties</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(6)  Commander/Director recommendation<ol class="- topic/ol ">
+											<li id="li__Toc38365618"
+  												outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i) The contracting officer, after consultation with the parties identified in paragraph (b) of this MP, will notify the individual if he or she is disqualified.  The individual will remain disqualified unless resumption of participation in the procurement is granted in accordance with paragraph (c) of FAR <ph outputclass="FAR"
+  														class="- topic/ph ">3.104-5</ph>.  </p>
+											</li>
+										</ol>
+									</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

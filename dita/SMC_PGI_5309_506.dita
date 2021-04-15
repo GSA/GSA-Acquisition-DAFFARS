@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SMC_PGI_5309_506"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5309.506</ph> Procedures</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">See the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/sample_OCI_solicitation_instructions.docx"
+    						scope="external"
+    						format="docx"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">Sample Solicitation Instructions Regarding Organizational Conflicts of Interest</u>
+					</xref> for recommended solicitation instructions requiring offerors to perform an OCI analysis as part of their proposals.</p>
+			</conbody>
+		</concept>
+	</dita>

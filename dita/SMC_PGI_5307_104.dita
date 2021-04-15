@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SMC_PGI_5307_104"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5307.104</ph> General Procedures</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li id="li__SMC_PGI_5307.104-92"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c)  For other than full and open competitive acquisitions, all acquisition strategy documents (e.g., Acquisition Plans, and Streamlined Acquisition Strategy Summaries above the SAT) should be coordinated with the Competition Advocate unless one of the exceptions at AFFARS <ph outputclass="AFFARS"
+  								class="- topic/ph ">
+								<xref outputclass="fm:ParaNumOnly"
+    									format="dita"
+    									class="- topic/xref "
+    									href="5307_104-92.dita">5307.104-92</xref>
+							</ph>(b)(2) applies.  </p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

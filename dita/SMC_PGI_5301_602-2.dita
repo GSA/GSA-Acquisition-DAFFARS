@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_SMC_PGI_5301_602_2">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">SMC PGI 5301.602-2</ph> Responsibilities</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(c)(i) Legal Review [See SMC <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMC_class_deviation_legal_review.pdf"
+    								scope="external">
+								<u>Class Deviation – Legal Review</u>
+							</xref>, dated 01 Oct 19]</p>
+						<ol>
+							<li>
+								<p>(A) Program attorneys should use the following terminology when documenting legal review:</p>
+								<ol>
+									<li>
+										<p>(1) Legally sufficient</p>
+									</li>
+									<li>
+										<p>(2) Legally sufficient, subject to [insert comments]</p>
+									</li>
+									<li>
+										<p>(3) Legally insufficient [insert rationale]</p>
+									</li>
+									<li>
+										<p>(4) Coordination withheld [insert rationale]</p>
+									</li>
+									<li>
+										<p>(5) Other comments/administrative comments</p>
+									</li>
+									<li>
+										<p>(6) If the legal reviewer has not clearly labeled the review using the terminology above, or you do not agree with the categorization of the comments, politely challenge the reviewer. If you cannot resolve the issue with the reviewer, elevate it through leadership chain quickly so that it does not linger and delay your action.</p>
+									</li>
+								</ol>
+								<p/>
+							</li>
+						</ol>
+						<p/>
+					</li>
+					<li>
+						<p>(ii) Other Reviews.</p>
+						<ol>
+							<li>
+								<p>(A) Contracting officers obtain Committee and Pricing reviews as directed by regulation, the COCO, or SMC/PK.</p>
+							</li>
+							<li>
+								<p>(B) Legal, committee, and pricing reviews may be done in parallel.</p>
+							</li>
+							<li>
+								<p>(C) Contracting officers may, in coordination with reviewers, decide the appropriate method for submitting review requests if done outside the <xref format="html"
+    										href="https://insidesmc.losangeles.af.mil/sites/pk/div/pkc/requests/Lists/committee/AllItems.aspx"
+    										scope="external">Review Request</xref> application.</p>
+								<ol>
+									<li>
+										<p>(1) Contracting officers may provide a link to the Livelink or SharePoint file in the “Program Description” field of the review request form. Contracting officers are responsible for ensuring that the electronic files are named and organized in such a fashion that can easily be understood and accessed by the reviewer. Files that are not clearly named or well-organized may be returned without review.</p>
+									</li>
+									<li>
+										<p>(2) If documents are sensitive (e.g., source selection information) and the contracting officer does not want to upload them to Livelink or SharePoint, the contracting officer provides alternate instructions for access to the documentation in the “Program Description” field of the review request form. Note: The Buyer and PCO Library site is maintained by the SMC/PK Advisory and Assistance Services contractor.</p>
+									</li>
+								</ol>
+								<p/>
+							</li>
+							<li>
+								<p>(D) The contracting officer should consider, for final documentation purposes, addressing each review comment and include rationale for partially accepted or rejected comments. Contracting officers are highly encouraged to discuss with the reviewer any critical and substantive comments that are partially accepted or rejected. These comments should also be discussed during the clearance review, if applicable.</p>
+							</li>
+							<li>
+								<p>(E) In determining what constitutes a complete file for review, contracting professionals should:</p>
+								<ol>
+									<li>
+										<p>(1) Review the Contract File Content Index. Determine what documentation can be completed at this time. If there is enough information to generate the documentation at this point in the process, the documentation should be in the file.</p>
+									</li>
+									<li>
+										<p>(2) Consider adding a note to the review request form or in the contract file explaining any missing documentation. While it is the expectation that files submitted for review be complete (based on what is appropriate for the current milestone), there are times when it may be necessary or in the best interest of the acquisition to proceed with a less than complete file. If the reviewer knows that you made a conscious decision to proceed without a complete file, this note gives them the opportunity to consider your rationale and make a more informed recommendation to you and the CAA. It may avoid the impression that you have been sloppy in your work. And, it may reduce the amount of comments that need to be written and adjudicated.</p>
+									</li>
+								</ol>
+								<p/>
+							</li>
+							<li>
+								<p>(F) Build the acquisition schedule with sufficient time for review. SMC/PKC and SMC/JAQ have each established an internal review goal of 3 business days for most reviews. However, large files (e.g., draft RFPs) or matters requiring substantial research and analysis may take longer, so plan accordingly. You can expedite the review process by:</p>
+								<ol>
+									<li>
+										<p>(1) Providing a complete, well-researched, well-documented, and well-organized file. Files that are incomplete, poorly researched or poorly documented, or unorganized may delay the review and result in additional or duplicative work on the part of the contracting officer. The review window does not start until the file is complete so it is imperative to deliver a complete file up-front.</p>
+									</li>
+									<li>
+										<p>(2) Involving your reviewers throughout the planning and execution of the action. When reviewers are familiar with the action, it is easier for them to review the file and they can often complete their reviews faster.</p>
+									</li>
+									<li>
+										<p>(3) Looking at your file through the eyes of the reviewer who has not been as intimately involved in the action as you. Are there areas that might require a little more explanation?</p>
+									</li>
+									<li>
+										<p>(4) Engaging reviewers early where there is an issue of doubt or controversy. Offer to walk the reviewer through the file briefly so that you can explain any areas that might be unusual, confusing, or controversial.</p>
+									</li>
+									<li>
+										<p>(5) Contracting officers should carefully consider the appropriateness of parallel review for certain actions. There may be cases where it would be more beneficial to use a serial review approach to minimize the total number of comments to adjudicate or avoid other unnecessary confusion or rework.</p>
+									</li>
+									<li>
+										<p>(6) Requesting that your reviewers, including legal, get together to deconflict their comments before providing them to the contracting officer or buyer. In a parallel review process, it is highly likely that you may receive conflicting advice from your reviewers. It may be beneficial to have the reviewers go over their comments together with the intent of trying to resolve disagreements before you go through each set of comments individually.</p>
+									</li>
+									<li>
+										<p>(7) Providing timely and complete adjudications of review comments. In most cases, your reviewer is performing a review not only to provide you advice and guidance but also to provide recommendations to leadership such as SMC/PK, DAS(C), or ADAS(C). In order to provide those recommendations and to avoid prolonging coordination or approval timelines, the reviewer needs to clearly understand how you adjudicated their comments. Do not simply respond “Noted”. Label your responses as accept, partially accept, or reject. Provide revised documents when appropriate to illustrate how you adjudicated comments. For partially accepted or rejected comments, explain what actions you took and provide your rationale. When partially accepting or rejecting a comment, discuss your adjudications with your COCO and reviewer before you finalize your response. It is perfectly okay to disagree with your reviewer. However, both you and the reviewer should be prepared to represent your points of view before leadership so they can make decisions regarding coordination or approval.</p>
+									</li>
+								</ol>
+								<p/>
+							</li>
+							<li>
+								<p>(G) For hard copies, fasten each official document into the contract file as soon as it is received to prevent misplacement or loss of documentation. For soft copies, upload documents immediately. Use file structures and names that facilitate a quick review by someone unfamiliar with your file and move draft or old versions of documents to an archive file or simply delete them.</p>
+							</li>
+							<li>
+								<p>(H) Arrange file contents chronologically by date under each tab, with the most recent piece of data on top or at the beginning of an electronic list.</p>
+							</li>
+							<li>
+								<p>(I) The contracting officer conducts a preliminary review of the file before submitting it for review. Most elementary mistakes can be filtered out by a thorough management review. Such reviews decrease the staff review timeline and result in fewer substantive comments. Great care and deliberation should be exercised in documenting the file, preparing the contractual document, and reviewing the adequacy and quality of both.</p>
+							</li>
+							<li>
+								<p>(J) See <xref format="html"
+    										href="https://insidesmc.losangeles.af.mil/sites/pk/div/pkc/Pages/OrgChart_POC.aspx"
+    										scope="external">PKC POC Finder</xref> and <xref format="html"
+    										href="https://insidesmc.losangeles.af.mil/sites/pk/div/pkf/default.aspx"
+    										scope="external">PKF POC Finder</xref> for current listing of SMC/PKC and SMC/PKF reviewer assignments. Consult your COCO or the current SMC/JAQ Chief for the list of program attorney assignments.</p>
+							</li>
+						</ol>
+						<p/>
+					</li>
+				</ol>
+				<p/>
+				<p/>
+			</conbody>
+		</concept>
+	</dita>

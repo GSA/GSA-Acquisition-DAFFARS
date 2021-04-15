@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<topic id="PART_5316">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5316</ph> — Types of Contracts</title>
+			<body>
+				<p outputclass="Normal"
+ 					class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+					</xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
+					</xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
+					</xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 20-C-10</u>
+					</xref>
+				</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5316_101.dita">AF PGI 5316.101</xref>
+					</ph>.</p>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="topic_207.dita#AFFARS_REPLACE_TEXT"/>
+						</p>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="5316_103.dita#AFFARS_5316_103"/>
+						</p>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="5316_104.dita#AFFARS_5316_104"/>
+						</p>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_203.dita#AFFARS_SUBPART_5316_203"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_203-4.dita#AFFARS_5316_203_4"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_206-3.dita#AFFARS_5316_206_3"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_3.dita#AFFARS_SUBPART_5316_3"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_301-3.dita#AFFARS_5316_301_3"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_4.dita#AFFARS_SUBPART_5316_4"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_401.dita#AFFARS_5316_401"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_404.dita#AFFARS_5316_404"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_405-2.dita#AFFARS_5316_405_2"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_5.dita#AFFARS_SUBPART_5316_5"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_503.dita#AFFARS_5316_503"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_504.dita#AFFARS_5316_504"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_505.dita#AFFARS_5316_505"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_505-90.dita#AFFARS_5316_505_90"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5316_6.dita#AFFARS_SUBPART_5316_6"/>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_601_d.dita#AFFARS_5316_601"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_603-2.dita#AFFARS_5316_603_2"/>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5316_603-3.dita#AFFARS_5316_603_3"/>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

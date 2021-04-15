@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SMC_PGI_5301_170"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5301.170</ph> Peer Reviews</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__SMC_PGI_5301.304"
+ 					outputclass="Normal"
+ 					class="- topic/p ">Transmittal of Peer Review Request and Applicable Documents. The contracting officer is responsible for submitting requests for Peer Review in accordance with the procedures in DFARS <ph outputclass="DFARS"
+  						class="- topic/ph ">201.170</ph>(a) and AFFARS <ph outputclass="AFFARS"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="5301_170.dita">5301.170</xref>
+					</ph>(a). For situational awareness, the contracting officer should copy the Pricing Reviewer, the Committee Reviewer and the COCO on the request for Peer Review. Documentation prepared for clearance review is ordinarily sufficient for the Peer Review. Prior to submitting Peer Review documentation to SAF/AQC and OUSD(A&amp;S)/DPC, obtain clearance review in accordance with the procedures in  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5301_9001.dita">SMC PGI 5301.9001</xref>
+					</ph>. The contracting officer should share the Peer Review comments and disposition with the Pricing Reviewer and Committee Reviewer to provide insight into Peer Review results and facilitate sharing of lessons learned.  </p>
+			</conbody>
+		</concept>
+	</dita>

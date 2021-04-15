@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SMC_PGI_5304_804"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5304.804</ph> Closeout of Contract Files</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__SMC_PGI_5304.1601"
+ 					outputclass="Normal"
+ 					class="- topic/p ">SMC/PKX is the focal point for contract closeout of all actions awarded in ConWrite. Each COCO is responsible for assigning a contract closeout point of contact and alternate to work with SMC/PKX to accomplish timely closeout of contract files. </p>
+			</conbody>
+		</concept>
+	</dita>

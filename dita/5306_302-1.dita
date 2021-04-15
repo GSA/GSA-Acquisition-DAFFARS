@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5306_302_1"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5306.302-1</ph> Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a)(2)(i)<i class="+ topic/ph hi-d/i ">(1)</i>
+							<i class="+ topic/ph hi-d/i "> </i>See MP5301.601(a)(i).</p>
+					</li>
+					<li id="li__Toc38364617"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(d)  See MP5301.601(a)(i).</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

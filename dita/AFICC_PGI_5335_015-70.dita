@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AAFICC_PGI_5335_015_70">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AAFICC PGI <ph outputclass="AFICC PGI">5335.015-70</ph>
+				</ph> Special Use Allowances for Research Facilities Acquired by Educational Institutions</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(d)(6) Contracts providing for a special use allowance for the acquisition or construction of research facilities may specify:</p>
+						<ol>
+							<li>
+								<p>(i) Plans, specifications, and major changes thereto shall be subject to approval by the Government; and,</p>
+							</li>
+							<li>
+								<p>(ii) The work shall be subject to the approval by the Government for conformity to the approved plans and specifications.</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+				<p/>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_SUBPART_5315_2"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title outputclass="Subpart"
+     				class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">SUBPART 5315.2</ph> — SOLICITATION AND RECEIPT OF PROPOSALS AND INFORMATION</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p class="- topic/p "> See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5315_203.dita">SMC PGI 5315.203</xref>
+					</ph>.</p>
+				<p id="p_p5315209"
+ 					outputclass="Normal"
+ 					class="- topic/p "> See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AFMC_PGI_5315_207.dita">AFMC PGI 5315.207</xref>
+					</ph>.</p>
+				<p id="p__Toc351650562"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5315_209-90.dita">AF PGI 5315.209-90</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

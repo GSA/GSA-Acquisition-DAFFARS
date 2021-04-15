@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xtrc="NoAutoListNumber"  >
+		<concept id="AFFARS_5301_603_3"
+       			xml:lang="en-US"
+       			class="- topic/topic concept/concept " >
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5301.603-3</ph> Appointment</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b)  Issuing authorities identified in <xref outputclass="fm:ParaNumOnly"
+    								class="- topic/xref "
+    								base="DFARS_5301_603_1"
+    								href="5301_603-1.dita#AFFARS_5301_603_1">5301.603-1</xref> above may delegate the purchase authority described in FAR <ph outputclass="FAR"
+  								class="- topic/ph ">1.603-3</ph>(b) and DFARS <ph outputclass="DFARS"
+  								class="- topic/ph ">201.603-3</ph>(b), to non-contracting DoD civilian employees and members of the U.S. Armed Forces, such as transportation personnel, medical supply personnel, librarians, and chiefs of construction management, provided: <ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  The written delegation specifies a dollar limit per transaction (e.g., per order, per call); the method(s) of award; and the supplies, equipment and/or non-personal services, to include construction, related to the individual’s specialty that may be procured.  For example, librarians may buy books, but not construction materials or services; and, </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)  Personnel have completed contracting training commensurate with the type of instrument(s) authorized to process and level of responsibility delegated.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFICC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AFICC_PGI_5301_603-2.dita">AFICC PGI 5301.603-2</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AFMC_PGI_5301_603_90.dita">AFMC PGI 5301.603-90</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5301_603-90.dita">SMC PGI 5301.603-90</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

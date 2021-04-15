@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5323_370_4">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5323.370-4</ph> Procedures</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(1) Preaward phase.</p>
+						<ol>
+							<li>
+								<p>(i)(A)(2) See MP5301.601(a)(i).</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>
