@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5323</title>
+   <topicref navtitle="PART 5325 — Foreign Acquisition"
+             href="../PART_5325.dita"
+             outputclass="Part"
+             props="PART 5325"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5325.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.6.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.6</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.10.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.10</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.70.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.70</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.73.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.73</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5325.75.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5325.75</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

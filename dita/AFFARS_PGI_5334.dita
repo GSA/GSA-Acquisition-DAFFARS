@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PGI_5334">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5334</ph> — Major System Acquisition</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5334.dita#AFFARS_SMC_PGI_5334">SMC PGI 5334
+          — Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5334_2.dita#AFFARS_SMC_PGI_5334_2">SMC PGI 5334.2
+          – Earned Value Management System (EVMS)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5334_203.dita#AFFARS_SMC_PGI_5334_203">SMC PGI 5334.203
+          – Solicitation provision and contract clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

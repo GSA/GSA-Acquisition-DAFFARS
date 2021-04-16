@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5309</title>
+   <topicref navtitle="PART 5309 — Contractor Qualifications"
+             href="../PART_5309.dita"
+             outputclass="Part"
+             props="PART 5309"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5309.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5309.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5309.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5309.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5309.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5309.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="SUBPART 5309.5—ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST"
+                href="../SUBPART_5309_5.dita"
+                outputclass="subtopic"
+                props="5309.5"
+                base="concept"
+                class="- map/topicref ">
+         <topicref navtitle="5309.503   Waiver"
+                   href="../../5309_503.dita"
+                   outputclass="subtopic"
+                   props="5309.503"
+                   base="concept"
+                   class="- map/topicref ">
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">5309.503 Waiver</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref navtitle="5309.504   Contracting Officer Responsibilities"
+                   href="../../5309_504.dita"
+                   outputclass="subtopic"
+                   props="5309.504"
+                   base="concept"
+                   class="- map/topicref ">
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">5309.504 Contracting Officer Responsibilities</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref navtitle="5309.507-2   Solicitation Provisions and Contract Clause   "
+                   href="../../5309_507-2.dita"
+                   outputclass="subtopic"
+                   props="5309.507-2"
+                   base="concept"
+                   class="- map/topicref ">
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">5309.507-2 Solicitation Provisions and Contract Clause</navtitle>
+            </topicmeta>
+         </topicref>
+         <topicref navtitle="5309.571-7   Systems Engineering and Technical Assistance Contracts"
+                   href="../../5309_571-7.dita"
+                   outputclass="subtopic"
+                   props="5309.571-7"
+                   base="concept"
+                   class="- map/topicref ">
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">5309.571-7 Systems Engineering and Technical Assistance
+                        Con...</navtitle>
+            </topicmeta>
+         </topicref>
+      </topicref>
+   </topicref>
+</map>

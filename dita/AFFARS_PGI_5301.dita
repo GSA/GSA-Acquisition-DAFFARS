@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PGI_5301">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5301</ph> — Federal Acquisition Regulations System</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5301.dita#AFFARS_AF_PGI_5301">AF PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5301_108.dita#AFFARS_AF_PGI_5301_108">AF PGI 5301.108
+          FAR Conventions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5301_170-2.dita#AFFARS_AF_PGI_5301_170_2">AF PGI 5301.170-2
+          Pre-award Peer Reviews</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5301_170-3.dita#AFFARS_AF_PGI_5301_170_3">AF PGI 5301.170-3
+          Post-award Peer Reviews of Service Contracts </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5301_170-4.dita#AFFARS_AF_PGI_5301_170_4">AF PGI 5301.170-4
+          Administration of Peer Reviews</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5301_602-3-90.dita#AFFARS_AF_PGI_5301_602_3">AF PGI 5301.602-3
+          -90   Procedure for Processing Ratifications of Unauthorized Commitments</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5301_9001.dita#AFFARS_AF_PGI_5301_9001">AF PGI 5301.9001
+          (b)   Clearance:  Multi-Functional Independent Review Teams</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5301_91.dita#AFFARS_AF_PGI_5301_91">AF PGI 5301.91
+          Ombudsman Program</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFDW_PGI_5301.dita#AFFARS_AFDW_PGI_5301">AFDW PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFDW_PGI_5301_603-1.dita#AFFARS_AFDW_PGI_5301_603_1">AFDW PGI 5301.603-1
+          General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFDW_PGI_5301_90.dita#AFFARS_AFDW_PGI_5301_90">AFDW PGI 5301.90
+          Clearance</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5301.dita#AFFARS_AFICC_PGI_5301">AFICC PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_1.dita#AFFARS_AFICC_PGI_5301_1">AFICC PGI 5301.1
+          Applicability</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_170.dita#AFFARS_AFICC_PGI_5301_170">AFICC PGI 5301.170
+          Peer Reviews</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_404-92.dita#AFFARS_AFICC_PGI_5301_404_92">AFICC PGI 5301.404-92
+          Class Deviations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_601-91.dita#AFFARS_AFICC_PGI_5301_601_91">AFICC PGI 5301.601-91
+          Air Force Contracting Self-Inspection System</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_603-2.dita#AFFARS_AFICC_PGI_5301_603_2">AFICC PGI 5301.603-2
+          Selection</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_90.dita#AFFARS_AFICC_PGI_5301_90">AFICC PGI 5301.90
+          Clearance</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_9001.dita#AFFARS_AFICC_PGI_5301_9001">AFICC PGI 5301.9001 Air Force Installation Contracting Center Clearance Delegations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5301_9102.dita#AFFARS_AFICC_PGI_5301_9102">AFICC PGI 5301.9102
+          Ombudsman</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5301.dita#AFFARS_AFMC_PGI_5301">AFMC PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_290.dita#AFFARS_AFMC_PGI_5301_290">AFMC PGI 5301.290 
+         Designation of Subject Matter Experts (SME)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_601a.dita#AFFARS_AFMC_PGI_5301_601a">AFMC PGI 5301.601
+          (a)(i)HCA Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_601b.dita#AFFARS_AFMC_PGI_5301_601b">AFMC PGI 5301.601
+          (a)(i)(A)(S-91)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_601_90.dita#AFFARS_AFMC_PGI_5301_601_90">AFMC PGI 5301.601-90
+          Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_601_91.dita#AFFARS_AFMC_PGI_5301_601_91">AFMC PGI 5301.601-91
+          Air Force Contracting Compliance Inspection Program</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_602_2.dita#AFFARS_AFMC_PGI_5301_602_2">AFMC PGI 5301.602-2
+          Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_603_90.dita#AFFARS_AFMC_PGI_5301_603_90">AFMC PGI 5301.603-90
+          Selection, Appointment, and Termination of Appointment of Contracting Officers</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_90.dita#AFFARS_AFMC_PGI_5301_90">AFMC PGI 5301.90 Clearance</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_9001.dita#AFFARS_AFMC_PGI_5301_9001">AFMC PGI 5301.9001
+          Clearance Delegations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_9001a.dita#AFFARS_AFMC_PGI_5301_9001a">AFMC PGI 5301.9001 Policy, Thresholds, and Approvals</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_9001_92.dita#AFFARS_AFMC_PGI_5301_9001_92">AFMC PGI 5301.9001-92
+          Clearance Request </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_9001_93.dita#AFFARS_AFMC_PGI_5301_9001_93">AFMC PGI 5301.9001-93
+          Clearance Documentation</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5301_91.dita#AFFARS_AFMC_PGI_5301_91">AFMC PGI 5301.91
+          Ombudsman Program </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5301_9102a.dita#AFFARS_AFMC_PGI_5301_9102">AFMC PGI 5301.9102 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5301.dita#AFFARS_SMC_PGI_5301">SMC PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_170.dita#AFFARS_SMC_PGI_5301_170">SMC PGI 5301.170
+          Peer Reviews</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_304.dita#AFFARS_SMC_PGI_5301_304">SMC PGI 5301.304
+          Agency Control and Compliance Procedures </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_601.dita#AFFARS_SMC_PGI_5301_601">SMC PGI 5301.601
+          (a)(i)(A)   HCA Matrix</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="SMC_PGI_5301_602-2.dita#AFFARS_SMC_PGI_5301_602_2">SMC PGI 5301.602-2 Responsibilities</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_603-90.dita#AFFARS_SMC_PGI_5301_603_90">SMC PGI 5301.603-90
+          Selection, Appointment, and Termination of Appointment for Contracting Officers </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_9000.dita#AFFARS_SMC_PGI_5301_9000">SMC PGI 5301.9000
+          Scope and Definitions  </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_9001.dita#AFFARS_SMC_PGI_5301_9001">SMC PGI 5301.9001 Policy, Thresholds, and Approvals</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5301_91.dita#AFFARS_SMC_PGI_5301_91">SMC PGI 5301.91
+          Ombudsman Program</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5301_9103.dita#AFFARS_SMC_PGI_5301_9103">SMC PGI 5301.9103
+          Solicitation Provision and Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="USAFA_PGI_5301.dita#AFFARS_USAFA_PGI_5301">USAFA PGI 5301
+          — Federal Acquisition Regulations System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5301_601.dita#AFFARS_USAFA_PGI_5301_601">USAFA PGI 5301.601
+          (a)(i)(A)   HCA Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5301_603-1.dita#AFFARS_USAFA_PGI_5301_603_1">USAFA PGI 5301.603-1
+          General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5301_90.dita#AFFARS_USAFA_PGI_5301_90">USAFA PGI 5301.90
+          Clearance</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5301_9102.dita#AFFARS_USAFA_PGI_5301_9102">USAFA PGI 5301.9102
+          (a)   Ombudsman Program</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_USAFA_PGI_5307_104_92"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">USAFA PGI 5307.104-92
+         </ph> Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a)(6) See the USAFA SDO assignments for ASPs for Services in  <ph outputclass="USAFA PGI" class="- topic/ph ">
+                     <xref outputclass="fm:ParaNumOnly"
+                           format="dita"
+                           class="- topic/xref "
+                           href="USAFA_PGI_5337_503-90.dita">USAFA PGI 5337.503-90</xref>
+                  </ph>.   For ASPs for Supplies, the USAFA SCO delegates ASP Authority (Supplies) to the COCO for actions &lt; $10M.</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b)(1)  The USAFA SCO delegates Acquisition Plan Approval Authority (Services) to the COCO for actions &lt; $10M.  Contracting Officers should refer to the USAFA/PK authorities and delegations site concerning specific COCO designations, delegations and authorities at <xref href="https://cs2.eis.af.mil/sites/13093/PP/USAFA_PK/_layouts/15/start.aspx"
+                        scope="external"
+                        format="aspx"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">https://cs2.eis.af.mil/sites/13093/PP/USAFA_PK/_layouts/15/start.aspx#/SitePages/Home.aspx</u>
+                  </xref> .</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

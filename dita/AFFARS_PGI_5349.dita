@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PGI_5349">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5349</ph> — Termination of Contracts</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5349.dita#AFFARS_AF_PGI_5349">AF PGI 5349
+          — Termination of Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5349_101.dita#AFFARS_AF_PGI_5349_101">AF PGI 5349.101
+          Authorities and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5349.dita#AFFARS_SMC_PGI_5349">SMC PGI 5349
+          — Termination of Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5349_101.dita#AFFARS_SMC_PGI_5349_101">SMC PGI 5349.101
+          Authorities and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="USAFA_PGI_5349.dita#AFFARS_USAFA_PGI_5349">USAFA PGI 5349
+          — Termination of Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5349_101.dita#AFFARS_USAFA_PGI_5349_101">USAFA PGI 5349.101
+          Authorities and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

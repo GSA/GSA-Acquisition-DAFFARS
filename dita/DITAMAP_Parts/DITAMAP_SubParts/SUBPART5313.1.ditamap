@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5313.1</title>
+   <topicref navtitle="SUBPART 5313.1 — PROCEDURES"
+             href="../../SUBPART_5313_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5313.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5313.106-1   Soliciting from a Single Source"
+                href="../../5313_106-1.dita"
+                outputclass="subtopic"
+                props="5313.106-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5313.106-1 Soliciting from a Single Source</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5313.106-3   Award and Documentation"
+                href="../../5313_106-3.dita"
+                outputclass="subtopic"
+                props="5313.106-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5313.106-3 Award and Documentation</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

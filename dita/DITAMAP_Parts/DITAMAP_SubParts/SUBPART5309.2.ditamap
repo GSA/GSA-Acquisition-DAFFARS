@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5309.2</title>
+   <topicref navtitle="SUBPART 5309.2 — QUALIFICATION REQUIREMENTS"
+             href="../../SUBPART_5309_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5309.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5309.202   Policy"
+                href="../../5309_202.dita"
+                outputclass="subtopic"
+                props="5309.202"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.202 Policy</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.206-1   General"
+                href="../../5309_206-1.dita"
+                outputclass="subtopic"
+                props="5309.206-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.206-1 General</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.270-3   Policy"
+                href="../../5309_270-3.dita"
+                outputclass="subtopic"
+                props="5309.270-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.270-3 Policy</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

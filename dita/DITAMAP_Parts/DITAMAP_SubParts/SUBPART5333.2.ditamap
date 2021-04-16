@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5333.2</title>
+   <topicref navtitle="SUBPART 5333.2 — DISPUTES AND APPEALS"
+             href="../../SUBPART_5333_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5333.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5333.211   Contracting Officers Decision"
+                href="../../5333_211.dita"
+                outputclass="subtopic"
+                props="5333.211"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.211 Contracting Officers Decision</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5333.214   Alternate Dispute Resolution (ADR)"
+                href="../../5333_214.dita"
+                outputclass="subtopic"
+                props="5333.214"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.214 Alternate Dispute Resolution (ADR)</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5333.215   Contract Clause"
+                href="../../5333_215.dita"
+                outputclass="subtopic"
+                props="5333.215"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.215 Contract Clause</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5333.290   Claims and Terminations for Default"
+                href="../../5333_290.dita"
+                outputclass="subtopic"
+                props="5333.290"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.290 Claims and Terminations for Default</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5333.291   Appeals to the Armed Services Board of Contract Appeals (ASBCA)"
+                href="../../5333_291.dita"
+                outputclass="subtopic"
+                props="5333.291"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.291 Appeals to the Armed Services Board of Contract
+                        Ap...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5333.292   Appeals to the United States Court of Federal Claims (COFC)"
+                href="../../5333_292.dita"
+                outputclass="subtopic"
+                props="5333.292"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5333.292 Appeals to the United States Court of Federal
+                        Clai...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

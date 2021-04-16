@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5309.4</title>
+   <topicref navtitle="SUBPART 5309.4 — DEBARMENT, SUSPENSION, AND INELIGIBILITY"
+             href="../../SUBPART_5309_4.dita"
+             outputclass="SubPart"
+             props="SUBPART 5309.4"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5309.405   Effect of Listing"
+                href="../../5309_405.dita"
+                outputclass="subtopic"
+                props="5309.405"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.405 Effect of Listing</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.405-1   Continuation of Current Contracts"
+                href="../../5309_405-1.dita"
+                outputclass="subtopic"
+                props="5309.405-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.405-1 Continuation of Current Contracts</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.405-2   Restrictions on Subcontracting"
+                href="../../5309_405-2.dita"
+                outputclass="subtopic"
+                props="5309.405-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.405-2 Restrictions on Subcontracting</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.406-3   Procedures"
+                href="../../5309_406-3.dita"
+                outputclass="subtopic"
+                props="5309.406-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.406-3 Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5309.407-3   Procedures"
+                href="../../5309_407-3.dita"
+                outputclass="subtopic"
+                props="5309.407-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5309.407-3 Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

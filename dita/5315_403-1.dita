@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5315_403_1">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data (<ph>
+            <u>
+               <xref format="html"
+                     href="http://www4.law.cornell.edu/uscode/10/2306a.html"
+                     scope="external">10 U.S.C. 2306a</xref>
+            </u> and <xref format="html"
+                  href="http://www.law.cornell.edu/uscode/text/41/subtitle-I/division-C/chapter-35"
+                  scope="external">
+               <u>41 U.S.C., Chapter 35</u>
+            </xref>
+         </ph>
+      </title>
+      <conbody>
+         <ol>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(b) See MP5301.601(a)(i).</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(c) <i>Standards for exceptions from certified cost or pricing data requirements.</i>
+               </p>
+            </li>
+         </ol>
+         <p outputclass="Normal (Web)">INTERIM CHANGE: See <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-12.pdf"
+                  scope="external">
+               <u>Policy Memo 20-C-12</u>
+            </xref>
+            <ph>
+               <u>.</u>
+            </ph>
+         </p>
+         <ol>
+            <li>
+               <p>(3) Commercial Items.</p>
+               <ol>
+                  <li>
+                     <p>(B)(1) Report Content. The SCO must consolidate and submit the information as outlined in DFARS PGI 215.403-1(c)(3)(B)(1),or submit a negative report for their organization, to HQ AFMC/PKF no later than 15 October each year. HQ AFMC/PKF must consolidate all of the SCO reports and submit a final report to <xref format="html"
+                              href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                              scope="external">SAF/AQCP</xref> no later than 8 November each year. SAF/AQCP will submit the annual report, Commercial Item Exceptions to TINA Requirements, to OUSD(A&amp;S)/DPC).</p>
+                  </li>
+               </ol>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+            </li>
+            <li>
+               <p>(4) Waivers.</p>
+               <ol>
+                  <li>
+                     <p>(A) Exceptional case TINA waiver. Submit the request for an exceptional case TINA waiver through the SCO to <xref format="html"
+                              href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                              scope="external">SAF/AQC</xref> for HCA approval (see MP5301.601(a)(i)). When the waiver is for a subcontractor who has refused to provide cost or pricing data to a prime contractor, the information required must cover both the prime contract and the subcontract. Contracting officers must submit a copy of all signed TINA waivers to HQ AFMC/PKF within 30 days of signature by the HCA. Submit the request for OUSD(A&amp;S)/DPC approval to use the exceptional circumstances waiver pursuant to Class Deviation 2019-O0008, Section 890 Pilot Program to Accelerate Contracting and Pricing Processes, to SAF/AQC with the Subject: “AFFARS 5315.403-1(c)(4)(A) – Section 890 Pilot Program to Accelerate Contracting and Pricing Processes.”</p>
+                  </li>
+               </ol>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+               <p/>
+            </li>
+            <li>
+               <p>(B) The SCO must consolidate and submit the information as outlined in <xref format="html"
+                        href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/dfars/PGI%20215_4.htm#P37_1697"
+                        scope="external">DFARS PGI 215.403-1(c)(4)(B)</xref>, or submit a negative report for their organization, to HQ AFMC/PKF no later than 15 October each year. HQ AFMC/PKF must consolidate all of the SCO reports and submit a final report to <xref format="html"
+                        href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                        scope="external">SAF/AQCP</xref> no later than 8 November each year. SAF/AQCP will submit the annual report, Waiver of TINA Requirements, to OUSD(A&amp;S)/DPC. AFRCO will provide the information directly to the DAS(C)/ADAS(C), as appropriate.</p>
+            </li>
+         </ol>
+         <p outputclass="Normal">See <ph outputclass="AFICC PGI">
+               <xref format="dita"
+                     href="AFICC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C__Chapter_35.dita"
+                     outputclass="fm:ParaNumOnly">AFICC PGI 5315.403-1</xref>
+            </ph>.</p>
+         <p id="p__Toc38364934" outputclass="Normal (Web)">See <ph outputclass="AFMC PGI">
+               <xref format="dita"
+                     href="AFMC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C_,_Chapter_35.dita"
+                     outputclass="fm:ParaNumOnly">AFMC PGI 5315.403-1</xref>
+            </ph>.</p>
+      </conbody>
+   </concept>
+</dita>

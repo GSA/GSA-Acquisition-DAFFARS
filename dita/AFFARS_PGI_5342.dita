@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PGI_5342">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5342</ph> — Contract Administration and Audit Services</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5342.dita#AFFARS_AF_PGI_5342">AF PGI 5342
+          — Contracting Administration and Audit Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5342_202.dita#AFFARS_AF_PGI_5342_202">AF PGI 5342.202
+          Assignment of Contract Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5342.dita#AFFARS_AFMC_PGI_5342">AFMC PGI 5342
+          — Contract Administration and Audit Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5342_1503-90.dita#AFFARS_AFMC_PGI_5342_1503_90">AFMC PGI 5342.1503-90
+          Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5342.dita#AFFARS_SMC_PGI_5342">SMC PGI 5342
+          — Contract Administration and Audit Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5342_503-1.dita#AFFARS_5342_503_1">5342.503-1 Postaward Conference Arrangements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

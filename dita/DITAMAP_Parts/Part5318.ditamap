@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5318</title>
+   <topicref navtitle="PART 5318 — Emergency Acquisitions"
+             href="../PART_5318.dita"
+             outputclass="Part"
+             props="PART 5318"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5318.000.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5318.000</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5318.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5318.2</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

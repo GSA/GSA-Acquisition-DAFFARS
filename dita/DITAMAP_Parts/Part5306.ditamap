@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5306</title>
+   <topicref navtitle="PART 5306 — Competition Requirements"
+             href="../PART_5306.dita"
+             outputclass="Part"
+             props="PART 5306"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5306.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5306.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5306.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5306.3</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5306.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5306.5</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5310</title>
+   <topicref navtitle="PART 5310 — Market Research"
+             href="../PART_5310.dita"
+             outputclass="Part"
+             props="PART 5310"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref navtitle="5310.002   Procedures"
+                href="../5310_002.dita"
+                outputclass="subtopic"
+                props="5310.002"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5310.002 Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

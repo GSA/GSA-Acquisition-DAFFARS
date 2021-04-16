@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5314</title>
+   <topicref navtitle="PART 5314 — Sealed Bidding"
+             href="../PART_5314.dita"
+             outputclass="Part"
+             props="PART 5314"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5314.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5314.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5314.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5314.4</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

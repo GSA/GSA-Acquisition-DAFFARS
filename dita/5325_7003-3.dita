@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5325_7003_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5325.7003-3</ph> Exceptions</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b)  When the contracting officer determines, through market research, that a specialty metal melted or produced in the United States or its possessions cannot be procured in satisfactory quality and sufficient quantity, and in the required form, as and when needed, submit a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_03.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">DNAD</u>
+                  </xref>.  The DNAD must be submitted through the SCO to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+                  </xref> for approval by the Secretary of the Air Force (nondelegable).  </p>
+            </li>
+            <li id="li_add1" outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)  When a contractor or offeror submits a “Commercial Derivative Military Article-Specialty Metals Compliance Certificate” (DFARS <ph outputclass="DFARS" class="- topic/ph ">252.225-7010</ph>) for streamlined compliance for Commercial Derivative Military Articles (CDMA), the Secretary of the Air Force must determine that the item is a CDMA as defined at DFARS <ph outputclass="DFARS" class="- topic/ph ">252.225-7009</ph> before using the rules for streamlined compliance for CDMA.  The contracting officer must follow the procedures in DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7003-3</ph> and submit the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_01.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">CDMA D&amp;F</u>
+                  </xref> through the SCO to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+                  </xref> for approval by the Secretary of the Air Force (nondelegable).  See <ph outputclass="MP" class="- topic/ph ">
+                     <xref outputclass="fm:ParaNumOnly"
+                           format="dita"
+                           class="- topic/xref "
+                           href="MP5325_7003-3.dita">MP5325.7003-3</xref>
+                  </ph>.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

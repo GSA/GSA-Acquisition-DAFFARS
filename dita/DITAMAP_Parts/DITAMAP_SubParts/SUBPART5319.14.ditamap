@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5319.14</title>
+   <topicref navtitle="SUBPART 5319.14 — SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM"
+             href="../../SUBPART_5319_14.dita"
+             outputclass="SubPart"
+             props="SUBPART 5319.14"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5319.1405   Service-disabled Veteran-owned Small Business Set-aside Procedures"
+                href="../../5319_1405.dita"
+                outputclass="subtopic"
+                props="5319.1405"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5319.1405 Service-disabled Veteran-owned Small Business
+                        Set...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

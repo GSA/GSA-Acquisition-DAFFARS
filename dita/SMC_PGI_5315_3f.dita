@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_SMC_PGI_5315_3f"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5315.3
+         </ph> (2.1.2.3)   Draft Request for Proposals (RFP)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__SMC_PGI_5315.3_7" outputclass="Normal" class="- topic/p ">Release of a draft RFP (DRFP) is strongly suggested for all competitive acquisitions.  When issued in a near-final state, the DRFP offers an opportunity for industry to provide meaningful feedback on the requirements and model contract that can be considered by the acquisition team prior to the start of a source selection, possibly saving time by reducing the need for solicitation amendments.  It also allows for a more open dialog with industry partners in advance of the source selection, when interaction is much more structured.  Finally, it allows offerors to begin developing proposals in advance of the final RFP release, allowing the PCO to provide for a shorter window of time between final RFP release and proposal receipt.  Note, however, that if the draft RFP is substantially different from the final RFP, the PCO may need provide additional time for offerors to adjust their proposals.  </p>
+      </conbody>
+   </concept>
+</dita>

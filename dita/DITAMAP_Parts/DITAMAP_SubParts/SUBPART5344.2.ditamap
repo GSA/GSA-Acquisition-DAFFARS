@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5344. 2</title>
+   <topicref navtitle="SUBPART 5344.2 -  CONSENT TOSUBCONTRACT"
+             href="../../SUBPART_5344_2.dita"
+             outputclass="SubPart"
+             type="concept"
+             props="SUBPART 5344. 2"
+             base="concept"
+             class="- map/topicref ">
+      <topicmeta class="- map/topicmeta ">
+         <navtitle class="- topic/navtitle ">SUBPART 5344. 2 — CONSENT TO SUBCONTRACT</navtitle>
+      </topicmeta>
+      <topicref navtitle="5344.201-1   Consent requirements"
+                href="../../5344_201-1.dita"
+                outputclass="subtopic"
+                props="5344.201-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5344.201-1 Consent requirements</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5344.202-1   Responsibilities"
+                href="../../5344_202-1.dita"
+                outputclass="subtopic"
+                props="5344.202-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5344.202-1 Responsibilities</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5344.202-2   Considerations"
+                href="../../5344_202-2.dita"
+                outputclass="subtopic"
+                props="5344.202-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5344.202-2 Considerations</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

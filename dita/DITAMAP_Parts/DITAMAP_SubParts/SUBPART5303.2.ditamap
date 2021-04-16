@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5303.2</title>
+   <topicref navtitle="SUBPART 5303.2 — CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
+             href="../../SUBPART_5303_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5303.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5303.202   Contract Clause     INTERIM CHANGE:  See "
+                href="../../5303_202.dita"
+                outputclass="subtopic"
+                props="5303.202"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5303.202 Contract Clause INTERIM CHANGE: See</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5303.204   Treatment of Violations"
+                href="../../5303_204.dita"
+                outputclass="subtopic"
+                props="5303.204"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5303.204 Treatment of Violations</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

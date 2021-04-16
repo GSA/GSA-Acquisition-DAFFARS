@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5319.15</title>
+   <topicref navtitle="SUBPART 5319.15 — WOMEN-OWNED SMALL BUSINESS PROGRAM"
+             href="../../SUBPART_5319_15.dita"
+             outputclass="SubPart"
+             props="SUBPART 5319.15"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5319.1505   Set-aside Procedures"
+                href="../../5319_1505.dita"
+                outputclass="subtopic"
+                props="5319.1505"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5319.1505 Set-aside Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

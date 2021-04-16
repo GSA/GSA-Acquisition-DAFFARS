@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5328</title>
+   <topicref navtitle="PART 5330 — Cost Accounting Standards Administration"
+             href="../PART_5330.dita"
+             outputclass="Part"
+             props="PART 5330"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref navtitle="5330.201-5   Waivers"
+                href="../5330_201-5.dita"
+                outputclass="subtopic"
+                props="5330.201-5"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5330.201-5 Waivers</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5317_7404_5"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5317.7404-5</ph> Exceptions</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b)  The authority to grant waivers to the limitations set out in DFARS <ph outputclass="DFARS" class="- topic/ph ">217.7404</ph>(a),  217.7404-2, 217.7404-3, and 217.7404-4 pursuant to DFARS <ph outputclass="DFARS" class="- topic/ph ">217.7404-5</ph> (b) is retained by the DAS(C) or ADAS(C) and is not redelegable.  Submit requests for waivers through <ph class="- topic/ph ">
+                     <u class="+ topic/ph hi-d/u ">the SCO </u>
+                  </ph>to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+                  </xref>
+                  <ph class="- topic/ph ">
+                     <u class="+ topic/ph hi-d/u "> </u>
+                  </ph> for approval.</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">CPM 19-C-11.</u>
+                  </xref>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

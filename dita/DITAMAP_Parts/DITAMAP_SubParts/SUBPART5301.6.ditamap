@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5301.6</title>
+   <topicref navtitle="SUBPART 5301.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES"
+             href="../../SUBPART_5301_6.dita"
+             outputclass="SubPart"
+             props="SUBPART 5301.6"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5301.601   General"
+                href="../../5301_601.dita"
+                outputclass="subtopic"
+                props="5301.601"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.601 General</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.601-90   Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities"
+                href="../../5301_601-90.dita"
+                outputclass="subtopic"
+                props="5301.601-90"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.601-90 Head of Agency (HoA), Senior Procurement
+                        Execut...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.601-91   Air Force Contracting Self-Inspection Program"
+                href="../../5301_601-91.dita"
+                outputclass="subtopic"
+                props="5301.601-91"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.601-91 Air Force Contracting Self-Inspection Program</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.602-1   Authority"
+                href="../../5301_602-1.dita"
+                outputclass="subtopic"
+                props="5301.602-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.602-1 Authority</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.602-2   Responsibilities"
+                href="../../5301_602-2.dita"
+                outputclass="subtopic"
+                props="5301.602-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.602-2 Responsibilities</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.602-3   Ratification of Unauthorized Commitments"
+                href="../../5301_602-3.dita"
+                outputclass="subtopic"
+                props="5301.602-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.602-3 Ratification of Unauthorized Commitments</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.603-1   General"
+                href="../../5301_603-1.dita"
+                outputclass="subtopic"
+                props="5301.603-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.603-1 General</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.603-2-90   Selection"
+                href="../../5301_603-2-90.dita"
+                outputclass="subtopic"
+                props="5301.603-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.603-2-90 Selection</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.603-3   Appointment"
+                href="../../5301_603-3.dita"
+                outputclass="subtopic"
+                props="5301.603-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.603-3 Appointment</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5301.670   Appointment of Property Administrators and Plant Clearance Officers"
+                href="../../5301_670.dita"
+                outputclass="subtopic"
+                props="5301.670"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5301.670 Appointment of Property Administrators and Plant
+                        C...</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

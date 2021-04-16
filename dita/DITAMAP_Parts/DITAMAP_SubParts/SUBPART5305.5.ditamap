@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5305.5</title>
+   <topicref navtitle="SUBPART 5305.5 — PAID ADVERTISEMENTS"
+             href="../../SUBPART_5305_5.dita"
+             outputclass="SubPart"
+             props="SUBPART 5305.5"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5305.502   Authority"
+                href="../../5305_502.dita"
+                outputclass="subtopic"
+                props="5305.502"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.502 Authority</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

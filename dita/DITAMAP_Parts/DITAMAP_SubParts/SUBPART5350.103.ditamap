@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5350.103</title>
+   <topicref navtitle="SUBPART 5350.103 — CONTRACT ADJUSTMENTS"
+             href="../../SUBPART_5350_103.dita"
+             outputclass="SubPart"
+             props="SUBPART 5350.103"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5350.103-5   Processing Cases"
+                href="../../5350_103-5.dita"
+                outputclass="subtopic"
+                props="5350.103-5"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5350.103-5 Processing Cases</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

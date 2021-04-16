@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5342.4</title>
+   <topicref navtitle="SUBPART 5342.4 — CORRESPONDENCE AND VISITS"
+             href="../../SUBPART_5342_4.dita"
+             outputclass="SubPart"
+             props="SUBPART 5342.4"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5342.490-1   Contract clause"
+                href="../../5342_490-1.dita"
+                outputclass="subtopic"
+                props="5342.490-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5342.490-1 Contract clause</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5342.490-2   Contract clause"
+                href="../../5342_490-2.dita"
+                outputclass="subtopic"
+                props="5342.490-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5342.490-2 Contract clause</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

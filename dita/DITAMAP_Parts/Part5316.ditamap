@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5316</title>
+   <topicref navtitle="PART 5316 — Types of Contracts"
+             href="../PART_5316.dita"
+             outputclass="Part"
+             props="PART 5316"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref navtitle="   Policies"
+                href="../topic_207.dita"
+                outputclass="subtopic"
+                props=" REPLACE TEXT          "
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">Policies</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5316.103   Negotiating Contract Type"
+                href="../5316_103.dita"
+                outputclass="subtopic"
+                props="5316.103"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5316.103 Negotiating Contract Type</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5316.104   Factors in Selecting Contract Types "
+                href="../5316_104.dita"
+                outputclass="subtopic"
+                props="5316.104"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5316.104 Factors in Selecting Contract Types</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.203.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.203</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.206.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.206</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.3</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.5</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5316.6.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5316.6</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

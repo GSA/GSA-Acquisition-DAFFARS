@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5317</title>
+   <topicref navtitle="PART 5317 — Special Contracting Methods"
+             href="../PART_5317.dita"
+             outputclass="Part"
+             props="PART 5317"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5317.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.5</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.7.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.7</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.74.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.74</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.75.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.75</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5317.90.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5317.90</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

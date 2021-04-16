@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5305.2</title>
+   <topicref navtitle="SUBPART 5305.2 — SYNOPSES OF PROPOSED CONTRACT ACTIONS"
+             href="../../SUBPART_5305_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5305.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5305.201   General"
+                href="../../5305_201.dita"
+                outputclass="subtopic"
+                props="5305.201"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.201 General</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5305.202   Exceptions"
+                href="../../5305_202.dita"
+                outputclass="subtopic"
+                props="5305.202"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.202 Exceptions</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5305.204   Presolicitation Notices"
+                href="../../5305_204.dita"
+                outputclass="subtopic"
+                props="5305.204"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.204 Presolicitation Notices</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5305.207   Preparation and Transmittal of Synopses"
+                href="../../5305_207.dita"
+                outputclass="subtopic"
+                props="5305.207"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.207 Preparation and Transmittal of Synopses</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5313</title>
+   <topicref navtitle="PART 5313 — Simplified Acquisition Procedures"
+             href="../PART_5313.dita"
+             outputclass="Part"
+             props="PART 5313"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5313.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5313.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5313.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5313.2</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5313.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5313.3</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5313.5.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5313.5</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

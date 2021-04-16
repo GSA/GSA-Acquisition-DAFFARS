@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5323.90</title>
+   <topicref navtitle="SUBPART 5323.90 — HEALTH AND SAFETY ON GOVERNMENT INSTALLATIONS"
+             href="../../SUBPART_5323_90.dita"
+             outputclass="SubPart"
+             props="SUBPART 5323.90"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5323.9001   Contract Clause"
+                href="../../5323_9001.dita"
+                outputclass="subtopic"
+                props="5323.9001"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5323.9001 Contract Clause</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5332.2</title>
+   <topicref navtitle="SUBPART 5332.2 — COMMERCIAL ITEM PURCHASE FINANCING"
+             href="../../SUBPART_5332_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5332.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5332.202-1   Policy"
+                href="../../5332_202-1.dita"
+                outputclass="subtopic"
+                props="5332.202-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5332.202-1 Policy</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

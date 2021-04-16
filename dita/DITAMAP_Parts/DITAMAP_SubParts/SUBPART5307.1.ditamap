@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5307.1</title>
+   <topicref navtitle="SUBPART 5307.1 — ACQUISITION PLANS"
+             href="../../SUBPART_5307_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5307.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5307.104   General Procedures"
+                href="../../5307_104.dita"
+                outputclass="subtopic"
+                props="5307.104"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.104 General Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5307.104-90   Solicitation Release"
+                href="../../5307_104-90.dita"
+                outputclass="subtopic"
+                props="5307.104-90"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.104-90 Solicitation Release</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5307.104-91   Changes  "
+                href="../../5307_104-91.dita"
+                outputclass="subtopic"
+                props="5307.104-91"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.104-91 Changes</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5307.104-92   Acquisition Strategy Panels (ASP) and AP Approval Authority or SASS Approval Authority "
+                href="../../5307_104-92.dita"
+                outputclass="subtopic"
+                props="5307.104-92"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.104-92 Acquisition Strategy Panels (ASP) and AP
+                        Approv...</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5307.105   Contents of Written Acquisition Plans"
+                href="../../5307_105.dita"
+                outputclass="subtopic"
+                props="5307.105"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.105 Contents of Written Acquisition Plans</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5307.107-2   Consolidation"
+                href="../../5307_107-2.dita"
+                outputclass="subtopic"
+                props="5307.107-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5307.107-2 Consolidation</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

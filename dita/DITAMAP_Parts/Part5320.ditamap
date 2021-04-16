@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5320</title>
+   <topicref navtitle="PART 5322 — Application of Labor Laws to Government Acquisitions"
+             href="../PART_5322.dita"
+             outputclass="Part"
+             props="PART 5322"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5322.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5322.3.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.3</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5322.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5322.8.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.8</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5322.18.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.18</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5322.70.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5322.70</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

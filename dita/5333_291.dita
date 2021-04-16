@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5333_291">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5333.291</ph> Appeals to the Armed Services Board of Contract Appeals (ASBCA)</title>
+      <conbody>
+         <ol>
+            <li outputclass="List 1">
+               <p outputclass="List 1">AF/JACQ represents the Air Force in appeals to the ASBCA.</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(b) If the contractor files an appeal with the ASBCA, the contracting officer must notify the SCO and forward to <xref format="html"
+                        href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                        scope="external">AF/JACQ</xref> and the cognizant legal office a copy of any notice of appeal to the ASBCA, along with the envelope in which the notice was received. If the contractor files an appeal with the contracting officer instead of the ASBCA, the contracting officer must immediately notify <xref format="html"
+                        href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                        scope="external">AF/JACQ</xref> of the date the appeal was received and forward to <xref format="html"
+                        href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                        scope="external">AF/JACQ</xref> and the cognizant legal office a copy of the appeal and a copy of the envelope in which the appeal was received. The contracting officer must forward the original appeal and envelope to <xref format="html"
+                        href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                        scope="external">AF/JACQ</xref>, which will then forward the appeal and envelope to the ASBCA, as necessary.</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(c) The contracting officer must prepare a “Rule 4 file” for any appeal to the ASBCA in accordance with Rule 4 of the ASBCA rules (see DFARS Appendix A, Part 2). The contracting officer must consult with <xref format="mailto"
+                        href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+                        scope="external">
+                     <u>AFLOA/JAQ</u>
+                  </xref> before including in the Rule 4 file any legal opinions or intra-governmental or inter-governmental documents as described in <xref format="pdf"
+                        href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/540007p.pdf"
+                        scope="external">
+                     <u>DoD Directive 5400.07</u>
+                  </xref>, <i>DoD Freedom of Information Act Program</i>
+                  <i>,</i> and FAR <ph outputclass="FAR">24.2</ph>.</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(d) While an appeal is pending, the contracting officer along with the program manager/user/functional Commander and SJA will support the assigned trial attorney as required including; identifying and locating government witnesses, gathering contractual documents and other physical evidence for conferences and hearings necessary to defend or otherwise dispose of an appeal.</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(e) Once the Rule 4 file is complete, AF/JACQ will file it with the ASBCA on behalf of the contracting officer. </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

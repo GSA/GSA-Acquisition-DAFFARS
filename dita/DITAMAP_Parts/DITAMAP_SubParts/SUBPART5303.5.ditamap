@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5303.5</title>
+   <topicref navtitle="SUBPART 5303.5 — OTHER IMPROPER BUSINESS PRACTICES"
+             href="../../SUBPART_5303_5.dita"
+             outputclass="SubPart"
+             props="SUBPART 5303.5"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5303.570-2   Prohibition Period     INTERIM CHANGE:  See "
+                href="../../5303_570-2.dita"
+                outputclass="subtopic"
+                props="5303.570-2"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5303.570-2 Prohibition Period INTERIM CHANGE: See</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

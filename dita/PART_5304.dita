@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="PART_5304">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5304</ph> — Administrative Matters</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_1.dita#AFFARS_SUBPART_5304_1">SUBPART 5304.1 — CONTRACT EXECUTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_101.dita#AFFARS_5304_101">5304.101 Contracting Officer’s Signature</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_4.dita#AFFARS_SUBPART_5304_4">SUBPART 5304.4 — SAFEGUARDING CLASSIFIED INFORMATION WITHIN INDUSTRY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_402-90.dita#AFFARS_5304_402_90">5304.402-90 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_403.dita#AFFARS_5304_403">5304.403 Responsibilities of Contracting Officers</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_404-90.dita#AFFARS_5304_404_90">5304.404-90 Additional Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_6.dita#AFFARS_SUBPART_5304_6">SUBPART 5304.6 — CONTRACT REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_604.dita#AFFARS_5304_604">5304.604 (2)   Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_8.dita#AFFARS_SUBPART_5304_8">SUBPART 5304.8 — GOVERNMENT CONTRACT FILES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_803.dita#AFFARS_5304_803">5304.803 Contents of Contract Files</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_10.dita#AFFARS_SUBPART_5304_10">SUBPART 5304.10 — UNIFORM USE OF LINE ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_1001.dita#AFFARS_5304_1001">5304.1001 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_70.dita#AFFARS_SUBPART_5304_70">SUBPART 5304.70 — UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_7003-90.dita#AFFARS_5304_7003_90">5304.7003-90 Maintaining DoD Activity Address Codes (DoDAAC)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

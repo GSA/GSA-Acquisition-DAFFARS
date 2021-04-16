@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5304</title>
+   <topicref navtitle="PART 5304 — Administrative Matters"
+             href="../PART_5304.dita"
+             outputclass="Part"
+             props="PART 5304"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5304.1.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.1</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5304.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5304.6.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.6</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5304.8.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.8</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5304.10.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.10</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5304.70.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5304.70</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

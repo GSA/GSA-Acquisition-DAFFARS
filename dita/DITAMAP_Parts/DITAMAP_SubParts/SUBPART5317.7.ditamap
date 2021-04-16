@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5317.7</title>
+   <topicref navtitle="SUBPART 5317.7 — INTERAGENCY ACQUISITIONS:  ACQUISITIONS BY NONDEFENSE AGENCIES ON BEHALF OF THE DEPARTMENT OF DEFENSE"
+             href="../../SUBPART_5317_7.dita"
+             outputclass="SubPart"
+             props="SUBPART 5317.7"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5317.703   Policy"
+                href="../../5317_703.dita"
+                outputclass="subtopic"
+                props="5317.703"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5317.703 Policy</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5317.770   Procedures"
+                href="../../5317_770.dita"
+                outputclass="subtopic"
+                props="5317.770"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5317.770 Procedures</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

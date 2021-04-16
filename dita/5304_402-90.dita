@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5304_402_90"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5304.402-90</ph> General</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="li_p530440490" outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(a) <xref href="http://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-1406/afi16-1406.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFI</u>
+                     <u class="+ topic/ph hi-d/u "> </u>
+                     <u class="+ topic/ph hi-d/u ">16-1406</u>
+                  </xref>, <i class="+ topic/ph hi-d/i ">Air Forc</i>
+                  <i class="+ topic/ph hi-d/i ">e</i> 
+                  <i class="+ topic/ph hi-d/i ">Industrial Security Program</i>, provides guidance for implementing the Air Force’s National Industrial Security Program.  </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(b) <xref href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/afh16-1406/afh16-1406.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFH 16-1406</u>
+                  </xref>, National Interest Determination Handbook.  This instruction clarifies responsibilities and procedures for processing National Interest Determinations (NID).</p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c) <xref href="http://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">AFI 16-701</u>
+                  </xref>, <i class="+ topic/ph hi-d/i ">Management, Administration and Oversight of Special Access Programs</i>, establishes responsibilities for the management, administration and oversight of Special Access Programs.  This instruction provides additional guidance for processing AF Special Access Program NIDs.</p>
+            </li>
+         </ol>
+         <p id="p__Toc38364649" outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="SMC_PGI_5304_402.dita">SMC PGI 5304.402</xref>
+            </ph>.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="PART_5347">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5347</ph> — Transportation</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AFMC_PGI_5347_301-1.dita">AFMC PGI 5347.301-1</xref>
+            </ph>.</p>
+      </body>
+   </topic>
+</dita>

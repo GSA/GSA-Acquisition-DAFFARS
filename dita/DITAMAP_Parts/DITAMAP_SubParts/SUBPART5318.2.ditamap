@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5318.2</title>
+   <topicref navtitle="SUBPART 5318.2 — EMERGENCY ACQUISITION FLEXIBILITIES"
+             href="../../SUBPART_5318_2.dita"
+             outputclass="SubPart"
+             props="SUBPART 5318.2"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5318.201   Contingency Operation"
+                href="../../5318_201.dita"
+                outputclass="subtopic"
+                props="5318.201"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5318.201 Contingency Operation</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5318.202   Defense or Recovery from Certain Attacks"
+                href="../../5318_202.dita"
+                outputclass="subtopic"
+                props="5318.202"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5318.202 Defense or Recovery from Certain Attacks</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5318.270 Head of Contracting Activity Determinations"
+                href="../../5318_270.dita"
+                outputclass="subtopic"
+                props="5318.270"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5318.270 Head of Contracting Activity Determinations</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

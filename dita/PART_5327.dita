@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="PART_5327">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5327</ph> — Patents, Data, and Copyrights</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5327_2.dita#AFFARS_SUBPART_5327_2">SUBPART 5327.2 — PATENTS AND COPYRIGHTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5327_201-2.dita#AFFARS_5327_201_2">5327.201-2 Contract Clauses</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5327_303.dita#AFFARS_5327_303">5327.303 Contract Clauses</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5327_90--F.dita#AFFARS_5327_90">5327.90 --FOREIGN DISCLOSURE</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5327_9000.dita#AFFARS_5327_9000">5327.9000 Foreign Disclosure Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

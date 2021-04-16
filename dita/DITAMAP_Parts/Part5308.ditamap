@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5308</title>
+   <topicref navtitle="PART 5308 — Required Sources of Supplies and Services"
+             href="../PART_5308.dita"
+             outputclass="Part"
+             props="PART 5308"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5308.4.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5308.4</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref href="DITAMAP_SubParts/SUBPART5308.7.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5308.7</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

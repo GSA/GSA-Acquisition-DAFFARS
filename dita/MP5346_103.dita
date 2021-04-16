@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_MP5346_103">
+      <title>
+         <ph props="autonumber">MP5346.103</ph> — Contracting Office Responsibilities</title>
+      <conbody>
+         <p outputclass="Normal">The following mandatory procedures will be used when awarding services acquisitions unless the three conditions at DFARS PGI <ph outputclass="DFARS PGI">201.602-2</ph>(v)(A) are met.</p>
+         <p align="left" outputclass="List1">1. Roles and Responsibilities</p>
+         <ol>
+            <li>
+               <p>a. The COCO/Chiefs of Performance Management Offices must ensure that a:</p>
+               <p/>
+               <p/>
+               <p/>
+               <ol>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(1) Quality Assurance Program Coordinator (QAPC) is appointed and properly trained to integrate the quality contract requirements into the quality assurance program, act as the liaison between the contracting and functional organizations, and provide training and record keeping in accordance with <ph outputclass="MP">MP5301.602-2</ph>(d).</p>
+                  </li>
+               </ol>
+               <p/>
+            </li>
+            <li>
+               <p>b. The CO must:</p>
+               <p/>
+               <p/>
+               <p/>
+               <ol>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(1) Advise the acquisition team on <xref format="html"
+                              href="https://www.dau.edu/tools/Documents/SAM/steps/step_7.html"
+                              scope="external">
+                           <u>Quality Assurance Surveillance Plan</u>
+                        </xref> development.</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(2) Designate Contracting Officer’s Representatives (COR) in accordance with <ph outputclass="MP">MP5301.602-2</ph>(d).</p>
+                  </li>
+               </ol>
+               <p/>
+            </li>
+            <li>
+               <p>c.The QAPC must:</p>
+               <p/>
+               <p/>
+               <p/>
+               <ol>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(1) Successfully complete the <xref format="do?programId=t2D8EB9D63D8998C7013D935D40FA01CE&amp;channelPageId=s6925EC134B670FB5E044080020E329A9"
+                              href="https://www.my.af.mil/gcss-af/USAF/ep/browse.do?programId=t2D8EB9D63D8998C7013D935D40FA01CE&amp;channelPageId=s6925EC134B670FB5E044080020E329A9"
+                              scope="external">
+                           <u>QAPC course</u>
+                        </xref> conducted by AETC prior to conducting any training.</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(2) Support the acquisition team in the development of contract quality assurance requirements specifically ensuring that requirements are clearly stated and enforceable.</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(3) Assist the acquisition team during market research efforts in determining commercial quality assurance practices.</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(4) Assist, as required, with the evaluation of contractor Quality Control Plans.</p>
+                  </li>
+               </ol>
+               <p/>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

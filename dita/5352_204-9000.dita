@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5352_204_9000">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5352.204-9000</ph> Notification of Government Security Activity and Visitor Group Security Agreements</title>
+      <conbody>
+         <p outputclass="Normal">As prescribed in 5304.404-90, insert the following clause in solicitations and contracts:</p>
+         <p outputclass="Normal">
+            <b>
+               <b>NOTIFICATION OF GOVERNMENT SECURITY ACTIVITY AND VISITOR GROUP SECURITY AGREEMENTS (OCT 2019)</b>
+            </b>
+         </p>
+         <p outputclass="Normal">This contract contains a <xref format="pdf"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external">
+               <u>DD Form 254</u>
+            </xref>, DOD Contract Security Classification Specification, and requires performance at a government location in the U.S. or overseas. Prior to beginning operations involving classified information on an installation identified on the <xref format="pdf"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external">
+               <u>DD Form 254</u>
+            </xref>, the contractor shall take the following actions:</p>
+         <ol>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(a) At least thirty days prior to beginning operations, notify the Information Protection Office shown in the distribution block of the <xref format="pdf"
+                        href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                        scope="external">
+                     <u>DD Form 254</u>
+                  </xref> as to:</p>
+            </li>
+            <li>
+               <p/>
+               <ol>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(1) The name, address, and telephone number of this contract company’s representative and designated alternate in the U.S. or overseas area, as appropriate;</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(2) The contract number and military contracting command;</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(3) The highest classification category of defense information to which contractor employees will have access;</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(4) The Air Force installations in the U.S. (in overseas areas, identify only the APO number(s)) where the contract work will be performed;</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(5) The date contractor operations will begin on base in the U.S. or in the overseas area;</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(6) The estimated completion date of operations on base in the U.S. or in the overseas area; and,</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(7) Any changes to information previously provided under this clause.</p>
+                  </li>
+               </ol>
+               <p/>
+            </li>
+         </ol>
+         <p outputclass="Normal">This requirement is in addition to visit request procedures contained in <xref format="pdf"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/522022_vol3_2014.pdf"
+                  scope="external">
+               <u>DoDM 5220.22</u>
+            </xref>, <i>National Industrial Security Program</i>
+            <i>: Procedures for Government Activities Relating to Foreign Ownership, Control, or Influence (FOCI)</i>.</p>
+         <ol>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(b) Prior to beginning operations involving classified information on an installation identified on the <xref format="pdf"
+                        href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                        scope="external">
+                     <u>DD Form 254</u>
+                  </xref>, the contractor shall enter into a Visitor Group Security Agreement (or understanding) with the installation commander to ensure that the contractor’s security procedures are properly integrated with those of the installation. As a minimum, the agreement shall identify the security actions that will be performed:</p>
+            </li>
+            <li>
+               <p/>
+               <ol>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(1) By the installation for the contractor, such as providing storage and classified reproduction facilities, guard services, security forms, security inspections, classified mail services, security badges, visitor control, and investigating security incidents; and</p>
+                  </li>
+                  <li outputclass="List 2">
+                     <p outputclass="List 2">(2) Jointly by the contractor and the installation, such as packaging and addressing classified transmittals, security checks, internal security controls, and implementing emergency procedures to protect classified material.</p>
+                  </li>
+               </ol>
+               <p/>
+            </li>
+         </ol>
+         <p outputclass="Normal">(End of clause)</p>
+         <p id="p__Toc38365560" outputclass="Normal"/>
+      </conbody>
+   </concept>
+</dita>

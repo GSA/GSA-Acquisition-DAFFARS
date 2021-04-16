@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5317_170"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5317.170</ph> General</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">CPM 19-C-11.</u>
+                  </xref> 
+               </p>
+            </li>
+            <li outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(d)(1)  The contracting officer must provide the congressional notification described in DFARS <ph outputclass="DFARS" class="- topic/ph ">217.170</ph>(d)(1), using the 1279 format in MP5305.303, to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+                  </xref> 40 days before the planned contract award date, with an information copy to <xref href="mailto:usaf.pentagon.saf-fm.mbx.saf-fmbl-budget-appropriations-liaison@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/FMBL</u>
+                  </xref>, <xref href="mailto:usaf.pentagon.saf-ll.mbx.saf-llp-contract-ancmt@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+                     <u class="+ topic/ph hi-d/u ">SAF/LLP</u>
+                  </xref>
+                  <ph class="- topic/ph ">
+                     <u class="+ topic/ph hi-d/u ">,</u>
+                  </ph> and the SCO.  SAF/AQC will notify the DoD offices listed in DFARS <ph outputclass="DFARS" class="- topic/ph ">217.170</ph>(d)(4).  This congressional notification does not fulfill the requirement to announce contract awards in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">5.3</ph>, as supplemented.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5305.1</title>
+   <topicref navtitle="SUBPART 5305.1 — DISSEMINATION OF INFORMATION"
+             href="../../SUBPART_5305_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5305.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5305.102   Availability of Solicitations     INTERIM CHANGE:  See "
+                href="../../5305_102.dita"
+                outputclass="subtopic"
+                props="5305.102"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5305.102 Availability of Solicitations INTERIM CHANGE: See</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

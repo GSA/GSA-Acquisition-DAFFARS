@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="changeme">
+      <title>
+         <ph props="autonumber" class="- topic/ph "/>MP5349.7003 Notification of Anticipated Terminations or Reductions</title>
+      <conbody>
+         <ol>
+            <li align="left" outputclass="">(b)(2)(i) Address the notification to: 
+<ol>
+                  <li align="left" outputclass="">Administrator</li>
+                  <li>Office of National Response</li>
+                  <li>U. S. Department of Labor</li>
+                  <li align="left" outputclass="">Employment and Training Administration</li>
+                  <li align="left" outputclass="">200 Constitution Avenue NW</li>
+                  <li align="left" outputclass="">Room N5422</li>
+                  <li align="left" outputclass="">Washington DC 20210</li>
+               </ol>
+            </li>
+         </ol>
+         <p>The notice must address the following key elements:</p>
+         <ol>
+            <li align="left" outputclass="">(1) Contract number, date, and type of contract</li>
+            <li align="left" outputclass="">(2) Name of the Company</li>
+            <li align="left" outputclass="">(3) Nature of contract or end item</li>
+            <li align="left" outputclass="">(4) The reason for the termination</li>
+            <li align="left" outputclass="">(5) Contract price of the items terminated</li>
+            <li align="left" outputclass="">(6) Total number of contractor employees involved, including the Government’s estimate of the number who may be discharged</li>
+            <li align="left" outputclass="">(7) Statement of anticipated impact on the company and the community</li>
+            <li align="left" outputclass="">(8) The area labor category, whether the contractor is a large or small business, and any known impact on hardcore disadvantaged employment programs</li>
+            <li align="left" outputclass="">(9) Total number of subcontractors involved and the impact in this area, and</li>
+            <li align="left" outputclass="">(10) An unclassified draft of a suggested press release</li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita xtrc="NoAutoListNumber">
+   <concept id="AFFARS_5333_214">
+      <title>
+         <ph outputclass="topicnum" props="autonumber">5333.214</ph> Alternate Dispute Resolution (ADR)</title>
+      <conbody>
+         <ol>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(a) For ACAT I and II programs, the contracting officer must establish an agreement between the Government and the contractor, such as a memorandum of understanding, that outlines the intent of the parties with respect to the use of ADR. Contracting officers must consider establishing ADR agreements for other programs and acquisitions.</p>
+            </li>
+            <li outputclass="List 1">
+               <p outputclass="List 1">(c) The acquisition team must use ADR to the maximum extent practicable (see <xref format="pdf"
+                        href="http://static.e-publishing.af.mil/production/1/af_a3_5/publication/afpd51-12/afpd51-12.pdf"
+                        scope="external">AFPD 51-12</xref>, Alternate Disputes Resolution). ADR must also be used to resolve protests to the maximum extent practicable. The acquisition team must attempt to use ADR prior to the commencement of litigation once unassisted negotiations have reached an impasse. Further, ADR must be offered in litigation, unless one of the exceptions in <xref format="html"
+                        href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section572&amp;num=0&amp;edition=prelim"
+                        scope="external">5 U.S.C. 572(b)</xref> applies or the policy set forth by Deputy General Counsel (Contractor Responsibility &amp; Conflict Resolution (<xref format="html"
+                        href="mailto:SAF.GCR.Workflow@us.af.mil"
+                        scope="external">SAF/GCR</xref>)) indicates that ADR is not appropriate.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

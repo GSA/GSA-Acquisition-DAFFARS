@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>SUBPART 5322.1</title>
+   <topicref navtitle="SUBPART 5322.1 — BASIC LABOR POLICIES"
+             href="../../SUBPART_5322_1.dita"
+             outputclass="SubPart"
+             props="SUBPART 5322.1"
+             base="concept"
+             class="- map/topicref ">
+      <topicref navtitle="5322.101-1   General"
+                href="../../5322_101-1.dita"
+                outputclass="subtopic"
+                props="5322.101-1"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5322.101-1 General</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5322.101-3-70   Impact of Labor Disputes on Defense Programs"
+                href="../../5322_101-3-70.dita"
+                outputclass="subtopic"
+                props="5322.101-3"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5322.101-3-70 Impact of Labor Disputes on Defense Programs</navtitle>
+         </topicmeta>
+      </topicref>
+      <topicref navtitle="5322.103-4   Approvals"
+                href="../../5322_103-4.dita"
+                outputclass="subtopic"
+                props="5322.103-4"
+                base="concept"
+                class="- map/topicref ">
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">5322.103-4 Approvals</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>

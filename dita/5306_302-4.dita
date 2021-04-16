@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5306_302_4"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      <title class="- topic/title ">
+         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5306.302-4</ph> International Agreement</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="li__Toc353181559" outputclass="List 1" class="- topic/li ">
+               <p outputclass="List 1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Limitations</i>.  The document referred to in DFARS <ph outputclass="DFARS" class="- topic/ph ">206.302-4</ph>(c) must be titled, “<i class="+ topic/ph hi-d/i ">International Agreement Competitive Restrictions (IACR)</i>.”  The authority to prepare an IACR is delegated from the HCA to the contracting officer (see MP5301.601(a)(i)).  The contracting officer must include the IACR and a copy of the associated <i class="+ topic/ph hi-d/i ">Letter of Offer and Acceptance</i>, once completed, in the contract file.</p>
+            </li>
+         </ol>
+         <p id="p__Toc353181561" outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AF_PGI_5306_302-4.dita">AF PGI 5306.302-4</xref>
+            </ph>.</p>
+      </conbody>
+   </concept>
+</dita>

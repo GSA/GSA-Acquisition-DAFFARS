@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map>
+   <title>Part 5349</title>
+   <topicref navtitle="PART 5352 —      Contractors"
+             href="../PART_5352.dita"
+             outputclass="Part"
+             props="PART 5352"
+             base="NoTitle"
+             class="- map/topicref ">
+      <topicref href="DITAMAP_SubParts/SUBPART5352.2.ditamap" format="ditamap">
+         <topicmeta>
+            <navtitle>SUBPART 5352.2</navtitle>
+         </topicmeta>
+      </topicref>
+   </topicref>
+</map>
