@@ -6,12 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5308</ph> — Required Sources of Supplies and Services</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-            </xref>.</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -48,6 +42,12 @@
                </ul>
             </li>
          </ul>
+         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+            </xref>.</p>
       </body>
    </topic>
 </dita>

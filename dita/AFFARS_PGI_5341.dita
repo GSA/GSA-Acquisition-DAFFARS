@@ -6,13 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">AFFARS PGI 5341</ph> — Acquisition of Utility Services</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">AF PGI <ph outputclass="AF PGI" class="- topic/ph ">5341</ph>
-            </b>
-         </p>
-         <p id="p__AF_PGI_5341.102" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">Acquisition of Utility Services</b>
-         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -21,6 +14,13 @@
                </p>
             </li>
          </ul>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">AF PGI <ph outputclass="AF PGI" class="- topic/ph ">5341</ph>
+            </b>
+         </p>
+         <p id="p__AF_PGI_5341.102" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Acquisition of Utility Services</b>
+         </p>
       </body>
    </topic>
 </dita>

@@ -3,69 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="PART_5301">
-      <title>
-         <ph props="autonumber">PART 5301</ph> - Federal Acquisition Regulation System</title>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5301</ph> - Federal Acquisition Regulation System</title>
       <body>
-         <p outputclass="Normal">
-            <b>INTERIM CHANGES:</b>
-         </p>
-         <p outputclass="Normal">POLICY MEMOS:</p>
-         <p outputclass="Normal">
-            <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external">
-               <u>19-C-11</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
-                  scope="external">
-               <u>19-C-12</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-02.pdf"
-                  scope="external">
-               <u>20-C-02</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
-                  scope="external">
-               <u>20-C-06</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
-                  scope="external">
-               <u>20-C-09</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
-                  scope="external">
-               <u>20-C-10</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
-                  scope="external">
-               <u>20-C-13</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-15.pdf"
-                  scope="external">
-               <u>20-C-15</u>
-            </xref>, and <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-16.pdf"
-                  scope="external">
-               <u>20-C-16</u>
-            </xref>.</p>
-         <p outputclass="Normal">CLASS DEVIATIONS:</p>
-         <p outputclass="Normal">
-            <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/18-C-07.pdf"
-                  scope="external">
-               <u>2018-U0001 (18-C-07)</u>
-            </xref>, <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-01.pdf"
-                  scope="external">
-               <u>2019-U0001 (19-C-01)</u>
-            </xref>
-            <ph>
-               <u>,</u>
-            </ph> and <xref format="pdf"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-06.pdf"
-                  scope="external">
-               <u>2019-U0002 (19-C-06)</u>
-            </xref>.</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -254,6 +194,78 @@
                </ul>
             </li>
          </ul>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">INTERIM CHANGES:</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">POLICY MEMOS:</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">19-C-11</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">19-C-12</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-02.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-02</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-06</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-09</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-10</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-13</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-15.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-15</u>
+            </xref>, and <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-16.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-16</u>
+            </xref>.</p>
+         <p outputclass="Normal" class="- topic/p ">CLASS DEVIATIONS:</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/18-C-07.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">2018-U0001 (18-C-07)</u>
+            </xref>, <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-01.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">2019-U0001 (19-C-01)</u>
+            </xref>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">,</u>
+            </ph> and <xref format="pdf"
+                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-06.pdf"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">2019-U0002 (19-C-06)</u>
+            </xref>.</p>
       </body>
    </topic>
 </dita>

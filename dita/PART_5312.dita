@@ -6,26 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5312</ph> — Acquisition of Commercial Items</title>
       <body>
-         <p id="p__Toc38287156" outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/18-C-03.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 18-C-03</u>
-            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-            </xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
-            </xref>
-            <ph class="- topic/ph ">
-               <u class="+ topic/ph hi-d/u ">.</u>
-            </ph>
-         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -98,6 +78,26 @@
                </p>
             </li>
          </ul>
+         <p id="p__Toc38287156" outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/18-C-03.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 18-C-03</u>
+            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+            </xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
+            </xref>
+            <ph class="- topic/ph ">
+               <u class="+ topic/ph hi-d/u ">.</u>
+            </ph>
+         </p>
       </body>
    </topic>
 </dita>

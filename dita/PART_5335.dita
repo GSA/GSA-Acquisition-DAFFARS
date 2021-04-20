@@ -6,13 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5335</ph> — Research and Development Contracting</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">AFMC PGI 5335.006-90</ph>.</p>
-         <p id="p__Toc38365470" outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AFMC_PGI_5335_007-90.dita">AFMC PGI 5335.007-90</xref>
-            </ph>.</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -27,6 +20,13 @@
                </ul>
             </li>
          </ul>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">AFMC PGI 5335.006-90</ph>.</p>
+         <p id="p__Toc38365470" outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AFMC_PGI_5335_007-90.dita">AFMC PGI 5335.007-90</xref>
+            </ph>.</p>
       </body>
    </topic>
 </dita>

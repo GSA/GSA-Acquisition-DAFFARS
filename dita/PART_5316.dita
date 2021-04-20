@@ -6,34 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5316</ph> — Types of Contracts</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
-            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
-            </xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 20-C-10</u>
-            </xref>
-         </p>
-         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AF_PGI_5316_101.dita">AF PGI 5316.101</xref>
-            </ph>.</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -160,6 +132,34 @@
                </ul>
             </li>
          </ul>
+         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
+            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
+            </xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 20-C-10</u>
+            </xref>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AF_PGI_5316_101.dita">AF PGI 5316.101</xref>
+            </ph>.</p>
       </body>
    </topic>
 </dita>

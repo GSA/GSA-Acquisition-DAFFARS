@@ -3,10 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="PART_5306">
-      <title>
-         <ph props="autonumber">PART 5306</ph> — Competition Requirements</title>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5306</ph> — Competition Requirements</title>
       <body>
-         <p>INTERIM CHANGE: See CPM 20-C-20</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -80,6 +79,7 @@
                </ul>
             </li>
          </ul>
+         <p class="- topic/p ">INTERIM CHANGE: See CPM 20-C-20</p>
       </body>
    </topic>
 </dita>

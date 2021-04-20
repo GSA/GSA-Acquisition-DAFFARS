@@ -6,18 +6,6 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">PART 5315</ph> — Contracting by Negotiation</title>
       <body>
-         <p id="p__Toc408110487" outputclass="Normal" class="- topic/p ">INTERIM CHANGES:  See Policy Memos <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-07.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">19-C-07</u>
-            </xref> and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-12.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">20-C-12</u>
-            </xref>
-         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -136,6 +124,18 @@
                </ul>
             </li>
          </ul>
+         <p id="p__Toc408110487" outputclass="Normal" class="- topic/p ">INTERIM CHANGES:  See Policy Memos <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-07.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">19-C-07</u>
+            </xref> and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-12.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">20-C-12</u>
+            </xref>
+         </p>
       </body>
    </topic>
 </dita>

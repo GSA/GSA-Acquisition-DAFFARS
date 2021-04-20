@@ -2,9 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
 <dita>
-   <topic id="changeme">
+   <topic id="SUBPART_MP5349_70">
       <title outputclass="Subpart">
-         <ph props="autonumber" class="- topic/ph ">SUBPART M</ph>P5349.70 — SPECIAL TERMINATION REQUIREMENTS</title>
-      <conbody/>
+         <ph props="autonumber" class="- topic/ph "></ph> — SPECIAL TERMINATION REQUIREMENTS</title>
    </topic>
 </dita>
