@@ -1,69 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5333_104">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5333.104</ph> Protests to GAO</title>
-      <conbody>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) The Air Force Commercial Litigation Field Support Center (<xref format="html"
-                        href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                        scope="external">AF/JACQ</xref>) serves as agency counsel before the GAO and defends Air Force interests(see MP5333.104).</p>
-            </li>
-            <li>
-               <p>(b) <i>Protests before award</i>
-               </p>
-               <ol>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(1) Forward the determination and finding through the SCO to <xref format="mailto"
-                              href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
-                              scope="external">
-                           <u>AFLOA/JAQ</u>
-                        </xref> and, for approval, to <xref format="mailto"
-                              href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                              scope="external">
-                           <u>SAF/AQC</u>
-                        </xref> within seven days of the protest notification to SAF/AQC (see MP5301.601(a)(i)).</p>
-                  </li>
-               </ol>
-               
-               
-            </li>
-            <li>
-               <p>(c) <i>Protests after award</i>
-               </p>
-               <ol>
-                  <li id="li__Toc351654226" outputclass="List 2">
-                     <p outputclass="List 2">(2) Forward the determination and finding through the SCO to <xref format="mailto"
-                              href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
-                              scope="external">
-                           <u>AFLOA/JAQ</u>
-                        </xref> and, for approval, to <xref format="mailto"
-                              href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                              scope="external">
-                           <u>SAF/AQC</u>
-                        </xref> within seven days of the protest notification to SAF/AQC (see MP5301.601(a)(i)).</p>
-                  </li>
-               </ol>
-               
-               
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(g) <i>Notice to GAO</i>
-               </p>
-            </li>
-         </ol>
-         <p outputclass="Normal">Forward the report through the SCO to <xref format="mailto"
-                  href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
-                  scope="external">
-               <u>AFLOA/JAQ</u>
-            </xref> and to <xref format="mailto"
-                  href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                  scope="external">
-               <u>SAF/AQC</u>
-            </xref> for signature and submission to GAO within fifty-five days of date of receipt of the GAO recommendations (see MP5301.601(a)(i)).</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5333_104">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5333.104</ph> Protests to GAO</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) The Air Force Commercial Litigation Field Support Center (<xref format="html"
+    								href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+    								scope="external">AF/JACQ</xref>) serves as agency counsel before the GAO and defends Air Force interests(see MP5333.104).</p>
+					</li>
+					<li>
+						<p>(b) <i>Protests before award</i>
+						</p>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(1) Forward the determination and finding through the SCO to <xref format="mailto"
+    										href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+    										scope="external">
+										<u>AFLOA/JAQ</u>
+									</xref> and, for approval, to <xref format="mailto"
+    										href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    										scope="external">
+										<u>SAF/AQC</u>
+									</xref> within seven days of the protest notification to SAF/AQC (see MP5301.601(a)(i)).</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<p>(c) <i>Protests after award</i>
+						</p>
+						<ol>
+							<li id="li__Toc351654226"
+  								outputclass="List 2">
+								<p outputclass="List 2">(2) Forward the determination and finding through the SCO to <xref format="mailto"
+    										href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+    										scope="external">
+										<u>AFLOA/JAQ</u>
+									</xref> and, for approval, to <xref format="mailto"
+    										href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    										scope="external">
+										<u>SAF/AQC</u>
+									</xref> within seven days of the protest notification to SAF/AQC (see MP5301.601(a)(i)).</p>
+							</li>
+						</ol>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(g) <i>Notice to GAO</i>
+						</p>
+					</li>
+				</ol>
+				<p outputclass="Normal">Forward the report through the SCO to <xref format="mailto"
+    						href="mailto:usaf.pentagon.af-ja.mbx.afloa-jaq-workflow@mail.mil"
+    						scope="external">
+						<u>AFLOA/JAQ</u>
+					</xref> and to <xref format="mailto"
+    						href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    						scope="external">
+						<u>SAF/AQC</u>
+					</xref> for signature and submission to GAO within fifty-five days of date of receipt of the GAO recommendations (see MP5301.601(a)(i)).</p>
+			</conbody>
+		</concept>
+	</dita>

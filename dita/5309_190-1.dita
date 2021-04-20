@@ -1,72 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5309_190_1"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">MP5309.190-1</ph> CRWL SOLICITATION AND CONTRACT LANGUAGE</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">Insert the language provided at the link below when preparing a space program solicitation or contract (See AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="PART_5302.dita">5302</xref>
-            </ph>):</p>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(a) Notwithstanding the prescription at FAR <ph outputclass="FAR" class="- topic/ph ">44.204</ph>(a)(1), include the “<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMC_subcontract_clause_class_deviation.docx"
-                        scope="external"
-                        format="docx"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">Attachment 1</u>
-                  </xref>” clause of the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/crwl_consent_to_subcontract_class_deviation.pdf"
-                        scope="external"
-                        format="pdf"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">SMC Subcontract Clause Class Deviation</u>
-                  </xref> in full text in solicitations and resultant contracts in lieu of the FAR clause 52.244-2, Subcontracts.</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(a)(1)    INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
-                        scope="external"
-                        format="pdf"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
-                     <u class="+ topic/ph hi-d/u ">.</u>
-                  </xref>
-               </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(a)(2)    INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
-                        scope="external"
-                        format="pdf"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
-                     <u class="+ topic/ph hi-d/u ">.</u>
-                  </xref>
-               </p>
-            </li>
-            <li id="li__Toc38365632" outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p "> (b) Insert mandatory <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/crwl_solicitation_and_contract_language.docx"
-                        scope="external"
-                        format="docx"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">CRWL language</u>
-                  </xref> in sole source solicitations (in the solicitation letter), competitive solicitations (in the contracts volume where other responsibility matters are addressed), and in contracts (in Statements of Work or Performance Work Statements or similar documents).  In all contracts include <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMCI_64-101.pdf"
-                        scope="external"
-                        format="pdf"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">SMCI 64-101</u>
-                  </xref> on the compliance document list.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_MP5309_190_1"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">MP5309.190-1</ph> CRWL SOLICITATION AND CONTRACT LANGUAGE</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Insert the language provided at the link below when preparing a space program solicitation or contract (See AFFARS <ph outputclass="AFFARS"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="PART_5302.dita">5302</xref>
+					</ph>):</p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a) Notwithstanding the prescription at FAR <ph outputclass="FAR"
+  								class="- topic/ph ">44.204</ph>(a)(1), include the “<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMC_subcontract_clause_class_deviation.docx"
+    								scope="external"
+    								format="docx"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">Attachment 1</u>
+							</xref>” clause of the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/crwl_consent_to_subcontract_class_deviation.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">SMC Subcontract Clause Class Deviation</u>
+							</xref> in full text in solicitations and resultant contracts in lieu of the FAR clause 52.244-2, Subcontracts.</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a)(1)    INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
+								<u class="+ topic/ph hi-d/u ">.</u>
+							</xref>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a)(2)    INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
+								<u class="+ topic/ph hi-d/u ">.</u>
+							</xref>
+						</p>
+					</li>
+					<li id="li__Toc38365632"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p "> (b) Insert mandatory <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/crwl_solicitation_and_contract_language.docx"
+    								scope="external"
+    								format="docx"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">CRWL language</u>
+							</xref> in sole source solicitations (in the solicitation letter), competitive solicitations (in the contracts volume where other responsibility matters are addressed), and in contracts (in Statements of Work or Performance Work Statements or similar documents).  In all contracts include <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMCI_64-101.pdf"
+    								scope="external"
+    								format="pdf"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">SMCI 64-101</u>
+							</xref> on the compliance document list.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

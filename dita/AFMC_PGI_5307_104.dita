@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_AFMC_PGI_5307_104"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5307.104
-         </ph> General Procedures</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(a) In order to develop a sound acquisition strategy, AFMC acquisition personnel are encouraged to engage the local Acquisition Center of Excellence (ACE) and others as appropriate, including Contracting, Financial Management, Staff Judge Advocate, Small Business and other technical experts.</p>
-            </li>
-            <li id="li__AFMC_PGI_5307.104-92"
-                outputclass="List 1"
-                class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(b) AFMC/CA is the Early Strategy &amp; Issues Session (ESIS) authority for AFPEO/CM acquisitions <u class="+ topic/ph hi-d/u ">&gt;</u> $100M to &lt;$1B unless further delegated by AFMC/CA.  See the AFPEO/CM ESIS template.  To schedule an ESIS for programs where AFMC/CA is the approval authority, send an email notification to AFMC/PK Workflow with the following information:  name of program, program office POC, estimated dollar value, projected need date for the ESIS, status of RAD, projected ASP date, RFP release date, and contract award date.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFMC_PGI_5307_104"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5307.104</ph> General Procedures</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a) In order to develop a sound acquisition strategy, AFMC acquisition personnel are encouraged to engage the local Acquisition Center of Excellence (ACE) and others as appropriate, including Contracting, Financial Management, Staff Judge Advocate, Small Business and other technical experts.</p>
+					</li>
+					<li id="li__AFMC_PGI_5307.104-92"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) AFMC/CA is the Early Strategy &amp; Issues Session (ESIS) authority for AFPEO/CM acquisitions <u class="+ topic/ph hi-d/u ">&gt;</u> $100M to &lt;$1B unless further delegated by AFMC/CA.  See the AFPEO/CM ESIS template.  To schedule an ESIS for programs where AFMC/CA is the approval authority, send an email notification to AFMC/PK Workflow with the following information:  name of program, program office POC, estimated dollar value, projected need date for the ESIS, status of RAD, projected ASP date, RFP release date, and contract award date.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,125 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_AF_PGI_5317_9000">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">AF PGI 5317.9000</ph> Associate Contractor Agreements</title>
-      <conbody>
-         <p outputclass="Normal (Web)">“Associate Contractor Agreements” (ACA) are agreements between contractors working on government contracts or projects that specify requirements for them to share information, data, technical knowledge, expertise, or resources.</p>
-         <p outputclass="Normal (Web)">Prime contractor to subcontractor relationships do not constitute ACAs, and are not subject to this section’s requirements. The contracting officer may require ACAs when contractors working on separate Government contracts must cooperate, share resources or otherwise jointly participate in working on contracts or projects. The contractor should tailor each ACA to the requirements of the individual contracting situation and may consult with the contracting officer as required. Suggested Contract Language for Statement of Work or Performance Work Statement:</p>
-         <ol>
-            <li>
-               <p>
-                  <i>(a) The Contractor should enter into Associate Contractor Agreements (ACA) for any portion of the contract requiring joint participation in the accomplishment of the Government’s requirement. The agreements should include the basis for sharing information, data, technical knowledge, expertise, and/or resources essential to the integration of the (</i>
-                  <i>
-                     <u>insert name of the program or project)</u>
-                  </i>
-                  <i>, to ensure the greatest degree of cooperation for the development of the program to meet the terms of the contract. Associate contractors are listed in (g) below.</i>
-               </p>
-               <ol>
-                  <li>
-                     <p>(b) ACAs should include the following general information:</p>
-                     <ol>
-                        <li>
-                           <p>
-                              <i>(1) Identify the associate contractors and their relationships.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(2) Identify the program involved and the relevant Government contracts of the associate contractors.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(3) Describe the associate contractor interfaces by general subject matter.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(4) Specify the categories of information to be exchanged or support to be provided.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(5) Include the expiration date (or event) of the ACA.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(6) Identify potential conflicts between relevant Government contracts and the ACA; include agreements on protection of proprietary data and restrictions on employees.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(c) Provide a copy of such agreement to the Contracting Officer for review before execution of the document by the cooperating contractors.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(d) The Contractor is not relieved of any contract requirements or entitled to any adjustments to the contract terms because of a failure to resolve a disagreement with an associate contractor.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(e) Liability for the improper disclosure of any proprietary data contained in or referenced by any agreement rests with the parties to the agreement, and not the Government.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(f) All costs associated with the agreements are included in the negotiated cost of this contract. Agreements may be amended as required by the Government during the performance of this contract.</i>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <i>(g) The following contractors are associate contractors with whom agreements are required:</i>
-                           </p>
-                        </li>
-                     </ol>
-                     
-                  </li>
-               </ol>
-               
-            </li>
-         </ol>
-         
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="48*"/>
-               <colspec colname="2" colnum="2" colwidth="5*"/>
-               <colspec colname="3" colnum="3" colwidth="47*"/>
-               <tbody>
-                  <row>
-                     <entry>
-                        <p outputclass="Normal (Web)">
-                           <b>Contractor</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p outputclass="Normal (Web)">
-                           <b>Address</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p outputclass="Normal (Web)">
-                           <b>Program / Contract</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry/>
-                     <entry/>
-                     <entry/>
-                  </row>
-                  <row>
-                     <entry/>
-                     <entry/>
-                     <entry/>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AF_PGI_5317_9000">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AF PGI 5317.9000</ph> Associate Contractor Agreements</title>
+			<conbody>
+				<p outputclass="Normal (Web)">“Associate Contractor Agreements” (ACA) are agreements between contractors working on government contracts or projects that specify requirements for them to share information, data, technical knowledge, expertise, or resources.</p>
+				<p outputclass="Normal (Web)">Prime contractor to subcontractor relationships do not constitute ACAs, and are not subject to this section’s requirements. The contracting officer may require ACAs when contractors working on separate Government contracts must cooperate, share resources or otherwise jointly participate in working on contracts or projects. The contractor should tailor each ACA to the requirements of the individual contracting situation and may consult with the contracting officer as required. Suggested Contract Language for Statement of Work or Performance Work Statement:</p>
+				<ol>
+					<li>
+						<p>
+							<i>(a) The Contractor should enter into Associate Contractor Agreements (ACA) for any portion of the contract requiring joint participation in the accomplishment of the Government’s requirement. The agreements should include the basis for sharing information, data, technical knowledge, expertise, and/or resources essential to the integration of the (<u>insert name of the program or project)</u>, to ensure the greatest degree of cooperation for the development of the program to meet the terms of the contract. Associate contractors are listed in (g) below.</i>
+						</p>
+						<ol>
+							<li>
+								<p>(b) ACAs should include the following general information:</p>
+								<ol>
+									<li>
+										<p>
+											<i>(1) Identify the associate contractors and their relationships.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(2) Identify the program involved and the relevant Government contracts of the associate contractors.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(3) Describe the associate contractor interfaces by general subject matter.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(4) Specify the categories of information to be exchanged or support to be provided.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(5) Include the expiration date (or event) of the ACA.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(6) Identify potential conflicts between relevant Government contracts and the ACA; include agreements on protection of proprietary data and restrictions on employees.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(c) Provide a copy of such agreement to the Contracting Officer for review before execution of the document by the cooperating contractors.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(d) The Contractor is not relieved of any contract requirements or entitled to any adjustments to the contract terms because of a failure to resolve a disagreement with an associate contractor.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(e) Liability for the improper disclosure of any proprietary data contained in or referenced by any agreement rests with the parties to the agreement, and not the Government.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(f) All costs associated with the agreements are included in the negotiated cost of this contract. Agreements may be amended as required by the Government during the performance of this contract.</i>
+										</p>
+									</li>
+									<li>
+										<p>
+											<i>(g) The following contractors are associate contractors with whom agreements are required:</i>
+										</p>
+									</li>
+								</ol>
+							</li>
+						</ol>
+					</li>
+				</ol>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="3">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="48*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="5*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="47*"/>
+						<tbody>
+							<row>
+								<entry>
+									<p outputclass="Normal (Web)">
+										<b>Contractor</b>
+									</p>
+								</entry>
+								<entry>
+									<p outputclass="Normal (Web)">
+										<b>Address</b>
+									</p>
+								</entry>
+								<entry>
+									<p outputclass="Normal (Web)">
+										<b>Program / Contract</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry/>
+								<entry/>
+								<entry/>
+							</row>
+							<row>
+								<entry/>
+								<entry/>
+								<entry/>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,68 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="PART_5307">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">PART 5307</ph> — Acquisition Planning</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5307_1.dita#AFFARS_SUBPART_5307_1">SUBPART 5307.1 — ACQUISITION PLANS</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_104">5307.104 General Procedures</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-90.dita#AFFARS_5307_104_90">5307.104-90 Solicitation Release</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-91.dita#AFFARS_5307_104_91">5307.104-91 Changes  </xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-92.dita#AFFARS_5307_104_92">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority or SASS Approval Authority</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_105">5307.105 Contents of Written Acquisition Plans</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_107-2.dita#AFFARS_5307_107_2">5307.107-2 Consolidation</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5307_4.dita#AFFARS_SUBPART_5307_4">SUBPART 5307.4 — EQUIPMENT LEASE OR PURCHASE</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_470">5307.470 Statutory Requirements</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-            </xref>.</p>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="PART_5307">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5307</ph> — Acquisition Planning</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5307_1.dita#AFFARS_SUBPART_5307_1">SUBPART 5307.1 — ACQUISITION PLANS</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_104.dita#AFFARS_5307_104">5307.104 General Procedures</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_104-90.dita#AFFARS_5307_104_90">5307.104-90 Solicitation Release</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_104-91.dita#AFFARS_5307_104_91">5307.104-91 Changes  </xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_104-92.dita#AFFARS_5307_104_92">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority or SASS Approval Authority</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_105.dita#AFFARS_5307_105">5307.105 Contents of Written Acquisition Plans</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_107-2.dita#AFFARS_5307_107_2">5307.107-2 Consolidation</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5307_4.dita#AFFARS_SUBPART_5307_4">SUBPART 5307.4 — EQUIPMENT LEASE OR PURCHASE</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5307_470.dita#AFFARS_5307_470">5307.470 Statutory Requirements</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<p outputclass="Normal"
+ 					class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+					</xref>.</p>
+			</body>
+		</topic>
+	</dita>

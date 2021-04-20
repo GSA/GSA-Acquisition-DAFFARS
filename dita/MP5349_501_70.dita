@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita>
-   <concept id="changeme">
-      <title>
-         <ph props="autonumber" class="- topic/ph ">MP5349_501_70</ph>MP5349.501-70 Special Termination Costs</title>
-      <conbody>
-         <ol>
-            <li>(a) Contracting officers must refer to Volume 2A, Chapter 1, Section 010214, paragraph C.2.a of <xref format="html"
-                     href="http://comptroller.defense.gov/FMR.aspx"
-                     scope="external">DoD 7000.14-R, DoD Financial Management Regulation</xref>, for Congressional notification and additional approval requirements for Special Termination Cost Clauses (STCC). Because STCCs require special notification to Congress and entail a long approval process over which the Air Force has little control, the contracting officer should allow SAF/AQC sufficient time to process requests to use DFARS 252.249-7000, Special Termination Costs (i.e., not less than 90 days prior to contract award). The request must include the following: 
-<ol>
-                  <li>(i) A detailed breakdown of applicable cost categories in the clause at DFARS 252.249-7000, (a)(1) through (5), which includes the reasons for the anticipated incurrence of the costs in each category;</li>
-                  <li>(ii) Information on the financial and program need for the clause including an assessment of the contractor's financial position and the impact of a failure to receive authority to use the clause; and</li>
-                  <li>(iii) Clear evidence that only costs that arise directly from a termination would be compensated under the clause. Costs that would be incurred by the Government, regardless of whether a termination occurs, must not be covered by a STCC.</li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita>
+		<concept id="changeme">
+			<title>
+				<ph props="autonumber"
+  					class="- topic/ph ">MP5349_501_70</ph>MP5349.501-70 Special Termination Costs</title>
+			<conbody>
+				<ol>
+					<li>(a) Contracting officers must refer to Volume 2A, Chapter 1, Section 010214, paragraph C.2.a of <xref format="html"
+    							href="http://comptroller.defense.gov/FMR.aspx"
+    							scope="external">DoD 7000.14-R, DoD Financial Management Regulation</xref>, for Congressional notification and additional approval requirements for Special Termination Cost Clauses (STCC). Because STCCs require special notification to Congress and entail a long approval process over which the Air Force has little control, the contracting officer should allow SAF/AQC sufficient time to process requests to use DFARS 252.249-7000, Special Termination Costs (i.e., not less than 90 days prior to contract award). The request must include the following: <ol>
+							<li>(i) A detailed breakdown of applicable cost categories in the clause at DFARS 252.249-7000, (a)(1) through (5), which includes the reasons for the anticipated incurrence of the costs in each category;</li>
+							<li>(ii) Information on the financial and program need for the clause including an assessment of the contractor's financial position and the impact of a failure to receive authority to use the clause; and</li>
+							<li>(iii) Clear evidence that only costs that arise directly from a termination would be compensated under the clause. Costs that would be incurred by the Government, regardless of whether a termination occurs, must not be covered by a STCC.</li>
+						</ol>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

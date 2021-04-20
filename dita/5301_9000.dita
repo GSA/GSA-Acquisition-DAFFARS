@@ -1,136 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_9000"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5301.9000</ph> Scope and Definitions</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">(a)  This subpart establishes clearance requirements for the contract actions identified below:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)  An action intended to result in award of any contract or modification of any contract;</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(2)  An action intended to result in definitization of an undefinitized contract action (UCA), an undefinitized change order, or an undefinitized long lead contract;</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">(3)  An action intended to result in the pricing of:<ol class="- topic/ol ">
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(i)  an unpriced option or an option with a not-to-exceed price;</p>
-                              </li>
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(ii)  provisioned items orders (PIO); </p>
-                              </li>
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(iii)  unpriced orders under Blanket Purchase Agreements (BPAs), and FSS contracts, including GWACs; or</p>
-                              </li>
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(iv)  noncompetitive task or delivery orders under single or multiple award indefinite delivery-type contracts.</p>
-                              </li>
-                           </ol>
-                        </p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(4)  An action intended to result in issuance of a modification implementing a unilateral price determination;</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(5)  Orders issued under BOAs;</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(6)  An action intended to result in the exercise of an option when the option exercise is not in accordance with the previously approved pricing arrangement or other contract terms and conditions.</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">(b)  Excluded from business or contract clearances are:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)  Actions that create a UCA, undefinitized change order, undefinitized long lead contract;</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(2) Modifications for the payment of incentives or award fee that are in accordance with the terms and conditions of the incentive plan or award fee plan; </p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(3)  Funding modifications; </p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(4) Administrative modifications;</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(5)  Modifications solely for changes as a result of Service Contract Labor Standards statute wage rates/fringe benefits or Fair Labor Standards Act minimum wages; and</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(6)  Competitive order solicitations and orders issued in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">8.4</ph>, 13, or 16.5 and against existing MAC ID/IQ, GWACs, and FSS contracts in accordance with the terms and conditions and ordering procedures of the basic contract.  INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-15.pdf"
-                                 scope="external"
-                                 format="pdf"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u "> Policy Memo 20-C-15</u>
-                           </xref>.</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">(c)  “Business Clearance” means:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)  For competitive acquisitions, approval to issue the solicitation.</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(2)  For noncompetitive contract actions, approval to begin negotiations.</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(d)  “Begin negotiations” means, for the purpose of noncompetitive contract actions, starting discussions with an offeror for the purpose of reaching agreement on all aspects of the proposal.  Initiation of audits and fact-finding necessary to evaluate the proposal and develop the Government’s negotiation objective do not constitute negotiations.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">(e)  “Contract Clearance” means:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)  For competitive acquisitions conducted without discussions, approval by the clearance approval authority (CAA) for the Source Selection Authority (SSA) to make the decision to award.</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">(2)  For competitive acquisitions with discussions –<ol class="- topic/ol ">
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(i)  Approval by the CAA for the SSA to request final proposal revisions in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">15.307</ph>; and</p>
-                              </li>
-                              <li outputclass="List 3" class="- topic/li ">
-                                 <p outputclass="List 3" class="- topic/p ">(ii)  Approval by the CAA for the SSA to make a source selection decision.</p>
-                              </li>
-                           </ol>
-                        </p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(3)  For noncompetitive contract actions, approval by the CAA to award a contract or contract modification/contract action.</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(f) “Clearance Reviewer (CR)” means the independent reviewer and the primary advisor to the CAA for clearance.  The CR ensures the CAA has the information needed to make an informed decision.  The CR identifies deficiencies, assists in resolution, and advises the CAA as appropriate.  When the CR is not from the designated CR office or individual identified in the PGI and is selected by the CAA, the CR must be an experienced contracting professional, a Government employee, and must not review their own contract action. </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(g) “Clearance Approval Authority (CAA)” means the individual identified at 5301.9001(i)(1).</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(h) “Clearance Review” means the independent review performed by the designated CR office or individual identified in the PGI, or as otherwise selected by the CAA.</p>
-            </li>
-         </ol>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5301_9000.dita">SMC PGI 5301.9000</xref>
-            </ph>.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_5301_9000"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5301.9000</ph> Scope and Definitions</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(a)  This subpart establishes clearance requirements for the contract actions identified below:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  An action intended to result in award of any contract or modification of any contract;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)  An action intended to result in definitization of an undefinitized contract action (UCA), an undefinitized change order, or an undefinitized long lead contract;</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(3)  An action intended to result in the pricing of:<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i)  an unpriced option or an option with a not-to-exceed price;</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii)  provisioned items orders (PIO); </p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(iii)  unpriced orders under Blanket Purchase Agreements (BPAs), and FSS contracts, including GWACs; or</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(iv)  noncompetitive task or delivery orders under single or multiple award indefinite delivery-type contracts.</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4)  An action intended to result in issuance of a modification implementing a unilateral price determination;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5)  Orders issued under BOAs;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6)  An action intended to result in the exercise of an option when the option exercise is not in accordance with the previously approved pricing arrangement or other contract terms and conditions.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b)  Excluded from business or contract clearances are:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  Actions that create a UCA, undefinitized change order, undefinitized long lead contract;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2) Modifications for the payment of incentives or award fee that are in accordance with the terms and conditions of the incentive plan or award fee plan; </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)  Funding modifications; </p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(4) Administrative modifications;</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(5)  Modifications solely for changes as a result of Service Contract Labor Standards statute wage rates/fringe benefits or Fair Labor Standards Act minimum wages; and</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(6)  Competitive order solicitations and orders issued in accordance with FAR <ph outputclass="FAR"
+  											class="- topic/ph ">8.4</ph>, 13, or 16.5 and against existing MAC ID/IQ, GWACs, and FSS contracts in accordance with the terms and conditions and ordering procedures of the basic contract.  INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-15.pdf"
+    											scope="external"
+    											format="pdf"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u "> Policy Memo 20-C-15</u>
+										</xref>.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(c)  “Business Clearance” means:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  For competitive acquisitions, approval to issue the solicitation.</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)  For noncompetitive contract actions, approval to begin negotiations.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(d)  “Begin negotiations” means, for the purpose of noncompetitive contract actions, starting discussions with an offeror for the purpose of reaching agreement on all aspects of the proposal.  Initiation of audits and fact-finding necessary to evaluate the proposal and develop the Government’s negotiation objective do not constitute negotiations.</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(e)  “Contract Clearance” means:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)  For competitive acquisitions conducted without discussions, approval by the clearance approval authority (CAA) for the Source Selection Authority (SSA) to make the decision to award.</p>
+								</li>
+								<li class="- topic/li ">
+									<p class="- topic/p ">(2)  For competitive acquisitions with discussions –<ol class="- topic/ol ">
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(i)  Approval by the CAA for the SSA to request final proposal revisions in accordance with FAR <ph outputclass="FAR"
+  														class="- topic/ph ">15.307</ph>; and</p>
+											</li>
+											<li outputclass="List 3"
+  												class="- topic/li ">
+												<p outputclass="List 3"
+ 													class="- topic/p ">(ii)  Approval by the CAA for the SSA to make a source selection decision.</p>
+											</li>
+										</ol>
+									</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)  For noncompetitive contract actions, approval by the CAA to award a contract or contract modification/contract action.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(f) “Clearance Reviewer (CR)” means the independent reviewer and the primary advisor to the CAA for clearance.  The CR ensures the CAA has the information needed to make an informed decision.  The CR identifies deficiencies, assists in resolution, and advises the CAA as appropriate.  When the CR is not from the designated CR office or individual identified in the PGI and is selected by the CAA, the CR must be an experienced contracting professional, a Government employee, and must not review their own contract action. </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(g) “Clearance Approval Authority (CAA)” means the individual identified at 5301.9001(i)(1).</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(h) “Clearance Review” means the independent review performed by the designated CR office or individual identified in the PGI, or as otherwise selected by the CAA.</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5301_9000.dita">SMC PGI 5301.9000</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

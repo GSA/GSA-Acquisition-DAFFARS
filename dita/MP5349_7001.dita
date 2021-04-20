@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita>
-   <concept id="MP5349_7001">
-      <title>
-         <ph props="autonumber" class="- topic/ph ">MP5349.7001</ph> Congressional Notification on Significant Contract Terminations</title>
-      <conbody>
-         <ol>
-            <li outputclass="">(3)(v) “Contract price of the items terminated” means the contract price of the supplies or services not yet accepted that are being terminated. The contracting officer must not adjust this amount downward for progress or advance payments, accepted vouchered costs, or less than full funding and should use estimates when un-priced contract actions are being terminated, or when otherwise necessary.</li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita>
+		<concept id="MP5349_7001">
+			<title>
+				<ph props="autonumber"
+  					class="- topic/ph ">MP5349.7001</ph> Congressional Notification on Significant Contract Terminations</title>
+			<conbody>
+				<ol>
+					<li outputclass="">(3)(v) “Contract price of the items terminated” means the contract price of the supplies or services not yet accepted that are being terminated. The contracting officer must not adjust this amount downward for progress or advance payments, accepted vouchered costs, or less than full funding and should use estimates when un-priced contract actions are being terminated, or when otherwise necessary.</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

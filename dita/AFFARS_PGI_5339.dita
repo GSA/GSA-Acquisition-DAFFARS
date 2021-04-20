@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5339">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5339</ph> — Acquisition of Information Technology</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5339.dita#AFFARS_AFMC_PGI_5339">AFMC PGI 5339
-          — Acquisition of Information Technology</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5339_101-90.dita#AFFARS_AFMC_PGI_5339_101_90">AFMC PGI 5339.101-90
-          Policy</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5339">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5339</ph> — Acquisition of Information Technology</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5339.dita#AFFARS_AFMC_PGI_5339">AFMC PGI 5339 — Acquisition of Information Technology</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5339_101-90.dita#AFFARS_AFMC_PGI_5339_101_90">AFMC PGI 5339.101-90 Policy</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

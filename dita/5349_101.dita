@@ -1,41 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5349_101"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5349.101</ph> Authorities and Responsibilities</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(b) The SCO or command-appointed termination contracting officer (TCO) must approve a termination for default or cause prior to a contracting officer taking the action.  When requesting approval, the contracting officer must provide all relevant documents to include a chronology of key events, cure/show cause notices and responses thereto.</p>
-            </li>
-         </ol>
-         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AF_PGI_5349_101.dita">AF PGI 5349.101</xref>
-            </ph>.</p>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5349_101.dita">SMC PGI 5349.101</xref>
-            </ph>.</p>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="USAFA PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="USAFA_PGI_5349_101.dita">USAFA PGI 5349.101</xref>
-            </ph>.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_5349_101"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5349.101</ph> Authorities and Responsibilities</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) The SCO or command-appointed termination contracting officer (TCO) must approve a termination for default or cause prior to a contracting officer taking the action.  When requesting approval, the contracting officer must provide all relevant documents to include a chronology of key events, cure/show cause notices and responses thereto.</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5349_101.dita">AF PGI 5349.101</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5349_101.dita">SMC PGI 5349.101</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="USAFA PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="USAFA_PGI_5349_101.dita">USAFA PGI 5349.101</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

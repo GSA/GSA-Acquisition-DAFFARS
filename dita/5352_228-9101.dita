@@ -1,94 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5352_228_9101">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5352.228-9101</ph> Insurance Certificate Requirement in Spain (USAFE)</title>
-      <conbody>
-         <p outputclass="Normal (Web)">As prescribed at AFFARS <ph outputclass="AFFARS">
-               <xref format="dita" href="5328_310-90.dita" outputclass="fm:ParaNumOnly">5328.310-90</xref>
-            </ph>, insert the following clause in solicitations and contracts:</p>
-         <p outputclass="Normal (Web)">
-            <b>INSURANCE CERTIFICATE REQUIREMENT IN SPAIN (USAFE) (OCT 2019)</b>
-         </p>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) Below follows the Insurance Certificate required for any Third Country National (TCN) contractor, other than U.S. or Spanish, required for use under this contract. The certificate is provided to standardize base access procedures. It must be completed and signed by the policyholder and the insurer.</p>
-            </li>
-         </ol>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(b) The amount of coverage minimum is 90,151.82 Euros per insured party (personal injury), 60,101.21 Euros per accident (property damage), and 6, 010.12 Euros security deposit for legal fees. In all cases the amount of coverage, if different from the above amounts, will be determined by the insurer, except in situations where the minimum coverage applies.</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(c) The request for base access and the insurance certificate should be processed in accordance with <xref format="html" href="https://www.fcg.pentagon.mil/" scope="external">
-                     <u>DoD Foreign Clearance Guide</u>
-                  </xref> instructions for Spain.(d) Complete the following certification:</p>
-            </li>
-         </ol>
-         <p outputclass="Normal (Web)">
-            <b>INSURANCE CERTIFICATION</b>
-         </p>
-         <p outputclass="Normal (Web)">CERTIFICATE OF INSURANCE COVERAGE OF THE CIVIL LIABILITY REFERRED TO UNDER ARTICLE 5 OF ANNEX 6 TO THE AGREEMENT BETWEEN THE KINGDOM OF SPAIN AND THE UNITED STATES OF AMERICA ON COOPERATION FOR THE DEFENSE, SIGNED THE 1st OF DECEMBER 1988.</p>
-         <p outputclass="Normal (Web)">The insurance Company _______________________________________________ with legal domicile in _______________________________________________________________</p>
-         <p outputclass="Normal (Web)">Tel: __________________________ <b>
-               <i>of Spanish/US nationality, registered in the Mercantile Registry of_______________________________________</i>
-            </b> Date:____________________, Number________, Book:_______, Section _____, Volume________, Page_______.</p>
-         <p outputclass="Normal (Web)">CERTIFIES</p>
-         <p outputclass="Normal (Web)">That Mr./Mrs. ____________________of_____________________ nationality, with passport number_______________, has contracted with this company Policy Number _____________ of civil liability against damages to persons or property which could arise from his/her actions or omissions in the performance of his/her official functions/professional activities in Spain because of the contract of ______________________________________________________ for the U.S. forces, and during the visit which, in respect of such contract, he/she may make to the _______________ Military Base, according to the general conditions in force for this type of insurance and also to the special conditions created for this purpose in the Spanish-U.S. Permanent Committee; that he/she has paid the premium according to the agreed conditions; and that such Policy is in force.</p>
-         <p outputclass="Normal (Web)">The Policy establishes as coverage of the mentioned risks the following amounts:</p>
-         <p outputclass="Normal (Web)">
-            <b>
-               <u>INDEMNITY LIMITS</u>
-            </b>
-            <u>:</u>
-         </p>
-         <p outputclass="Normal (Web)">- For casualty: 601,012.10 Euros</p>
-         <p outputclass="Normal (Web)">With the following sub-limits for each injured person:</p>
-         <p outputclass="Normal (Web)">- For personal liability: 90,151.82 Euros</p>
-         <p outputclass="Normal (Web)">- For property damage: 60,101.21 Euros - For Judiciary Bond: 6, 010.12 Euros</p>
-         <p outputclass="Normal (Web)">The granted coverage is effective from ________________ through________________, and does not include any type of franchise, or similar limitation, to be deducted from the mentioned guarantees or any clause which requires the submission to any type of arbitration. The underwriting insurance company considers that the established amounts adequately cover the insured risks.</p>
-         <p outputclass="Normal (Web)">The policy sets forth the following clauses:</p>
-         <ol>
-            <li>
-               <p>1. “The insurance company waives any right of subrogation against the United States of America which may arise by reason of any payment under this Policy.”</p>
-            </li>
-            <li>
-               <p>2. “The parties hereto explicitly agree to submit to the jurisdiction of the Spanish Courts of Law and to the Spanish Laws to settle any matter related to the construction or enforcement of the clauses and conditions of this Policy.”</p>
-            </li>
-         </ol>
-         <p>IN WITNESS HEREOF, the present document is signed in______________________________, on the____________of_____________20____</p>
-         <p outputclass="Normal (Web)">______________________________________ ___________________________________ For the Insured Company <i>(signature)</i> For the Insurance <i>(signature)</i>
-         </p>
-         <p outputclass="Normal (Web)">CERTIFICADO DE COBERTURA DE SEGURO DE LA RESPONSABILIDAD CIVIL A QUE SE REFIERE EL ARTICULO 5 DEL ANEXO 6 AL CONVENIO ENTRE EL REINO DE ESPAÑA Y LOS ESTADOS UNIDOS DE AMERICA SOBRE COOPERACION PARA LA DEFENSA, FIRMADO EL DIA 1 DE DICIEMBRE DE 1988.</p>
-         <p outputclass="Normal (Web)">La Compañia de Seguros ______________________________________ con domicilio social en la Calle/Avda./Pla. ____________________________________________________________________, Tlfo.: _________________ , de nacionalidad española/norteamericana, inscrita en el Registro Mercantil de______________________________, fecha _________________, Número ________, Libro _________, Sección ______, Tomo _______, Folio_______.</p>
-         <p outputclass="Normal (Web)">CERTIFICA:</p>
-         <p outputclass="Normal (Web)">Que D. __________________________, de nacionalidad _________________________,provisto del pasaporte número _______________________, tiene suscrita con esta Compañia la Póliza número ____________________________, de responsabilidad civil contra daños a personas y cosas que pudieran derivarse de acciones u omisiones realizadas en el desempeño de sus funciones oficiales/actividades profesionales en España con ocasión del contrato de __________________________________________, para las Fuerzas de los EE.UU. y con la visita que en relación con dicho contrato realice a la Base Militar de ___________________________, según las condiciones generales vigentes para este tipo de seguros y además las condiciones especiales elaboradas a este fin en el Comité Permanente Hispano-Norteamericano; habiéndose satisfecho la prima según las condiciones pactadas, y encontrándose dicha Póliza en vigor.</p>
-         <p outputclass="Normal (Web)">La Póliza establece como cobertura de los riesgos mencionados las siguientes cuantías:</p>
-         <p outputclass="Normal (Web)">
-            <b>
-               <u>LIMITES DE INDEMNIZACION:</u>
-            </b>
-         </p>
-         <p outputclass="Normal (Web)">- Por siniestro: -------------------------- 601.012,10 Euros</p>
-         <p outputclass="Normal (Web)">Con los siguientes sublímites por perjudicado:</p>
-         <p outputclass="Normal (Web)">- Por daños personales:----------------- 90.151,82 Euros</p>
-         <p outputclass="Normal (Web)">- Por daños materiales: ----------------- 60.101,21 Euros - Por fianzas judiciales:-_--------------- 6.010,12 Euros</p>
-         <p outputclass="Normal (Web)">Las coberturas otorgadas son efectivas desde el ___________________________, hasta el _________________________, no incluyéndose en las mismas ningún tipo de franquicia o limitación similar a deducir de las garantías indicadas ni ninguna disposición que requiera la sumisión a cualquier tipo de arbitraje. La Compañia aseguradora que suscribe considera que las cuantías establecidas cubren adecuadamente los riesgos asegurados.</p>
-         <p outputclass="Normal (Web)">La Póliza establece las siguientes cláusulas:</p>
-         <ol>
-            <li>
-               <p>1. “La Compañia Aseguradora renuncia a cualquier derecho de subrogación contra los Estados Unidos de América que pueda provenir por razones diferentes a pago, bajo la Póliza epígrafiada.”</p>
-            </li>
-            <li>
-               <p>2. “Las partes se someten expresamente a la jurisdicción de los tribunales españoles y al derecho español para resolver cualquier cuestión relativa a la interpretación o aplicación de las cláusulas y condiciones de la Póliza.”</p>
-            </li>
-         </ol>
-         <p outputclass="Normal (Web)">Y para que conste a los efectos oportunos, se firma el presente en __________________ a _______________ de _____________ 2.0___._______________________________________ Tomador: Asegurador:</p>
-         <p outputclass="Normal (Web)">(END OF CERTIFICATE)</p>
-         <p id="p_p53522379001" outputclass="Normal">(End of Clause)</p>
-         <p id="p__Toc38365566" outputclass="Normal"/>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5352_228_9101">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5352.228-9101</ph> Insurance Certificate Requirement in Spain (USAFE)</title>
+			<conbody>
+				<p outputclass="Normal (Web)">As prescribed at AFFARS <ph outputclass="AFFARS">
+						<xref format="dita"
+    							href="5328_310-90.dita"
+    							outputclass="fm:ParaNumOnly">5328.310-90</xref>
+					</ph>, insert the following clause in solicitations and contracts:</p>
+				<p outputclass="Normal (Web)">
+					<b>INSURANCE CERTIFICATE REQUIREMENT IN SPAIN (USAFE) (OCT 2019)</b>
+				</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) Below follows the Insurance Certificate required for any Third Country National (TCN) contractor, other than U.S. or Spanish, required for use under this contract. The certificate is provided to standardize base access procedures. It must be completed and signed by the policyholder and the insurer.</p>
+					</li>
+				</ol>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(b) The amount of coverage minimum is 90,151.82 Euros per insured party (personal injury), 60,101.21 Euros per accident (property damage), and 6, 010.12 Euros security deposit for legal fees. In all cases the amount of coverage, if different from the above amounts, will be determined by the insurer, except in situations where the minimum coverage applies.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(c) The request for base access and the insurance certificate should be processed in accordance with <xref format="html"
+    								href="https://www.fcg.pentagon.mil/"
+    								scope="external">
+								<u>DoD Foreign Clearance Guide</u>
+							</xref> instructions for Spain.(d) Complete the following certification:</p>
+					</li>
+				</ol>
+				<p outputclass="Normal (Web)">
+					<b>INSURANCE CERTIFICATION</b>
+				</p>
+				<p outputclass="Normal (Web)">CERTIFICATE OF INSURANCE COVERAGE OF THE CIVIL LIABILITY REFERRED TO UNDER ARTICLE 5 OF ANNEX 6 TO THE AGREEMENT BETWEEN THE KINGDOM OF SPAIN AND THE UNITED STATES OF AMERICA ON COOPERATION FOR THE DEFENSE, SIGNED THE 1st OF DECEMBER 1988.</p>
+				<p outputclass="Normal (Web)">The insurance Company _______________________________________________ with legal domicile in _______________________________________________________________</p>
+				<p outputclass="Normal (Web)">Tel: __________________________ <b>
+						<i>of Spanish/US nationality, registered in the Mercantile Registry of_______________________________________</i>
+					</b> Date:____________________, Number________, Book:_______, Section _____, Volume________, Page_______.</p>
+				<p outputclass="Normal (Web)">CERTIFIES</p>
+				<p outputclass="Normal (Web)">That Mr./Mrs. ____________________of_____________________ nationality, with passport number_______________, has contracted with this company Policy Number _____________ of civil liability against damages to persons or property which could arise from his/her actions or omissions in the performance of his/her official functions/professional activities in Spain because of the contract of ______________________________________________________ for the U.S. forces, and during the visit which, in respect of such contract, he/she may make to the _______________ Military Base, according to the general conditions in force for this type of insurance and also to the special conditions created for this purpose in the Spanish-U.S. Permanent Committee; that he/she has paid the premium according to the agreed conditions; and that such Policy is in force.</p>
+				<p outputclass="Normal (Web)">The Policy establishes as coverage of the mentioned risks the following amounts:</p>
+				<p outputclass="Normal (Web)">
+					<b>
+						<u>INDEMNITY LIMITS</u>
+					</b>
+					<u>:</u>
+				</p>
+				<p outputclass="Normal (Web)">- For casualty: 601,012.10 Euros</p>
+				<p outputclass="Normal (Web)">With the following sub-limits for each injured person:</p>
+				<p outputclass="Normal (Web)">- For personal liability: 90,151.82 Euros</p>
+				<p outputclass="Normal (Web)">- For property damage: 60,101.21 Euros - For Judiciary Bond: 6, 010.12 Euros</p>
+				<p outputclass="Normal (Web)">The granted coverage is effective from ________________ through________________, and does not include any type of franchise, or similar limitation, to be deducted from the mentioned guarantees or any clause which requires the submission to any type of arbitration. The underwriting insurance company considers that the established amounts adequately cover the insured risks.</p>
+				<p outputclass="Normal (Web)">The policy sets forth the following clauses:</p>
+				<ol>
+					<li>
+						<p>1. “The insurance company waives any right of subrogation against the United States of America which may arise by reason of any payment under this Policy.”</p>
+					</li>
+					<li>
+						<p>2. “The parties hereto explicitly agree to submit to the jurisdiction of the Spanish Courts of Law and to the Spanish Laws to settle any matter related to the construction or enforcement of the clauses and conditions of this Policy.”</p>
+					</li>
+				</ol>
+				<p>IN WITNESS HEREOF, the present document is signed in______________________________, on the____________of_____________20____</p>
+				<p outputclass="Normal (Web)">______________________________________ ___________________________________ For the Insured Company <i>(signature)</i> For the Insurance <i>(signature)</i>
+				</p>
+				<p outputclass="Normal (Web)">CERTIFICADO DE COBERTURA DE SEGURO DE LA RESPONSABILIDAD CIVIL A QUE SE REFIERE EL ARTICULO 5 DEL ANEXO 6 AL CONVENIO ENTRE EL REINO DE ESPAÑA Y LOS ESTADOS UNIDOS DE AMERICA SOBRE COOPERACION PARA LA DEFENSA, FIRMADO EL DIA 1 DE DICIEMBRE DE 1988.</p>
+				<p outputclass="Normal (Web)">La Compañia de Seguros ______________________________________ con domicilio social en la Calle/Avda./Pla. ____________________________________________________________________, Tlfo.: _________________ , de nacionalidad española/norteamericana, inscrita en el Registro Mercantil de______________________________, fecha _________________, Número ________, Libro _________, Sección ______, Tomo _______, Folio_______.</p>
+				<p outputclass="Normal (Web)">CERTIFICA:</p>
+				<p outputclass="Normal (Web)">Que D. __________________________, de nacionalidad _________________________,provisto del pasaporte número _______________________, tiene suscrita con esta Compañia la Póliza número ____________________________, de responsabilidad civil contra daños a personas y cosas que pudieran derivarse de acciones u omisiones realizadas en el desempeño de sus funciones oficiales/actividades profesionales en España con ocasión del contrato de __________________________________________, para las Fuerzas de los EE.UU. y con la visita que en relación con dicho contrato realice a la Base Militar de ___________________________, según las condiciones generales vigentes para este tipo de seguros y además las condiciones especiales elaboradas a este fin en el Comité Permanente Hispano-Norteamericano; habiéndose satisfecho la prima según las condiciones pactadas, y encontrándose dicha Póliza en vigor.</p>
+				<p outputclass="Normal (Web)">La Póliza establece como cobertura de los riesgos mencionados las siguientes cuantías:</p>
+				<p outputclass="Normal (Web)">
+					<b>
+						<u>LIMITES DE INDEMNIZACION:</u>
+					</b>
+				</p>
+				<p outputclass="Normal (Web)">- Por siniestro: -------------------------- 601.012,10 Euros</p>
+				<p outputclass="Normal (Web)">Con los siguientes sublímites por perjudicado:</p>
+				<p outputclass="Normal (Web)">- Por daños personales:----------------- 90.151,82 Euros</p>
+				<p outputclass="Normal (Web)">- Por daños materiales: ----------------- 60.101,21 Euros - Por fianzas judiciales:-_--------------- 6.010,12 Euros</p>
+				<p outputclass="Normal (Web)">Las coberturas otorgadas son efectivas desde el ___________________________, hasta el _________________________, no incluyéndose en las mismas ningún tipo de franquicia o limitación similar a deducir de las garantías indicadas ni ninguna disposición que requiera la sumisión a cualquier tipo de arbitraje. La Compañia aseguradora que suscribe considera que las cuantías establecidas cubren adecuadamente los riesgos asegurados.</p>
+				<p outputclass="Normal (Web)">La Póliza establece las siguientes cláusulas:</p>
+				<ol>
+					<li>
+						<p>1. “La Compañia Aseguradora renuncia a cualquier derecho de subrogación contra los Estados Unidos de América que pueda provenir por razones diferentes a pago, bajo la Póliza epígrafiada.”</p>
+					</li>
+					<li>
+						<p>2. “Las partes se someten expresamente a la jurisdicción de los tribunales españoles y al derecho español para resolver cualquier cuestión relativa a la interpretación o aplicación de las cláusulas y condiciones de la Póliza.”</p>
+					</li>
+				</ol>
+				<p outputclass="Normal (Web)">Y para que conste a los efectos oportunos, se firma el presente en __________________ a _______________ de _____________ 2.0___._______________________________________ Tomador: Asegurador:</p>
+				<p outputclass="Normal (Web)">(END OF CERTIFICATE)</p>
+				<p id="p_p53522379001"
+ 					outputclass="Normal">(End of Clause)</p>
+				<p id="p__Toc38365566"
+ 					outputclass="Normal"/>
+			</conbody>
+		</concept>
+	</dita>

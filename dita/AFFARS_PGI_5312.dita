@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5312">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5312</ph> — Acquisition of Commercial Items</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5312.dita#AFFARS_AFMC_PGI_5312">AFMC PGI 5312
-          — Acquisition of Commercial Items</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5312_102.dita#AFFARS_AFMC_PGI_5312_102">AFMC PGI 5312.102 Applicability</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5312">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5312</ph> — Acquisition of Commercial Items</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5312.dita#AFFARS_AFMC_PGI_5312">AFMC PGI 5312 — Acquisition of Commercial Items</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5312_102.dita#AFFARS_AFMC_PGI_5312_102">AFMC PGI 5312.102 Applicability</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

@@ -1,157 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5301_603_2">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5301.603-2</ph> -90 Selection</title>
-      <conbody>
-         <p outputclass="Normal">INTERIM CHANGE: See <u>
-               <xref format="pdf"
-                     href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
-                     scope="external">Policy Memo 20-C-06</xref> (rescinds <xref format="pdf"
-                     href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
-                     scope="external">20-C-06</xref>).</u>
-         </p>
-         <p outputclass="Normal">Warrants are issued strictly in accordance with DFARS <ph outputclass="DFARS">201.603-2</ph>, this section, and MP5301.603.</p>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) <u>Warranting</u>. An individual selected for contracting officer appointment must be a military member in Air Force Specialty Code (AFSC) 64PX or 6C0X1 or a civilian in the GS-1102 occupational series who occupies a manned authorization listed under these specialty codes/series, and complies with the requirements at DFARS <ph outputclass="DFARS">201.603-2</ph>, in this section and in MP5301.603, and who possesses at a minimum, an Intermediate (Level II) Acquisition Professional Development Program (APDP) certification in contracting.</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(b) <u>Limited Warrants</u>. Military personnel in AFSC 64PX, 6C0X1 and civilians in the GS-1102 occupational series who occupy a manning authorization listed under these specialty codes/series and who comply with the requirements at DFARS <ph outputclass="DFARS">201.603-2</ph>, in this section, and in MP5301.603 with at least 2 years of experience in a contracting position, and Level I APDP certification in contracting may only be selected for limited warrants for amounts less than $5M Those contracting personnel who do not possess a Level I APDP certification in contracting (including Purchasing Agents in the GS-1105 series) may, with at least one year of contracting experience, be selected for limited warrants for amounts less than or equal to the SAT.</p>
-            </li>
-            <li>
-               <p>(c) <u>Local National (LN) Warrants</u>. LNs in an equivalent occupational series to GS-1102 may be selected for a contracting officer appointment in accordance with this section and MP5301.603 however, possession of an APDP certificate is not required:</p>
-               <ol>
-                  <li>
-                     <p>(1) An LN candidate for warrant above the SAT must meet the following minimum functional training, work experience, and formal education requirements: INTERIM CHANGE: See <xref format="pdf"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
-                              scope="external">
-                           <u>Policy Memo 20-C-13</u>
-                        </xref>
-                        <ph>
-                           <u>.</u>
-                        </ph>
-                     </p>
-                     <ol>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(i) Complete all contracting courses as required for a member of the Defense Acquisition Workforce for APDP certification in contracting required for the warrant amount;</p>
-                        </li>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(ii) Have at least two years of contracting experience; and,</p>
-                        </li>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(iii) Possess a baccalaureate degree (or the equivalent), including at least 24-semester credit hours (or the equivalent) in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management. INTERIM CHANGE: See <xref format="pdf"
-                                    href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
-                                    scope="external">
-                                 <u>Policy Memo 20-C-13</u>
-                              </xref>
-                              <ph>
-                                 <u>.</u>
-                              </ph>
-                           </p>
-                        </li>
-                     </ol>
-                     
-                     
-                     
-                     
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(2) LN candidates for warrants equal to $5M or more must meet a warrant board in accordance with MP5301.603.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(3) A LN candidate for a warrant less than or equal to the SAT must have at least one year of contracting experience.</p>
-                  </li>
-               </ol>
-               
-               
-               
-               
-            </li>
-            <li>
-               <p>(d) <u>Limited Home Station Warrants</u>. A member of the contingency contracting force in AFSC 6C0X1 who does not possess a baccalaureate degree and 24 semester credit hours from an accredited institution of higher education in any of the business disciplines may be nominated, evaluated, and selected for a limited home station warrant not to exceed $10M in accordance with this section, AFFARS <ph outputclass="AFFARS">
-                     <xref format="dita" href="PART_5318.dita" outputclass="fm:ParaNumOnly">5318</xref>
-                  </ph>, and MP5301.603:INTERIM CHANGE: See <xref format="pdf"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
-                        scope="external">
-                     <u>Policy Memo 20-C-13</u>
-                  </xref>
-                  <ph>
-                     <u>.</u>
-                  </ph>
-               </p>
-               <ol>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(1) Warrants for less than or equal to the SAT require a minimum of one year of contracting experience.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(2) Warrants above the SAT to less than $5M require a minimum of two years of contracting experience and a Level I or higher APDP certification in contracting.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(3) Candidates for Limited Home Station warrants equal to or greater than $5M, not to exceed $10M, must have a minimum of two years of contracting experience, a Level II or higher APDP certification in contracting, and must meet a warrant board in accordance with MP5301.603.</p>
-                  </li>
-               </ol>
-               
-               
-               
-               
-            </li>
-            <li>
-               <p>(e) <u>Contingency Contracting Officer (CCO) Warrants</u>.</p>
-               <ol>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(1) Candidates for CCO warrants for less than or equal to the SAT must have a minimum of one year of contracting experience.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(2) Candidates for CCO warrants above the SAT to less than $5M must have a minimum of two years of contracting experience and a Level I or higher APDP certification in contracting.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(3) Candidates for CCO warrants equal to or greater than $5M require a minimum of two years of contracting experience, a Level II or higher APDP certification in contracting, and meet a warrant board in accordance with MP5301.603.</p>
-                  </li>
-                  <li>
-                     <p>(4) CCO Appointments. SCOs must select and appoint CCOs and terminate their appointments in accordance with this section.</p>
-                     <ol>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(i) The nominating supervisor must complete the <xref format="pdf"
-                                    href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/co_appointment_warrant__transfer_termination_request.pdf"
-                                    scope="external">
-                                 <u>CCO Appointment/Termination Request</u>
-                              </xref>
-                              <ph>
-                                 <u>,</u>
-                              </ph> which will then be reviewed by a warrant process focal point (FP) in accordance with MP5301.603, paragraph 3.2.</p>
-                        </li>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(ii) SCOs may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations and AFRL detachments, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6.</p>
-                        </li>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(iii) SCOs may delegate authority to issue CCO warrants of less than $5M and terminate appointments of less than $5M, but in no event will the designee be lower than the COCO.</p>
-                        </li>
-                        <li outputclass="List 3">
-                           <p outputclass="List 3">(iv) AFICA/KC is the warranting authority for AFCENT CCOs.</p>
-                        </li>
-                     </ol>
-                     
-                     
-                     
-                     
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(5) Review of Air Force issued CCO warrants must be accomplished annually by the warrant process FP to ensure CCO training currency and to evaluate limitations set forth on the SF1402. The FP must maintain a record (hard copy or electronic) of these warrant validation results.</p>
-                  </li>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">(6) Termination of CCO/home station warrants must be accomplished when the</p>
-                  </li>
-               </ol>
-               
-               
-               
-               
-            </li>
-         </ol>
-         <p outputclass="Normal">CCO permanently changes duty station and must be permanently terminated once the CCO ceases filling a contingency/deployable position.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5301_603_2">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5301.603-2</ph> -90 Selection</title>
+			<conbody>
+				<p outputclass="Normal">INTERIM CHANGE: See <u>
+						<xref format="pdf"
+    							href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
+    							scope="external">Policy Memo 20-C-06</xref> (rescinds <xref format="pdf"
+    							href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-06.pdf"
+    							scope="external">20-C-06</xref>).</u>
+				</p>
+				<p outputclass="Normal">Warrants are issued strictly in accordance with DFARS <ph outputclass="DFARS">201.603-2</ph>, this section, and MP5301.603.</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) <u>Warranting</u>. An individual selected for contracting officer appointment must be a military member in Air Force Specialty Code (AFSC) 64PX or 6C0X1 or a civilian in the GS-1102 occupational series who occupies a manned authorization listed under these specialty codes/series, and complies with the requirements at DFARS <ph outputclass="DFARS">201.603-2</ph>, in this section and in MP5301.603, and who possesses at a minimum, an Intermediate (Level II) Acquisition Professional Development Program (APDP) certification in contracting.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(b) <u>Limited Warrants</u>. Military personnel in AFSC 64PX, 6C0X1 and civilians in the GS-1102 occupational series who occupy a manning authorization listed under these specialty codes/series and who comply with the requirements at DFARS <ph outputclass="DFARS">201.603-2</ph>, in this section, and in MP5301.603 with at least 2 years of experience in a contracting position, and Level I APDP certification in contracting may only be selected for limited warrants for amounts less than $5M Those contracting personnel who do not possess a Level I APDP certification in contracting (including Purchasing Agents in the GS-1105 series) may, with at least one year of contracting experience, be selected for limited warrants for amounts less than or equal to the SAT.</p>
+					</li>
+					<li>
+						<p>(c) <u>Local National (LN) Warrants</u>. LNs in an equivalent occupational series to GS-1102 may be selected for a contracting officer appointment in accordance with this section and MP5301.603 however, possession of an APDP certificate is not required:</p>
+						<ol>
+							<li>
+								<p>(1) An LN candidate for warrant above the SAT must meet the following minimum functional training, work experience, and formal education requirements: INTERIM CHANGE: See <xref format="pdf"
+    										href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
+    										scope="external">
+										<u>Policy Memo 20-C-13</u>
+									</xref>
+									<ph>
+										<u>.</u>
+									</ph>
+								</p>
+								<ol>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(i) Complete all contracting courses as required for a member of the Defense Acquisition Workforce for APDP certification in contracting required for the warrant amount;</p>
+									</li>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(ii) Have at least two years of contracting experience; and,</p>
+									</li>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(iii) Possess a baccalaureate degree (or the equivalent), including at least 24-semester credit hours (or the equivalent) in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management. INTERIM CHANGE: See <xref format="pdf"
+    												href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
+    												scope="external">
+												<u>Policy Memo 20-C-13</u>
+											</xref>
+											<ph>
+												<u>.</u>
+											</ph>
+										</p>
+									</li>
+								</ol>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) LN candidates for warrants equal to $5M or more must meet a warrant board in accordance with MP5301.603.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) A LN candidate for a warrant less than or equal to the SAT must have at least one year of contracting experience.</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<p>(d) <u>Limited Home Station Warrants</u>. A member of the contingency contracting force in AFSC 6C0X1 who does not possess a baccalaureate degree and 24 semester credit hours from an accredited institution of higher education in any of the business disciplines may be nominated, evaluated, and selected for a limited home station warrant not to exceed $10M in accordance with this section, AFFARS <ph outputclass="AFFARS">
+								<xref format="dita"
+    									href="PART_5318.dita"
+    									outputclass="fm:ParaNumOnly">5318</xref>
+							</ph>, and MP5301.603:INTERIM CHANGE: See <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-13.pdf"
+    								scope="external">
+								<u>Policy Memo 20-C-13</u>
+							</xref>
+							<ph>
+								<u>.</u>
+							</ph>
+						</p>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(1) Warrants for less than or equal to the SAT require a minimum of one year of contracting experience.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) Warrants above the SAT to less than $5M require a minimum of two years of contracting experience and a Level I or higher APDP certification in contracting.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) Candidates for Limited Home Station warrants equal to or greater than $5M, not to exceed $10M, must have a minimum of two years of contracting experience, a Level II or higher APDP certification in contracting, and must meet a warrant board in accordance with MP5301.603.</p>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<p>(e) <u>Contingency Contracting Officer (CCO) Warrants</u>.</p>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(1) Candidates for CCO warrants for less than or equal to the SAT must have a minimum of one year of contracting experience.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(2) Candidates for CCO warrants above the SAT to less than $5M must have a minimum of two years of contracting experience and a Level I or higher APDP certification in contracting.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(3) Candidates for CCO warrants equal to or greater than $5M require a minimum of two years of contracting experience, a Level II or higher APDP certification in contracting, and meet a warrant board in accordance with MP5301.603.</p>
+							</li>
+							<li>
+								<p>(4) CCO Appointments. SCOs must select and appoint CCOs and terminate their appointments in accordance with this section.</p>
+								<ol>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(i) The nominating supervisor must complete the <xref format="pdf"
+    												href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/co_appointment_warrant__transfer_termination_request.pdf"
+    												scope="external">
+												<u>CCO Appointment/Termination Request</u>
+											</xref>
+											<ph>
+												<u>,</u>
+											</ph> which will then be reviewed by a warrant process focal point (FP) in accordance with MP5301.603, paragraph 3.2.</p>
+									</li>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(ii) SCOs may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations and AFRL detachments, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6.</p>
+									</li>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(iii) SCOs may delegate authority to issue CCO warrants of less than $5M and terminate appointments of less than $5M, but in no event will the designee be lower than the COCO.</p>
+									</li>
+									<li outputclass="List 3">
+										<p outputclass="List 3">(iv) AFICA/KC is the warranting authority for AFCENT CCOs.</p>
+									</li>
+								</ol>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(5) Review of Air Force issued CCO warrants must be accomplished annually by the warrant process FP to ensure CCO training currency and to evaluate limitations set forth on the SF1402. The FP must maintain a record (hard copy or electronic) of these warrant validation results.</p>
+							</li>
+							<li outputclass="List 2">
+								<p outputclass="List 2">(6) Termination of CCO/home station warrants must be accomplished when the</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+				<p outputclass="Normal">CCO permanently changes duty station and must be permanently terminated once the CCO ceases filling a contingency/deployable position.</p>
+			</conbody>
+		</concept>
+	</dita>

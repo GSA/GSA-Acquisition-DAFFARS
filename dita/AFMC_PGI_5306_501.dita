@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_AFMC_PGI_5306_501">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">AFMC PGI 5306.501</ph> Requirement</title>
-      <conbody>
-         <p outputclass="Normal (Web)">The following subordinate organizations are designated "procuring activities" in AFMC:</p>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) Air Force Life Cycle Management Center (AFLCMC), Hanscom Operating Location, Eglin Operating Location</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(b) Air Force Sustainment Center (AFSC), Hill Operating Location, Robins Operating Location</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(c) Air Force Research Lab (AFRL), Air Force Office of Scientific Research (AFOSR), Rome Research Site, Phillips Research Site, Wright Research Site, and Eglin Research Site.</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(d) Air Force Test Center (AFTC)</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(e) Air Force Nuclear Weapons Center (AFNWC)</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(f) Air Force Installation and Mission Support Center (AFIMSC)</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1"/>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AFMC_PGI_5306_501">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AFMC PGI 5306.501</ph> Requirement</title>
+			<conbody>
+				<p outputclass="Normal (Web)">The following subordinate organizations are designated "procuring activities" in AFMC:</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) Air Force Life Cycle Management Center (AFLCMC), Hanscom Operating Location, Eglin Operating Location</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(b) Air Force Sustainment Center (AFSC), Hill Operating Location, Robins Operating Location</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(c) Air Force Research Lab (AFRL), Air Force Office of Scientific Research (AFOSR), Rome Research Site, Phillips Research Site, Wright Research Site, and Eglin Research Site.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(d) Air Force Test Center (AFTC)</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(e) Air Force Nuclear Weapons Center (AFNWC)</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(f) Air Force Installation and Mission Support Center (AFIMSC)</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1"/>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

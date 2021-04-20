@@ -1,100 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_AFMC_PGI_5306_304"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5306.304
-         </ph> Approval of the Justification</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">In accordance with AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="5306_304.dita">5306.304</xref>
-            </ph>(a), approval of J&amp;As has been delegated as set forth below: </p>
-         <p outputclass="Normal" class="- topic/p ">For AFMC, HPA is the center commander or director of the respective procuring activity.</p>
-         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-            <tgroup cols="3" class="- topic/tgroup ">
-               <colspec colname="col1"
-                        colwidth="98.55pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col2"
-                        colwidth="227.35pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col3"
-                        colwidth="141.6pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">J&amp;A Value</b>
-                        </p>
-                     </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Approval Authority</b>
-                        </p>
-                     </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Delegability</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">≤ $750K</p>
-                     </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">Contracting Officer, consistent with warrant level.  If warrant is less than justification value, Chief of the Contracting Office</p>
-                     </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">Not further delegable</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">&gt;$15M <u class="+ topic/ph hi-d/u ">&lt;</u> $100M</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Enterprise and Operational Contracting Actions Only:</b>
-                        </p>
-                        <p class="- topic/p ">HPA at AFSC has delegated approval authority to the Directors of Contracting at Hill, Robins, and Tinker if they are at the grade of GO/SES.</p>
-                        <p class="- topic/p ">The HPA at AFLCMC has delegated approval authority to the Directors of Contracting at AFLCMC and AFLCMC Hanscom OL if they are at the grade of GO/SES.</p>
-                        <p class="- topic/p ">The HPA for AFRL has delegated approval authority to the AFRL Executive Director, and approval authority from $15M to $50M to AFRL Technology Directors if they are at the grade of GO/SES.</p>
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">AFPEO/CM Portfolio Actions Only: </b>
-                        </p>
-                        <p class="- topic/p ">AFMC/CA, <xref href="https://cs2.eis.af.mil/sites/10148/afcc/contracting_services_reports/afmc%20services%20management%20agreement%20and%20delegations/forms/allitems.aspx"
-                                 scope="external"
-                                 format="aspx"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">or as delegated,</u>
-                           </xref> approves J&amp;As within the AFPEO/CM Portfolio when the following conditions apply:</p>
-                        <p class="- topic/p ">-The Program for which the J&amp;A is required is</p>
-                        <p class="- topic/p "> ≥ $100M &lt; $1B, and</p>
-                        <p class="- topic/p ">-The J&amp;A value itself is &gt; $15M ≤ $100M.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Delegable to Flag/General Officer or civilian SES</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFMC_PGI_5306_304"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5306.304</ph> Approval of the Justification</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">In accordance with AFFARS <ph outputclass="AFFARS"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="5306_304.dita">5306.304</xref>
+					</ph>(a), approval of J&amp;As has been delegated as set forth below: </p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">For AFMC, HPA is the center commander or director of the respective procuring activity.</p>
+				<table frame="all"
+     					rowsep="1"
+     					colsep="1"
+     					class="- topic/table ">
+					<tgroup cols="3"
+      						class="- topic/tgroup ">
+						<colspec colname="col1"
+       							colwidth="98.55pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col2"
+       							colwidth="227.35pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col3"
+       							colwidth="141.6pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<tbody class="- topic/tbody ">
+							<row class="- topic/row ">
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">J&amp;A Value</b>
+									</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Approval Authority</b>
+									</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Delegability</b>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">≤ $750K</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">Contracting Officer, consistent with warrant level.  If warrant is less than justification value, Chief of the Contracting Office</p>
+								</entry>
+								<entry valign="middle"
+     									class="- topic/entry ">
+									<p class="- topic/p ">Not further delegable</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">&gt;$15M <u class="+ topic/ph hi-d/u ">&lt;</u> $100M</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Enterprise and Operational Contracting Actions Only:</b>
+									</p>
+									<p class="- topic/p ">HPA at AFSC has delegated approval authority to the Directors of Contracting at Hill, Robins, and Tinker if they are at the grade of GO/SES.</p>
+									<p class="- topic/p ">The HPA at AFLCMC has delegated approval authority to the Directors of Contracting at AFLCMC and AFLCMC Hanscom OL if they are at the grade of GO/SES.</p>
+									<p class="- topic/p ">The HPA for AFRL has delegated approval authority to the AFRL Executive Director, and approval authority from $15M to $50M to AFRL Technology Directors if they are at the grade of GO/SES.</p>
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">AFPEO/CM Portfolio Actions Only: </b>
+									</p>
+									<p class="- topic/p ">AFMC/CA, <xref href="https://cs2.eis.af.mil/sites/10148/afcc/contracting_services_reports/afmc%20services%20management%20agreement%20and%20delegations/forms/allitems.aspx"
+    											scope="external"
+    											format="aspx"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">or as delegated,</u>
+										</xref> approves J&amp;As within the AFPEO/CM Portfolio when the following conditions apply:</p>
+									<p class="- topic/p ">-The Program for which the J&amp;A is required is</p>
+									<p class="- topic/p "> ≥ $100M &lt; $1B, and</p>
+									<p class="- topic/p ">-The J&amp;A value itself is &gt; $15M ≤ $100M.</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Delegable to Flag/General Officer or civilian SES</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</conbody>
+		</concept>
+	</dita>

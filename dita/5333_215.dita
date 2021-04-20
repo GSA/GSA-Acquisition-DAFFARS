@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5333_215">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5333.215</ph> Contract Clause</title>
-      <conbody>
-         <ol>
-            <li>
-               <p>(3) See MP5301.601(a)(i).</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5333_215">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5333.215</ph> Contract Clause</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(3) See MP5301.601(a)(i).</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5332_1106">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5332.1106</ph> EFT Mechanisms</title>
-      <conbody>
-         <ol>
-            <li>
-               <p>(b) INTERIM CHANGE: See <xref format="pdf"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                        scope="external">CPM 19-C-11.</xref>
-               </p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5332_1106">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5332.1106</ph> EFT Mechanisms</title>
+			<conbody>
+				<ol>
+					<li>
+						<p>(b) INTERIM CHANGE: See <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+    								scope="external">CPM 19-C-11.</xref>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

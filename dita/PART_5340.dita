@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5340">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">PART 5340</ph> — Reserved</title>
-      <body/>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PART_5340">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5340</ph> — Reserved</title>
+			<body/>
+		</topic>
+	</dita>

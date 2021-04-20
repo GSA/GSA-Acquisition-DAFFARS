@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5311">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5311</ph> — Describing Agency Needs</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5311.dita#AFFARS_AFMC_PGI_5311">AFMC PGI 5311
-          — Describing Agency Needs </xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5311_304-90.dita#AFFARS_AFMC_PGI_5311_304_90">AFMC PGI 5311.304-90 Contract Clause</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5311">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5311</ph> — Describing Agency Needs</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5311.dita#AFFARS_AFMC_PGI_5311">AFMC PGI 5311 — Describing Agency Needs </xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5311_304-90.dita#AFFARS_AFMC_PGI_5311_304_90">AFMC PGI 5311.304-90 Contract Clause</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

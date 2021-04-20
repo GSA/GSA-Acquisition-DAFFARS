@@ -1,43 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5308">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5308</ph> — Required Sources of Supplies and Services</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5308.dita#AFFARS_AF_PGI_5308">AF PGI 5308
-          — Required Sources of Supplies and Services</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5308_404-90.dita#AFFARS_AF_PGI_5308_404_90">AF PGI 5308.404-90
-          Use of Federal Supply Schedules </xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5308.dita#AFFARS_SMC_PGI_5308">SMC PGI 5308
-          — Required Sources of Supplies and Services</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5308_405-6.dita#AFFARS_SMC_PGI_5308_405_6">SMC PGI 5308.405-6
-          Limited Sources</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5308">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5308</ph> — Required Sources of Supplies and Services</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AF_PGI_5308.dita#AFFARS_AF_PGI_5308">AF PGI 5308 — Required Sources of Supplies and Services</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AF_PGI_5308_404-90.dita#AFFARS_AF_PGI_5308_404_90">AF PGI 5308.404-90 Use of Federal Supply Schedules </xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SMC_PGI_5308.dita#AFFARS_SMC_PGI_5308">SMC PGI 5308 — Required Sources of Supplies and Services</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5308_405-6.dita#AFFARS_SMC_PGI_5308_405_6">SMC PGI 5308.405-6 Limited Sources</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

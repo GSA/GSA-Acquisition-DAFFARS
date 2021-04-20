@@ -1,54 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="PART_5344">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">PART 5344</ph> — Subcontracting Policies and Procedures</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5344_2.dita#AFFARS_SUBPART_5344__2">SUBPART 5344. 2 — CONSENT TO
-      SUBCONTRACT</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_201-1.dita#AFFARS_5344_201_1">5344.201-1 Consent requirements</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_202-1.dita#AFFARS_5344_202_1">5344.202-1 Responsibilities</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_202-2.dita#AFFARS_5344_202_2">5344.202-2 Considerations</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5344_3.dita#AFFARS_SUBPART_5344__3">SUBPART 5344. 3 — CONTRACTOR PURCHASING SYSTEM REVIEWS</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_302.dita#AFFARS_5344_302">5344.302 Requirements</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-            </xref>.</p>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="PART_5344">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5344</ph> — Subcontracting Policies and Procedures</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5344_2.dita#AFFARS_SUBPART_5344__2">SUBPART 5344. 2 — CONSENT TO SUBCONTRACT</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5344_201-1.dita#AFFARS_5344_201_1">5344.201-1 Consent requirements</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5344_202-1.dita#AFFARS_5344_202_1">5344.202-1 Responsibilities</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5344_202-2.dita#AFFARS_5344_202_2">5344.202-2 Considerations</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SUBPART_5344_3.dita#AFFARS_SUBPART_5344__3">SUBPART 5344. 3 — CONTRACTOR PURCHASING SYSTEM REVIEWS</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="5344_302.dita#AFFARS_5344_302">5344.302 Requirements</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<p outputclass="Normal"
+ 					class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+					</xref>.</p>
+			</body>
+		</topic>
+	</dita>

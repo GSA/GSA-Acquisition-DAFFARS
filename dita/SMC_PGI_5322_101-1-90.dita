@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5322_101_1_90">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">SMC PGI 5322.101-1</ph> -90 General</title>
-      <conbody>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) See <xref format="docx"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/sample_RFP_language.docx"
-                        scope="external">
-                     <u>sample request for proposal language</u>
-                  </xref> for professional employee compensation plan evaluation as part of contractor responsibility.</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(b) During development of your acquisition strategy, think through how you intend to evaluate professional employee compensation to ensure you address in Section L the information you’ll need and can be clear in Section M where the evaluation lies (part of a technical subfactor, part of contractor responsibility, or other).</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(c) Be clear in your solicitation as to which labor rate you are going to assess in your professional employee compensation evaluation – burdened or unburdened, and stick with it!</p>
-            </li>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(d) <xref format="html"
-                        href="http://www.gao.gov/products/D14390"
-                        scope="external">
-                     <u>GAO case</u>
-                  </xref>
-                  <xref format="html"
-                        href="http://www.gao.gov/products/D14390"
-                        scope="external">
-                     <u>B-413091.2,</u>
-                     <u>MicroTechnologies</u>
-                     <u>, LLC</u>
-                  </xref>
-                  <u>.</u> Protest of the Air Force’s evaluation of the awardee’s proposed professional employee compensation plan is sustained where the evaluation was not adequately documented, the data relied upon by the agency did not provide a meaningful basis to evaluate the awardee’s proposed compensation, and the agency acknowledges that it mistakenly relied upon incorrect data from a salary survey.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5322_101_1_90">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">SMC PGI 5322.101-1</ph> -90 General</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) See <xref format="docx"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/sample_RFP_language.docx"
+    								scope="external">
+								<u>sample request for proposal language</u>
+							</xref> for professional employee compensation plan evaluation as part of contractor responsibility.</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(b) During development of your acquisition strategy, think through how you intend to evaluate professional employee compensation to ensure you address in Section L the information you’ll need and can be clear in Section M where the evaluation lies (part of a technical subfactor, part of contractor responsibility, or other).</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(c) Be clear in your solicitation as to which labor rate you are going to assess in your professional employee compensation evaluation – burdened or unburdened, and stick with it!</p>
+					</li>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(d) <xref format="html"
+    								href="http://www.gao.gov/products/D14390"
+    								scope="external">
+								<u>GAO case</u>
+							</xref>
+							<xref format="html"
+    								href="http://www.gao.gov/products/D14390"
+    								scope="external">
+								<u>B-413091.2,MicroTechnologies, LLC</u>
+							</xref>
+							<u>.</u> Protest of the Air Force’s evaluation of the awardee’s proposed professional employee compensation plan is sustained where the evaluation was not adequately documented, the data relied upon by the agency did not provide a meaningful basis to evaluate the awardee’s proposed compensation, and the agency acknowledges that it mistakenly relied upon incorrect data from a salary survey.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

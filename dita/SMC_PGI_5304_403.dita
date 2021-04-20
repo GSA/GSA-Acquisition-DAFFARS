@@ -1,42 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_SMC_PGI_5304_403"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5304.403
-         </ph> Responsibilities of Contracting Officers</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">For Department of Defense acquisitions in which the contractor will have access to or will produce classified information, the requirements for the contractor to safeguard that information are contained on a DD Form 254 (“Contract Security Classification Specification”), which is a contract attachment. The applicable rules addressing these information security requirements come to us from a series of Executive Orders and are implemented in the National Industrial Security Program Operating Manual (NISPOM) (DoD 5220.22-M), the Industrial Security Regulation (DoD 5220.22-R), and the Air Force Industrial Security Program Instruction (AFI 16-1406).</p>
-         <p outputclass="Normal" class="- topic/p ">The DD Form 254 does not itself define what information is classified – the documents that do so are typically incorporated by reference into the form – but rather it instructs the contractor how to behave when it handles and/or produces classified information. Because the DD Form 254 is the mechanism for communicating security requirements to contractors – and holding contractors accountable – solicitations should include a complete and accurate form that allows contractors to estimate the costs of the security measures it will need to provide during performance. Ultimately, the DD Form 254 is attached to awarded contracts and listed in Section J.</p>
-         <p outputclass="Normal" class="- topic/p ">The National Industrial Security Program (NISP) Contract Classification System (NCCS) is the primary tool used to accomplish DD Forms 254. Generally, the DD Form 254 is prepared by the program office, coordinated through the appropriate security office(s) (see below), and certified by the contracting officer in Block 17. Contracting officers are not expected to be expert in the security requirements, but would do well to keep the following in mind when reviewing the document for certification:</p>
-         <p outputclass="Normal" class="- topic/p ">•Ensure appropriate clauses and provisions have been included in Section I of the contract as prescribed in FAR / DFARS / AFFARS.</p>
-         <p outputclass="Normal" class="- topic/p ">•Ensure that the necessary security office review and coordination have been obtained. For all contracts dealing with classified information, this means SMC/ENX. For Sensitive Compartmented Information (SCI) (Block 10e), add SMC/INS. For Special Access Program (SAP) information (Block 10f), add AFOSI/PJ. Coordination by security offices may be evidenced by signature in Block 13 or via the NCCS.•Ensure the prospective contractor possesses the Facility Security Clearance required by Block 1a. If not, the contractor will need to be sponsored to receive the necessary clearance level by the Government submitting a request to the Defense Security Service (DSS).  Contractor facility clearances may be verified on the <xref href="http://www.dss.mil/"
-                  scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">DSS website</u>
-            </xref>.</p>
-         <p outputclass="Normal" class="- topic/p ">•Ensure the administrative information included on the form is accurate, such as solicitation number (Block 2c) or contract number (Block 2a), contractor data (Block 6), and Government information (Blocks 16 and 17).</p>
-         <p outputclass="Normal" class="- topic/p ">•Pay particular attention to any information included in Blocks 13 and 14, which are the line items used to include any contract-unique requirements, non-standard guidance, and program-specific information. Ensure any additional (likely cost-bearing) requirements added in Blocks 13 and 14 are reasonable and necessary.</p>
-         <p outputclass="Normal" class="- topic/p ">•Ensure that the distribution list in Block 18 is accurate. Paragraph 3.3 of AFI 16-1406 has detailed distribution instructions; contracting officers should also ensure the form is distributed to the coordinating security offices.</p>
-         <p outputclass="Normal" class="- topic/p ">The DD Form 254 and associated instruction sheet can be found on the <xref href="https://www.esd.whs.mil/Directives/forms/%20"
-                  scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">DoD Publications website</u>
-            </xref>.   </p>
-         <p outputclass="Normal" class="- topic/p ">From time to time, the security community may recommend for program office consideration changes to the DD Form 254 to bring it in line with current security requirements. Keep in mind that revisions to the form are changes to contract terms equivalent to revisions to other performance requirements such as those found in statements of work and require negotiation with the contractor, and may very likely incur additional cost. Revised DD Forms 254 are incorporated into the contract via modification.</p>
-         <p outputclass="Normal" class="- topic/p ">Note that the DD Form 254 does not include a period of performance or a date indicating its validity timeframe – as an attachment to the contract, it expires when the contract does. (See the Description section, item c., of the Instructions for Completing DD Form 254 referenced in AFI 16-1406.)</p>
-         <p outputclass="Normal" class="- topic/p ">Do not issue a revised DD Form 254 when exercising an option. There are no changes to contract terms, and the initial / current DD Form 254 is still valid (remember, there are no expiration dates associated with the Form). (See the section for Block 3b, item (2), of the Instructions for Completing DD Form 254 referenced in AFI 16-1406.) DD Forms 254 do not require re-certification or re-coordination for option exercises.</p>
-         <p id="p__SMC_PGI_5304.606" outputclass="Normal" class="- topic/p ">Upon contract completion, a “Final” DD Form 254 may be issued if it is necessary to grant the contractor additional retention of classified materials (following the end of the contract’s period of performance) beyond the automatic two-year retention period authorized by the NISPOM.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_SMC_PGI_5304_403"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5304.403</ph> Responsibilities of Contracting Officers</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">For Department of Defense acquisitions in which the contractor will have access to or will produce classified information, the requirements for the contractor to safeguard that information are contained on a DD Form 254 (“Contract Security Classification Specification”), which is a contract attachment. The applicable rules addressing these information security requirements come to us from a series of Executive Orders and are implemented in the National Industrial Security Program Operating Manual (NISPOM) (DoD 5220.22-M), the Industrial Security Regulation (DoD 5220.22-R), and the Air Force Industrial Security Program Instruction (AFI 16-1406).</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">The DD Form 254 does not itself define what information is classified – the documents that do so are typically incorporated by reference into the form – but rather it instructs the contractor how to behave when it handles and/or produces classified information. Because the DD Form 254 is the mechanism for communicating security requirements to contractors – and holding contractors accountable – solicitations should include a complete and accurate form that allows contractors to estimate the costs of the security measures it will need to provide during performance. Ultimately, the DD Form 254 is attached to awarded contracts and listed in Section J.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">The National Industrial Security Program (NISP) Contract Classification System (NCCS) is the primary tool used to accomplish DD Forms 254. Generally, the DD Form 254 is prepared by the program office, coordinated through the appropriate security office(s) (see below), and certified by the contracting officer in Block 17. Contracting officers are not expected to be expert in the security requirements, but would do well to keep the following in mind when reviewing the document for certification:</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">•Ensure appropriate clauses and provisions have been included in Section I of the contract as prescribed in FAR / DFARS / AFFARS.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">•Ensure that the necessary security office review and coordination have been obtained. For all contracts dealing with classified information, this means SMC/ENX. For Sensitive Compartmented Information (SCI) (Block 10e), add SMC/INS. For Special Access Program (SAP) information (Block 10f), add AFOSI/PJ. Coordination by security offices may be evidenced by signature in Block 13 or via the NCCS.•Ensure the prospective contractor possesses the Facility Security Clearance required by Block 1a. If not, the contractor will need to be sponsored to receive the necessary clearance level by the Government submitting a request to the Defense Security Service (DSS).  Contractor facility clearances may be verified on the <xref href="http://www.dss.mil/"
+    						scope="external"
+    						format="html"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">DSS website</u>
+					</xref>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">•Ensure the administrative information included on the form is accurate, such as solicitation number (Block 2c) or contract number (Block 2a), contractor data (Block 6), and Government information (Blocks 16 and 17).</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">•Pay particular attention to any information included in Blocks 13 and 14, which are the line items used to include any contract-unique requirements, non-standard guidance, and program-specific information. Ensure any additional (likely cost-bearing) requirements added in Blocks 13 and 14 are reasonable and necessary.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">•Ensure that the distribution list in Block 18 is accurate. Paragraph 3.3 of AFI 16-1406 has detailed distribution instructions; contracting officers should also ensure the form is distributed to the coordinating security offices.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">The DD Form 254 and associated instruction sheet can be found on the <xref href="https://www.esd.whs.mil/Directives/forms/%20"
+    						scope="external"
+    						format="html"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">DoD Publications website</u>
+					</xref>.   </p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">From time to time, the security community may recommend for program office consideration changes to the DD Form 254 to bring it in line with current security requirements. Keep in mind that revisions to the form are changes to contract terms equivalent to revisions to other performance requirements such as those found in statements of work and require negotiation with the contractor, and may very likely incur additional cost. Revised DD Forms 254 are incorporated into the contract via modification.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">Note that the DD Form 254 does not include a period of performance or a date indicating its validity timeframe – as an attachment to the contract, it expires when the contract does. (See the Description section, item c., of the Instructions for Completing DD Form 254 referenced in AFI 16-1406.)</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">Do not issue a revised DD Form 254 when exercising an option. There are no changes to contract terms, and the initial / current DD Form 254 is still valid (remember, there are no expiration dates associated with the Form). (See the section for Block 3b, item (2), of the Instructions for Completing DD Form 254 referenced in AFI 16-1406.) DD Forms 254 do not require re-certification or re-coordination for option exercises.</p>
+				<p id="p__SMC_PGI_5304.606"
+ 					outputclass="Normal"
+ 					class="- topic/p ">Upon contract completion, a “Final” DD Form 254 may be issued if it is necessary to grant the contractor additional retention of classified materials (following the end of the contract’s period of performance) beyond the automatic two-year retention period authorized by the NISPOM.</p>
+			</conbody>
+		</concept>
+	</dita>

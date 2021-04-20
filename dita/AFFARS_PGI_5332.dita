@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5332">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5332</ph> — Contract Financing</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5332.dita#AFFARS_AFMC_PGI_5332">AFMC PGI 5332
-          — Contract Financing</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5332_703.dita#AFFARS_AFMC_PGI_5332_703">AFMC PGI 5332.703
-          Contract Funding Requirements</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFDW_PGI_5332_7.dita#AFDW_PGI_5332_7">AFDW PGI 5332.7AFDW PGI 5332.7 Contract Funding</xref>
-               </p>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5332">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5332</ph> — Contract Financing</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5332.dita#AFFARS_AFMC_PGI_5332">AFMC PGI 5332 — Contract Financing</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5332_703.dita#AFFARS_AFMC_PGI_5332_703">AFMC PGI 5332.703 Contract Funding Requirements</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFDW_PGI_5332_7.dita#AFDW_PGI_5332_7">AFDW PGI 5332.7AFDW PGI 5332.7 Contract Funding</xref>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

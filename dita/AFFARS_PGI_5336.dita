@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5336">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5336</ph> — Construction and Architect-Engineer Contracts</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5336.dita#AFFARS_AF_PGI_5336">AF PGI 5336
-          — Construction and Architect-Engineer Contracts</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5336_9001.dita#AFFARS_AF_PGI_5336_9001">AF PGI 5336.9001
-          Forms</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5336_9002.dita#AFFARS_AF_PGI_5336_9002">AF PGI 5336.9002
-          Air Force Construction Guide</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5336">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5336</ph> — Construction and Architect-Engineer Contracts</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AF_PGI_5336.dita#AFFARS_AF_PGI_5336">AF PGI 5336 — Construction and Architect-Engineer Contracts</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AF_PGI_5336_9001.dita#AFFARS_AF_PGI_5336_9001">AF PGI 5336.9001 Forms</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AF_PGI_5336_9002.dita#AFFARS_AF_PGI_5336_9002">AF PGI 5336.9002 Air Force Construction Guide</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

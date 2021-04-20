@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="PART_5310">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">PART 5310</ph> — Market Research</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="5310_002.dita#AFFARS_5310_002">5310.002 Procedures</xref>
-               </p>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="PART_5310">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">PART 5310</ph> — Market Research</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="5310_002.dita#AFFARS_5310_002">5310.002 Procedures</xref>
+						</p>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

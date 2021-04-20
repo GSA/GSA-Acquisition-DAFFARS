@@ -1,49 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PGI_5327">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5327</ph> — Patents, Data, and Copyrights</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5327.dita#AFFARS_AFMC_PGI_5327">AFMC PGI 5327
-          — Patents, Data, and Copyrights</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5327_7102-2.dita#AFFARS_FMC_PGI_5327_7102_2">FMC PGI 5327.7102-2 Rights in Technical Data</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5327_9001.dita#AFFARS_AFMC_PGI_5327_9001">AFMC PGI 5327.9001
-          Foreign Disclosure Reviews </xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5327.dita#AFFARS_SMC_PGI_5327">SMC PGI 5327
-          — Patents, Data, and Copyrights</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5327_304-90.dita#AFFARS_SMC_PGI_5327_304_90">SMC PGI 5327.304-90
-             Procedures</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita>
+		<topic id="AFFARS_PGI_5327">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">AFFARS PGI 5327</ph> — Patents, Data, and Copyrights</title>
+			<body>
+				<ul otherprops="TOC">
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="AFMC_PGI_5327.dita#AFFARS_AFMC_PGI_5327">AFMC PGI 5327 — Patents, Data, and Copyrights</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5327_7102-2.dita#AFFARS_FMC_PGI_5327_7102_2">FMC PGI 5327.7102-2 Rights in Technical Data</xref>
+								</p>
+							</li>
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="AFMC_PGI_5327_9001.dita#AFFARS_AFMC_PGI_5327_9001">AFMC PGI 5327.9001 Foreign Disclosure Reviews </xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<p>
+							<xref outputclass="fm:TOC"
+    								href="SMC_PGI_5327.dita#AFFARS_SMC_PGI_5327">SMC PGI 5327 — Patents, Data, and Copyrights</xref>
+						</p>
+						<ul otherprops="TOC">
+							<li>
+								<p>
+									<xref outputclass="fm:TOC"
+    										href="SMC_PGI_5327_304-90.dita#AFFARS_SMC_PGI_5327_304_90">SMC PGI 5327.304-90    Procedures</xref>
+								</p>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</body>
+		</topic>
+	</dita>

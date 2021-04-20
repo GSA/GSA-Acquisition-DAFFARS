@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_AF_PGI_5319_505">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">AFMC PGI 5319.505</ph> Rejecting Small Business Administration Recommendations</title>
-      <conbody>
-         <ol>
-            <li id="li__AFMC_PGI_5319.602-3" outputclass="List 1">
-               <p outputclass="List 1">(d) Notify the local Small Business Office when the SBA procurement center representative appeals to the agency head (SAF/AQ) the contracting officer’s rejection of an SBA recommendation of a Small Business Set-Aside and keep the Small Business Office informed as the appeal process proceeds. If a Small Business Appeal is filed with the agency head, the contracting officer’s appeal file should be coordinated through the local small business office, legal office, and Clearance and Program Support office, then submitted by the SCO to SAF/SB. Provide a copy to <xref format="mailto"
-                        href="mailto:afmc.sb.workflow@us.af.mil"
-                        scope="external">
-                     <u>AFMC/SB</u>
-                  </xref>.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AF_PGI_5319_505">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AFMC PGI 5319.505</ph> Rejecting Small Business Administration Recommendations</title>
+			<conbody>
+				<ol>
+					<li id="li__AFMC_PGI_5319.602-3"
+  						outputclass="List 1">
+						<p outputclass="List 1">(d) Notify the local Small Business Office when the SBA procurement center representative appeals to the agency head (SAF/AQ) the contracting officer’s rejection of an SBA recommendation of a Small Business Set-Aside and keep the Small Business Office informed as the appeal process proceeds. If a Small Business Appeal is filed with the agency head, the contracting officer’s appeal file should be coordinated through the local small business office, legal office, and Clearance and Program Support office, then submitted by the SCO to SAF/SB. Provide a copy to <xref format="mailto"
+    								href="mailto:afmc.sb.workflow@us.af.mil"
+    								scope="external">
+								<u>AFMC/SB</u>
+							</xref>.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

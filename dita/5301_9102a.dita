@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_AFMC_PGI_5301_9102">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">AFMC PGI 5301.9102</ph> Policy</title>
-      <conbody>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) Center Commanders appoint an ombudsman (and alternate ombudsman, if desired) with notification of the appointment(s) to AFMC/PK.</p>
-            </li>
-         </ol>
-         <p outputclass="Normal">
-            <u>For AFLCMC</u>:</p>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) See <xref format="pdf"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_Appt_Ltr_Ombudsman.pdf"
-                        scope="external">
-                     <u>Appointment of AFLCMC Ombudsman Memo</u>
-                  </xref> for information regarding the PEO organizational structure and Ombudsman appointments at AFLCMC operating locations.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AFMC_PGI_5301_9102">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AFMC PGI 5301.9102</ph> Policy</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) Center Commanders appoint an ombudsman (and alternate ombudsman, if desired) with notification of the appointment(s) to AFMC/PK.</p>
+					</li>
+				</ol>
+				<p outputclass="Normal">
+					<u>For AFLCMC</u>:</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) See <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_Appt_Ltr_Ombudsman.pdf"
+    								scope="external">
+								<u>Appointment of AFLCMC Ombudsman Memo</u>
+							</xref> for information regarding the PEO organizational structure and Ombudsman appointments at AFLCMC operating locations.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

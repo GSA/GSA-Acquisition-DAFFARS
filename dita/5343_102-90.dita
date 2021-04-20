@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5343_102_90"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5343.102-90</ph> Contract Scope Considerations</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">Contracting officers shall assess scope when modifying contracts.  Proposed modifications generally constitute new work when, a) an individual modification or the cumulative effect from previous modifications result in changes that were not fairly and reasonably within the contemplation of the parties when the contract was awarded; or b) when proposed changes are not within the terms of the original contract award.  New work requires competition unless one of the seven exceptions to competition found in FAR <ph outputclass="FAR" class="- topic/ph ">6.302</ph> applies.</p>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5343_102-90.dita">SMC PGI 5343.102-90</xref>
-            </ph>.</p>
-         <p id="p__Toc38365518" outputclass="Normal (Web)" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AF_PGI_5343_103-90.dita">AF PGI 5343.103-90</xref>
-            </ph>.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_5343_102_90"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5343.102-90</ph> Contract Scope Considerations</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Contracting officers shall assess scope when modifying contracts.  Proposed modifications generally constitute new work when, a) an individual modification or the cumulative effect from previous modifications result in changes that were not fairly and reasonably within the contemplation of the parties when the contract was awarded; or b) when proposed changes are not within the terms of the original contract award.  New work requires competition unless one of the seven exceptions to competition found in FAR <ph outputclass="FAR"
+  						class="- topic/ph ">6.302</ph> applies.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5343_102-90.dita">SMC PGI 5343.102-90</xref>
+					</ph>.</p>
+				<p id="p__Toc38365518"
+ 					outputclass="Normal (Web)"
+ 					class="- topic/p ">See <ph outputclass="AF PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AF_PGI_5343_103-90.dita">AF PGI 5343.103-90</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

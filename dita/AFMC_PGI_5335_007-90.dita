@@ -1,110 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_AFMC_PGI_5335_007_90"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5335.007-90
-         </ph> Suggested Contract Language</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The contracting officer may include the following suggested contract language substantially as written in the PWS/SOW, when the decision to award and performance is conditioned, in large part, on the qualifications of the principal investigator and/or the key members of the research team:</p>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(a) Contractor personnel holding the position titles and having the minimum qualifications listed below are considered essential to the work being performed under this contract:</i>
-               </p>
-            </li>
-         </ol>
-         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-            <tgroup cols="3" class="- topic/tgroup ">
-               <colspec colname="col1"
-                        colwidth="136.65pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col2"
-                        colwidth="13.4pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col3"
-                        colwidth="255.7pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">
-                              <i class="+ topic/ph hi-d/i ">Key Positions:</i>
-                           </b>
-                        </p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">
-                              <i class="+ topic/ph hi-d/i ">Minimum Qualifications:</i>
-                           </b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <i class="+ topic/ph hi-d/i ">(list by job title)</i>
-                        </p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <i class="+ topic/ph hi-d/i ">(list minimum qualifications in terms of education</i>
-                        </p>
-                        <p class="- topic/p ">
-                           <i class="+ topic/ph hi-d/i "> and/or experience)</i>
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________</p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________</p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________</p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">________________________________________</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(b) The contractor shall notify the contracting officer before the departure of any individual in a key position and identify the proposed substitution. Any proposed personnel substitution that does not meet the minimum qualification requirements described above requires the prior written approval of the contracting officer.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFMC_PGI_5335_007_90"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5335.007-90</ph> Suggested Contract Language</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">The contracting officer may include the following suggested contract language substantially as written in the PWS/SOW, when the decision to award and performance is conditioned, in large part, on the qualifications of the principal investigator and/or the key members of the research team:</p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(a) Contractor personnel holding the position titles and having the minimum qualifications listed below are considered essential to the work being performed under this contract:</i>
+						</p>
+					</li>
+				</ol>
+				<table frame="all"
+     					rowsep="1"
+     					colsep="1"
+     					class="- topic/table ">
+					<tgroup cols="3"
+      						class="- topic/tgroup ">
+						<colspec colname="col1"
+       							colwidth="136.65pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col2"
+       							colwidth="13.4pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col3"
+       							colwidth="255.7pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<tbody class="- topic/tbody ">
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">
+											<i class="+ topic/ph hi-d/i ">Key Positions:</i>
+										</b>
+									</p>
+								</entry>
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">
+											<i class="+ topic/ph hi-d/i ">Minimum Qualifications:</i>
+										</b>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<i class="+ topic/ph hi-d/i ">(list by job title)</i>
+									</p>
+								</entry>
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<i class="+ topic/ph hi-d/i ">(list minimum qualifications in terms of education</i>
+									</p>
+									<p class="- topic/p ">
+										<i class="+ topic/ph hi-d/i "> and/or experience)</i>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________</p>
+								</entry>
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________________________________</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________</p>
+								</entry>
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________________________________</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________</p>
+								</entry>
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">________________________________________</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) The contractor shall notify the contracting officer before the departure of any individual in a key position and identify the proposed substitution. Any proposed personnel substitution that does not meet the minimum qualification requirements described above requires the prior written approval of the contracting officer.</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

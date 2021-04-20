@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_546"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">546</ph>ReplaceMe
-      </title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">Warrants are terminated when no longer needed, for cause, or upon the departure of the CO from the issuing organization.  The initiator of a warrant termination, typically the CO’s immediate supervisor,  must request the termination of a warrant; whether for cause (unsatisfactory performance), reassignment, or employment termination (including retirement), using the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/co_appointment_warrant__transfer_termination_request.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Contracting Officer Appointment/Warrant Eligibility Transfer/Termination Request</u>
-            </xref> or the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/CCO_appoint_term_request.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CCO Appointment /Termination Request</u>
-            </xref> template, as applicable.  The termination of appointment is accomplished by completing Section I of the Contracting Officer (CO) Appointment/Warrant Eligibility Transfer/Termination Request.  Submit warrant termination requests to the FP at least 14 days prior to the requested termination date.  The termination is signed by the appointing official.  The completed/signed termination is returned to the FP for file retention (hard copy or electronic).  The FP updates the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/AFWarrantTracking/Pages/Warrant.aspx"
-                  scope="external"
-                  format="aspx"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFCOWTT</u>
-            </xref> to reflect the termination.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_546"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph props="autonumber"
+  					class="- topic/ph ">546</ph>ReplaceMe</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Warrants are terminated when no longer needed, for cause, or upon the departure of the CO from the issuing organization.  The initiator of a warrant termination, typically the CO’s immediate supervisor,  must request the termination of a warrant; whether for cause (unsatisfactory performance), reassignment, or employment termination (including retirement), using the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/co_appointment_warrant__transfer_termination_request.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">Contracting Officer Appointment/Warrant Eligibility Transfer/Termination Request</u>
+					</xref> or the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/CCO_appoint_term_request.pdf"
+    						scope="external"
+    						format="pdf"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">CCO Appointment /Termination Request</u>
+					</xref> template, as applicable.  The termination of appointment is accomplished by completing Section I of the Contracting Officer (CO) Appointment/Warrant Eligibility Transfer/Termination Request.  Submit warrant termination requests to the FP at least 14 days prior to the requested termination date.  The termination is signed by the appointing official.  The completed/signed termination is returned to the FP for file retention (hard copy or electronic).  The FP updates the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/AFWarrantTracking/Pages/Warrant.aspx"
+    						scope="external"
+    						format="aspx"
+    						class="- topic/xref ">
+						<u class="+ topic/ph hi-d/u ">AFCOWTT</u>
+					</xref> to reflect the termination.</p>
+			</conbody>
+		</concept>
+	</dita>

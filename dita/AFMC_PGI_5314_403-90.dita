@@ -1,65 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_AFMC_PGI_5314_403_90"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5314.403-90
-         </ph> Recording of Bids</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">When recording bids, here is some helpful guidance to meet the FAR <ph outputclass="FAR" class="- topic/ph ">14.403</ph> requirements relative to recording of bids plus help to stay on top of the status of bids in an organized and efficient manner.</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">(a)  The Bid Opening Officer should develop a systematic method of recording the bids.  One proven method is as follows:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)Annotate special circumstances on the SF Form 1409 / 1410 (Abstract of Offer/Continuation) as appropriate:  (i.e., no bids were received, alternate bids received, bids were received with quoted prices that are not firm, an acceptable late bid was received, etc.).</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(2)Forward two copies of the Abstract to the appropriate buying office along with the opened bids.  The bid opening official should verify the accuracy of the bid(s) information prior to forwarding the two copies.</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(3)Forward all late, unacceptable bids to the appropriate buying office with a memo providing the bidder information and the time of receipt of the bid.</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">(b)  Buying personnel should complete the SF Form 1409 / 1410 (Abstract of Offer/Continuation) or Optional Form 1419 / 1419A (Abstract of Offer Construction/Continuation) as follows:<ol class="- topic/ol ">
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(1)The accepted price should be prominently displayed to facilitate quick identification/flagging of the information.  If the quantity accepted is different from that called for on the solicitation, the accepted quantity (variance) should also be flagged.</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(2)If a low offer is rejected and one at a higher price is accepted, identify the reason for the rejected offer(s) in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">14.403</ph>(b).  However, do not annotate any information concerning contractor responsibility, or other sensitive information not releasable to the public, on the SF Form 1409/1410 (this information should be documented separately in the file).</p>
-                     </li>
-                     <li outputclass="List 2" class="- topic/li ">
-                        <p outputclass="List 2" class="- topic/p ">(3)The following award information should be included at the bottom of the listing of offerors and prices: (i) contract number; (ii) list of CLINs awarded; (iii) total amount of award; and (iv) a statement that price(s) are considered fair and reasonable based on competition:</p>
-                     </li>
-                  </ol>
-               </p>
-            </li>
-         </ol>
-         <p outputclass="Normal" class="- topic/p ">       
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">EXAMPLE</u>
-            </i>
-            <i class="+ topic/ph hi-d/i ">:  CONTRACT NR:  F09603-00-C-9876</i>
-         </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">     CLINS AWARDED:  0001 - 0003</i>
-         </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">     TOTAL AWARD AMOUNT:  $1,345,789</i>
-         </p>
-         <p id="p__AFMC_PGI_5314.404-1" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">     Price is considered fair and reasonable based on adequate price competition.</i>
-         </p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFMC_PGI_5314_403_90"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AFMC PGI 5314.403-90</ph> Recording of Bids</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">When recording bids, here is some helpful guidance to meet the FAR <ph outputclass="FAR"
+  						class="- topic/ph ">14.403</ph> requirements relative to recording of bids plus help to stay on top of the status of bids in an organized and efficient manner.</p>
+				<ol class="- topic/ol ">
+					<li class="- topic/li ">
+						<p class="- topic/p ">(a)  The Bid Opening Officer should develop a systematic method of recording the bids.  One proven method is as follows:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)Annotate special circumstances on the SF Form 1409 / 1410 (Abstract of Offer/Continuation) as appropriate:  (i.e., no bids were received, alternate bids received, bids were received with quoted prices that are not firm, an acceptable late bid was received, etc.).</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)Forward two copies of the Abstract to the appropriate buying office along with the opened bids.  The bid opening official should verify the accuracy of the bid(s) information prior to forwarding the two copies.</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)Forward all late, unacceptable bids to the appropriate buying office with a memo providing the bidder information and the time of receipt of the bid.</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+					<li class="- topic/li ">
+						<p class="- topic/p ">(b)  Buying personnel should complete the SF Form 1409 / 1410 (Abstract of Offer/Continuation) or Optional Form 1419 / 1419A (Abstract of Offer Construction/Continuation) as follows:<ol class="- topic/ol ">
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(1)The accepted price should be prominently displayed to facilitate quick identification/flagging of the information.  If the quantity accepted is different from that called for on the solicitation, the accepted quantity (variance) should also be flagged.</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(2)If a low offer is rejected and one at a higher price is accepted, identify the reason for the rejected offer(s) in accordance with FAR <ph outputclass="FAR"
+  											class="- topic/ph ">14.403</ph>(b).  However, do not annotate any information concerning contractor responsibility, or other sensitive information not releasable to the public, on the SF Form 1409/1410 (this information should be documented separately in the file).</p>
+								</li>
+								<li outputclass="List 2"
+  									class="- topic/li ">
+									<p outputclass="List 2"
+ 										class="- topic/p ">(3)The following award information should be included at the bottom of the listing of offerors and prices: (i) contract number; (ii) list of CLINs awarded; (iii) total amount of award; and (iv) a statement that price(s) are considered fair and reasonable based on competition:</p>
+								</li>
+							</ol>
+						</p>
+					</li>
+				</ol>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<i class="+ topic/ph hi-d/i ">
+						<u class="+ topic/ph hi-d/u ">EXAMPLE</u>
+					</i>
+					<i class="+ topic/ph hi-d/i ">:  CONTRACT NR:  F09603-00-C-9876</i>
+				</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<i class="+ topic/ph hi-d/i ">     CLINS AWARDED:  0001 - 0003</i>
+				</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<i class="+ topic/ph hi-d/i ">     TOTAL AWARD AMOUNT:  $1,345,789</i>
+				</p>
+				<p id="p__AFMC_PGI_5314.404-1"
+ 					outputclass="Normal"
+ 					class="- topic/p ">
+					<i class="+ topic/ph hi-d/i ">     Price is considered fair and reasonable based on adequate price competition.</i>
+				</p>
+			</conbody>
+		</concept>
+	</dita>

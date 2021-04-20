@@ -1,188 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_SMC_PGI_5315_3b"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5315.3
-         </ph> (1.4.2.2.7)   Notification of Source Selection Participants</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The PCO should notify source selection participants concurrently by including them in the email distribution as indicated below: </p>
-         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-            <tgroup cols="2" class="- topic/tgroup ">
-               <colspec colname="col1"
-                        colwidth="251.95pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col2"
-                        colwidth="193.55pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SMC/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:smc.pk.exec@us.af.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">smc.pk.exec@us.af.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SMC/SB</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:smallbus@us.af.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">smallbus@us.af.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SMC/PA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:SMC.PA.SecurityandPolicy@us.af.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">SMC.PA.SecurityandPolicy@us.af.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">ACE Advisor (when applicable)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Attorney Advisor</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Committee Reviewer (when applicable)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Source Selection Evaluation Team</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Source Selection Advisory Council (when applicable)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Source Selection Authority</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Program Office (e.g. SMC/RS Exec)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">PEO/SP(D, E, or P) Exec (when applicable)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Obtain from Global</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SMC/CCE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:smc.cce@us.af.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">smc.cce@us.af.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SMC/CAE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:smc.cae@us.af.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">smc.cae@us.af.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">SAF/AQC (when applicable IAW AFFARS MP5315.3, para 1.4.2.2.7)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                                 scope="external"
-                                 format="mailto"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_SMC_PGI_5315_3b"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5315.3</ph> (1.4.2.2.7)   Notification of Source Selection Participants</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">The PCO should notify source selection participants concurrently by including them in the email distribution as indicated below: </p>
+				<table frame="all"
+     					rowsep="1"
+     					colsep="1"
+     					class="- topic/table ">
+					<tgroup cols="2"
+      						class="- topic/tgroup ">
+						<colspec colname="col1"
+       							colwidth="251.95pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col2"
+       							colwidth="193.55pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<tbody class="- topic/tbody ">
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SMC/PK</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:smc.pk.exec@us.af.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">smc.pk.exec@us.af.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SMC/SB</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:smallbus@us.af.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">smallbus@us.af.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SMC/PA</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:SMC.PA.SecurityandPolicy@us.af.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">SMC.PA.SecurityandPolicy@us.af.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">ACE Advisor (when applicable)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Attorney Advisor</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Committee Reviewer (when applicable)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Source Selection Evaluation Team</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Source Selection Advisory Council (when applicable)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Source Selection Authority</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Program Office (e.g. SMC/RS Exec)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">PEO/SP(D, E, or P) Exec (when applicable)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Obtain from Global</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SMC/CCE</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:smc.cce@us.af.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">smc.cce@us.af.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SMC/CAE</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:smc.cae@us.af.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">smc.cae@us.af.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">SAF/AQC (when applicable IAW AFFARS MP5315.3, para 1.4.2.2.7)</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    											scope="external"
+    											format="mailto"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</conbody>
+		</concept>
+	</dita>

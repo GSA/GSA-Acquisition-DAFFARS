@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5305_202">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5305.202</ph> Exceptions</title>
-      <conbody>
-         <ol>
-            <li id="li__Toc421333915" outputclass="List 1">
-               <p outputclass="List 1">(b) The contracting officer must submit requests through the SCO to <xref format="mailto"
-                        href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                        scope="external">
-                     <u>SAF/AQC</u>
-                  </xref>. The request must state why the notice is not appropriate or reasonable and identify alternative actions to optimize opportunities for small business participation. INTERIM CHANGE: See <xref format="pdf"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-                        scope="external">
-                     <u>CPM 19-C-11</u>
-                  </xref>
-               </p>
-               
-               
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5305_202">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5305.202</ph> Exceptions</title>
+			<conbody>
+				<ol>
+					<li id="li__Toc421333915"
+  						outputclass="List 1">
+						<p outputclass="List 1">(b) The contracting officer must submit requests through the SCO to <xref format="mailto"
+    								href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+    								scope="external">
+								<u>SAF/AQC</u>
+							</xref>. The request must state why the notice is not appropriate or reasonable and identify alternative actions to optimize opportunities for small business participation. INTERIM CHANGE: See <xref format="pdf"
+    								href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+    								scope="external">
+								<u>CPM 19-C-11</u>
+							</xref>
+						</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

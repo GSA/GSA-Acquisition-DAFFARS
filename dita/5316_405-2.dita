@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5316_405_2">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5316.405-2</ph> Cost-Plus-Award-Fee Contracts</title>
-      <conbody>
-         <ol>
-            <li>(1) Award-fee pool. Submit requests through the SCO to <xref format="html"
-                     href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                     scope="external">SAF/AQC</xref> for HCA approval (see MP5301.601(a)(i)).</li>
-         </ol>
-         <p outputclass="Normal">See <ph outputclass="SMC PGI">SMC PGI 5316.405-2-90</ph>.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5316_405_2">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5316.405-2</ph> Cost-Plus-Award-Fee Contracts</title>
+			<conbody>
+				<ol>
+					<li>(1) Award-fee pool. Submit requests through the SCO to <xref format="html"
+    							href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+    							scope="external">SAF/AQC</xref> for HCA approval (see MP5301.601(a)(i)).</li>
+				</ol>
+				<p outputclass="Normal">See <ph outputclass="SMC PGI">SMC PGI 5316.405-2-90</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

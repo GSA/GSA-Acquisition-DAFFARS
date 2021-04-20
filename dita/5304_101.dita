@@ -1,50 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5304_101"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5304.101</ph> Contracting Officer’s Signature</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">Contracting officers are required to sign all contract actions (either via wet signature, signature as produced by CON-IT, or digital signature produced with a DoD Public Key Infrastructure certificate using a Common Access Card), ensure contractor signatures are obtained, and maintain signed contractual documents within the official contract file. </p>
-         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AFMC_PGI_5304_100-90.dita">AFMC PGI 5304.100-90</xref>
-            </ph>.</p>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5304_101.dita">SMC PGI 5304.101</xref>
-            </ph>.</p>
-         <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5304_102.dita">SMC PGI 5304.102</xref>
-            </ph>.</p>
-         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">AFMC PGI 5304.190</ph>.</p>
-         <p outputclass="Body Text 2" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5304_201.dita">SMC PGI 5304.201</xref>
-            </ph>.</p>
-         <p id="p__Toc38364647" outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-               <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5304_270-2.dita">SMC PGI 5304.270-2</xref>
-            </ph>.</p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_5304_101"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">5304.101</ph> Contracting Officer’s Signature</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">Contracting officers are required to sign all contract actions (either via wet signature, signature as produced by CON-IT, or digital signature produced with a DoD Public Key Infrastructure certificate using a Common Access Card), ensure contractor signatures are obtained, and maintain signed contractual documents within the official contract file. </p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="AFMC_PGI_5304_100-90.dita">AFMC PGI 5304.100-90</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5304_101.dita">SMC PGI 5304.101</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5304_102.dita">SMC PGI 5304.102</xref>
+					</ph>.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">See <ph outputclass="AFMC PGI"
+  						class="- topic/ph ">AFMC PGI 5304.190</ph>.</p>
+				<p outputclass="Body Text 2"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5304_201.dita">SMC PGI 5304.201</xref>
+					</ph>.</p>
+				<p id="p__Toc38364647"
+ 					outputclass="Normal"
+ 					class="- topic/p ">See  <ph outputclass="SMC PGI"
+  						class="- topic/ph ">
+						<xref outputclass="fm:ParaNumOnly"
+    							format="dita"
+    							class="- topic/xref "
+    							href="SMC_PGI_5304_270-2.dita">SMC PGI 5304.270-2</xref>
+					</ph>.</p>
+			</conbody>
+		</concept>
+	</dita>

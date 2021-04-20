@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_SMC_PGI_5315_3d"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5315.3
-         </ph> (2.1.2.1)   Pre-solicitation Notices</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">A Request for Information (RFI) is generally used as part of market research to determine industry interest in an anticipated acquisition; to obtain estimated prices, delivery or other market information for planning purposes; and to ensure industry understanding of Government requirements.  PCOs should ensure the requirements at FAR <ph outputclass="FAR" class="- topic/ph ">15.209</ph>(c) are followed and FAR clause 52.215-3, “Request for Information or Solicitation for Planning Purposes”, is included in the RFI.</p>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(a) Call for Concepts (or Concept Data Call) – a type of RFI in which the Government seeks industry information to understand state-of-the-art technologies and recommendations to formulate initial capability documents and/or identify Government technology gaps and shortfalls.  This type of information is usually for new and emerging technologies and will require a Rough Order of Magnitude (ROM) Life Cycle Cost (LCC) estimate with high level schedule milestones for development, initial operational capability (IOC), and long term sustainment.</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(b) Sources Sought Synopsis (SSS) – a type of RFI in which the Government posts a summary description of the technical requirement and seeks industry information to understand what sources and capabilities are available.  Often a Sources Sought synopsis is followed by an announcement of an Industry Days or may include an announcement for an Industry Days.</p>
-            </li>
-            <li id="li__SMC_PGI_5315.3_5" outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">(c) Rough Order of Magnitude (ROM) – a type of RFI in which an estimate is provided by industry at the Government’s request and may be used in the early stages of technology development or in a project when the scope and technical requirements have not been fully defined.  Requesting a ROM may also be useful to the Government at critical design stages.  The main purpose of the ROM estimate is to provide decision-makers with the information necessary to make a decision on whether it makes sense to move forward with the project based on the estimated work effort anticipated, in terms of completion time and cost.   A ROM may be useful to project planners in reducing the risk of uncertainty with regard to cost outcomes for both parties when project details have yet to be identified. </p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_SMC_PGI_5315_3d"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">SMC PGI 5315.3</ph> (2.1.2.1)   Pre-solicitation Notices</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">A Request for Information (RFI) is generally used as part of market research to determine industry interest in an anticipated acquisition; to obtain estimated prices, delivery or other market information for planning purposes; and to ensure industry understanding of Government requirements.  PCOs should ensure the requirements at FAR <ph outputclass="FAR"
+  						class="- topic/ph ">15.209</ph>(c) are followed and FAR clause 52.215-3, “Request for Information or Solicitation for Planning Purposes”, is included in the RFI.</p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(a) Call for Concepts (or Concept Data Call) – a type of RFI in which the Government seeks industry information to understand state-of-the-art technologies and recommendations to formulate initial capability documents and/or identify Government technology gaps and shortfalls.  This type of information is usually for new and emerging technologies and will require a Rough Order of Magnitude (ROM) Life Cycle Cost (LCC) estimate with high level schedule milestones for development, initial operational capability (IOC), and long term sustainment.</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(b) Sources Sought Synopsis (SSS) – a type of RFI in which the Government posts a summary description of the technical requirement and seeks industry information to understand what sources and capabilities are available.  Often a Sources Sought synopsis is followed by an announcement of an Industry Days or may include an announcement for an Industry Days.</p>
+					</li>
+					<li id="li__SMC_PGI_5315.3_5"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">(c) Rough Order of Magnitude (ROM) – a type of RFI in which an estimate is provided by industry at the Government’s request and may be used in the early stages of technology development or in a project when the scope and technical requirements have not been fully defined.  Requesting a ROM may also be useful to the Government at critical design stages.  The main purpose of the ROM estimate is to provide decision-makers with the information necessary to make a decision on whether it makes sense to move forward with the project based on the estimated work effort anticipated, in terms of completion time and cost.   A ROM may be useful to project planners in reducing the risk of uncertainty with regard to cost outcomes for both parties when project details have yet to be identified. </p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

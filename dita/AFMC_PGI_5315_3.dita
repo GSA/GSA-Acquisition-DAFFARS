@@ -1,498 +1,503 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_AFMC_PGI_5315_3">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">AFMC PGI 5315.3</ph> (1.4.1.1) SSA Appointment</title>
-      <conbody>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(a) AFMC/CA is the Source Selection Authority for AFPEO/CM services acquisitions &gt;$100M &lt; $1B, unless further delegated.</p>
-            </li>
-            <li>
-               <p>(b) SSAs have been standardized as follows:</p>
-               <ol>
-                  <li outputclass="List 2">
-                     <p outputclass="List 2">
-                        <b>(1)</b>
-                        <b>Air Force Life Cycle Management Center (AFLCMC) (</b>contracting organizations are located at Wright-Patterson Air Force Base, Eglin Air Force Base, Hanscom Air Force Base, Gunter Annex, Lackland Air Force Base, Randolph Air Force Base, Peterson Air Force Base, Offutt Air Force Base, Tinker Air Force Base, Hill Air Force Base and Robins Air Force Base):</p>
-                  </li>
-               </ol>
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            </li>
-         </ol>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="4">
-               <colspec colname="1" colnum="1" colwidth="34*"/>
-               <colspec colname="2" colnum="2" colwidth="56*"/>
-               <colspec colname="3" colnum="3" colwidth="5*"/>
-               <colspec colname="4" colnum="4" colwidth="5*"/>
-               <tbody>
-                  <row>
-                     <entry nameend="4" namest="1">
-                        <p>
-                           <b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>Acquisition Value</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Enterprise</b>
-                        </p>
-                     </entry>
-                     <entry nameend="4" namest="3">
-                        <p>
-                           <b>Operational</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry/>
-                     <entry>
-                        <p>
-                           <b>All Locations</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Wright-Patterson</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Hanscom</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>≥$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFLCMC/CC/CA</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Group Commander/Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>&gt; $10M &lt; $100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Commander/Director of the requiring</b>
-                           <b>Directorate/GSU/DRU or 2 letter</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Group Commander/Director</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
-         <p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
-         <ol>
-            <li outputclass="Normal">
-               <p outputclass="">
-                  <b>(2) Air Force Nuclear Weapons Center (AFNWC)</b> (contracting organizations are located at Kirtland Air Force Base, Hill Air Force Base, Tinker Air Force Base, and Eglin Air Force Base):</p>
-            </li>
-         </ol>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="40*"/>
-               <colspec colname="2" colnum="2" colwidth="7*"/>
-               <colspec colname="3" colnum="3" colwidth="53*"/>
-               <tbody>
-                  <row>
-                     <entry nameend="3" namest="1">
-                        <p>
-                           <b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>Acquisition Value</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Enterprise</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Operational</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>≥$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFNWC/CC/CA</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>&gt; $10M &lt;$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Commander/Director of the requiring</b>
-                           <b>Directorate</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
-         <p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
-         <ol>
-            <li outputclass="">
-               <p>
-                  <b>(3) Air Force Research Laboratory (AFRL):</b>
-               </p>
-            </li>
-         </ol>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="24*"/>
-               <colspec colname="2" colnum="2" colwidth="41*"/>
-               <colspec colname="3" colnum="3" colwidth="35*"/>
-               <tbody>
-                  <row>
-                     <entry/>
-                     <entry nameend="3" namest="2">
-                        <p>
-                           <b>Source Selection Authority</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>Acquisition Value</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Enterprise</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Operational</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>≥ $100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFRL/CC/CA</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFRL/CC/CA</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>
-                              <u>&gt;</u>
-                           </b>
-                           <b>$50M &lt; $100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Technical Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Technical Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>&gt; $10M &lt; $50M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Technical Division Chief</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Technical Division Chief</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the Technical Director chain.</p>
-         <p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the Technical Director chain.</p>
-         <p outputclass="">
-            <b>(4) Air Force Sustainment Center</b> (contracting organizations are located at Tinker Air Force Base, Hill Air Force Base, and Robins Air Force Base):</p>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="71*"/>
-               <colspec colname="2" colnum="2" colwidth="15*"/>
-               <colspec colname="3" colnum="3" colwidth="14*"/>
-               <tbody>
-                  <row>
-                     <entry nameend="3" namest="1">
-                        <p>
-                           <b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>Acquisition Value</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Enterprise</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Operational</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>≥$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFSC/CC/CA</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>&gt; $10M &lt;$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Commander/Director of the requiring</b>
-                           <b>Directorate</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Air Base Wing Commander/Director</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
-         <p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within</p>
-         <p outputclass="Normal">the requiring activity chain.</p>
-         <ol>
-            <li outputclass="">
-               <p>
-                  <b>(5) Air Force Test Center (AFTC)</b> (contracting organizations are located at Edwards Air Force Base, Arnold Air Force Base, and Eglin Air Force Base, and Hill Air Force Base):</p>
-            </li>
-         </ol>
-         <table colsep="1" rowsep="1">
-            <tgroup cols="3">
-               <colspec colname="1" colnum="1" colwidth="30*"/>
-               <colspec colname="2" colnum="2" colwidth="64*"/>
-               <colspec colname="3" colnum="3" colwidth="6*"/>
-               <tbody>
-                  <row>
-                     <entry nameend="3" namest="1">
-                        <p>
-                           <b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>Acquisition Value</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Enterprise</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Operational</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>≥$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>AFTC/CC/CA</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Test Wing Commander/Director</b>
-                           <b>1</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row>
-                     <entry>
-                        <p>
-                           <b>&gt; $10M &lt;$100M</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Commander/Director of the requiring</b>
-                           <b>Directorate</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                     <entry>
-                        <p>
-                           <b>Test Wing Commander/Director</b>
-                           <b>2</b>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
-         <p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
-         <ol>
-            <li outputclass="List 1">
-               <p outputclass="List 1">(c) Many source selection teams request and document delegation of SSA in the Acquisition Strategy Panel charts, and/or Acquisition Plan/LCMP, which eliminates the need to process a separate delegation memo. When using a separate delegation memo, PCOs may use the templates below:</p>
-            </li>
-         </ol>
-         <p outputclass="Normal">
-            <xref format="dotx"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_staff_summary_sheet_template.dotx"
-                  scope="external">
-               <u>Delegation of Source Selection Authority Staff Summary Sheet Template</u>
-            </xref>
-         </p>
-         <p id="p__AFMC_PGI_5315.3_1">
-            <xref format="docx"
-                  href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_memo_template.docx"
-                  scope="external">
-               <u>Delegation of Source Selection Authority Memo Template</u>
-            </xref>
-         </p>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_AFMC_PGI_5315_3">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">AFMC PGI 5315.3</ph> (1.4.1.1) SSA Appointment</title>
+			<conbody>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(a) AFMC/CA is the Source Selection Authority for AFPEO/CM services acquisitions &gt;$100M &lt; $1B, unless further delegated.</p>
+					</li>
+					<li>
+						<p>(b) SSAs have been standardized as follows:</p>
+						<ol>
+							<li outputclass="List 2">
+								<p outputclass="List 2">
+									<b>(1)Air Force Life Cycle Management Center (AFLCMC) (</b>contracting organizations are located at Wright-Patterson Air Force Base, Eglin Air Force Base, Hanscom Air Force Base, Gunter Annex, Lackland Air Force Base, Randolph Air Force Base, Peterson Air Force Base, Offutt Air Force Base, Tinker Air Force Base, Hill Air Force Base and Robins Air Force Base):</p>
+							</li>
+						</ol>
+					</li>
+				</ol>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="4">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="34*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="56*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="5*"/>
+						<colspec colname="4"
+       							colnum="4"
+       							colwidth="5*"/>
+						<tbody>
+							<row>
+								<entry nameend="4"
+     									namest="1">
+									<p>
+										<b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>Acquisition Value</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Enterprise</b>
+									</p>
+								</entry>
+								<entry nameend="4"
+     									namest="3">
+									<p>
+										<b>Operational</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry/>
+								<entry>
+									<p>
+										<b>All Locations</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Wright-Patterson</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Hanscom</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>≥$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFLCMC/CC/CA1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Group Commander/Director1</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>&gt; $10M &lt; $100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Commander/Director of the requiringDirectorate/GSU/DRU or 2 letter2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Group Commander/Director2</b>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+				<p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+				<ol>
+					<li outputclass="Normal">
+						<p outputclass="">
+							<b>(2) Air Force Nuclear Weapons Center (AFNWC)</b> (contracting organizations are located at Kirtland Air Force Base, Hill Air Force Base, Tinker Air Force Base, and Eglin Air Force Base):</p>
+					</li>
+				</ol>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="3">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="40*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="7*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="53*"/>
+						<tbody>
+							<row>
+								<entry nameend="3"
+     									namest="1">
+									<p>
+										<b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>Acquisition Value</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Enterprise</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Operational</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>≥$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFNWC/CC/CA1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director1</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>&gt; $10M &lt;$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Commander/Director of the requiringDirectorate2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director2</b>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+				<p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+				<ol>
+					<li outputclass="">
+						<p>
+							<b>(3) Air Force Research Laboratory (AFRL):</b>
+						</p>
+					</li>
+				</ol>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="3">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="24*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="41*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="35*"/>
+						<tbody>
+							<row>
+								<entry/>
+								<entry nameend="3"
+     									namest="2">
+									<p>
+										<b>Source Selection Authority</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>Acquisition Value</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Enterprise</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Operational</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>≥ $100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFRL/CC/CA</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFRL/CC/CA</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>
+											<u>&gt;</u>$50M &lt; $100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Technical Director1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Technical Director1</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>&gt; $10M &lt; $50M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Technical Division Chief2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Technical Division Chief2</b>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the Technical Director chain.</p>
+				<p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the Technical Director chain.</p>
+				<p outputclass="">
+					<b>(4) Air Force Sustainment Center</b> (contracting organizations are located at Tinker Air Force Base, Hill Air Force Base, and Robins Air Force Base):</p>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="3">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="71*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="15*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="14*"/>
+						<tbody>
+							<row>
+								<entry nameend="3"
+     									namest="1">
+									<p>
+										<b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>Acquisition Value</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Enterprise</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Operational</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>≥$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFSC/CC/CA1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director1</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>&gt; $10M &lt;$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Commander/Director of the requiringDirectorate2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Air Base Wing Commander/Director2</b>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+				<p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within</p>
+				<p outputclass="Normal">the requiring activity chain.</p>
+				<ol>
+					<li outputclass="">
+						<p>
+							<b>(5) Air Force Test Center (AFTC)</b> (contracting organizations are located at Edwards Air Force Base, Arnold Air Force Base, and Eglin Air Force Base, and Hill Air Force Base):</p>
+					</li>
+				</ol>
+				<table colsep="1"
+     					rowsep="1">
+					<tgroup cols="3">
+						<colspec colname="1"
+       							colnum="1"
+       							colwidth="30*"/>
+						<colspec colname="2"
+       							colnum="2"
+       							colwidth="64*"/>
+						<colspec colname="3"
+       							colnum="3"
+       							colwidth="6*"/>
+						<tbody>
+							<row>
+								<entry nameend="3"
+     									namest="1">
+									<p>
+										<b>Source Selection Authority for actions not in AFPEO/CM’s portfolio</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>Acquisition Value</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Enterprise</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Operational</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>≥$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>AFTC/CC/CA1</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Test Wing Commander/Director1</b>
+									</p>
+								</entry>
+							</row>
+							<row>
+								<entry>
+									<p>
+										<b>&gt; $10M &lt;$100M</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Commander/Director of the requiringDirectorate2</b>
+									</p>
+								</entry>
+								<entry>
+									<p>
+										<b>Test Wing Commander/Director2</b>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+				<p outputclass="Normal">1 ≥ $100M: delegable to no lower than one level above the PCO or equivalent or higher position within the requiring activity chain;</p>
+				<p outputclass="Normal">2 &gt;$10M &lt; $100M: delegable to no lower than the PCO or equivalent or higher position within the requiring activity chain.</p>
+				<ol>
+					<li outputclass="List 1">
+						<p outputclass="List 1">(c) Many source selection teams request and document delegation of SSA in the Acquisition Strategy Panel charts, and/or Acquisition Plan/LCMP, which eliminates the need to process a separate delegation memo. When using a separate delegation memo, PCOs may use the templates below:</p>
+					</li>
+				</ol>
+				<p outputclass="Normal">
+					<xref format="dotx"
+    						href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_staff_summary_sheet_template.dotx"
+    						scope="external">
+						<u>Delegation of Source Selection Authority Staff Summary Sheet Template</u>
+					</xref>
+				</p>
+				<p id="p__AFMC_PGI_5315.3_1">
+					<xref format="docx"
+    						href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/delegation_of_ssa_memo_template.docx"
+    						scope="external">
+						<u>Delegation of Source Selection Authority Memo Template</u>
+					</xref>
+				</p>
+			</conbody>
+		</concept>
+	</dita>

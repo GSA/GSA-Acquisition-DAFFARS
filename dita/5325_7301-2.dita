@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita xtrc="NoAutoListNumber">
-   <concept id="AFFARS_5325_7301_2">
-      <title>
-         <ph outputclass="topicnum" props="autonumber">5325.7301-2</ph> Solicitation Approval for Sole Source Contracts</title>
-      <conbody>
-         <p>INTERIM CHANGE: See CPM 19-C-12.</p></conbody>
-      
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+	<dita xtrc="NoAutoListNumber">
+		<concept id="AFFARS_5325_7301_2">
+			<title>
+				<ph outputclass="topicnum"
+  					props="autonumber">5325.7301-2</ph> Solicitation Approval for Sole Source Contracts</title>
+			<conbody>
+				<p>INTERIM CHANGE: See CPM 19-C-12.</p>
+			</conbody>
+		</concept>
+	</dita>

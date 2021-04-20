@@ -1,110 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5301_9001_i_1_i"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">MP5301.9001(i)(1)(i)-</ph> — Business Clearance Approval by the DAS(C)/ADAS(C)</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="p__Toc38365613" outputclass="Normal (Web)" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">2019 Version</i>]</p>
-         <p outputclass="List_0_bold" class="- topic/p ">(A)  Business Clearance Approval for Non-Competitive Actions </p>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(1)</i>The contracting officer will submit notifications to SAF/AQC thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to SAF/AQC:</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(</i>
-                  <i class="+ topic/ph hi-d/i ">2</i>
-                  <i class="+ topic/ph hi-d/i ">)</i> Completed Request for Business Clearance (non-competitive);</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(3)</i> Copies of the Commercial Item Determination(s) (DFARS <ph outputclass="DFARS" class="- topic/ph ">212.102</ph>(a)(i)) that are greater than or equal to $1M; </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(4)</i> 
-                  <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/preliminary_PNM.docx"
-                        scope="external"
-                        format="docx"
-                        class="- topic/xref ">
-                     <u class="+ topic/ph hi-d/u ">Preliminary Price Negotiation Memorandum</u>
-                  </xref> and related attachments; </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(5)</i> Request for Business Clearance (non-competitive) briefing charts; and</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(6)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review.  </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(7)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(8)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs prior to the commencement of the DoD Phase 1 Peer Review.  The Business Clearance Approval document may be signed by the DAS(C) or ADAS(C) prior to the DoD Phase 1 Pre-Award Peer Review, but commencement of negotiations are conditioned upon successful completion of the Peer Review in accordance with <ph outputclass="AF PGI" class="- topic/ph ">
-                     <xref outputclass="fm:ParaNumOnly"
-                           format="dita"
-                           class="- topic/xref "
-                           href="AF_PGI_5301_170-2.dita">AF PGI 5301.170-2</xref>
-                  </ph>.</p>
-            </li>
-            <li id="li__Toc38365614" outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(9)</i> The contracting officer shall submit a revised Business Clearance Approval document for DAS(C)/ADAS(C) approval, prior to concluding negotiations, when changes to the original negotiation range or parameters that were set forth on the approved Business Clearance Approval document are required. Submit the documents through the SCO to SAF/AQC<ph class="- topic/ph ">
-                     <u class="+ topic/ph hi-d/u "> </u>
-                     <u class="+ topic/ph hi-d/u ">for approval.</u>
-                  </ph>  Negotiation offers that exceed the approved negotiation range or parameters may not be made until a revised negotiation range or parameters are approved.</p>
-            </li>
-         </ol>
-         <p outputclass="List_0_bold" class="- topic/p ">(B)  Business Clearance Approval for Competitive Actions </p>
-         <ol class="- topic/ol ">
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(1)</i> The contracting officer will submit notifications to SAF/AQC thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to SAF/AQC:</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(2)</i> Business Clearance Approval;</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(3)</i> Request for Business Clearance (competitive) briefing charts;</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(4)</i> Request for Proposal (including attachments); and </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(5)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review (e.g., Source Selection Plan, Acquisition Strategy Document, Acquisition Strategy Plan Charts).</p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(6)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
-            </li>
-            <li outputclass="List 1" class="- topic/li ">
-               <p outputclass="List 1" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">(7)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs either before or after the commencement of the DoD Phase 1 Peer Review.  The decision to hold Peer Reviews prior to Business Clearance approval will be made in coordination with SAF/AQC.  Should Business Clearance be held prior to the Peer Review, Business Clearance is conditioned upon successful completion of the Peer Review in accordance with <ph outputclass="AF PGI" class="- topic/ph ">
-                     <xref outputclass="fm:ParaNumOnly"
-                           format="dita"
-                           class="- topic/xref "
-                           href="AF_PGI_5301_170-2.dita">AF PGI 5301.170-2</xref>
-                  </ph>(b)(1).</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_MP5301_9001_i_1_i"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph class="- topic/ph "
+  					props="autonumber">MP5301.9001(i)(1)(i)-</ph> — Business Clearance Approval by the DAS(C)/ADAS(C)</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p id="p__Toc38365613"
+ 					outputclass="Normal (Web)"
+ 					class="- topic/p ">[<i class="+ topic/ph hi-d/i ">2019 Version</i>]</p>
+				<p outputclass="List_0_bold"
+ 					class="- topic/p ">(A)  Business Clearance Approval for Non-Competitive Actions </p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(1)</i>The contracting officer will submit notifications to SAF/AQC thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to SAF/AQC:</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(</i>
+							<i class="+ topic/ph hi-d/i ">2</i>
+							<i class="+ topic/ph hi-d/i ">)</i> Completed Request for Business Clearance (non-competitive);</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(3)</i> Copies of the Commercial Item Determination(s) (DFARS <ph outputclass="DFARS"
+  								class="- topic/ph ">212.102</ph>(a)(i)) that are greater than or equal to $1M; </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(4)</i>
+							<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/preliminary_PNM.docx"
+    								scope="external"
+    								format="docx"
+    								class="- topic/xref ">
+								<u class="+ topic/ph hi-d/u ">Preliminary Price Negotiation Memorandum</u>
+							</xref> and related attachments; </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(5)</i> Request for Business Clearance (non-competitive) briefing charts; and</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(6)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review.  </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(7)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(8)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs prior to the commencement of the DoD Phase 1 Peer Review.  The Business Clearance Approval document may be signed by the DAS(C) or ADAS(C) prior to the DoD Phase 1 Pre-Award Peer Review, but commencement of negotiations are conditioned upon successful completion of the Peer Review in accordance with <ph outputclass="AF PGI"
+  								class="- topic/ph ">
+								<xref outputclass="fm:ParaNumOnly"
+    									format="dita"
+    									class="- topic/xref "
+    									href="AF_PGI_5301_170-2.dita">AF PGI 5301.170-2</xref>
+							</ph>.</p>
+					</li>
+					<li id="li__Toc38365614"
+  						outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(9)</i> The contracting officer shall submit a revised Business Clearance Approval document for DAS(C)/ADAS(C) approval, prior to concluding negotiations, when changes to the original negotiation range or parameters that were set forth on the approved Business Clearance Approval document are required. Submit the documents through the SCO to SAF/AQC<ph class="- topic/ph ">
+								<u class="+ topic/ph hi-d/u "> </u>
+								<u class="+ topic/ph hi-d/u ">for approval.</u>
+							</ph>  Negotiation offers that exceed the approved negotiation range or parameters may not be made until a revised negotiation range or parameters are approved.</p>
+					</li>
+				</ol>
+				<p outputclass="List_0_bold"
+ 					class="- topic/p ">(B)  Business Clearance Approval for Competitive Actions </p>
+				<ol class="- topic/ol ">
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(1)</i> The contracting officer will submit notifications to SAF/AQC thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to SAF/AQC:</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(2)</i> Business Clearance Approval;</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(3)</i> Request for Business Clearance (competitive) briefing charts;</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(4)</i> Request for Proposal (including attachments); and </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(5)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review (e.g., Source Selection Plan, Acquisition Strategy Document, Acquisition Strategy Plan Charts).</p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(6)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
+					</li>
+					<li outputclass="List 1"
+  						class="- topic/li ">
+						<p outputclass="List 1"
+ 							class="- topic/p ">
+							<i class="+ topic/ph hi-d/i ">(7)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs either before or after the commencement of the DoD Phase 1 Peer Review.  The decision to hold Peer Reviews prior to Business Clearance approval will be made in coordination with SAF/AQC.  Should Business Clearance be held prior to the Peer Review, Business Clearance is conditioned upon successful completion of the Peer Review in accordance with <ph outputclass="AF PGI"
+  								class="- topic/ph ">
+								<xref outputclass="fm:ParaNumOnly"
+    									format="dita"
+    									class="- topic/xref "
+    									href="AF_PGI_5301_170-2.dita">AF PGI 5301.170-2</xref>
+							</ph>(b)(1).</p>
+					</li>
+				</ol>
+			</conbody>
+		</concept>
+	</dita>

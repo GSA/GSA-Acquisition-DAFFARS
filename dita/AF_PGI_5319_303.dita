@@ -1,222 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_AF_PGI_5319_303"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-      <title class="- topic/title ">
-         <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AF PGI 5319.303
-         </ph> Determining North American Industry Classification System (NAICS) Codes and Size Standards</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The table below may be used to help select a NAICS code as part of the determination of small business status for small business programs.</p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">NAICS Selection Checklist</b>
-         </p>
-         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-            <tgroup cols="3" class="- topic/tgroup ">
-               <colspec colname="col1"
-                        colwidth="25.2pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col2"
-                        colwidth="271.55pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col3"
-                        colwidth="207pt"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Identify the Key Requirements </b>
-                        </p>
-                        <p class="- topic/p ">- Estimated workload allocations</p>
-                        <p class="- topic/p ">- Principle purpose in the PWS/SOW</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">FAR Part 19</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Initial NAICS Selection</b>
-                        </p>
-                        <p class="- topic/p ">- Review previous Government procurement actions </p>
-                        <p class="- topic/p ">-- Has anything changed?</p>
-                        <p class="- topic/p ">-- Do not choose previous code w/o verifying applicability</p>
-                        <p class="- topic/p ">- Look at FAR <ph outputclass="FAR" class="- topic/ph ">19.202</ph> for guidance</p>
-                        <p class="- topic/p ">- Search code at Census</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="http://www.census.gov/eos/www/naics/"
-                                 scope="external"
-                                 format="html"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">NAICS Website</u>
-                           </xref>
-                        </p>
-                        <p class="- topic/p ">FAR Part 19</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Select Size Standards and Exceptions </b>
-                        </p>
-                        <p class="- topic/p ">- Examine chart and definitions</p>
-                        <p class="- topic/p ">- Read Footnotes for guidance</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;sid=17a8b75b6d39a91bd4e087a6f4339059&amp;rgn=div5&amp;view=text&amp;node=13:1.0.1.1.17&amp;idno=13%3e)"
-                                 scope="external"
-                                 format="17&amp;idno=13%3e)"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u "> Part 121 - SB Size Regulations</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Engage with Local SB Office </b>
-                        </p>
-                        <p class="- topic/p ">- Guidance</p>
-                        <p class="- topic/p ">- NAICS Appeals</p>
-                        <p class="- topic/p ">- Other considerations </p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Communicate NAICS to Industry</b>
-                        </p>
-                        <p class="- topic/p ">- Early interaction w/ industry through market research</p>
-                        <p class="- topic/p ">- MaxPrac = Picture of SBs in Industry</p>
-                        <p class="- topic/p ">- Top 25 NAICS codes</p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Is Selected NAICS Available for WOSB or EDWOSB Set-Aside? </b>
-                        </p>
-                        <p class="- topic/p ">- If yes and expect 2 or more – you may set it aside</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="http://www.sba.gov/content/women-owned-small-business-program"
-                                 scope="external"
-                                 format="html"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">WOSB Program</u>
-                           </xref> 
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Identify PSCs for Key Functions of Acquisition.</b>
-                        </p>
-                        <p class="- topic/p ">- Assigned to each CLIN</p>
-                        <p class="- topic/p ">- Select PSC for acquisition</p>
-                        <p class="- topic/p ">- Align with NAICS scope</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="https://www.acquisition.gov/PSC_Manual"
-                                 scope="external"
-                                 format="html"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">PSC Manual</u>
-                           </xref>
-                        </p>
-                        <p class="- topic/p ">
-                           <xref href="https://psctool.us/"
-                                 scope="external"
-                                 format="html"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">PSC Tool</u>
-                           </xref>
-                        </p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Document NAICS Determination </b>
-                        </p>
-                        <p class="- topic/p ">- Identify NAICS in acquisition slides</p>
-                        <p class="- topic/p ">- Consider Memo if</p>
-                        <p class="- topic/p ">-- NAICS changed</p>
-                        <p class="- topic/p ">-- New Market</p>
-                        <p class="- topic/p ">-- High visibility</p>
-                     </entry>
-                     <entry class="- topic/entry "/>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Clearly Confirm the NAICS to Industry </b>
-                        </p>
-                        <p class="- topic/p ">- Transparency is key</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">Best practice – Confirm NAICS to industry after ASP if there is a break before RFP release.   Allows contractors to better plan for small business opportunities (Sub or Prime)</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">10</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Ensure Acquisition Structure Supports the Selected NAICS Considering the following:</b>
-                        </p>
-                        <p class="- topic/p ">- Performance Work Statement</p>
-                        <p class="- topic/p ">- Labor Categories</p>
-                        <p class="- topic/p ">- Contract Clauses</p>
-                        <p class="- topic/p ">- Evaluation Criteria </p>
-                        <p class="- topic/p ">- Deliverables</p>
-                        <p class="- topic/p ">- Performance Measurements</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="https://cs2.eis.af.mil/sites/10263/projects/Services/SST/default.aspx"
-                                 scope="external"
-                                 format="aspx"
-                                 class="- topic/xref ">
-                              <u class="+ topic/ph hi-d/u ">Supply Vs. Services Tool</u>
-                           </xref>
-                        </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
-</dita>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
+        	"ditabase.dtd">
+	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+    		xtrc="NoAutoListNumber"
+    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+    		ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AF_PGI_5319_303"
+       			xml:lang="en-US"
+       			ditaarch:DITAArchVersion="1.3"
+       			class="- topic/topic concept/concept "
+       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			<title class="- topic/title ">
+				<ph outputclass="topicnum"
+  					class="- topic/ph "
+  					props="autonumber">AF PGI 5319.303</ph> Determining North American Industry Classification System (NAICS) Codes and Size Standards</title>
+			<conbody class="- topic/body  concept/conbody ">
+				<p outputclass="Normal"
+ 					class="- topic/p ">The table below may be used to help select a NAICS code as part of the determination of small business status for small business programs.</p>
+				<p outputclass="Normal"
+ 					class="- topic/p ">
+					<b class="+ topic/ph hi-d/b ">NAICS Selection Checklist</b>
+				</p>
+				<table frame="all"
+     					rowsep="1"
+     					colsep="1"
+     					class="- topic/table ">
+					<tgroup cols="3"
+      						class="- topic/tgroup ">
+						<colspec colname="col1"
+       							colwidth="25.2pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col2"
+       							colwidth="271.55pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<colspec colname="col3"
+       							colwidth="207pt"
+       							rowheader="headers"
+       							class="- topic/colspec "/>
+						<tbody class="- topic/tbody ">
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Identify the Key Requirements </b>
+									</p>
+									<p class="- topic/p ">- Estimated workload allocations</p>
+									<p class="- topic/p ">- Principle purpose in the PWS/SOW</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">FAR Part 19</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Initial NAICS Selection</b>
+									</p>
+									<p class="- topic/p ">- Review previous Government procurement actions </p>
+									<p class="- topic/p ">-- Has anything changed?</p>
+									<p class="- topic/p ">-- Do not choose previous code w/o verifying applicability</p>
+									<p class="- topic/p ">- Look at FAR <ph outputclass="FAR"
+  											class="- topic/ph ">19.202</ph> for guidance</p>
+									<p class="- topic/p ">- Search code at Census</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="http://www.census.gov/eos/www/naics/"
+    											scope="external"
+    											format="html"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">NAICS Website</u>
+										</xref>
+									</p>
+									<p class="- topic/p ">FAR Part 19</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Select Size Standards and Exceptions </b>
+									</p>
+									<p class="- topic/p ">- Examine chart and definitions</p>
+									<p class="- topic/p ">- Read Footnotes for guidance</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;sid=17a8b75b6d39a91bd4e087a6f4339059&amp;rgn=div5&amp;view=text&amp;node=13:1.0.1.1.17&amp;idno=13%3e)"
+    											scope="external"
+    											format="17&amp;idno=13%3e)"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u "> Part 121 - SB Size Regulations</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Engage with Local SB Office </b>
+									</p>
+									<p class="- topic/p ">- Guidance</p>
+									<p class="- topic/p ">- NAICS Appeals</p>
+									<p class="- topic/p ">- Other considerations </p>
+								</entry>
+								<entry class="- topic/entry "/>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Communicate NAICS to Industry</b>
+									</p>
+									<p class="- topic/p ">- Early interaction w/ industry through market research</p>
+									<p class="- topic/p ">- MaxPrac = Picture of SBs in Industry</p>
+									<p class="- topic/p ">- Top 25 NAICS codes</p>
+								</entry>
+								<entry class="- topic/entry "/>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Is Selected NAICS Available for WOSB or EDWOSB Set-Aside? </b>
+									</p>
+									<p class="- topic/p ">- If yes and expect 2 or more – you may set it aside</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="http://www.sba.gov/content/women-owned-small-business-program"
+    											scope="external"
+    											format="html"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">WOSB Program</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Identify PSCs for Key Functions of Acquisition.</b>
+									</p>
+									<p class="- topic/p ">- Assigned to each CLIN</p>
+									<p class="- topic/p ">- Select PSC for acquisition</p>
+									<p class="- topic/p ">- Align with NAICS scope</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="https://www.acquisition.gov/PSC_Manual"
+    											scope="external"
+    											format="html"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">PSC Manual</u>
+										</xref>
+									</p>
+									<p class="- topic/p ">
+										<xref href="https://psctool.us/"
+    											scope="external"
+    											format="html"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">PSC Tool</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Document NAICS Determination </b>
+									</p>
+									<p class="- topic/p ">- Identify NAICS in acquisition slides</p>
+									<p class="- topic/p ">- Consider Memo if</p>
+									<p class="- topic/p ">-- NAICS changed</p>
+									<p class="- topic/p ">-- New Market</p>
+									<p class="- topic/p ">-- High visibility</p>
+								</entry>
+								<entry class="- topic/entry "/>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry "/>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Clearly Confirm the NAICS to Industry </b>
+									</p>
+									<p class="- topic/p ">- Transparency is key</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">Best practice – Confirm NAICS to industry after ASP if there is a break before RFP release.   Allows contractors to better plan for small business opportunities (Sub or Prime)</p>
+								</entry>
+							</row>
+							<row class="- topic/row ">
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">10</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<b class="+ topic/ph hi-d/b ">Ensure Acquisition Structure Supports the Selected NAICS Considering the following:</b>
+									</p>
+									<p class="- topic/p ">- Performance Work Statement</p>
+									<p class="- topic/p ">- Labor Categories</p>
+									<p class="- topic/p ">- Contract Clauses</p>
+									<p class="- topic/p ">- Evaluation Criteria </p>
+									<p class="- topic/p ">- Deliverables</p>
+									<p class="- topic/p ">- Performance Measurements</p>
+								</entry>
+								<entry class="- topic/entry ">
+									<p class="- topic/p ">
+										<xref href="https://cs2.eis.af.mil/sites/10263/projects/Services/SST/default.aspx"
+    											scope="external"
+    											format="aspx"
+    											class="- topic/xref ">
+											<u class="+ topic/ph hi-d/u ">Supply Vs. Services Tool</u>
+										</xref>
+									</p>
+								</entry>
+							</row>
+						</tbody>
+					</tgroup>
+				</table>
+			</conbody>
+		</concept>
+	</dita>
