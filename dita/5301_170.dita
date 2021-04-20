@@ -55,12 +55,12 @@
 						</ol>
 					</li>
 				</ol>
-				<p outputclass="Normal">See AF PGI <ph outputclass="AF PGI">5301.170-2</ph> .</p>
-				<p outputclass="Normal">See AF PGI <ph outputclass="AF PGI">5301.170-3</ph> .</p>
-				<p outputclass="Normal">See AF PGI <ph outputclass="AF PGI">5301.170-4</ph> .</p>
-				<p outputclass="Normal">See AFICC 5301.170.</p>
-				<p id="p__Toc351646714"
- 					outputclass="Normal">See SMC PGI 5301.170 .</p>
+				<p outputclass="Normal">See <xref href="AF_PGI_5301_170-2.dita#AFFARS_AF_PGI_5301_170_2">AF PGI 5301.170-2</xref> .</p>
+				<p outputclass="Normal">See <xref href="AF_PGI_5301_170-3.dita#AFFARS_AF_PGI_5301_170_3">AF PGI 5301.170-3</xref>.</p>
+				<p outputclass="Normal">See <xref href="AF_PGI_5301_170-4.dita#AFFARS_AF_PGI_5301_170_4" >AF PGI 5301.170-4</xref> .</p>
+				<p outputclass="Normal">See <xref href="AFICC_PGI_5301_170.dita#AFFARS_AFICC_PGI_5301_170">AFICC 5301.170</xref> .</p>
+				<p id="p__Toc351646714" outputclass="Normal">See <xref
+					href="SMC_PGI_5301_170.dita#AFFARS_SMC_PGI_5301_170">SMC PGI 5301.170</xref> .</p>
 			</conbody>
 		</concept>
 	</dita>
