@@ -1,36 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-	<dita xtrc="NoAutoListNumber">
-		<concept id="AFFARS_AFMC_PGI_5306_501">
-			<title>
-				<ph outputclass="topicnum"
-  					props="autonumber">AFMC PGI 5306.501</ph> Requirement</title>
-			<conbody>
-				<p outputclass="Normal (Web)">The following subordinate organizations are designated "procuring activities" in AFMC:</p>
-				<ol>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(a) Air Force Life Cycle Management Center (AFLCMC), Hanscom Operating Location, Eglin Operating Location</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(b) Air Force Sustainment Center (AFSC), Hill Operating Location, Robins Operating Location</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(c) Air Force Research Lab (AFRL), Air Force Office of Scientific Research (AFOSR), Rome Research Site, Phillips Research Site, Wright Research Site, and Eglin Research Site.</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(d) Air Force Test Center (AFTC)</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(e) Air Force Nuclear Weapons Center (AFNWC)</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1">(f) Air Force Installation and Mission Support Center (AFIMSC)</p>
-					</li>
-					<li outputclass="List 1">
-						<p outputclass="List 1"/>
-					</li>
-				</ol>
-			</conbody>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFMC_PGI_5306_501"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" props="autonumber" class="- topic/ph ">AFMC PGI 5306.501</ph> Requirement</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="Normal (Web)" class="- topic/p ">The following subordinate organizations are designated "procuring activities" in AFMC:</p>
+				     <ol class="- topic/ol ">
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(a) Air Force Life Cycle Management Center (AFLCMC), Hanscom Operating Location, Eglin Operating Location</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(b) Air Force Sustainment Center (AFSC), Hill Operating Location, Robins Operating Location</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c) Air Force Research Lab (AFRL), Air Force Office of Scientific Research (AFOSR), Rome Research Site, Phillips Research Site, Wright Research Site, and Eglin Research Site.</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(d) Air Force Test Center (AFTC)</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(e) Air Force Nuclear Weapons Center (AFNWC)</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(f) Air Force Installation and Mission Support Center (AFIMSC)</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p "/>
+					       </li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

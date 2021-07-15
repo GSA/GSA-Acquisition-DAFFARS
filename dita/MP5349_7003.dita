@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-	<dita>
-		<concept id="MP5349_7003">
-			<title>
-				<ph props="autonumber"
-  					class="- topic/ph ">MP5349.7003</ph> Notification of Anticipated Terminations or Reductions</title>
-			<conbody>
-				<ol>
-					<li outputclass="">(b)(2)(i) Address the notification to: <ol>
-							<li outputclass="">Administrator</li>
-							<li>Office of National Response</li>
-							<li>U. S. Department of Labor</li>
-							<li outputclass="">Employment and Training Administration</li>
-							<li outputclass="">200 Constitution Avenue NW</li>
-							<li outputclass="">Room N5422</li>
-							<li outputclass="">Washington DC 20210</li>
-						</ol>
-					</li>
-				</ol>
-				<p>The notice must address the following key elements:</p>
-				<ol>
-					<li outputclass="">(1) Contract number, date, and type of contract</li>
-					<li outputclass="">(2) Name of the Company</li>
-					<li outputclass="">(3) Nature of contract or end item</li>
-					<li outputclass="">(4) The reason for the termination</li>
-					<li outputclass="">(5) Contract price of the items terminated</li>
-					<li outputclass="">(6) Total number of contractor employees involved, including the Government’s estimate of the number who may be discharged</li>
-					<li outputclass="">(7) Statement of anticipated impact on the company and the community</li>
-					<li outputclass="">(8) The area labor category, whether the contractor is a large or small business, and any known impact on hardcore disadvantaged employment programs</li>
-					<li outputclass="">(9) Total number of subcontractors involved and the impact in this area, and</li>
-					<li outputclass="">(10) An unclassified draft of a suggested press release</li>
-				</ol>
-			</conbody>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_MP5349_7003"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+			   <title class="- topic/title ">
+				     <ph props="autonumber" class="- topic/ph ">MP5349.7003</ph> Notification of Anticipated Terminations or Reductions</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li outputclass="" class="- topic/li ">(b)(2)(i) Address the notification to: <ol class="- topic/ol ">
+							           <li outputclass="" class="- topic/li ">Administrator</li>
+							           <li class="- topic/li ">Office of National Response</li>
+							           <li class="- topic/li ">U. S. Department of Labor</li>
+							           <li outputclass="" class="- topic/li ">Employment and Training Administration</li>
+							           <li outputclass="" class="- topic/li ">200 Constitution Avenue NW</li>
+							           <li outputclass="" class="- topic/li ">Room N5422</li>
+							           <li outputclass="" class="- topic/li ">Washington DC 20210</li>
+						         </ol>
+					       </li>
+				     </ol>
+				     <p class="- topic/p ">The notice must address the following key elements:</p>
+				     <ol class="- topic/ol ">
+					       <li outputclass="" class="- topic/li ">(1) Contract number, date, and type of contract</li>
+					       <li outputclass="" class="- topic/li ">(2) Name of the Company</li>
+					       <li outputclass="" class="- topic/li ">(3) Nature of contract or end item</li>
+					       <li outputclass="" class="- topic/li ">(4) The reason for the termination</li>
+					       <li outputclass="" class="- topic/li ">(5) Contract price of the items terminated</li>
+					       <li outputclass="" class="- topic/li ">(6) Total number of contractor employees involved, including the Government’s estimate of the number who may be discharged</li>
+					       <li outputclass="" class="- topic/li ">(7) Statement of anticipated impact on the company and the community</li>
+					       <li outputclass="" class="- topic/li ">(8) The area labor category, whether the contractor is a large or small business, and any known impact on hardcore disadvantaged employment programs</li>
+					       <li outputclass="" class="- topic/li ">(9) Total number of subcontractors involved and the impact in this area, and</li>
+					       <li outputclass="" class="- topic/li ">(10) An unclassified draft of a suggested press release</li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

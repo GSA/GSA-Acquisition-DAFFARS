@@ -1,422 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_AF_PGI_5343_103_90"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">AF PGI 5343.103-90</ph> Types of Contract Modifications </title>
-			<conbody class="- topic/body  concept/conbody ">
-				<ol class="- topic/ol ">
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(a)  This table is a guide for buyers and contracting officers to help determine the appropriate authority for issuance of specific types of modifications.  The specific facts surrounding the individual modification should always be analyzed.  Contracting officers may use the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/modification_authority_justification_template.pdf"
-    								scope="external"
-    								format="pdf"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">Modification Authority Justification Template</u>
-							</xref>
-							<ph class="- topic/ph ">
-								<u class="+ topic/ph hi-d/u "> </u>
-								<u class="+ topic/ph hi-d/u ">to document their decision</u>
-							</ph>.  The general rule is to cite the explicit authority, which is that authority expressly written into the contract, before citing a more general authority such as “By Mutual Agreement between both Parties”.  10 U.S.C Chapter 137 should not be used as it is too broad and does not address modification authority.  FAR <ph outputclass="FAR"
-  								class="- topic/ph ">1.602</ph>, Authority for contracting officers, should not be used because it only defines the authority of the contracting officer (who is only one party to the original agreement) and does not cite a pre-agreed to condition or authority within the original contract that would allow a change.</p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(b)  Explicit authority can be provided in the general clauses contained in Section I of the contract.  The Changes clause (FAR <ph outputclass="FAR"
-  								class="- topic/ph ">52.243-1</ph>), Definitization clause (FAR <ph outputclass="FAR"
-  								class="- topic/ph ">52.216-25</ph>), or Options clauses (FAR <ph outputclass="FAR"
-  								class="- topic/ph ">52.217-6</ph> thru 9) are examples.  Explicit authority can also be provided for under special contract requirements contained in Section H of the contract.  Finally, explicit authority may be provided for under provisions contained elsewhere in the contract, such as the SOW.  </p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(c)  When citing a specific clause/provision as the authority for the modification, ensure the contract contains that specific clause/provision.  </p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(d)  Types of Contract Modifications &amp; Modification Authority Table:</p>
-					</li>
-				</ol>
-				<table frame="all"
-     					rowsep="1"
-     					colsep="1"
-     					class="- topic/table ">
-					<tgroup cols="2"
-      						class="- topic/tgroup ">
-						<colspec colname="col1"
-       							colwidth="233.75pt"
-       							rowheader="headers"
-       							class="- topic/colspec "/>
-						<colspec colname="col2"
-       							colwidth="271.15pt"
-       							rowheader="headers"
-       							class="- topic/colspec "/>
-						<thead class="- topic/thead ">
-							<row class="- topic/row ">
-								<entry valign="middle"
-     									class="- topic/entry ">
-									<p class="- topic/p ">
-										<b class="+ topic/ph hi-d/b ">Modification Subject</b>
-									</p>
-								</entry>
-								<entry valign="middle"
-     									class="- topic/entry ">
-									<p class="- topic/p ">
-										<b class="+ topic/ph hi-d/b ">Authority</b>
-									</p>
-								</entry>
-							</row>
-						</thead>
-						<tbody class="- topic/tbody ">
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Commercial Modification</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.212-4</ph>(c) Contract Terms and Conditions – Commercial Items</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Data, adding of (within the limits of the J&amp;A)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Data, changing or revising</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Defects in supplies, correction of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Inspection clauses 52.246-2/52.246-3, Warranty clauses, or Correction of Deficiency Clauses in contract</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Defective cost or pricing data, Price reduction for</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.215-10</ph> Price Reduction for Defect Cost or Pricing Data or</p>
-									<p class="- topic/p ">52.215-11 Price Reduction for Defective Cost or Pricing Data--Modifications</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Definitization of a Change Order</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Definitization of a Letter Contract</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.216-25</ph> Contract Definitization</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Delivery, change in the place of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Delivery, schedule extension (CR)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.249-14</ph> Excusable Delays</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Delivery, schedule extension (FP)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.242-17</ph> Government Delay of Work or</p>
-									<p class="- topic/p ">52.249-8 Default Fixed-Price Supply and Service</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Differing Site Conditions (fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.236-2</ph> Differing Site Conditions</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">ECP, incorporation of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Economic Price Adjustment (EPA)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.216-2</ph> Economic price Adjustment--Standard Supplies</p>
-									<p class="- topic/p ">52.216-3 Economic Price Adjustment—Semi-standard Supplies</p>
-									<p class="- topic/p ">52.216-4 Economic Price Adjustment--Labor and Material</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Funding an overrun (fully funded cost reimbursement (CR) contract)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.232-20</ph> Limitation of Cost</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Funding, increase of (fixed-price contract)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">DFARS <ph outputclass="DFARS"
-  											class="- topic/ph ">252.232-7007</ph> Limitation of Government's Obligation</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Funding, increase of (incrementally funded CR contract)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.232-22</ph> Limitation of Funds</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">GFP (Government Furnished Property)</p>
-									<p class="- topic/p ">disposition of / increase or decrease of /</p>
-									<p class="- topic/p ">replacement of / repair of </p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.245-1</ph>  Government Property</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Incentive price revision (FPIF), final price revision or funding to ceiling</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.216-16</ph> Incentive Price Revision--Firm Target</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Incentive price revision (FPIS), establishing a firm-fixed price or firm targets</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.216-17</ph> Incentive Price Revision--Successive Targets</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Make or buy program, changes in</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.215-9</ph> Changes or Additions to Make-or-Buy Program</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">New work, requiring J&amp;A</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Cite the appropriate exemption to CICA (<xref href="http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
-    											scope="external"
-    											format="exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
-    											class="- topic/xref ">
-											<u class="+ topic/ph hi-d/u ">10 U.S.C. 2304 (c) (1) thru (7)</u>
-										</xref>)</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Option, exercise of (IAW contract, unilateral)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.217-6</ph> Option for Increased Quantity,</p>
-									<p class="- topic/p ">52.217-7 Option for Increased Quantity--Separately-Priced Line Item,</p>
-									<p class="- topic/p ">52.217-8 Option to Extend Services, or</p>
-									<p class="- topic/p ">52.217-9 Option to Extend the Term of the Contract</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Option, exercise of (not IAW contract, bilateral)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Cite the appropriate exemption to CICA (<xref href="http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
-    											scope="external"
-    											format="exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
-    											class="- topic/xref ">
-											<u class="+ topic/ph hi-d/u ">10 U.S.C. 2304 (c) (1) thru (7)</u>
-										</xref>)</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Packing or shipment, change in the method of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Progress payments, adding after award</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.232-16</ph> Progress Payments</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Progress payments, increasing rate or liquidation rate</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.232-16</ph> Progress Payments</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Shipment or packing, change in the method of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">SOW, specification, designs, and drawings, change in</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
-									<p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, </p>
-									<p class="- topic/p ">52.243-3 Changes Time-and-Material or Labor-Hour, or</p>
-									<p class="- topic/p ">52.243-4 Changes </p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Stop Work</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.242-15</ph> Stop-Work Order</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Termination for Convenience</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.249-1</ph> thru 7</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Termination for Default</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.249-8</ph> thru 10</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Value Engineering Change Proposal (VECP), incorporation of</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">52.248-1</ph> Value Engineering,</p>
-									<p class="- topic/p ">52.248-2 Value Engineering--Architect-Engineer, or</p>
-									<p class="- topic/p ">52.248-3 Value Engineering--Construction</p>
-								</entry>
-							</row>
-							<row class="- topic/row ">
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">Modification of Contractual Terms not covered by any other Clause or Section H</p>
-									<p class="- topic/p ">(Default authority)</p>
-								</entry>
-								<entry class="- topic/entry ">
-									<p class="- topic/p ">FAR <ph outputclass="FAR"
-  											class="- topic/ph ">43.103</ph>(a), Mutual Agreement between both Parties</p>
-								</entry>
-							</row>
-						</tbody>
-					</tgroup>
-				</table>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AF PGI 5343.103-90</ph> Types of Contract Modifications </title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(a)  This table is a guide for buyers and contracting officers to help determine the appropriate authority for issuance of specific types of modifications.  The specific facts surrounding the individual modification should always be analyzed.  Contracting officers may use the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/modification_authority_justification_template.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">Modification Authority Justification Template</u>
+							           </xref>
+							           <ph class="- topic/ph ">
+								             <u class="+ topic/ph hi-d/u "> </u>
+								             <u class="+ topic/ph hi-d/u ">to document their decision</u>
+							           </ph>.  The general rule is to cite the explicit authority, which is that authority expressly written into the contract, before citing a more general authority such as “By Mutual Agreement between both Parties”.  10 U.S.C Chapter 137 should not be used as it is too broad and does not address modification authority.  FAR <ph outputclass="FAR" class="- topic/ph ">1.602</ph>, Authority for contracting officers, should not be used because it only defines the authority of the contracting officer (who is only one party to the original agreement) and does not cite a pre-agreed to condition or authority within the original contract that would allow a change.</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(b)  Explicit authority can be provided in the general clauses contained in Section I of the contract.  The Changes clause (FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph>), Definitization clause (FAR <ph outputclass="FAR" class="- topic/ph ">52.216-25</ph>), or Options clauses (FAR <ph outputclass="FAR" class="- topic/ph ">52.217-6</ph> thru 9) are examples.  Explicit authority can also be provided for under special contract requirements contained in Section H of the contract.  Finally, explicit authority may be provided for under provisions contained elsewhere in the contract, such as the SOW.  </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c)  When citing a specific clause/provision as the authority for the modification, ensure the contract contains that specific clause/provision.  </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(d)  Types of Contract Modifications &amp; Modification Authority Table:</p>
+					       </li>
+				     </ol>
+				     <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+					       <tgroup cols="2" class="- topic/tgroup ">
+						         <colspec colname="col1"
+                        colwidth="233.75pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+						         <colspec colname="col2"
+                        colwidth="271.15pt"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+						         <thead class="- topic/thead ">
+							           <row class="- topic/row ">
+								             <entry valign="middle" class="- topic/entry ">
+									               <p class="- topic/p ">
+										                 <b class="+ topic/ph hi-d/b ">Modification Subject</b>
+									               </p>
+								             </entry>
+								             <entry valign="middle" class="- topic/entry ">
+									               <p class="- topic/p ">
+										                 <b class="+ topic/ph hi-d/b ">Authority</b>
+									               </p>
+								             </entry>
+							           </row>
+						         </thead>
+						         <tbody class="- topic/tbody ">
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Commercial Modification</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.212-4</ph>(c) Contract Terms and Conditions – Commercial Items</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Data, adding of (within the limits of the J&amp;A)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Data, changing or revising</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Defects in supplies, correction of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Inspection clauses 52.246-2/52.246-3, Warranty clauses, or Correction of Deficiency Clauses in contract</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Defective cost or pricing data, Price reduction for</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.215-10</ph> Price Reduction for Defect Cost or Pricing Data or</p>
+									               <p class="- topic/p ">52.215-11 Price Reduction for Defective Cost or Pricing Data--Modifications</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Definitization of a Change Order</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Definitization of a Letter Contract</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.216-25</ph> Contract Definitization</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Delivery, change in the place of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Delivery, schedule extension (CR)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.249-14</ph> Excusable Delays</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Delivery, schedule extension (FP)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.242-17</ph> Government Delay of Work or</p>
+									               <p class="- topic/p ">52.249-8 Default Fixed-Price Supply and Service</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Differing Site Conditions (fixed-price construction contract or a fixed-price dismantling, demolition, or removal of improvements contract)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.236-2</ph> Differing Site Conditions</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">ECP, incorporation of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Economic Price Adjustment (EPA)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.216-2</ph> Economic price Adjustment--Standard Supplies</p>
+									               <p class="- topic/p ">52.216-3 Economic Price Adjustment—Semi-standard Supplies</p>
+									               <p class="- topic/p ">52.216-4 Economic Price Adjustment--Labor and Material</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Funding an overrun (fully funded cost reimbursement (CR) contract)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.232-20</ph> Limitation of Cost</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Funding, increase of (fixed-price contract)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">DFARS <ph outputclass="DFARS" class="- topic/ph ">252.232-7007</ph> Limitation of Government's Obligation</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Funding, increase of (incrementally funded CR contract)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.232-22</ph> Limitation of Funds</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">GFP (Government Furnished Property)</p>
+									               <p class="- topic/p ">disposition of / increase or decrease of /</p>
+									               <p class="- topic/p ">replacement of / repair of </p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.245-1</ph>  Government Property</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Incentive price revision (FPIF), final price revision or funding to ceiling</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.216-16</ph> Incentive Price Revision--Firm Target</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Incentive price revision (FPIS), establishing a firm-fixed price or firm targets</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.216-17</ph> Incentive Price Revision--Successive Targets</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Make or buy program, changes in</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.215-9</ph> Changes or Additions to Make-or-Buy Program</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">New work, requiring J&amp;A</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Cite the appropriate exemption to CICA (<xref href="http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
+                                 scope="external"
+                                 format="exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
+                                 class="- topic/xref ">
+											                   <u class="+ topic/ph hi-d/u ">10 U.S.C. 2304 (c) (1) thru (7)</u>
+										                 </xref>)</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Option, exercise of (IAW contract, unilateral)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.217-6</ph> Option for Increased Quantity,</p>
+									               <p class="- topic/p ">52.217-7 Option for Increased Quantity--Separately-Priced Line Item,</p>
+									               <p class="- topic/p ">52.217-8 Option to Extend Services, or</p>
+									               <p class="- topic/p ">52.217-9 Option to Extend the Term of the Contract</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Option, exercise of (not IAW contract, bilateral)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Cite the appropriate exemption to CICA (<xref href="http://uscode.house.gov/uscode-cgi/fastweb.exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
+                                 scope="external"
+                                 format="exe?getdoc+uscview+t09t12+1420+0++%28%29%20%20AND%20%28%2810%29%20ADJ%20USC%29%3ACITE%20AND%20%28USC%20w%2F10%20%282304%29%29%3ACITE%20%20%20%20%20%20%20%20%20"
+                                 class="- topic/xref ">
+											                   <u class="+ topic/ph hi-d/u ">10 U.S.C. 2304 (c) (1) thru (7)</u>
+										                 </xref>)</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Packing or shipment, change in the method of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Progress payments, adding after award</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.232-16</ph> Progress Payments</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Progress payments, increasing rate or liquidation rate</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.232-16</ph> Progress Payments</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Shipment or packing, change in the method of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, or </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and- Material or Labor-Hour</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">SOW, specification, designs, and drawings, change in</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.243-1</ph> Changes--Fixed Price,</p>
+									               <p class="- topic/p ">52.243-2 Changes--Cost Reimbursement, </p>
+									               <p class="- topic/p ">52.243-3 Changes Time-and-Material or Labor-Hour, or</p>
+									               <p class="- topic/p ">52.243-4 Changes </p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Stop Work</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.242-15</ph> Stop-Work Order</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Termination for Convenience</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.249-1</ph> thru 7</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Termination for Default</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.249-8</ph> thru 10</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Value Engineering Change Proposal (VECP), incorporation of</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">52.248-1</ph> Value Engineering,</p>
+									               <p class="- topic/p ">52.248-2 Value Engineering--Architect-Engineer, or</p>
+									               <p class="- topic/p ">52.248-3 Value Engineering--Construction</p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">Modification of Contractual Terms not covered by any other Clause or Section H</p>
+									               <p class="- topic/p ">(Default authority)</p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p class="- topic/p ">FAR <ph outputclass="FAR" class="- topic/ph ">43.103</ph>(a), Mutual Agreement between both Parties</p>
+								             </entry>
+							           </row>
+						         </tbody>
+					       </tgroup>
+				     </table>
+			   </conbody>
 		</concept>
 	</dita>

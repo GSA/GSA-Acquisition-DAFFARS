@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5334">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5334</ph> — Major System Acquisition</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="5334_203.dita#AFFARS_5334_203">5334.203 INTERIM CHANGE:  See Air Force Class Deviation 2018-U0001 (Policy Memo 18-C-07</xref>
-						</p>
-					</li>
-				</ul>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5334"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5334</ph> — Major System Acquisition</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5334_203.dita#AFFARS_5334_203"
+                        class="- topic/xref ">5334.203 INTERIM CHANGE:  See Air Force Class Deviation 2018-U0001 (Policy Memo 18-C-07</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

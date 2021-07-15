@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-	<dita xtrc="NoAutoListNumber">
-		<concept id="AFFARS_MP5319">
-			<title>
-				<ph props="autonumber">MP5319</ph> — Small Business Programs</title>
-			<conbody>
-				<p outputclass="Normal">
-					<b>Small Business Administration (SBA) Appeals to the Agency Head</b>
-				</p>
-				<p outputclass="Normal">When notified by the SBA that it has filed an appeal with the Agency Head, either for a small business set-aside or the 8(a) program, the contracting officer must prepare an appeal file. The file must contain a statement by the contracting officer, which sets forth the decision rationale and addresses the appeal issues on a point-by-point basis. The appeal file must include the following:</p>
-				<ol>
-					<li>1. The contracting officer’s rationale for not considering known small business sources, small businesses identified through synopsis, and sources recommended by the Small Business Specialist and SBA;</li>
-					<li>2. Discuss results of market research or attach a market research report.</li>
-					<li>3. Include comments and/or concurrence from the Small Business Specialist;</li>
-					<li>4. The completed <xref format="html"
-    							href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html"
-    							scope="external">DD Form 2579</xref> and SBA Form 70 and any related correspondence;</li>
-					<li>5. The procurement history;</li>
-					<li>6. A copy of the solicitation’s evaluation and award factors.</li>
-				</ol>
-			</conbody>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_MP5319"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+			   <title class="- topic/title ">
+				     <ph props="autonumber" class="- topic/ph ">MP5319</ph> — Small Business Programs</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="Normal" class="- topic/p ">
+					       <b class="+ topic/ph hi-d/b ">Small Business Administration (SBA) Appeals to the Agency Head</b>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">When notified by the SBA that it has filed an appeal with the Agency Head, either for a small business set-aside or the 8(a) program, the contracting officer must prepare an appeal file. The file must contain a statement by the contracting officer, which sets forth the decision rationale and addresses the appeal issues on a point-by-point basis. The appeal file must include the following:</p>
+				     <ol class="- topic/ol ">
+					       <li class="- topic/li ">1. The contracting officer’s rationale for not considering known small business sources, small businesses identified through synopsis, and sources recommended by the Small Business Specialist and SBA;</li>
+					       <li class="- topic/li ">2. Discuss results of market research or attach a market research report.</li>
+					       <li class="- topic/li ">3. Include comments and/or concurrence from the Small Business Specialist;</li>
+					       <li class="- topic/li ">4. The completed <xref format="html"
+                     href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html"
+                     scope="external"
+                     class="- topic/xref ">DD Form 2579</xref> and SBA Form 70 and any related correspondence;</li>
+					       <li class="- topic/li ">5. The procurement history;</li>
+					       <li class="- topic/li ">6. A copy of the solicitation’s evaluation and award factors.</li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

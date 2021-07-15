@@ -1,59 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_MP5325_7003_3"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">MP5325.7003-3</ph> — Exceptions</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<p outputclass="List_0_bold"
- 					class="- topic/p ">1.   Domestic Non-Availability Determinations (DNAD) Under DFARS <ph outputclass="DFARS"
-  						class="- topic/ph ">225.7003</ph>
-				</p>
-				<p id="p__Toc38365662"
- 					outputclass="Normal"
- 					class="- topic/p ">Follow these mandatory procedures (MP) when requesting approval to purchase restricted specialty metals under DFARS <ph outputclass="DFARS"
-  						class="- topic/ph ">225.7003</ph>.  The requirement to comply with these statutory and regulatory restrictions applies to procurements in excess of the simplified acquisition threshold.  This MP provides guidance for drafting DNAD and Commercial Derivative Military Article (CDMA) Determination and Finding (D&amp;F) documents.  The DNAD or CDMA D&amp;Fs should be tailored to the particular acquisition.  In some cases, the contracting officer may not be able to obtain all of the data specified in the templates referenced below; however, the contracting officer should make every effort to do so.</p>
-				<p outputclass="List_0_bold"
- 					class="- topic/p ">2.   Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</p>
-				<p id="p__Toc38365663"
- 					outputclass="Normal"
- 					class="- topic/p ">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at DFARS <ph outputclass="DFARS"
-  						class="- topic/ph ">252.225-7009</ph>) and the prime contractor provides the certification required at DFARS <ph outputclass="DFARS"
-  						class="- topic/ph ">252.225-7010</ph>, the contracting officer must prepare a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_01.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CDMA D&amp;F</u>
-					</xref> and coordinate the effort through the SCO and <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-    						scope="external"
-    						format="mailto"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-					</xref> for submission to the Secretary of the Air Force (SecAF) for approval.  This approval authority is not delegable.  </p>
-				<p outputclass="List_0_bold"
- 					class="- topic/p ">3.   DNAD Exception </p>
-				<p outputclass="Normal"
- 					class="- topic/p ">When a program office concludes that domestically melted or produced specialty metal cannot be procured (as described in DFARS <ph outputclass="DFARS"
-  						class="- topic/ph ">225.7003-3</ph>(b)(5)) to support the production of a particular end item or component, the contracting officer must prepare a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_03.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">DNAD D&amp;F</u>
-					</xref> for specialty metals.  The contracting officer must coordinate the effort through the SCO and <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-    						scope="external"
-    						format="mailto"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-					</xref> for submission to the SecAF for approval.  The SecAF may grant a DNAD for an individual contract if a compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed at a fair and reasonable price.  This approval authority is not delegable.  A Class DNAD requires the approval of the USD(AT&amp;L).</p>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph class="- topic/ph " props="autonumber">MP5325.7003-3</ph> — Exceptions</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="List_0_bold" class="- topic/p ">1.   Domestic Non-Availability Determinations (DNAD) Under DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7003</ph>
+				     </p>
+				     <p id="p__Toc38365662" outputclass="Normal" class="- topic/p ">Follow these mandatory procedures (MP) when requesting approval to purchase restricted specialty metals under DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7003</ph>.  The requirement to comply with these statutory and regulatory restrictions applies to procurements in excess of the simplified acquisition threshold.  This MP provides guidance for drafting DNAD and Commercial Derivative Military Article (CDMA) Determination and Finding (D&amp;F) documents.  The DNAD or CDMA D&amp;Fs should be tailored to the particular acquisition.  In some cases, the contracting officer may not be able to obtain all of the data specified in the templates referenced below; however, the contracting officer should make every effort to do so.</p>
+				     <p outputclass="List_0_bold" class="- topic/p ">2.   Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</p>
+				     <p id="p__Toc38365663" outputclass="Normal" class="- topic/p ">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at DFARS <ph outputclass="DFARS" class="- topic/ph ">252.225-7009</ph>) and the prime contractor provides the certification required at DFARS <ph outputclass="DFARS" class="- topic/ph ">252.225-7010</ph>, the contracting officer must prepare a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_01.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">CDMA D&amp;F</u>
+					       </xref> and coordinate the effort through the SCO and <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+					       </xref> for submission to the Secretary of the Air Force (SecAF) for approval.  This approval authority is not delegable.  </p>
+				     <p outputclass="List_0_bold" class="- topic/p ">3.   DNAD Exception </p>
+				     <p outputclass="Normal" class="- topic/p ">When a program office concludes that domestically melted or produced specialty metal cannot be procured (as described in DFARS <ph outputclass="DFARS" class="- topic/ph ">225.7003-3</ph>(b)(5)) to support the production of a particular end item or component, the contracting officer must prepare a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/determination_and_findings_03.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">DNAD D&amp;F</u>
+					       </xref> for specialty metals.  The contracting officer must coordinate the effort through the SCO and <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+					       </xref> for submission to the SecAF for approval.  The SecAF may grant a DNAD for an individual contract if a compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed at a fair and reasonable price.  This approval authority is not delegable.  A Class DNAD requires the approval of the USD(AT&amp;L).</p>
+			   </conbody>
 		</concept>
 	</dita>

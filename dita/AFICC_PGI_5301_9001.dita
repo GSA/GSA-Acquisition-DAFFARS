@@ -1,79 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-	<dita xtrc="NoAutoListNumber">
-		<concept id="AFFARS_AFICC_PGI_5301_9001">
-			<title>
-				<ph outputclass="topicnum"
-  					props="autonumber">AFICC PGI 5301.9001</ph> Air Force Installation Contracting Center Clearance Delegations</title>
-			<conbody>
-				<p>For AFICC, see <xref format="html"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/kp/AFICC%20Senior%20Contracting%20Official%20SCO%20Authorities/Forms/AllItems.aspx"
-    						scope="external">AFIMSC Competition and Commercial Advocate Appointment Letter</xref>.</p>
-				<p>This PGI sets forth approval authorities and delegations that are specific to AFICC and its AF MAJCOM Operating Locations. Contracting Offices/Squadrons that receive their contracting authority from AFICC are responsible to execute the authorities provided to them by their cognizant AFICC Senior Contracting Official. Specific delegated authorities can be found by accessing the EIS sites of the respective AFICC OLs.</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/kp/AFICC%20Senior%20Contracting%20Official%20SCO%20Authorities/Forms/AllItems.aspx"
-    						scope="external">
-						<u>AFICC – Air Force Installation Contracting Center</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-acc/ICC%20KC%20OLACC%20Autorizations%20and%20Delegations/Forms/AllItems.aspx"
-    						scope="external">
-						<u>AFICC/KC – Air Combat Command (ACC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10963/hq/AFICA/AFICCKG%20Authorities%20and%20Delegations/Forms/AllItems.aspx"
-    						scope="external">
-						<u>AFICC/KG – Air Force Global Strike Command (AFGSC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-pac/compliance/default.aspx"
-    						scope="external">
-						<u>AFICC/KH – Pacific Air Forces (PACAF)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-amc/SitePages/AFICC%20KM%20Authorizations%20and%20Delegations.aspx"
-    						scope="external">
-						<u>AFICC/KM – Air Mobility Command (AMC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-soc/AFICC%20KO%20PGI/Forms/AllItems.aspx"
-    						scope="external">
-						<u>AFICC/KO – Air Force Special Operations Command (AFSOC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/aficc/ol-spc/SitePages/Mandatory%20Procedures%20and%20Instructional%20Guidance.aspx"
-    						scope="external">
-						<u>AFICC/KS – Air Force Space Command (AFSPC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="aspx?RootFolder=%2fsites%2f10074%2fafcc%2fAFICC%2fol%2daet%2fShared%20Documents%2fDelegations%20and%20Authorities&amp;FolderCTID=&amp;View=%7b36CD03A9%2dF597%2d4B3B%2d890C%2d5912FAB2C0D8%7d"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-aet/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2f10074%2fafcc%2fAFICC%2fol%2daet%2fShared%20Documents%2fDelegations%20and%20Authorities&amp;FolderCTID=&amp;View=%7b36CD03A9%2dF597%2d4B3B%2d890C%2d5912FAB2C0D8%7d"
-    						scope="external">
-						<u>AFICC/KT – Air Education &amp; Training Command (AETC)</u>
-					</xref>
-				</p>
-				<p outputclass="Normal">
-					<xref format="html"
-    						href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-afe/Policy/c_r/AFICC%20KU%20Review%20and%20Approval%20Procedures/"
-    						scope="external">
-						<u>AFICC/KU – United States Air Forces Europe &amp; Air Forces Africa (USAFE-AFAFRICA)</u>
-					</xref>
-				</p>
-			</conbody>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AFICC_PGI_5301_9001"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" props="autonumber" class="- topic/ph ">AFICC PGI 5301.9001</ph> Air Force Installation Contracting Center Clearance Delegations</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p class="- topic/p ">For AFICC, see <xref format="html"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/kp/AFICC%20Senior%20Contracting%20Official%20SCO%20Authorities/Forms/AllItems.aspx"
+                  scope="external"
+                  class="- topic/xref ">AFIMSC Competition and Commercial Advocate Appointment Letter</xref>.</p>
+				     <p class="- topic/p ">This PGI sets forth approval authorities and delegations that are specific to AFICC and its AF MAJCOM Operating Locations. Contracting Offices/Squadrons that receive their contracting authority from AFICC are responsible to execute the authorities provided to them by their cognizant AFICC Senior Contracting Official. Specific delegated authorities can be found by accessing the EIS sites of the respective AFICC OLs.</p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/kp/AFICC%20Senior%20Contracting%20Official%20SCO%20Authorities/Forms/AllItems.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC – Air Force Installation Contracting Center</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-acc/ICC%20KC%20OLACC%20Autorizations%20and%20Delegations/Forms/AllItems.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KC – Air Combat Command (ACC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10963/hq/AFICA/AFICCKG%20Authorities%20and%20Delegations/Forms/AllItems.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KG – Air Force Global Strike Command (AFGSC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-pac/compliance/default.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KH – Pacific Air Forces (PACAF)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-amc/SitePages/AFICC%20KM%20Authorizations%20and%20Delegations.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KM – Air Mobility Command (AMC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-soc/AFICC%20KO%20PGI/Forms/AllItems.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KO – Air Force Special Operations Command (AFSOC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/aficc/ol-spc/SitePages/Mandatory%20Procedures%20and%20Instructional%20Guidance.aspx"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KS – Air Force Space Command (AFSPC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="aspx?RootFolder=%2fsites%2f10074%2fafcc%2fAFICC%2fol%2daet%2fShared%20Documents%2fDelegations%20and%20Authorities&amp;FolderCTID=&amp;View=%7b36CD03A9%2dF597%2d4B3B%2d890C%2d5912FAB2C0D8%7d"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-aet/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2f10074%2fafcc%2fAFICC%2fol%2daet%2fShared%20Documents%2fDelegations%20and%20Authorities&amp;FolderCTID=&amp;View=%7b36CD03A9%2dF597%2d4B3B%2d890C%2d5912FAB2C0D8%7d"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KT – Air Education &amp; Training Command (AETC)</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">
+					       <xref format="html"
+                  href="https://cs2.eis.af.mil/sites/10074/afcc/AFICC/ol-afe/Policy/c_r/AFICC%20KU%20Review%20and%20Approval%20Procedures/"
+                  scope="external"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFICC/KU – United States Air Forces Europe &amp; Air Forces Africa (USAFE-AFAFRICA)</u>
+					       </xref>
+				     </p>
+			   </conbody>
 		</concept>
 	</dita>

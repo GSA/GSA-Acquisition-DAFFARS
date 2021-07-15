@@ -1,53 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_5330_201_5"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">5330.201-5</ph> Waivers</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<ol class="- topic/ol ">
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(a)(2)  The DAS(C)/ADAS(C) is the CAS waiver authority.  Submit CAS waiver requests through the SCO to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-    								scope="external"
-    								format="mailto"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-							</xref> for OUSD(A&amp;S)/DPC review and SAF/AQC approval, no later than 45 days before the anticipated contract award.  Waiver requests must include all items listed in FAR <ph outputclass="FAR"
-  								class="- topic/ph ">30.201-5</ph>(c)<ph class="- topic/ph ">
-								<u class="+ topic/ph hi-d/u "> </u>
-							</ph>and<ph class="- topic/ph ">
-								<u class="+ topic/ph hi-d/u ">,</u>
-							</ph> for exceptional case CAS waivers, also address the items at DFARS PGI <ph outputclass="DFARS PGI"
-  								class="- topic/ph ">230.201-5</ph>(e), and include the determination required by DFARS <ph outputclass="DFARS"
-  								class="- topic/ph ">230.201-5</ph>(a)(1)(A)(2)<ph class="- topic/ph ">
-								<u class="+ topic/ph hi-d/u ">.</u>
-							</ph>
-						</p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(e)  SCOs must submit a consolidated annual report of exceptional case CAS waivers in the format required by DFARS PGI <ph outputclass="DFARS PGI"
-  								class="- topic/ph ">230.201-5</ph>(e), or a negative report, to HQ AFMC/PKF no later than 15 October each year.  HQ AFMC/PKF must consolidate all reports and submit a final report to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil"
-    								scope="external"
-    								format="mailto"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
-							</xref> no later than 8 November each year.  SAF/AQC will submit the annual Air Force report to OUSD(A&amp;S)/DPC.  AFRCO will provide the information directly to the DAS(C)/ADAS(C), as appropriate.</p>
-					</li>
-				</ol>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5330.201-5</ph> Waivers</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(a)(2)  The DAS(C)/ADAS(C) is the CAS waiver authority.  Submit CAS waiver requests through the SCO to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+							           </xref> for OUSD(A&amp;S)/DPC review and SAF/AQC approval, no later than 45 days before the anticipated contract award.  Waiver requests must include all items listed in FAR <ph outputclass="FAR" class="- topic/ph ">30.201-5</ph>(c)<ph class="- topic/ph ">
+								             <u class="+ topic/ph hi-d/u "> </u>
+							           </ph>and<ph class="- topic/ph ">
+								             <u class="+ topic/ph hi-d/u ">,</u>
+							           </ph> for exceptional case CAS waivers, also address the items at DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">230.201-5</ph>(e), and include the determination required by DFARS <ph outputclass="DFARS" class="- topic/ph ">230.201-5</ph>(a)(1)(A)(2)<ph class="- topic/ph ">
+								             <u class="+ topic/ph hi-d/u ">.</u>
+							           </ph>
+						         </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(e)  SCOs must submit a consolidated annual report of exceptional case CAS waivers in the format required by DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">230.201-5</ph>(e), or a negative report, to HQ AFMC/PKF no later than 15 October each year.  HQ AFMC/PKF must consolidate all reports and submit a final report to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
+							           </xref> no later than 8 November each year.  SAF/AQC will submit the annual Air Force report to OUSD(A&amp;S)/DPC.  AFRCO will provide the information directly to the DAS(C)/ADAS(C), as appropriate.</p>
+					       </li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

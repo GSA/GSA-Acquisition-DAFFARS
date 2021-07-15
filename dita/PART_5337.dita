@@ -1,95 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5337">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5337</ph> — Service Contracting</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5337_1.dita#AFFARS_SUBPART_5337_1">SUBPART 5337.1 — SERVICE CONTRACTS (GENERAL)</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_104.dita#AFFARS_5337_104">5337.104 Personal Services Contracts</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_106.dita#AFFARS_5337_106">5337.106 Funding and Term of Service Contracts</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_113-1.dita#AFFARS_5337_113_1">5337.113-1 Waiver of Cost Allowability Limitations</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_170-2.dita#AFFARS_5337_170_2">5337.170-2 Approval Requirements</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5337_2.dita#AFFARS_SUBPART_5337_2">SUBPART 5337.2 — ADVISORY AND ASSISTANCE SERVICES </xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_204.dita#AFFARS_5337_204">5337.204 Guidelines for Determining Availability of Personnel</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5337_5.dita#AFFARS_SUBPART_5337_5">SUBPART 5337.5 — MANAGEMENT AND OVERSIGHT OF SERVICE CONTRACTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_503.dita#AFFARS_5337_503">5337.503 Agency-head Responsibilities</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5337_74.dita#AFFARS_SUBPART_5337_74">SUBPART 5337.74 — SERVICES AT INSTALLATIONS BEING CLOSED</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5337_7401.dita#AFFARS_5337_7401">5337.7401 Policy</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<p outputclass="Normal"
- 					class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-					</xref>.</p>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5337"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5337</ph> — Service Contracting</title>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+            </xref>.</p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5337_1.dita#AFFARS_SUBPART_5337_1"
+                        class="- topic/xref ">SUBPART 5337.1 — SERVICE CONTRACTS (GENERAL)</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_104.dita#AFFARS_5337_104"
+                              class="- topic/xref ">5337.104 Personal Services Contracts</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_106.dita#AFFARS_5337_106"
+                              class="- topic/xref ">5337.106 Funding and Term of Service Contracts</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_113-1.dita#AFFARS_5337_113_1"
+                              class="- topic/xref ">5337.113-1 Waiver of Cost Allowability Limitations</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_170-2.dita#AFFARS_5337_170_2"
+                              class="- topic/xref ">5337.170-2 Approval Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5337_2.dita#AFFARS_SUBPART_5337_2"
+                        class="- topic/xref ">SUBPART 5337.2 — ADVISORY AND ASSISTANCE SERVICES </xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_204.dita#AFFARS_5337_204"
+                              class="- topic/xref ">5337.204 Guidelines for Determining Availability of Personnel</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5337_5.dita#AFFARS_SUBPART_5337_5"
+                        class="- topic/xref ">SUBPART 5337.5 — MANAGEMENT AND OVERSIGHT OF SERVICE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_503.dita#AFFARS_5337_503"
+                              class="- topic/xref ">5337.503 Agency-head Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5337_74.dita#AFFARS_SUBPART_5337_74"
+                        class="- topic/xref ">SUBPART 5337.74 — SERVICES AT INSTALLATIONS BEING CLOSED</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5337_7401.dita#AFFARS_5337_7401"
+                              class="- topic/xref ">5337.7401 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

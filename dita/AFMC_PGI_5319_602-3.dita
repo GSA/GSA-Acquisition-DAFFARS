@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_AFMC_PGI_5319_602_3"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">AFMC PGI 5319.602-3</ph> Resolving Differences Between the Agency and the Small Business Administration</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<ol class="- topic/ol ">
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(a)(3)(A) If the contracting officer believes the agency should appeal a Certificate of Competency, the contracting officer coordinates with the local Small Business office and forward the appeal file through the SCO to SAF/SB with a courtesy copy to the MAJCOM small business office. </p>
-					</li>
-				</ol>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5319.602-3</ph> Resolving Differences Between the Agency and the Small Business Administration</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(a)(3)(A) If the contracting officer believes the agency should appeal a Certificate of Competency, the contracting officer coordinates with the local Small Business office and forward the appeal file through the SCO to SAF/SB with a courtesy copy to the MAJCOM small business office. </p>
+					       </li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

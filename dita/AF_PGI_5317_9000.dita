@@ -1,126 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-	<dita xtrc="NoAutoListNumber">
-		<concept id="AFFARS_AF_PGI_5317_9000">
-			<title>
-				<ph outputclass="topicnum"
-  					props="autonumber">AF PGI 5317.9000</ph> Associate Contractor Agreements</title>
-			<conbody>
-				<p outputclass="Normal (Web)">“Associate Contractor Agreements” (ACA) are agreements between contractors working on government contracts or projects that specify requirements for them to share information, data, technical knowledge, expertise, or resources.</p>
-				<p outputclass="Normal (Web)">Prime contractor to subcontractor relationships do not constitute ACAs, and are not subject to this section’s requirements. The contracting officer may require ACAs when contractors working on separate Government contracts must cooperate, share resources or otherwise jointly participate in working on contracts or projects. The contractor should tailor each ACA to the requirements of the individual contracting situation and may consult with the contracting officer as required. Suggested Contract Language for Statement of Work or Performance Work Statement:</p>
-				<ol>
-					<li>
-						<p>
-							<i>(a) The Contractor should enter into Associate Contractor Agreements (ACA) for any portion of the contract requiring joint participation in the accomplishment of the Government’s requirement. The agreements should include the basis for sharing information, data, technical knowledge, expertise, and/or resources essential to the integration of the (<u>insert name of the program or project)</u>, to ensure the greatest degree of cooperation for the development of the program to meet the terms of the contract. Associate contractors are listed in (g) below.</i>
-						</p>
-						<ol>
-							<li>
-								<p>(b) ACAs should include the following general information:</p>
-								<ol>
-									<li>
-										<p>
-											<i>(1) Identify the associate contractors and their relationships.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(2) Identify the program involved and the relevant Government contracts of the associate contractors.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(3) Describe the associate contractor interfaces by general subject matter.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(4) Specify the categories of information to be exchanged or support to be provided.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(5) Include the expiration date (or event) of the ACA.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(6) Identify potential conflicts between relevant Government contracts and the ACA; include agreements on protection of proprietary data and restrictions on employees.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(c) Provide a copy of such agreement to the Contracting Officer for review before execution of the document by the cooperating contractors.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(d) The Contractor is not relieved of any contract requirements or entitled to any adjustments to the contract terms because of a failure to resolve a disagreement with an associate contractor.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(e) Liability for the improper disclosure of any proprietary data contained in or referenced by any agreement rests with the parties to the agreement, and not the Government.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(f) All costs associated with the agreements are included in the negotiated cost of this contract. Agreements may be amended as required by the Government during the performance of this contract.</i>
-										</p>
-									</li>
-									<li>
-										<p>
-											<i>(g) The following contractors are associate contractors with whom agreements are required:</i>
-										</p>
-									</li>
-								</ol>
-							</li>
-						</ol>
-					</li>
-				</ol>
-				<table colsep="1"
-     					rowsep="1">
-					<tgroup cols="3">
-						<colspec colname="1"
-       							colnum="1"
-       							colwidth="48*"/>
-						<colspec colname="2"
-       							colnum="2"
-       							colwidth="5*"/>
-						<colspec colname="3"
-       							colnum="3"
-       							colwidth="47*"/>
-						<tbody>
-							<row>
-								<entry>
-									<p outputclass="Normal (Web)">
-										<b>Contractor</b>
-									</p>
-								</entry>
-								<entry>
-									<p outputclass="Normal (Web)">
-										<b>Address</b>
-									</p>
-								</entry>
-								<entry>
-									<p outputclass="Normal (Web)">
-										<b>Program / Contract</b>
-									</p>
-								</entry>
-							</row>
-							<row>
-								<entry/>
-								<entry/>
-								<entry/>
-							</row>
-							<row>
-								<entry/>
-								<entry/>
-								<entry/>
-							</row>
-						</tbody>
-					</tgroup>
-				</table>
-			</conbody>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_AF_PGI_5317_9000"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            class="- topic/topic concept/concept ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" props="autonumber" class="- topic/ph ">AF PGI 5317.9000</ph> Associate Contractor Agreements</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="Normal (Web)" class="- topic/p ">“Associate Contractor Agreements” (ACA) are agreements between contractors working on government contracts or projects that specify requirements for them to share information, data, technical knowledge, expertise, or resources.</p>
+				     <p outputclass="Normal (Web)" class="- topic/p ">Prime contractor to subcontractor relationships do not constitute ACAs, and are not subject to this section’s requirements. The contracting officer may require ACAs when contractors working on separate Government contracts must cooperate, share resources or otherwise jointly participate in working on contracts or projects. The contractor should tailor each ACA to the requirements of the individual contracting situation and may consult with the contracting officer as required. Suggested Contract Language for Statement of Work or Performance Work Statement:</p>
+				     <ol class="- topic/ol ">
+					       <li class="- topic/li ">
+						         <p class="- topic/p ">
+							           <i class="+ topic/ph hi-d/i ">(a) The Contractor should enter into Associate Contractor Agreements (ACA) for any portion of the contract requiring joint participation in the accomplishment of the Government’s requirement. The agreements should include the basis for sharing information, data, technical knowledge, expertise, and/or resources essential to the integration of the (<u class="+ topic/ph hi-d/u ">insert name of the program or project)</u>, to ensure the greatest degree of cooperation for the development of the program to meet the terms of the contract. Associate contractors are listed in (g) below.</i>
+						         </p>
+						         <ol class="- topic/ol ">
+							           <li class="- topic/li ">
+								             <p class="- topic/p ">(b) ACAs should include the following general information:</p>
+								             <ol class="- topic/ol ">
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(1) Identify the associate contractors and their relationships.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(2) Identify the program involved and the relevant Government contracts of the associate contractors.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(3) Describe the associate contractor interfaces by general subject matter.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(4) Specify the categories of information to be exchanged or support to be provided.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(5) Include the expiration date (or event) of the ACA.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(6) Identify potential conflicts between relevant Government contracts and the ACA; include agreements on protection of proprietary data and restrictions on employees.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(c) Provide a copy of such agreement to the Contracting Officer for review before execution of the document by the cooperating contractors.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(d) The Contractor is not relieved of any contract requirements or entitled to any adjustments to the contract terms because of a failure to resolve a disagreement with an associate contractor.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(e) Liability for the improper disclosure of any proprietary data contained in or referenced by any agreement rests with the parties to the agreement, and not the Government.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(f) All costs associated with the agreements are included in the negotiated cost of this contract. Agreements may be amended as required by the Government during the performance of this contract.</i>
+										                 </p>
+									               </li>
+									               <li class="- topic/li ">
+										                 <p class="- topic/p ">
+											                   <i class="+ topic/ph hi-d/i ">(g) The following contractors are associate contractors with whom agreements are required:</i>
+										                 </p>
+									               </li>
+								             </ol>
+							           </li>
+						         </ol>
+					       </li>
+				     </ol>
+				     <table colsep="1" rowsep="1" class="- topic/table ">
+					       <tgroup cols="3" class="- topic/tgroup ">
+						         <colspec colname="1"
+                        colnum="1"
+                        colwidth="48*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+						         <colspec colname="2"
+                        colnum="2"
+                        colwidth="5*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+						         <colspec colname="3"
+                        colnum="3"
+                        colwidth="47*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+						         <tbody class="- topic/tbody ">
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry ">
+									               <p outputclass="Normal (Web)" class="- topic/p ">
+										                 <b class="+ topic/ph hi-d/b ">Contractor</b>
+									               </p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p outputclass="Normal (Web)" class="- topic/p ">
+										                 <b class="+ topic/ph hi-d/b ">Address</b>
+									               </p>
+								             </entry>
+								             <entry class="- topic/entry ">
+									               <p outputclass="Normal (Web)" class="- topic/p ">
+										                 <b class="+ topic/ph hi-d/b ">Program / Contract</b>
+									               </p>
+								             </entry>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry "/>
+								             <entry class="- topic/entry "/>
+								             <entry class="- topic/entry "/>
+							           </row>
+							           <row class="- topic/row ">
+								             <entry class="- topic/entry "/>
+								             <entry class="- topic/entry "/>
+								             <entry class="- topic/entry "/>
+							           </row>
+						         </tbody>
+					       </tgroup>
+				     </table>
+			   </conbody>
 		</concept>
 	</dita>

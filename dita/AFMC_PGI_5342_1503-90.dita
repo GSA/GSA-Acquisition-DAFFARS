@@ -1,77 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_AFMC_PGI_5342_1503_90"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">AFMC PGI 5342.1503-90</ph> Procedures</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<ol class="- topic/ol ">
-					<li class="- topic/li ">
-						<p class="- topic/p ">(a)  Duties of the MAJCOM Contractor Performance Assessment Reporting System (CPARS) Agency Point of Contact (APOC) may include:<ol class="- topic/ol ">
-								<li outputclass="List 2"
-  									class="- topic/li ">
-									<p outputclass="List 2"
- 										class="- topic/p ">(1)  Assistance to subordinate organization CPARS APOC (e.g. training, monitoring and policy implementation);</p>
-								</li>
-								<li outputclass="List 2"
-  									class="- topic/li ">
-									<p outputclass="List 2"
- 										class="- topic/p ">(2)  Coordination and submittal of subordinate organization CPARS APOCs to the Navy CPARS Program Office;</p>
-								</li>
-								<li outputclass="List 2"
-  									class="- topic/li ">
-									<p outputclass="List 2"
- 										class="- topic/p ">(3)  Provide metrics/information as requested by SAF/AQC; and</p>
-								</li>
-								<li outputclass="List 2"
-  									class="- topic/li ">
-									<p outputclass="List 2"
- 										class="- topic/p ">(4)  Review and provide subordinate organization issues to the AF CPARS Focal Point and/or the CPARS Program Management Office (PMO).</p>
-								</li>
-							</ol>
-						</p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(b)Program Executive Officers (PEOs), Center PZ organizations, and Air Force Research Laboratory (AFRL) are encouraged to assign a CPARS APOC who will perform duties outlined in the <xref href="https://www.cpars.gov/documents/CPARS-Guidance.pdf"
-    								scope="external"
-    								format="pdf"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">Guidance for CPARS</u>
-							</xref>, paragraph 3.4 for “Agency Point of Contact”.  </p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(c)Assessing Officials (AOs) and Reviewing Officials (ROs) will normally be designated from within the command/activity/office/program that identifies the requirement and is in the best position to evaluate contractor performance.  Contracting officers should be included in the evaluation process prior to forwarding the CPAR to the Contractor Representative. </p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(d)For AFMC system acquisitions, the AO is encouraged to always be the person who has overall responsibility for the acquisition of a system within the approved Acquisition Program Baseline.  For programs under the PEO structure, the AO may be at least at the Division Chief or Branch Chief level.  The designated RO should be at least one level above the AO.  For PEO programs, the PEO will be given the option of acting as the RO.  For AFRL, the Commander may delegate this authority to the Center Technology Director.  For non-PEO programs, the AO should be at least at the Director level, or a Program Manager (PM) that is a direct report to the Director, consistent with the level at which the program is organized. The designated RO may be at least one level above the AO.</p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(e)For all other AFMC business sectors the AO should be the technical/functional person who has overall responsibility for, and/or has the most familiarity with the requirement/program/project/task or delivery order.  The designated RO may be at least one level above the AO.  (f)Performance evaluations on classified and Special Access Programs (SAP) contracts are not exempt from past performance evaluations and are encouraged to be processed, distributed and maintained in accordance with program security requirements and with AFPD 16-14, <i class="+ topic/ph hi-d/i ">Information Protection </i>and AFI 31-401, <i class="+ topic/ph hi-d/i ">Information Security Program Management</i>.  Classified and SAP CPARs will not be entered into the CPARS Automated Information System (AIS).  Only in the case of classified CPARs should paper copies be used for evaluations. <b class="+ topic/ph hi-d/b "> </b>(Note: For AFMC, hard copies of SAP CPARs may be provided to HQ AFMC/XRJ.) </p>
-					</li>
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(g)Copies of SAP CPARs are encouraged to be marked in accordance with SAF/AO Security Pamphlet 1, Marking Guide for Special Access Required Material, dated November 1997, and written in accordance with National Industrial Security Program Operating Manual Supplement (NISPOM Sup) and the implementers of the NISPOM Supplement.</p>
-					</li>
-				</ol>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5342.1503-90</ph> Procedures</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li class="- topic/li ">
+						         <p class="- topic/p ">(a)  Duties of the MAJCOM Contractor Performance Assessment Reporting System (CPARS) Agency Point of Contact (APOC) may include:<ol class="- topic/ol ">
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(1)  Assistance to subordinate organization CPARS APOC (e.g. training, monitoring and policy implementation);</p>
+								             </li>
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(2)  Coordination and submittal of subordinate organization CPARS APOCs to the Navy CPARS Program Office;</p>
+								             </li>
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(3)  Provide metrics/information as requested by SAF/AQC; and</p>
+								             </li>
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(4)  Review and provide subordinate organization issues to the AF CPARS Focal Point and/or the CPARS Program Management Office (PMO).</p>
+								             </li>
+							           </ol>
+						         </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(b)Program Executive Officers (PEOs), Center PZ organizations, and Air Force Research Laboratory (AFRL) are encouraged to assign a CPARS APOC who will perform duties outlined in the <xref href="https://www.cpars.gov/documents/CPARS-Guidance.pdf"
+                        scope="external"
+                        format="pdf"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">Guidance for CPARS</u>
+							           </xref>, paragraph 3.4 for “Agency Point of Contact”.  </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c)Assessing Officials (AOs) and Reviewing Officials (ROs) will normally be designated from within the command/activity/office/program that identifies the requirement and is in the best position to evaluate contractor performance.  Contracting officers should be included in the evaluation process prior to forwarding the CPAR to the Contractor Representative. </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(d)For AFMC system acquisitions, the AO is encouraged to always be the person who has overall responsibility for the acquisition of a system within the approved Acquisition Program Baseline.  For programs under the PEO structure, the AO may be at least at the Division Chief or Branch Chief level.  The designated RO should be at least one level above the AO.  For PEO programs, the PEO will be given the option of acting as the RO.  For AFRL, the Commander may delegate this authority to the Center Technology Director.  For non-PEO programs, the AO should be at least at the Director level, or a Program Manager (PM) that is a direct report to the Director, consistent with the level at which the program is organized. The designated RO may be at least one level above the AO.</p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(e)For all other AFMC business sectors the AO should be the technical/functional person who has overall responsibility for, and/or has the most familiarity with the requirement/program/project/task or delivery order.  The designated RO may be at least one level above the AO.  (f)Performance evaluations on classified and Special Access Programs (SAP) contracts are not exempt from past performance evaluations and are encouraged to be processed, distributed and maintained in accordance with program security requirements and with AFPD 16-14, <i class="+ topic/ph hi-d/i ">Information Protection </i>and AFI 31-401, <i class="+ topic/ph hi-d/i ">Information Security Program Management</i>.  Classified and SAP CPARs will not be entered into the CPARS Automated Information System (AIS).  Only in the case of classified CPARs should paper copies be used for evaluations. <b class="+ topic/ph hi-d/b "> </b>(Note: For AFMC, hard copies of SAP CPARs may be provided to HQ AFMC/XRJ.) </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(g)Copies of SAP CPARs are encouraged to be marked in accordance with SAF/AO Security Pamphlet 1, Marking Guide for Special Access Required Material, dated November 1997, and written in accordance with National Industrial Security Program Operating Manual Supplement (NISPOM Sup) and the implementers of the NISPOM Supplement.</p>
+					       </li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

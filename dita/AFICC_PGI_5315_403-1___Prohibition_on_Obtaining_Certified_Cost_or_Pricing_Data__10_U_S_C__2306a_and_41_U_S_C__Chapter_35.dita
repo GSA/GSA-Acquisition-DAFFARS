@@ -1,45 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_AFICC_PGI_5315_403_1"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">AFICC PGI 5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<ol class="- topic/ol ">
-					<li outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i> Commercial Item Exceptions to TINA Requirements Report.  The COCO will consolidate and submit the information as outlined in DFARS PGI <ph outputclass="DFARS PGI"
-  								class="- topic/ph ">215.403-1</ph>(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i>, or submit a negative report for the organization, to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
-    								scope="external"
-    								format="mailto"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
-							</xref> no later than 7 October each year.</p>
-					</li>
-					<li id="li__AFICC_PGI_5315.404-1-90"
-  						outputclass="List 1"
-  						class="- topic/li ">
-						<p outputclass="List 1"
- 							class="- topic/p ">(c)(4)(B)  Waiver of TINA Requirements Report.  The COCO will consolidate and submit the information as outlined in DFARS PGI <ph outputclass="DFARS PGI"
-  								class="- topic/ph ">215.403-1</ph>(c)(4)(B), or submit a negative report for their organization to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
-    								scope="external"
-    								format="mailto"
-    								class="- topic/xref ">
-								<u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
-							</xref> no later than 7 October each year.</p>
-					</li>
-				</ol>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFICC PGI 5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i> Commercial Item Exceptions to TINA Requirements Report.  The COCO will consolidate and submit the information as outlined in DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">215.403-1</ph>(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i>, or submit a negative report for the organization, to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
+							           </xref> no later than 7 October each year.</p>
+					       </li>
+					       <li id="li__AFICC_PGI_5315.404-1-90"
+                outputclass="List 1"
+                class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c)(4)(B)  Waiver of TINA Requirements Report.  The COCO will consolidate and submit the information as outlined in DFARS PGI <ph outputclass="DFARS PGI" class="- topic/ph ">215.403-1</ph>(c)(4)(B), or submit a negative report for their organization to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
+                        scope="external"
+                        format="mailto"
+                        class="- topic/xref ">
+								             <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
+							           </xref> no later than 7 October each year.</p>
+					       </li>
+				     </ol>
+			   </conbody>
 		</concept>
 	</dita>

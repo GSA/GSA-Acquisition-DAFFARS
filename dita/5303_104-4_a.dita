@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_5303_104_4"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">5303.104-4</ph> (a)   Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<p id="p__Toc38284408"
- 					outputclass="Body Text 3"
- 					class="- topic/p ">Any individuals requiring access to Source Selection Information (SSI) as a result of participating on a source selection or in the performance of their duties must sign a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/ss_non-disclosure_agreement.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">Source Selection Non-Disclosure Agreement</u>
-					</xref>.  The Source Selection Non-Disclosure Agreement may be used on an annual basis for individuals who must have access to SSI in the performance of their official duties throughout the year, whether or not they participate as part of the actual source selection team.</p>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5303.104-4</ph> (a)   Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p id="p__Toc38284408" outputclass="Body Text 3" class="- topic/p ">Any individuals requiring access to Source Selection Information (SSI) as a result of participating on a source selection or in the performance of their duties must sign a <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/ss_non-disclosure_agreement.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">Source Selection Non-Disclosure Agreement</u>
+					       </xref>.  The Source Selection Non-Disclosure Agreement may be used on an annual basis for individuals who must have access to SSI in the performance of their official duties throughout the year, whether or not they participate as part of the actual source selection team.</p>
+			   </conbody>
 		</concept>
 	</dita>

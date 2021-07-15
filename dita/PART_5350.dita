@@ -1,76 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5350">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5350</ph> — Extraordinary Contractual Actions and the Safety Act</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5350_1.dita#AFFARS_SUBPART_5350_1">SUBPART 5350.1 — GENERAL</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5350_101-1.dita#AFFARS_5350_101_1">5350.101-1 Authority</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5350_102.dita#AFFARS_SUBPART_5350_102">SUBPART 5350.102 — DELEGATION OF AND LIMITATIONS ON EXERCISE OF AUTHORITY</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5350_102-1-70.dita#AFFARS_5350_102_1">5350.102-1 -70   Delegations</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5350_102-2.dita#AFFARS_5350_102_2">5350.102-2 Contract Adjustment Boards</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5350_103.dita#AFFARS_SUBPART_5350_103">SUBPART 5350.103 — CONTRACT ADJUSTMENTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5350_103-5.dita#AFFARS_5350_103_5">5350.103-5 Processing Cases</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5350_104.dita#AFFARS_SUBPART_5350_104">SUBPART 5350.104 — RESIDUAL POWERS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5350_104-3_b.dita#AFFARS_5350_104_3">5350.104-3 (b)(1)   Action on Indemnification Requests</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5350"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5350</ph> — Extraordinary Contractual Actions and the Safety Act</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_1.dita#AFFARS_SUBPART_5350_1"
+                        class="- topic/xref ">SUBPART 5350.1 — GENERAL</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5350_101-1.dita#AFFARS_5350_101_1"
+                              class="- topic/xref ">5350.101-1 Authority</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_102.dita#AFFARS_SUBPART_5350_102"
+                        class="- topic/xref ">SUBPART 5350.102 — DELEGATION OF AND LIMITATIONS ON EXERCISE OF AUTHORITY</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5350_102-1-70.dita#AFFARS_5350_102_1"
+                              class="- topic/xref ">5350.102-1 -70   Delegations</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5350_102-2.dita#AFFARS_5350_102_2"
+                              class="- topic/xref ">5350.102-2 Contract Adjustment Boards</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_103.dita#AFFARS_SUBPART_5350_103"
+                        class="- topic/xref ">SUBPART 5350.103 — CONTRACT ADJUSTMENTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5350_103-5.dita#AFFARS_5350_103_5"
+                              class="- topic/xref ">5350.103-5 Processing Cases</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_104.dita#AFFARS_SUBPART_5350_104"
+                        class="- topic/xref ">SUBPART 5350.104 — RESIDUAL POWERS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5350_104-3_b.dita#AFFARS_5350_104_3"
+                              class="- topic/xref ">5350.104-3 (b)(1)   Action on Indemnification Requests</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

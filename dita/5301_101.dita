@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_5301_101"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">5301.101</ph> Purpose</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<p outputclass="Normal"
- 					class="- topic/p ">The Air Force Federal Acquisition Regulation Supplement (AFFARS) establishes uniform policies and procedures for the Air Force implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting.  AFFARS Mandatory Procedures (MP) and Procedures, Guidance, and Information (PGI) are companion resources arranged by parts, which correspond to the relevant FAR parts.  Supplements to the AFFARS, MPs, and PGI are prohibited.  </p>
-				<p id="p__Toc351646713"
- 					outputclass="Normal"
- 					class="- topic/p ">See <xref href="AFMC_PGI_5301.dita#AFFARS_AFMC_PGI_5301"
- 						class="- topic/xref ">AFICC PGI 5301.1
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5301.101</ph> Purpose</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="Normal" class="- topic/p ">The Air Force Federal Acquisition Regulation Supplement (AFFARS) establishes uniform policies and procedures for the Air Force implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting.  AFFARS Mandatory Procedures (MP) and Procedures, Guidance, and Information (PGI) are companion resources arranged by parts, which correspond to the relevant FAR parts.  Supplements to the AFFARS, MPs, and PGI are prohibited.  </p>
+				     <p id="p__Toc351646713" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5301.dita#AFFARS_AFMC_PGI_5301" class="- topic/xref ">AFICC PGI 5301.1
 					</xref>.</p>
-			</conbody>
+			   </conbody>
 		</concept>
 	</dita>

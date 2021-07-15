@@ -1,98 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_AFMC_PGI_5301_601a"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">AFMC PGI 5301.601</ph> (a)(i)HCA Responsibilities</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<p outputclass="Normal (Web)"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> located at Wright-Patterson AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_SCO_Delegation_HCA_Responsibilities.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFLCMC SCO Delegations for HCA Responsibilities</u>
-					</xref>.</p>
-				<p outputclass="Normal"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> Eglin OL located at Eglin AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_Eglin_OL_SCO_delegations_HCA.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFLCMC/PK Eglin OL SCO Delegations for HCA Responsibilities.</u>
-					</xref>
-				</p>
-				<p outputclass="Normal (Web)"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> Hanscom OL located at Hanscom AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_Hanscom_OL_SCO_Delegation_HCA.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFLCMC/PK Hanscom OL SCO Delegations for HCA Responsibilities.</u>
-					</xref>
-				</p>
-				<p outputclass="Normal"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFSC/PK</b> located at Tinker AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_SCO_Delegations_HCA_Responsibilities_COCO.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">SCO COCO Delegations</u>
-					</xref> and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_SCO_Delegations_HCA_Responsibilities_One_level_above.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">SCO Delegations to One Level Above the PCO</u>
-					</xref> for HCA Responsibilities.</p>
-				<p outputclass="Normal (Web)"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFSC/PK</b> Hill OL located at Hill AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_PK_Hill_OL_SCO_Delegations_HCA_Responsibilities.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFSC/PK Hill OL SCO Delegations for HCA Responsibilities</u>
-					</xref>.</p>
-				<p outputclass="Normal (Web)"
- 					class="- topic/p ">
-					<b outputclass="Strong"
- 						class="+ topic/ph hi-d/b ">
-						<b class="+ topic/ph hi-d/b ">For </b>
-						<b class="+ topic/ph hi-d/b ">AFSC/PK</b>
-						<b class="+ topic/ph hi-d/b "> Robins OL located at Robins AFB, see </b>
-					</b>
-					<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/Final_HCA_Delegations_Memo_AFSC_PK-Robins.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFSC/PK Robins OL SCO Delegations for HCA Responsibilities</u>
-					</xref>.</p>
-				<p outputclass="Normal (Web)"
- 					class="- topic/p ">
-					<b outputclass="Strong"
- 						class="+ topic/ph hi-d/b ">
-						<b class="+ topic/ph hi-d/b ">For </b>
-						<b class="+ topic/ph hi-d/b ">AFRL/PK</b>
-						<b class="+ topic/ph hi-d/b ">, see </b>
-					</b>
-					<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFRLPK_HCA_MATRIX.docx"
-    						scope="external"
-    						format="docx"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFRL SCO Delegations for HCA Responsibilities</u>
-					</xref>.</p>
-				<p id="p__AFMC_PGI_5301.601_a__i__A__S-91_"
- 					outputclass="Normal (Web)"
- 					class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFNWC/PZ</b>, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFNWC_PZ_SCO_Delegation_Memo.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">AFNWC SCO Delegations for HCA Responsibilities</u>
-					</xref>.</p>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5301.601</ph> (a)(i)HCA Responsibilities</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p outputclass="Normal (Web)" class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> located at Wright-Patterson AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_SCO_Delegation_HCA_Responsibilities.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFLCMC SCO Delegations for HCA Responsibilities</u>
+					       </xref>.</p>
+				     <p outputclass="Normal" class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> Eglin OL located at Eglin AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_Eglin_OL_SCO_delegations_HCA.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFLCMC/PK Eglin OL SCO Delegations for HCA Responsibilities.</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal (Web)" class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFLCMC/PK</b> Hanscom OL located at Hanscom AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFLCMC_PK_Hanscom_OL_SCO_Delegation_HCA.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFLCMC/PK Hanscom OL SCO Delegations for HCA Responsibilities.</u>
+					       </xref>
+				     </p>
+				     <p outputclass="Normal" class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFSC/PK</b> located at Tinker AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_SCO_Delegations_HCA_Responsibilities_COCO.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">SCO COCO Delegations</u>
+					       </xref> and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_SCO_Delegations_HCA_Responsibilities_One_level_above.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">SCO Delegations to One Level Above the PCO</u>
+					       </xref> for HCA Responsibilities.</p>
+				     <p outputclass="Normal (Web)" class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFSC/PK</b> Hill OL located at Hill AFB, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFSC_PK_Hill_OL_SCO_Delegations_HCA_Responsibilities.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFSC/PK Hill OL SCO Delegations for HCA Responsibilities</u>
+					       </xref>.</p>
+				     <p outputclass="Normal (Web)" class="- topic/p ">
+					       <b outputclass="Strong" class="+ topic/ph hi-d/b ">
+						         <b class="+ topic/ph hi-d/b ">For </b>
+						         <b class="+ topic/ph hi-d/b ">AFSC/PK</b>
+						         <b class="+ topic/ph hi-d/b "> Robins OL located at Robins AFB, see </b>
+					       </b>
+					       <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/Final_HCA_Delegations_Memo_AFSC_PK-Robins.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFSC/PK Robins OL SCO Delegations for HCA Responsibilities</u>
+					       </xref>.</p>
+				     <p outputclass="Normal (Web)" class="- topic/p ">
+					       <b outputclass="Strong" class="+ topic/ph hi-d/b ">
+						         <b class="+ topic/ph hi-d/b ">For </b>
+						         <b class="+ topic/ph hi-d/b ">AFRL/PK</b>
+						         <b class="+ topic/ph hi-d/b ">, see </b>
+					       </b>
+					       <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFRLPK_HCA_MATRIX.docx"
+                  scope="external"
+                  format="docx"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFRL SCO Delegations for HCA Responsibilities</u>
+					       </xref>.</p>
+				     <p id="p__AFMC_PGI_5301.601_a__i__A__S-91_"
+            outputclass="Normal (Web)"
+            class="- topic/p ">For <b class="+ topic/ph hi-d/b ">AFNWC/PZ</b>, see <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/AFNWC_PZ_SCO_Delegation_Memo.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+						         <u class="+ topic/ph hi-d/u ">AFNWC SCO Delegations for HCA Responsibilities</u>
+					       </xref>.</p>
+			   </conbody>
 		</concept>
 	</dita>

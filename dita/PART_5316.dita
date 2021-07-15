@@ -1,189 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5316">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5316</ph> — Types of Contracts</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="topic_207.dita#AFFARS_REPLACE_TEXT">5316.102 Policies</xref>
-						</p>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="5316_103.dita#AFFARS_5316_103">5316.103 Negotiating Contract Type</xref>
-						</p>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="5316_104.dita#AFFARS_5316_104">5316.104 Factors in Selecting Contract Types </xref>
-						</p>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_203.dita#AFFARS_SUBPART_5316_203">SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_203-4.dita#AFFARS_5316_203_4">5316.203-4 Contract Clauses </xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_206-3.dita#AFFARS_5316_206_3">5316.206-3 Limitations</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_3.dita#AFFARS_SUBPART_5316_3">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_301-3.dita#AFFARS_5316_301_3">5316.301-3 Limitations</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_4.dita#AFFARS_SUBPART_5316_4">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_401.dita#AFFARS_5316_401">5316.401 General</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_404.dita#AFFARS_5316_404">5316.404 Fixed-Price Contracts with Award Fees</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_405-2.dita#AFFARS_5316_405_2">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_5.dita#AFFARS_SUBPART_5316_5">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_503.dita#AFFARS_5316_503">5316.503 Requirements Contracts</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_504.dita#AFFARS_5316_504">5316.504 Indefinite-Quantity Contracts    </xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_505.dita#AFFARS_5316_505">5316.505 Ordering</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_505-90.dita#AFFARS_5316_505_90">5316.505-90 Decentralized Ordering</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5316_6.dita#AFFARS_SUBPART_5316_6">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_601_d.dita#AFFARS_5316_601">5316.601 (d) Limitations</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_603-2.dita#AFFARS_5316_603_2">5316.603-2 Application</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5316_603-3.dita#AFFARS_5316_603_3">5316.603-3 Limitations</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-				</ul>
-				<p outputclass="Normal"
- 					class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
-					</xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
-					</xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
-					</xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
-    						scope="external"
-    						format="pdf"
-    						class="- topic/xref ">
-						<u class="+ topic/ph hi-d/u ">CPM 20-C-10</u>
-					</xref>
-				</p>
-				<p outputclass="Normal"
- 					class="- topic/p ">See <ph outputclass="AF PGI"
-  						class="- topic/ph ">
-						<xref outputclass="fm:ParaNumOnly"
-    							format="dita"
-    							class="- topic/xref "
-    							href="AF_PGI_5316_101.dita">AF PGI 5316.101</xref>
-					</ph>.</p>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5316"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5316</ph> — Types of Contracts</title>
+      <body class="- topic/body ">
+         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE:  See <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-11.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-11</u>
+            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/19-C-12.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 19-C-12</u>
+            </xref>, <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-09.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 20-C-09</u>
+            </xref>, and <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Documents/Contracting_Memos/Policy/20-C-10.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">CPM 20-C-10</u>
+            </xref>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="AF_PGI_5316_101.dita">AF PGI 5316.101</xref>
+            </ph>.</p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="topic_207.dita#AFFARS_REPLACE_TEXT"
+                        class="- topic/xref ">5316.102 Policies</xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5316_103.dita#AFFARS_5316_103"
+                        class="- topic/xref ">5316.103 Negotiating Contract Type</xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="5316_104.dita#AFFARS_5316_104"
+                        class="- topic/xref ">5316.104 Factors in Selecting Contract Types </xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_203.dita#AFFARS_SUBPART_5316_203"
+                        class="- topic/xref ">SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_203-4.dita#AFFARS_5316_203_4"
+                              class="- topic/xref ">5316.203-4 Contract Clauses </xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206"
+                        class="- topic/xref ">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_206-3.dita#AFFARS_5316_206_3"
+                              class="- topic/xref ">5316.206-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_3.dita#AFFARS_SUBPART_5316_3"
+                        class="- topic/xref ">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_301-3.dita#AFFARS_5316_301_3"
+                              class="- topic/xref ">5316.301-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_4.dita#AFFARS_SUBPART_5316_4"
+                        class="- topic/xref ">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_401.dita#AFFARS_5316_401"
+                              class="- topic/xref ">5316.401 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_404.dita#AFFARS_5316_404"
+                              class="- topic/xref ">5316.404 Fixed-Price Contracts with Award Fees</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_405-2.dita#AFFARS_5316_405_2"
+                              class="- topic/xref ">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_5.dita#AFFARS_SUBPART_5316_5"
+                        class="- topic/xref ">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_503.dita#AFFARS_5316_503"
+                              class="- topic/xref ">5316.503 Requirements Contracts</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_504.dita#AFFARS_5316_504"
+                              class="- topic/xref ">5316.504 Indefinite-Quantity Contracts    </xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_505.dita#AFFARS_5316_505"
+                              class="- topic/xref ">5316.505 Ordering</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_505-90.dita#AFFARS_5316_505_90"
+                              class="- topic/xref ">5316.505-90 Decentralized Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_6.dita#AFFARS_SUBPART_5316_6"
+                        class="- topic/xref ">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_601_d.dita#AFFARS_5316_601"
+                              class="- topic/xref ">5316.601 (d) Limitations</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_603-2.dita#AFFARS_5316_603_2"
+                              class="- topic/xref ">5316.603-2 Application</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5316_603-3.dita#AFFARS_5316_603_3"
+                              class="- topic/xref ">5316.603-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

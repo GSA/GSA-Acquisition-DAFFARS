@@ -1,84 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5328">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5328</ph> — Bonds and Insurance</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5328_1.dita#AFFARS_SUBPART_5328_1">SUBPART 5328.1 — BONDS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_1.dita#AFFARS_5328_1">5328.1 Bonds</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_105.dita#AFFARS_5328_105">5328.105 Other Types of Bonds</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_106-2.dita#AFFARS_5328_106_2">5328.106-2 Substitution of Surety Bonds</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_106-6.dita#AFFARS_5328_106_6">5328.106-6 Furnishing Information</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5328_3.dita#AFFARS_SUBPART_5328_3">SUBPART 5328.3 — INSURANCE</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_305.dita#AFFARS_5328_305">5328.305 Overseas Workers Compensation and War Hazard Insurance</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_310.dita#AFFARS_5328_310">5328.310 Insurance -- Work on a Government Installation   </xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_310-90.dita#AFFARS_5328_310_90">5328.310-90 Additional Contract Clause</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_311-1.dita#AFFARS_5328_311_1">5328.311-1 Contract Clause</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5328_370.dita#AFFARS_5328_370">5328.370 Additional Clauses</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5328"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5328</ph> — Bonds and Insurance</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5328_1.dita#AFFARS_SUBPART_5328_1"
+                        class="- topic/xref ">SUBPART 5328.1 — BONDS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_1.dita#AFFARS_5328_1"
+                              class="- topic/xref ">5328.1 Bonds</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_105.dita#AFFARS_5328_105"
+                              class="- topic/xref ">5328.105 Other Types of Bonds</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_106-2.dita#AFFARS_5328_106_2"
+                              class="- topic/xref ">5328.106-2 Substitution of Surety Bonds</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_106-6.dita#AFFARS_5328_106_6"
+                              class="- topic/xref ">5328.106-6 Furnishing Information</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5328_3.dita#AFFARS_SUBPART_5328_3"
+                        class="- topic/xref ">SUBPART 5328.3 — INSURANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_305.dita#AFFARS_5328_305"
+                              class="- topic/xref ">5328.305 Overseas Workers Compensation and War Hazard Insurance</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_310.dita#AFFARS_5328_310"
+                              class="- topic/xref ">5328.310 Insurance -- Work on a Government Installation   </xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_310-90.dita#AFFARS_5328_310_90"
+                              class="- topic/xref ">5328.310-90 Additional Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_311-1.dita#AFFARS_5328_311_1"
+                              class="- topic/xref ">5328.311-1 Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5328_370.dita#AFFARS_5328_370"
+                              class="- topic/xref ">5328.370 Additional Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

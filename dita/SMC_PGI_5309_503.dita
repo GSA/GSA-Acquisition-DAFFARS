@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-    		xtrc="NoAutoListNumber"
-    		domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-    		ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
 		<concept id="AFFARS_SMC_PGI_5309_503"
-       			xml:lang="en-US"
-       			ditaarch:DITAArchVersion="1.3"
-       			class="- topic/topic concept/concept "
-       			domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			<title class="- topic/title ">
-				<ph outputclass="topicnum"
-  					class="- topic/ph "
-  					props="autonumber">SMC PGI 5309.503</ph> Waiver</title>
-			<conbody class="- topic/body  concept/conbody ">
-				<p id="p__SMC_PGI_5309.504"
- 					outputclass="Normal"
- 					class="- topic/p ">If the contracting officer determines that it is not possible to adequately mitigate or avoid an Organizational Conflict of Interest (OCI) but it is in the best interest of the Government to award the contract notwithstanding the conflict of interest, the contracting officer will request a waiver, in writing, from the HCA in accordance with FAR <ph outputclass="FAR"
-  						class="- topic/ph ">9.503</ph> and AFFARS <ph outputclass="AFFARS"
-  						class="- topic/ph ">
-						<xref outputclass="fm:ParaNumOnly"
-    							format="dita"
-    							class="- topic/xref "
-    							href="5309_503.dita">5309.503</xref>
-					</ph>.  The waiver request package should include: (1) the waiver request, including a description of the extent of the conflict and an analysis of why application of the requirement requested to be waived would not be in the Government’s best interest in the particular situation, (2) the contracting officer’s approved OCI determination and findings (D&amp;F) with detailed analysis, including an assessment of the risk to current and future related acquisitions and the probability of the OCI’s occurrence, and (3) the contractor’s OCI mitigation plan (if applicable).  </p>
-			</conbody>
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5309.503</ph> Waiver</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <p id="p__SMC_PGI_5309.504" outputclass="Normal" class="- topic/p ">If the contracting officer determines that it is not possible to adequately mitigate or avoid an Organizational Conflict of Interest (OCI) but it is in the best interest of the Government to award the contract notwithstanding the conflict of interest, the contracting officer will request a waiver, in writing, from the HCA in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">9.503</ph> and AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
+						         <xref outputclass="fm:ParaNumOnly"
+                     format="dita"
+                     class="- topic/xref "
+                     href="5309_503.dita">5309.503</xref>
+					       </ph>.  The waiver request package should include: (1) the waiver request, including a description of the extent of the conflict and an analysis of why application of the requirement requested to be waived would not be in the Government’s best interest in the particular situation, (2) the contracting officer’s approved OCI determination and findings (D&amp;F) with detailed analysis, including an assessment of the risk to current and future related acquisitions and the probability of the OCI’s occurrence, and (3) the contractor’s OCI mitigation plan (if applicable).  </p>
+			   </conbody>
 		</concept>
 	</dita>

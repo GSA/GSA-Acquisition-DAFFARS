@@ -1,90 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN"
-        	"ditabase.dtd">
-	<dita>
-		<topic id="PART_5342">
-			<title class="- topic/title ">
-				<ph class="- topic/ph "
-  					props="autonumber">PART 5342</ph> — Contract Administration and Audit Services</title>
-			<body>
-				<ul otherprops="TOC">
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5342_2.dita#AFFARS_SUBPART_5342_2">SUBPART 5342.2 — CONTRACT ADMINISTRATION SERVICES</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_202.dita#AFFARS_5342_202">5342.202 Assignment of Contract Administration</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5342_4.dita#AFFARS_SUBPART_5342_4">SUBPART 5342.4 — CORRESPONDENCE AND VISITS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_490-1.dita#AFFARS_5342_490_1">5342.490-1 Contract clause</xref>
-								</p>
-							</li>
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_490-2.dita#AFFARS_5342_490_2">5342.490-2 Contract clause</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5342_9.dita#AFFARS_SUBPART_5342_9">SUBPART 5342.9 — BANKRUPTCY</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_902.dita#AFFARS_5342_902">5342.902 Bankruptcy Procedures</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5342_15.dita#AFFARS_SUBPART_5342_15">SUBPART 5342.15 — CONTRACTOR PERFORMANCE INFORMATION</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_1503.dita#AFFARS_5342_1503">5342.1503 Procedures</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<p>
-							<xref outputclass="fm:TOC"
-    								href="SUBPART_5342_71.dita#AFFARS_SUBPART_5342_71">SUBPART 5342.71 — VOLUNTARY REFUNDS</xref>
-						</p>
-						<ul otherprops="TOC">
-							<li>
-								<p>
-									<xref outputclass="fm:TOC"
-    										href="5342_7100.dita#AFFARS_5342_7100">5342.7100 General</xref>
-								</p>
-							</li>
-						</ul>
-					</li>
-				</ul>
-			</body>
-		</topic>
-	</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="PART_5342"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">PART 5342</ph> — Contract Administration and Audit Services</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_2.dita#AFFARS_SUBPART_5342_2"
+                        class="- topic/xref ">SUBPART 5342.2 — CONTRACT ADMINISTRATION SERVICES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_202.dita#AFFARS_5342_202"
+                              class="- topic/xref ">5342.202 Assignment of Contract Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_4.dita#AFFARS_SUBPART_5342_4"
+                        class="- topic/xref ">SUBPART 5342.4 — CORRESPONDENCE AND VISITS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_490-1.dita#AFFARS_5342_490_1"
+                              class="- topic/xref ">5342.490-1 Contract clause</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_490-2.dita#AFFARS_5342_490_2"
+                              class="- topic/xref ">5342.490-2 Contract clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_9.dita#AFFARS_SUBPART_5342_9"
+                        class="- topic/xref ">SUBPART 5342.9 — BANKRUPTCY</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_902.dita#AFFARS_5342_902"
+                              class="- topic/xref ">5342.902 Bankruptcy Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_15.dita#AFFARS_SUBPART_5342_15"
+                        class="- topic/xref ">SUBPART 5342.15 — CONTRACTOR PERFORMANCE INFORMATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_1503.dita#AFFARS_5342_1503"
+                              class="- topic/xref ">5342.1503 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_71.dita#AFFARS_SUBPART_5342_71"
+                        class="- topic/xref ">SUBPART 5342.71 — VOLUNTARY REFUNDS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5342_7100.dita#AFFARS_5342_7100"
+                              class="- topic/xref ">5342.7100 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

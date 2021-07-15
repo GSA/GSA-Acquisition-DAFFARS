@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      xtrc="NoAutoListNumber"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+		<concept id="AFFARS_MP5309_190_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+			   <title class="- topic/title ">
+				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">MP5309.190-3</ph> Process for Adding a Contractor or Subcontractor to the CRWL</title>
+			   <conbody class="- topic/body  concept/conbody ">
+				     <ol class="- topic/ol ">
+					       <li class="- topic/li ">
+						         <p class="- topic/p ">(a) When an SMC contracting officer obtains information or otherwise becomes aware that a contractor’s or subcontractor’s ability to successfully perform space program contracts is uncertain due to any of the conditions listed at AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
+								             <xref outputclass="fm:ParaNumOnly"
+                           format="dita"
+                           class="- topic/xref "
+                           href="5309_103.dita">5309.103</xref>
+							           </ph>(b)(ii) and determines, in coordination with the program manager, COCO, and applicable SMC 2-Letter Director, to recommend listing on the CRWL, the SMC contracting officer shall prepare a staff package that contains, at a minimum, the following contents-<ol class="- topic/ol ">
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(1) A determination and findings (D&amp;F) to be signed by SMC/CC documenting the issues, their potential effect on the contractor’s or subcontractor’s ability to perform on space program contracts or subcontracts, and the determination to add the contractor or subcontractor to the CRWL;(2) A draft letter from SMC/CC to the contractor or subcontractor providing notification of the decision to place it on the CRWL and the reason for that decision; and</p>
+								             </li>
+								             <li outputclass="List 2" class="- topic/li ">
+									               <p outputclass="List 2" class="- topic/p ">(3) Any other documentation supporting the recommendation for listing on the CRWL.</p>
+								             </li>
+							           </ol>
+						         </p>
+					       </li>
+					       <li outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(b) The contracting officer shall coordinate the staff package with the applicable COCO and SMC 2-Letter Director, SMC/JA, SMC/PI, SMC/SB (if a small business), and SMC/PK prior to seeking SMC/CC approval.</p>
+					       </li>
+					       <li id="li__Toc38365634" outputclass="List 1" class="- topic/li ">
+						         <p outputclass="List 1" class="- topic/p ">(c) Upon approval of the D&amp;F, the contracting officer shall release the SMC/CC notification letter to the contractor or subcontractor.  Copies of all packages, approved or disapproved, shall be forwarded to SMC/PKC.  SMC/PKC shall maintain a repository of the determination and findings, SMC/CC notification letter, and supporting documentation and, if the D&amp;F was approved, shall add the contractor to the CRWL. </p>
+					       </li>
+				     </ol>
+			   </conbody>
+		</concept>
+	</dita>
