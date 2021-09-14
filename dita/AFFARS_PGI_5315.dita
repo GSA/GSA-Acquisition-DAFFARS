@@ -1,338 +1,846 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PGI_5315"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5315</ph> — Contracting by Negotiation</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5315.dita#AFFARS_AF_PGI_5315"
-                        class="- topic/xref ">AF PGI 5315 — Contracting by Negotiation</xref>
+<dita>
+   <topic id="AFFARS_pgi_5315_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5315</ph> Contracting by Negotiation</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5315.dita#AFFARS_pgi_5315_topic_2">AF PGI 5315 Contracting by Negotiation</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_209-90.dita#AFFARS_AF_PGI_5315_209_90"
-                              class="- topic/xref ">AF PGI 5315.209-90 Solicitation Provisions and Contract Clauses</xref>
+                              href="AF_PGI_5315_209_90.dita#AFFARS_pgi_5315_topic_3"> AF PGI 5315.209-90  Solicitation Provisions and Contract Clauses</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_371-5.dita#AFFARS_AF_PGI_5315_371_5"
-                              class="- topic/xref ">AF PGI 5315.371-5 Waiver</xref>
+                              href="AF_PGI_5315_371_5.dita#AFFARS_pgi_5315_topic_4">AF PGI 5315.371-5 Waiver</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_402-90.dita#AFFARS_AF_PGI_5315_402_90"
-                              class="- topic/xref ">AF PGI 5315.402-90 Pricing Policy</xref>
+                              href="AF_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_5">AF PGI 5315.402-90 Pricing Policy</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_403-4-90___Section_890.dita#AFFARS_AF_PGI_5315_403_4"
-                              class="- topic/xref ">AF PGI 5315.403-4 -90   Section 890 Pilot Program to Accelerate Contracting and Pricing Processes</xref>
+                              href="AF_PGI_5315_403_4_90.dita#AFFARS_pgi_5315_topic_6"> AF PGI 5315.403-4-90  Section 890 Pilot Program to Accelerate Contracting and Pricing Processes</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_404-3-90.dita#AFFARS_AF_PGI_5315_404_3"
-                              class="- topic/xref ">AF PGI 5315.404-3 -90   Subcontract Pricing Considerations</xref>
+                              href="AF_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_7">AF PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_404-70-90___DD_Form_1547.dita#AFFARS_AF_PGI_5315_404_70"
-                              class="- topic/xref ">AF PGI 5315.404-70 -90   DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</xref>
+                              href="AF_PGI_5315_404_70_90.dita#AFFARS_pgi_5315_topic_8">AF PGI 5315.404-70-90 DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_407-91.dita#AFFARS_AF_PGI_5315_407_91"
-                              class="- topic/xref ">AF PGI 5315.407-91 Formula Pricing Agreements (FPA)</xref>
+                              href="AF_PGI_5315_407_91.dita#AFFARS_pgi_5315_topic_9">AF PGI 5315.407-91 Formula Pricing Agreements (FPA)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5315_408-90___Submission_of_Section_890.dita#AFFARS_AF_PGI_5315_408_90"
-                              class="- topic/xref ">AF PGI 5315.408-90 Submission of Section 890 Pilot Program Candidates</xref>
+                              href="AF_PGI_5315_408_90.dita#AFFARS_pgi_5315_topic_10">AF PGI 5315.408-90 Submission of Section 890 Pilot Program Candidates</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+            <li>
+               <p>
                   <xref outputclass="fm:TOC"
-                        href="AFICC_PGI_5315.dita#AFFARS_AFICC_PGI_5315"
-                        class="- topic/xref ">AFICC PGI 5315 — Contracting by Negotiation</xref>
+                        href="AFICC_PGI_5315.dita#AFFARS_pgi_5315_topic_11">AFICC PGI 5315 Contracting by Negotiation</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C__Chapter_35.dita#AFFARS_AFICC_PGI_5315_403_1"
-                              class="- topic/xref ">AFICC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</xref>
+                              href="AFICC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_12">AFICC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5315_404-1-90a.dita#AFFARS_AFICC_PGI_5315_404_1"
-                              class="- topic/xref ">AFICC PGI 5315.404-1 -90   Pricing Assistance or Pricing Assistance Waiver</xref>
+                              href="AFICC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_13">AFICC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5315_407-90.dita#AFFARS_AFICC_PGI_5315_407_90"
-                              class="- topic/xref ">AFICC PGI 5315.407-90 Contract Audit Follow-Up (CAFU)</xref>
+                              href="AFICC_PGI_5315_407_90.dita#AFFARS_pgi_5315_topic_14">AFICC PGI 5315.407-90 Contract Audit Follow-Up (CAFU)</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFMC_PGI_5315.dita#AFFARS_AFMC_PGI_5315"
-                        class="- topic/xref ">AFMC PGI 5315 — Contracting by Negotiation</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5315.dita#AFFARS_pgi_5315_topic_15">AFMC PGI 5315 Contracting by Negotiation</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_207.dita#AFFARS_AFMC_PGI_5315_207"
-                              class="- topic/xref ">AFMC PGI 5315.207 Handling Proposals and Information</xref>
+                              href="AFMC_PGI_5315_207.dita#AFFARS_pgi_5315_topic_16">AFMC PGI 5315.207 Handling Proposals and Information</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3.dita#AFFARS_AFMC_PGI_5315_3"
-                              class="- topic/xref ">AFMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                              href="AFMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_17">AFMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3a.dita#AFFARS_AFMC_PGI_5315_3_a"
-                              class="- topic/xref ">AFMC PGI 5315.3 (1.4.2.2.3)   Verification of Correspondence Going to Offeror</xref>
+                              href="AFMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_18">AFMC PGI 5315.3 (1.4.2.2.3) Verification of Correspondence Going to Offeror</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3b.dita#AFFARS_AFMC_PGI_5315_3_b"
-                              class="- topic/xref ">AFMC PGI 5315.3 (1.4.6.1)   Government Advisors</xref>
+                              href="AFMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_19">AFMC PGI 5315.3 (1.4.6.1) Government Advisors</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3c.dita#AFFARS_AFMC_PGI_5315_3_c"
-                              class="- topic/xref ">AFMC PGI 5315.3 (1.4.7.2)    Source Selection Facility</xref>
+                              href="AFMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_20">AFMC PGI 5315.3 (1.4.7.2) Source Selection Facility</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3d.dita#AFFARS_AFMC_PGI_5315_3_d"
-                              class="- topic/xref ">AFMC PGI 5315.3 (2.1.2.3)   Draft Request for Proposals (RFP)</xref>
+                              href="AFMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_21">AFMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_3e.dita#AFFARS_AFMC_PGI_5315_3_e"
-                              class="- topic/xref ">AFMC PGI 5315.3 (2.3.1)   Evaluation Factors/Subfactors </xref>
+                              href="AFMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_22">AFMC PGI 5315.3 (2.3.1) Evaluation Factors/Subfactors</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_402-90.dita#AFFARS_AFMC_PGI_5315_402_90"
-                              class="- topic/xref ">AFMC PGI 5315.402-90 Pricing Policy</xref>
+                              href="AFMC_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_23"> AFMC PGI 5315.402-90  Pricing Policy</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_403-1___Prohibition_on_Obtaining_Certified_Cost_or_Pricing_Data__10_U_S_C__2306a_and_41_U_S_C_,_Chapter_35.dita#AFFARS_AFMC_PGI_5315_403_1"
-                              class="- topic/xref ">AFMC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C., Chapter 35)</xref>
+                              href="AFMC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_24">AFMC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C., Chapter 35)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_404-1-90a.dita#AFFARS_AFMC_PGI_5315_404_1"
-                              class="- topic/xref ">AFMC PGI 5315.404-1 -90   Pricing Assistance or Pricing Assistance Waiver</xref>
+                              href="AFMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_25">AFMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_404-2-90.dita#AFFARS_AFMC_PGI_5315_404_2"
-                              class="- topic/xref ">AFMC PGI 5315.404-2 -90   Data to Support Proposal Analysis</xref>
+                              href="AFMC_PGI_5315_404_2_90.dita#AFFARS_pgi_5315_topic_26">AFMC PGI 5315.404-2-90 Data to Support Proposal Analysis</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_404-3-90.dita#AFFARS_AFMC_PGI_5315_404_3"
-                              class="- topic/xref ">AFMC PGI 5315.404-3 -90   Subcontract Pricing Considerations</xref>
+                              href="AFMC_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_27">AFMC PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_406-1.dita#AFFARS_AFMC_PGI_5315_406_1"
-                              class="- topic/xref ">AFMC PGI 5315.406-1 Pre-negotiation Objectives</xref>
+                              href="AFMC_PGI_5315_406_1.dita#AFFARS_pgi_5315_topic_28">AFMC PGI 5315.406-1 Pre-negotiation Objectives</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_406-3.dita#AFFARS_AFMC_PGI_5315_406_3"
-                              class="- topic/xref ">AFMC PGI 5315.406-3 Documenting the Negotiation</xref>
+                              href="AFMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_29"> AFMC PGI 5315.406-3  Documenting the Negotiation</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_406-3-90.dita#AFFARS_AFMC_PGI_5315_406_3_90"
-                              class="- topic/xref ">AFMC PGI 5315.406-3 -90   Use of Abstract of Offers as Documentation of Price Reasonableness</xref>
+                              href="AFMC_PGI_5315_406_3_90.dita#AFFARS_pgi_5315_topic_30"> AFMC PGI 5315.406-3-90  Use of Abstract of Offers as Documentation of Price Reasonableness</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_407-1-90.dita#AFFARS_AFMC_PGI_5315_407_1"
-                              class="- topic/xref ">AFMC PGI 5315.407-1 -90   Defective Certified Cost or Pricing Data</xref>
+                              href="AFMC_PGI_5315_407_1_90.dita#AFFARS_pgi_5315_topic_31">AFMC PGI 5315.407-1-90 Defective Certified Cost or Pricing Data</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5315_407-2.dita#AFFARS_AFMC_PGI_5315_407_2"
-                              class="- topic/xref ">AFMC PGI 5315.407-2 Make-or-Buy Program</xref>
+                              href="AFMC_PGI_5315_407_2.dita#AFFARS_pgi_5315_topic_32">AFMC PGI 5315.407-2 Make-or-Buy Program</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SMC_PGI_5315.dita#AFFARS_SMC_PGI_5315"
-                        class="- topic/xref ">SMC PGI 5315 — Contracting by Negotiation</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5315.dita#AFFARS_pgi_5315_topic_33">SMC PGI 5315 Contracting by Negotiation</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_203.dita#AFFARS_SMC_PGI_5315_203"
-                              class="- topic/xref ">SMC PGI 5315.203    Requests for proposals</xref>
+                              href="SMC_PGI_5315_203.dita#AFFARS_pgi_5315_topic_34"> SMC PGI 5315.203   Requests for proposals</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3.dita#AFFARS_SMC_PGI_5315_3"
-                              class="- topic/xref ">SMC PGI 5315.3 (1.4.1.1)   SSA Appointment</xref>
+                              href="SMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_35">SMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3a.dita#AFFARS_SMC_PGI_5315_3a"
-                              class="- topic/xref ">SMC PGI 5315.3 (1.4.2.2)   PCO Responsibilities</xref>
+                              href="SMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_36">SMC PGI 5315.3 (1.4.2.2) PCO Responsibilities</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3b.dita#AFFARS_SMC_PGI_5315_3b"
-                              class="- topic/xref ">SMC PGI 5315.3 (1.4.2.2.7)   Notification of Source Selection Participants</xref>
+                              href="SMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_37">SMC PGI 5315.3 (1.4.2.2.7) Notification of
+      Source Selection Participants</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3c.dita#AFFARS_SMC_PGI_5315_3c"
-                              class="- topic/xref ">SMC PGI 5315.3 (2)   Pre-solicitation Activities</xref>
+                              href="SMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_38">SMC PGI 5315.3 (2) Pre-solicitation Activities</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3d.dita#AFFARS_SMC_PGI_5315_3d"
-                              class="- topic/xref ">SMC PGI 5315.3 (2.1.2.1)   Pre-solicitation Notices</xref>
+                              href="SMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_39">SMC PGI 5315.3 (2.1.2.1) Pre-solicitation Notices</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3e.dita#AFFARS_SMC_PGI_5315_3e"
-                              class="- topic/xref ">SMC PGI 5315.3 (2.1.2.2)   Industry Engagement/Industry Days  </xref>
+                              href="SMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_40">SMC PGI 5315.3 (2.1.2.2) Industry Engagement/Industry Days</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3f.dita#AFFARS_SMC_PGI_5315_3f"
-                              class="- topic/xref ">SMC PGI 5315.3 (2.1.2.3)   Draft Request for Proposals (RFP)</xref>
+                              href="SMC_PGI_5315_3F.dita#AFFARS_pgi_5315_topic_41">SMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_3g.dita#AFFARS_SMC_PGI_5315_3g"
-                              class="- topic/xref ">SMC PGI 5315.3 (4.3)   Additional Guidance and Tailorable Templates</xref>
+                              href="SMC_PGI_5315_3G.dita#AFFARS_pgi_5315_topic_42">SMC PGI 5315.3 (4.3) Additional Guidance and Tailorable Templates</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_404-1-90a.dita#AFFARS_SMC_PGI_5315_404_1"
-                              class="- topic/xref ">SMC PGI 5315.404-1 -90   Pricing Assistance or Pricing Assistance Waiver</xref>
+                              href="SMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_43">SMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5315_406-3.dita#AFFARS_SMC_PGI_5315_406_3"
-                              class="- topic/xref ">SMC PGI 5315.406-3 Documenting the Negotiation  </xref>
+                              href="SMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_44">SMC PGI 5315.406-3 Documenting the Negotiation  </xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+            <li>
+               <p>
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5315.dita#AFFARS_USAFA_PGI_5315"
-                        class="- topic/xref ">USAFA PGI 5315 — Contracting by Negotiation</xref>
+                        href="USAFA_PGI_5315.dita#AFFARS_pgi_5315_topic_45">USAFA PGI 5315 Contracting by Negotiation</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5315_3.dita#AFFARS_USAFA_PGI_5315_3"
-                              class="- topic/xref ">USAFA PGI 5315.3 (1.4.1.1)   SSA Appointment </xref>
+                              href="USAFA_PGI_5315_3.dita#AFFARS_pgi_5315_topic_46">USAFA PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5315.dita#AFFARS_pgi_5315_topic_2">AF PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_209_90.dita#AFFARS_pgi_5315_topic_3"> AF PGI 5315.209-90  Solicitation Provisions and Contract Clauses</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_371_5.dita#AFFARS_pgi_5315_topic_4">AF PGI 5315.371-5 Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_5">AF PGI 5315.402-90 Pricing Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_403_4_90.dita#AFFARS_pgi_5315_topic_6"> AF PGI 5315.403-4-90  Section 890 Pilot Program to Accelerate Contracting and Pricing Processes</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_7">AF PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404_70_90.dita#AFFARS_pgi_5315_topic_8">AF PGI 5315.404-70-90 DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_407_91.dita#AFFARS_pgi_5315_topic_9">AF PGI 5315.407-91 Formula Pricing Agreements (FPA)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_408_90.dita#AFFARS_pgi_5315_topic_10">AF PGI 5315.408-90 Submission of Section 890 Pilot Program Candidates</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5315.dita#AFFARS_pgi_5315_topic_11">AFICC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_12">AFICC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_13">AFICC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_407_90.dita#AFFARS_pgi_5315_topic_14">AFICC PGI 5315.407-90 Contract Audit Follow-Up (CAFU)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5315.dita#AFFARS_pgi_5315_topic_15">AFMC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_207.dita#AFFARS_pgi_5315_topic_16">AFMC PGI 5315.207 Handling Proposals and Information</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_17">AFMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_18">AFMC PGI 5315.3 (1.4.2.2.3) Verification of Correspondence Going to Offeror</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_19">AFMC PGI 5315.3 (1.4.6.1) Government Advisors</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_20">AFMC PGI 5315.3 (1.4.7.2) Source Selection Facility</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_21">AFMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_22">AFMC PGI 5315.3 (2.3.1) Evaluation Factors/Subfactors</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_23"> AFMC PGI 5315.402-90  Pricing Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_24">AFMC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C., Chapter 35)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_25">AFMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_2_90.dita#AFFARS_pgi_5315_topic_26">AFMC PGI 5315.404-2-90 Data to Support Proposal Analysis</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_27">AFMC PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_1.dita#AFFARS_pgi_5315_topic_28">AFMC PGI 5315.406-1 Pre-negotiation Objectives</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_29"> AFMC PGI 5315.406-3  Documenting the Negotiation</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_3_90.dita#AFFARS_pgi_5315_topic_30"> AFMC PGI 5315.406-3-90  Use of Abstract of Offers as Documentation of Price Reasonableness</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407_1_90.dita#AFFARS_pgi_5315_topic_31">AFMC PGI 5315.407-1-90 Defective Certified Cost or Pricing Data</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407_2.dita#AFFARS_pgi_5315_topic_32">AFMC PGI 5315.407-2 Make-or-Buy Program</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5315.dita#AFFARS_pgi_5315_topic_33">SMC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_203.dita#AFFARS_pgi_5315_topic_34"> SMC PGI 5315.203   Requests for proposals</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_35">SMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_36">SMC PGI 5315.3 (1.4.2.2) PCO Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_37">SMC PGI 5315.3 (1.4.2.2.7) Notification of
+      Source Selection Participants</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_38">SMC PGI 5315.3 (2) Pre-solicitation Activities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_39">SMC PGI 5315.3 (2.1.2.1) Pre-solicitation Notices</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_40">SMC PGI 5315.3 (2.1.2.2) Industry Engagement/Industry Days</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3F.dita#AFFARS_pgi_5315_topic_41">SMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3G.dita#AFFARS_pgi_5315_topic_42">SMC PGI 5315.3 (4.3) Additional Guidance and Tailorable Templates</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_43">SMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_44">SMC PGI 5315.406-3 Documenting the Negotiation  </xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5315.dita#AFFARS_pgi_5315_topic_45">USAFA PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5315_3.dita#AFFARS_pgi_5315_topic_46">USAFA PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5315.dita#AFFARS_pgi_5315_topic_2">AF PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_209_90.dita#AFFARS_pgi_5315_topic_3"> AF PGI 5315.209-90  Solicitation Provisions and Contract Clauses</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_371_5.dita#AFFARS_pgi_5315_topic_4">AF PGI 5315.371-5 Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_5">AF PGI 5315.402-90 Pricing Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_403_4_90.dita#AFFARS_pgi_5315_topic_6"> AF PGI 5315.403-4-90  Section 890 Pilot Program to Accelerate Contracting and Pricing Processes</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_7">AF PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_404_70_90.dita#AFFARS_pgi_5315_topic_8">AF PGI 5315.404-70-90 DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_407_91.dita#AFFARS_pgi_5315_topic_9">AF PGI 5315.407-91 Formula Pricing Agreements (FPA)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5315_408_90.dita#AFFARS_pgi_5315_topic_10">AF PGI 5315.408-90 Submission of Section 890 Pilot Program Candidates</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5315.dita#AFFARS_pgi_5315_topic_11">AFICC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_12">AFICC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_13">AFICC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5315_407_90.dita#AFFARS_pgi_5315_topic_14">AFICC PGI 5315.407-90 Contract Audit Follow-Up (CAFU)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5315.dita#AFFARS_pgi_5315_topic_15">AFMC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_207.dita#AFFARS_pgi_5315_topic_16">AFMC PGI 5315.207 Handling Proposals and Information</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_17">AFMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_18">AFMC PGI 5315.3 (1.4.2.2.3) Verification of Correspondence Going to Offeror</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_19">AFMC PGI 5315.3 (1.4.6.1) Government Advisors</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_20">AFMC PGI 5315.3 (1.4.7.2) Source Selection Facility</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_21">AFMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_22">AFMC PGI 5315.3 (2.3.1) Evaluation Factors/Subfactors</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_402_90.dita#AFFARS_pgi_5315_topic_23"> AFMC PGI 5315.402-90  Pricing Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_403_1.dita#AFFARS_pgi_5315_topic_24">AFMC PGI 5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C., Chapter 35)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_25">AFMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_2_90.dita#AFFARS_pgi_5315_topic_26">AFMC PGI 5315.404-2-90 Data to Support Proposal Analysis</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_404_3_90.dita#AFFARS_pgi_5315_topic_27">AFMC PGI 5315.404-3-90 Subcontract Pricing Considerations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_1.dita#AFFARS_pgi_5315_topic_28">AFMC PGI 5315.406-1 Pre-negotiation Objectives</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_29"> AFMC PGI 5315.406-3  Documenting the Negotiation</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_406_3_90.dita#AFFARS_pgi_5315_topic_30"> AFMC PGI 5315.406-3-90  Use of Abstract of Offers as Documentation of Price Reasonableness</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407_1_90.dita#AFFARS_pgi_5315_topic_31">AFMC PGI 5315.407-1-90 Defective Certified Cost or Pricing Data</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5315_407_2.dita#AFFARS_pgi_5315_topic_32">AFMC PGI 5315.407-2 Make-or-Buy Program</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5315.dita#AFFARS_pgi_5315_topic_33">SMC PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_203.dita#AFFARS_pgi_5315_topic_34"> SMC PGI 5315.203   Requests for proposals</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3.dita#AFFARS_pgi_5315_topic_35">SMC PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3A.dita#AFFARS_pgi_5315_topic_36">SMC PGI 5315.3 (1.4.2.2) PCO Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3B.dita#AFFARS_pgi_5315_topic_37">SMC PGI 5315.3 (1.4.2.2.7) Notification of
+      Source Selection Participants</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3C.dita#AFFARS_pgi_5315_topic_38">SMC PGI 5315.3 (2) Pre-solicitation Activities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3D.dita#AFFARS_pgi_5315_topic_39">SMC PGI 5315.3 (2.1.2.1) Pre-solicitation Notices</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3E.dita#AFFARS_pgi_5315_topic_40">SMC PGI 5315.3 (2.1.2.2) Industry Engagement/Industry Days</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3F.dita#AFFARS_pgi_5315_topic_41">SMC PGI 5315.3 (2.1.2.3) Draft Request for Proposals (RFP)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_3G.dita#AFFARS_pgi_5315_topic_42">SMC PGI 5315.3 (4.3) Additional Guidance and Tailorable Templates</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_404_1_90.dita#AFFARS_pgi_5315_topic_43">SMC PGI 5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5315_406_3.dita#AFFARS_pgi_5315_topic_44">SMC PGI 5315.406-3 Documenting the Negotiation  </xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5315.dita#AFFARS_pgi_5315_topic_45">USAFA PGI 5315 Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5315_3.dita#AFFARS_pgi_5315_topic_46">USAFA PGI 5315.3 (1.4.1.1) SSA Appointment</xref>
                      </p>
                   </li>
                </ul>

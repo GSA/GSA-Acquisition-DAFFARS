@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_mp_5301_9001_i_1_i_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5301.9001</ph> (i)(1)(i)- Business Clearance Approval by the DAS(C)/ADAS(C)</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001A.dita#AFFARS_mp_5301_9001_i_1_i_topic_2"> MP5301.9001a  (A) Business Clearance Approval for Non-Competitive Actions</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001B.dita#AFFARS_mp_5301_9001_i_1_i_topic_3"> MP5301.9001b  (B) Business Clearance Approval for Competitive Actions</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001A.dita#AFFARS_mp_5301_9001_i_1_i_topic_2"> MP5301.9001a  (A) Business Clearance Approval for Non-Competitive Actions</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001B.dita#AFFARS_mp_5301_9001_i_1_i_topic_3"> MP5301.9001b  (B) Business Clearance Approval for Competitive Actions</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001A.dita#AFFARS_mp_5301_9001_i_1_i_topic_2"> MP5301.9001a  (A) Business Clearance Approval for Non-Competitive Actions</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5301_9001B.dita#AFFARS_mp_5301_9001_i_1_i_topic_3"> MP5301.9001b  (B) Business Clearance Approval for Competitive Actions</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

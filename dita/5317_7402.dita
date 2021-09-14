@@ -1,46 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_5317_7402"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5317_topic_20"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5317.7402</ph> Exceptions</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">(a)(4) See AF PGI <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
-                        base="DFARS_5317_7402"
-                        href="5317_7402.dita#AFFARS_5317_7402">5317.7402</xref> when contracting for long-lead items initiated with advance procurement funds.  Follow DFARS <ph outputclass="DFARS" class="- topic/ph ">217.74</ph> when contracting for long-lead items procured with other than advance procurement funds.  When procurement funds must be added to an undefinitized long-lead procurement contract issued with advance procurement funds prior to definitization, follow the procedures at DFARS <ph outputclass="DFARS" class="- topic/ph ">217.74</ph>
-							           <ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u ">.</u>
-							           </ph>
-						         </p>
-					       </li>
-					       <li id="li__Toc351649495" outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">(b)  When complying with the requirements described in DFARS <ph outputclass="DFARS" class="- topic/ph ">217.7402</ph>(b), SCOs must provide a courtesy copy to <xref href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqc-workflow@mail.mil"
-                        scope="external"
-                        format="mailto"
-                        class="- topic/xref ">
-								             <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-							           </xref>.<ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u "> </u>
-							           </ph> Maintain proof of submission in the contract file.</p>
-					       </li>
-				     </ol>
-				     <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AF PGI" class="- topic/ph ">
-						         <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AF_PGI_5317_7402-90.dita">AF PGI 5317.7402-90</xref>
-					       </ph>.</p>
-			   </conbody>
-		</concept>
-	</dita>
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">5317.7402</ph> Exceptions</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a)(4) See <xref href="5317_7402.dita" class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">AF PGI 5317.7402</u>
+				        </xref> when contracting for long-lead items initiated with advance procurement funds. Follow DFARS 217.74 when contracting for long-lead items procured with other than advance procurement funds. When procurement funds must be added to an undefinitized long-lead procurement contract issued with advance procurement funds prior to definitization, follow the procedures at DFARS 217.74<ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u ">.</u>
+				        </ph>
+			      </p>
+			      <p id="p__Toc351649495" outputclass="List1" class="- topic/p ">(b) When complying with the requirements described in DFARS 217.7402(b), SCOs must provide a courtesy copy to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+				        </xref>. Maintain proof of submission in the contract file.</p>
+			      <p outputclass="Normal" class="- topic/p ">See <xref href="AF_PGI_5317_7402_90.dita" class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">AF PGI 5317.7402-90</u>
+				        </xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>

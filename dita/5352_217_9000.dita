@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5352_topic_7"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5352.217-9000 </ph> Long Lead Limitation of Government Liability</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="Normal" class="- topic/p ">As prescribed in <xref href="5317_7406.dita" class="- topic/xref ">AFFARS 5317.7406</xref> , insert the following clause in solicitations and contracts:</p>
+			      <p id="p__Toc76485393" outputclass="Normal" class="- topic/p ">
+				        <b class="+ topic/ph hi-d/b ">LONG LEAD LIMITATION OF GOVERNMENT LIABILITY (</b>
+				        <b class="+ topic/ph hi-d/b ">OCT 2019</b>
+				        <b class="+ topic/ph hi-d/b ">)</b>
+			      </p>
+			      <p outputclass="List1" class="- topic/p ">(a) In performing this contract, the contractor is not authorized to make expenditures or incur obligations exceeding $[<i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert dollar amount</u>
+				        </i>].</p>
+			      <p outputclass="List1" class="- topic/p ">(b) The maximum amount for which the Government shall be liable if this contract is terminated (i.e., costs already incurred and those associated with termination) is $[<i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert dollar amount</u>
+				        </i>].</p>
+			      <p outputclass="List1" class="- topic/p ">(c) The contractor shall notify the contracting officer in writing whenever there is reason to believe that, within the next 60 days, the costs expected to be incurred under this contract, when added to all costs previously incurred, will exceed 75 percent of the total amount allotted to the contract by the Government. The notice shall state the estimated amount of additional funds required to continue performance for the specified schedule period, limited by the not-to-exceed contract value.</p>
+			      <p outputclass="List1" class="- topic/p ">(d) Sixty days before the end of the specified schedule period, the contractor shall give notice to the contracting officer of the estimated amount of additional funds required to continue long lead contract performance, when the funds will be needed, and any agreed to extension period specified in the Schedule.</p>
+			      <p id="p__Toc38365563" class="- topic/p " outputclass="Ctr">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

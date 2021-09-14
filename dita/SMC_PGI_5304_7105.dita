@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_SMC_PGI_5304_7105"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5304_topic_20"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5304.7105</ph>    Contract Exhibits and Attachments </title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">
-							           <ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u ">(a)(6)(iii) The DD Form 1423, Contract Data Requirements List (CDRL), should cite the specific SOW or PWS paragraph(s) that require submission of the data; likewise, the SOW or PWS paragraph(s) should reference the applicable CDRL.  A Data Item Description (DID) is a document that specifically defines the content, format, and intended use of required data and is included (usually by reference, unless tailored) within a CDRL.  Simply </u>
-								             <u class="+ topic/ph hi-d/u ">put, the CDRL identifies the data required and various submission information and the DID provides the specific how-to instructions.  DIDs are indexed in the Acquisition Streamlining and Standardization Information System (ASSIST) and can be downloaded for use by the program office.</u>
-							           </ph>
-						         </p>
-					       </li>
-				     </ol>
-			   </conbody>
-		</concept>
-	</dita>
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">SMC PGI 5304.7105</ph>  Contract Exhibits and Attachments </title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a)(6)(iii) The DD Form 1423, Contract Data Requirements List (CDRL), should cite the specific SOW or PWS paragraph(s) that require submission of the data; likewise, the SOW or PWS paragraph(s) should reference the applicable CDRL. A Data Item Description (DID) is a document that specifically defines the content, format, and intended use of required data and is included (usually by reference, unless tailored) within a CDRL. Simply put, the CDRL identifies the data required and various submission information and the DID provides the specific how-to instructions. DIDs are indexed in the Acquisition Streamlining and Standardization Information System (ASSIST) and can be downloaded for use by the program office.</p>
+		    </conbody>
+	  </concept>
+</dita>

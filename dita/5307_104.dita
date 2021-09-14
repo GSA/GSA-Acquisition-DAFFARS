@@ -1,42 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_5307_104"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5307_topic_3"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">5307.104</ph> General Procedures</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">(a)  In order to help develop a sound acquisition strategy, the acquisition team must provide appropriate opportunities for the early involvement of industry in all acquisitions and the Defense Contract Management Agency and Defense Contract Audit Agency in non-competitive acquisitions.</p>
-					       </li>
-				     </ol>
-				     <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFICC PGI" class="- topic/ph ">
-						         <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AFICC_PGI_5307_104.dita">AFICC PGI 5307.104</xref>
-					       </ph>.</p>
-				     <p outputclass="Normal" class="- topic/p ">See <ph outputclass="AFMC PGI" class="- topic/ph ">
-						         <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="AFMC_PGI_5307_104.dita">AFMC PGI 5307.104</xref>
-					       </ph>.</p>
-				     <p outputclass="Normal" class="- topic/p ">See  <ph outputclass="SMC PGI" class="- topic/ph ">
-						         <xref outputclass="fm:ParaNumOnly"
-                     format="dita"
-                     class="- topic/xref "
-                     href="SMC_PGI_5307_104.dita">SMC PGI 5307.104</xref>
-					       </ph>.</p>
-				     <p id="p__Toc38287061" outputclass="Normal" class="- topic/p ">See  <ph outputclass="USAFA PGI" class="- topic/ph ">USAFA PGI 5307.104</ph>.</p>
-			   </conbody>
-		</concept>
-	</dita>
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5307.104 </ph> General Procedures</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) In order to help develop a sound acquisition strategy, the acquisition team must provide appropriate opportunities for the early involvement of industry in all acquisitions and the Defense Contract Management Agency and Defense Contract Audit Agency in non-competitive acquisitions.</p>
+			      <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5307_104.dita" class="- topic/xref ">AFICC PGI 5307.104</xref>.</p>
+			      <p outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5307_104.dita" class="- topic/xref ">AFMC PGI 5307.104</xref>.</p>
+			      <p outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5307_104.dita" class="- topic/xref ">SMC PGI 5307.104</xref>.</p>
+			      <p id="p__Toc38364751" outputclass="Normal" class="- topic/p ">See USAFA PGI 5307.104.</p>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_AFMC_PGI_5315_3_c"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5315_topic_20"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">AFMC PGI 5315.3</ph> (1.4.7.2)    Source Selection Facility</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">(a) More complex and higher value source selections should be conducted in a local Source Selection Facility (SSF), if available.  Other source selections may use the SSF on a space-available basis.  If space is not available, the Wing, or requiring office should provide secured space to conduct the source selection.</p>
-					       </li>
-					       <li id="li__AFMC_PGI_5315.3_4" outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">(b) <u class="+ topic/ph hi-d/u ">Notification to SSF</u>.  At Operating Locations or Centers that have a SSF, program offices should notify the SSF of forthcoming source selections to be held in the SSF as soon as the potential for the source selection action has been identified.  Notification includes: program name, anticipated date of RFP release and proposal receipt, expected number of offerors, estimated dollar value of the acquisition, identification of the probable SSA, anticipated number of SSEB members and role in the source selection (e.g., past performance, technical, etc.), SSEB Chairperson and PCO (with office symbol and phone number/e-mail address) and desired date for occupancy in the SSF including designating whether the past performance team will arrive early.</p>
-					       </li>
-				     </ol>
-			   </conbody>
-		</concept>
-	</dita>
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5315.3</ph> (1.4.7.2) Source Selection Facility</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) More complex and higher value source selections should be conducted in a local Source Selection Facility (SSF), if available. Other source selections may use the SSF on a space-available basis. If space is not available, the Wing, or requiring office should provide secured space to conduct the source selection.</p>
+			      <p id="p__AFMC_PGI_5315.3_4" outputclass="List1" class="- topic/p ">(b) <u class="+ topic/ph hi-d/u ">Notification to SSF</u>. At Operating Locations or Centers that have a SSF, program offices should notify the SSF of forthcoming source selections to be held in the SSF as soon as the potential for the source selection action has been identified. Notification includes: program name, anticipated date of RFP release and proposal receipt, expected number of offerors, estimated dollar value of the acquisition, identification of the probable SSA, anticipated number of SSEB members and role in the source selection (e.g., past performance, technical, etc.), SSEB Chairperson and PCO (with office symbol and phone number/e-mail address) and desired date for occupancy in the SSF including designating whether the past performance team will arrive early.</p>
+		    </conbody>
+	  </concept>
+</dita>

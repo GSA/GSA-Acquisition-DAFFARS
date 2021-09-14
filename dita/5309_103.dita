@@ -1,73 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_5309_103"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5309_topic_3"
+            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" props="autonumber" class="- topic/ph ">5309.103</ph> Policy</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <ol class="- topic/ol ">
-					       <li class="- topic/li ">
-						         <p class="- topic/p ">(b)(i) Section 1612 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2018 (P.L. 115-91) requires SMC to establish and maintain a Contractor Responsibility Watch List (CRWL). <xref format="pdf"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMCI_64-101.pdf"
-                        scope="external"
-                        class="- topic/xref ">
-								             <u class="+ topic/ph hi-d/u ">SMC Instruction (SMCI) 64-101</u>
-							           </xref>, <i class="+ topic/ph hi-d/i ">Air Force Space Contractor Responsibility Watch List (CRWL)</i>
-							           <b class="+ topic/ph hi-d/b ">
-								             <i class="+ topic/ph hi-d/i ">,</i>
-							           </b> establishes the CRWL and its applicability to “space program solicitations or contracts” (See AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
-								             <xref format="dita"
-                           href="PART_5302.dita"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">5302</xref>
-							           </ph>).</p>
-					       </li>
-					       <li class="- topic/li ">
-						         <p class="- topic/p ">(ii) Contractors may be placed on the CRWL when their ability to successfully perform space program contracts is uncertain due to any of the following:</p>
-						         <ol class="- topic/ol ">
-							           <li class="- topic/li ">
-								             <p class="- topic/p ">(A) Poor performance or award fee scores below 50%.</p>
-							           </li>
-							           <li class="- topic/li "/>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(B) Financial concerns.</p>
-							           </li>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(C) Felony convictions or civil judgements.</p>
-							           </li>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(D) Security or foreign ownership and control issues.</p>
-							           </li>
-						         </ol>
-					       </li>
-					       <li class="- topic/li ">
-						         <p class="- topic/p ">(iii) For any of the following actions on space program solicitations or contracts (See AFFARS 5302) follow the procedures at <xref outputclass="fm:ParaNumOnly" format="dita" href="MP5309_190.dita ">MP5309.190</xref>:</p>
-						         <ol class="- topic/ol ">
-							           <li class="- topic/li ">
-								             <p class="- topic/p ">(A) Soliciting a sole source proposal.</p>
-							           </li>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(B) Entering into discussions (FAR <ph outputclass="FAR" class="- topic/ph ">15.306</ph>(d)) (or equivalent activity) or awarding a competitive contract or awarding a sole source contract.</p>
-							           </li>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(C) Providing consent to subcontract when the subcontract is valued in excess of $3M or 5% of the prime contract value, whichever is lesser.</p>
-							           </li>
-							           <li outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(D) Exercising a contract option.</p>
-							           </li>
-							           <li id="p__Toc38287285" outputclass="Normal" class="- topic/li ">
-								             <p class="- topic/p ">(E) Executing a contract modification resulting from an engineering change proposal.</p>
-							           </li>
-						         </ol>
-					       </li>
-				     </ol>
-			   </conbody>
-		</concept>
-	</dita>
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5309.103 </ph> Policy</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(b)(i) Section 1612 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2018 (P.L. 115-91) requires SMC to establish and maintain a Contractor Responsibility Watch List (CRWL). <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/pgi_related_documents/SMCI_64-101.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SMC Instruction (SMCI) 64-101</u>
+				        </xref>, <i class="+ topic/ph hi-d/i ">Air Force Space Contractor Responsibility Watch List (CRWL)</i>
+				        <b class="+ topic/ph hi-d/b ">
+					          <i class="+ topic/ph hi-d/i ">,</i>
+				        </b> establishes the CRWL and its applicability to “space program solicitations or contracts” (See <xref href="5302_101.dita" class="- topic/xref ">AFFARS 5302</xref> ).</p>
+			      <p outputclass="List3" class="- topic/p ">(ii) Contractors may be placed on the CRWL when their ability to successfully perform space program contracts is uncertain due to any of the following:</p>
+			      <p outputclass="List4" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(A)</i> Poor performance or award fee scores below 50%.</p>
+			      <p outputclass="List4" class="- topic/p ">(B) Financial concerns.</p>
+			      <p outputclass="List4" class="- topic/p ">(C) Felony convictions or civil judgements.</p>
+			      <p outputclass="List4" class="- topic/p ">(D) Security or foreign ownership and control issues.</p>
+			      <p outputclass="List3" class="- topic/p ">(iii) For any of the following actions on space program solicitations or contracts (See <xref href="5302_101.dita" class="- topic/xref ">AFFARS 5302</xref> ) follow the procedures at <xref href="MP5309_190.dita" class="- topic/xref ">MP5309.190</xref>:</p>
+			      <p outputclass="List4" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(A)</i> Soliciting a sole source proposal.</p>
+			      <p outputclass="List4" class="- topic/p ">(B) Entering into discussions (FAR 15.306(d)) (or equivalent activity) or awarding a competitive contract or awarding a sole source contract.</p>
+			      <p outputclass="List4" class="- topic/p ">(C) Providing consent to subcontract when the subcontract is valued in excess of $3M or 5% of the prime contract value, whichever is lesser.</p>
+			      <p outputclass="List4" class="- topic/p ">(D) Exercising a contract option.</p>
+			      <p id="p__Toc38364733" outputclass="List4" class="- topic/p ">(E) Executing a contract modification resulting from an engineering change proposal.</p>
+		    </conbody>
+	  </concept>
+</dita>

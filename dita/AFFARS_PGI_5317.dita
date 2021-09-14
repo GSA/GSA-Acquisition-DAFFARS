@@ -1,119 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PGI_5317"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">AFFARS PGI 5317</ph> — Special Contracting Methods</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5317.dita#AFFARS_AF_PGI_5317"
-                        class="- topic/xref ">AF PGI 5317 — Special Contracting Methods</xref>
+<dita>
+   <topic id="AFFARS_pgi_5317_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5317</ph> Special Contracting Methods</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5317.dita#AFFARS_pgi_5317_topic_2">AF PGI 5317 Special Contracting Methods</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5317_7402-90.dita#AFFARS_AF_PGI_5317_7402_90"
-                              class="- topic/xref ">AF PGI 5317.7402-90 Exceptions</xref>
+                              href="AF_PGI_5317_7402_90.dita#AFFARS_pgi_5317_topic_3"> AF PGI 5317.7402-90  Exceptions</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5317_9000.dita#AFFARS_AF_PGI_5317_9000"
-                              class="- topic/xref ">AF PGI 5317.9000 Associate Contractor Agreements</xref>
+                              href="AF_PGI_5317_9000.dita#AFFARS_pgi_5317_topic_4"> AF PGI 5317.9000  Associate Contractor
+      Agreements</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFICC_PGI_5317.dita#AFFARS_AFICC_PGI_5317"
-                        class="- topic/xref ">AFICC PGI 5317 — Special Contracting Methods</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5317.dita#AFFARS_pgi_5317_topic_5">AFICC PGI 5317 Special Contracting Methods</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5317_204-90.dita#AFFARS_AFICC_PGI_5317_204_90"
-                              class="- topic/xref ">AFICC PGI 5317.204-90 Contracts  </xref>
+                              href="AFICC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_6">AFICC PGI 5317.204-90 Contracts</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFMC_PGI_5317.dita#AFFARS_AFMC_PGI_5317"
-                        class="- topic/xref ">AFMC PGI 5317 — Special Contracting Methods</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5317.dita#AFFARS_pgi_5317_topic_7">AFMC PGI 5317 Special Contracting Methods</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_204-90.dita#AFFARS_5317_204_90"
-                              class="- topic/xref ">AFMC PGI 5317.204-90 Contracts</xref>
+                              href="AFMC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_8">AFMC PGI 5317.204-90 Contracts</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7404-3-90.dita#AFFARS_AFMC_PGI_5317_7404_3"
-                              class="- topic/xref ">AFMC PGI 5317.7404-3 -90   Definitization Schedule </xref>
+                              href="AFMC_PGI_5317_7404_3_90.dita#AFFARS_pgi_5317_topic_9">AFMC PGI 5317.7404-3-90 Definitization Schedule</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7502-90.dita#AFFARS_AFMC_PGI_5317_7502_90"
-                              class="- topic/xref ">AFMC PGI 5317.7502-90 General</xref>
+                              href="AFMC_PGI_5317_7502_90.dita#AFFARS_pgi_5317_topic_10">AFMC PGI 5317.7502-90 General</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7506-90.dita#AFFARS_AFMC_PGI_5317_7506_90"
-                              class="- topic/xref ">AFMC PGI 5317.7506-90 Spare Parts Breakout Program</xref>
+                              href="AFMC_PGI_5317_7506_90.dita#AFFARS_pgi_5317_topic_11">AFMC PGI 5317.7506-90 Spare Parts Breakout Program</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7601-90.dita#AFFARS_AFMC_PGI_5317_7601_90"
-                              class="- topic/xref ">AFMC PGI 5317.7601-90 Provisioning</xref>
+                              href="AFMC_PGI_5317_7601_90.dita#AFFARS_pgi_5317_topic_12">AFMC PGI 5317.7601-90 Provisioning</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SMC_PGI_5317.dita#AFFARS_SMC_PGI_5317"
-                        class="- topic/xref ">SMC PGI 5317 — Special Contracting Methods</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5317.dita#AFFARS_pgi_5317_topic_13">SMC PGI 5317 Special Contracting Methods</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5317_502-2.dita#AFFARS_SMC_PGI_5317_502_2"
-                              class="- topic/xref ">SMC PGI 5317.502-2 The Economy Act</xref>
+                              href="SMC_PGI_5317_502_2.dita#AFFARS_pgi_5317_topic_14">SMC PGI 5317.502-2 The Economy Act</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5317_7404-1.dita#AFFARS_SMC_PGI_5317_7404_1"
-                              class="- topic/xref ">SMC PGI 5317.7404-1 Authorization   </xref>
+                              href="SMC_PGI_5317_7404_1.dita#AFFARS_pgi_5317_topic_15">SMC PGI 5317.7404-1 Authorization</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5317.dita#AFFARS_pgi_5317_topic_2">AF PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5317_7402_90.dita#AFFARS_pgi_5317_topic_3"> AF PGI 5317.7402-90  Exceptions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5317_9000.dita#AFFARS_pgi_5317_topic_4"> AF PGI 5317.9000  Associate Contractor
+      Agreements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5317.dita#AFFARS_pgi_5317_topic_5">AFICC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_6">AFICC PGI 5317.204-90 Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5317.dita#AFFARS_pgi_5317_topic_7">AFMC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_8">AFMC PGI 5317.204-90 Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7404_3_90.dita#AFFARS_pgi_5317_topic_9">AFMC PGI 5317.7404-3-90 Definitization Schedule</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7502_90.dita#AFFARS_pgi_5317_topic_10">AFMC PGI 5317.7502-90 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7506_90.dita#AFFARS_pgi_5317_topic_11">AFMC PGI 5317.7506-90 Spare Parts Breakout Program</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7601_90.dita#AFFARS_pgi_5317_topic_12">AFMC PGI 5317.7601-90 Provisioning</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5317.dita#AFFARS_pgi_5317_topic_13">SMC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5317_502_2.dita#AFFARS_pgi_5317_topic_14">SMC PGI 5317.502-2 The Economy Act</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5317_7404_1.dita#AFFARS_pgi_5317_topic_15">SMC PGI 5317.7404-1 Authorization</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5317.dita#AFFARS_pgi_5317_topic_2">AF PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5317_7402_90.dita#AFFARS_pgi_5317_topic_3"> AF PGI 5317.7402-90  Exceptions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5317_9000.dita#AFFARS_pgi_5317_topic_4"> AF PGI 5317.9000  Associate Contractor
+      Agreements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5317.dita#AFFARS_pgi_5317_topic_5">AFICC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_6">AFICC PGI 5317.204-90 Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5317.dita#AFFARS_pgi_5317_topic_7">AFMC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_204_90.dita#AFFARS_pgi_5317_topic_8">AFMC PGI 5317.204-90 Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7404_3_90.dita#AFFARS_pgi_5317_topic_9">AFMC PGI 5317.7404-3-90 Definitization Schedule</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7502_90.dita#AFFARS_pgi_5317_topic_10">AFMC PGI 5317.7502-90 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7506_90.dita#AFFARS_pgi_5317_topic_11">AFMC PGI 5317.7506-90 Spare Parts Breakout Program</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5317_7601_90.dita#AFFARS_pgi_5317_topic_12">AFMC PGI 5317.7601-90 Provisioning</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5317.dita#AFFARS_pgi_5317_topic_13">SMC PGI 5317 Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5317_502_2.dita#AFFARS_pgi_5317_topic_14">SMC PGI 5317.502-2 The Economy Act</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5317_7404_1.dita#AFFARS_pgi_5317_topic_15">SMC PGI 5317.7404-1 Authorization</xref>
                      </p>
                   </li>
                </ul>

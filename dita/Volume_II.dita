@@ -4,7 +4,6 @@
 	<dita>
 		<CoverVolume id="Volume_II"
            			domains="(topic concept) (topic concept glossentry) (topic concept glossgroup) (topic reference) (topic task) (topic hi-d) (topic ut-d) (topic indexing-d) (topic hazard-d) (topic abbrev-d) (topic pr-d) (topic sw-d) (topic ui-d) (topic task strictTaskbody-c)"
-           			
            			class="- topic/topic ">
 			<CTitle class="- topic/title ">Volume II - PGI</CTitle>
 		</CoverVolume>

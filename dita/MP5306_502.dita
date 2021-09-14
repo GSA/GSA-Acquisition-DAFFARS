@@ -1,239 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_MP5306_502"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-            class="- topic/topic concept/concept ">
-			   <title class="- topic/title ">
-				     <ph props="autonumber" class="- topic/ph ">MP5306.502</ph> — Air Force Competition and Commercial Advocacy Program</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <p class="- topic/p ">This Mandatory Procedure (MP) implements, in part, AFPD 64-1, The Contracting System, and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
-				     <p outputclass="List_0_bold" class="- topic/p ">
-					       <b class="+ topic/ph hi-d/b ">1. Objectives.</b>
-				     </p>
-				     <p outputclass="Normal" class="- topic/p ">The objective of the Air Force (AF) Competition and Commercial Advocacy Program is to promote and support full and open competition and commercial practices to the maximum extent possible. In addition to the requirements at FAR <ph outputclass="FAR" class="- topic/ph ">6.501</ph>, Competition and Commercial Advocate(s) must:</p>
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">1.1. Have extensive qualifications and knowledge of the types of acquisitions of the activity.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">1.2. Be in a contracting position, commensurate in grade or rank with the senior level program, product, or laboratory personnel with whom the Advocate interacts.</p>
-					       </li>
-					       <li id="li__Toc38365625" outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">1.3. Have direct access to the MAJCOM/DRU/AFRCO/SMC/SpRCO or Center/Installation commander, as applicable, on matters relating to competition, the acquisition of commercial items and services, and must not have duties or responsibilities inconsistent with Competition and Commercial Advocate duties and responsibilities.</p>
-					       </li>
-				     </ol>
-				     <p outputclass="List_0_bold" class="- topic/p ">
-					       <b class="+ topic/ph hi-d/b ">2. Duties and Responsibilities.</b>
-				     </p>
-				     <p outputclass="Normal" class="- topic/p ">In addition to the duties and responsibilities identified at FAR <ph outputclass="FAR" class="- topic/ph ">6.502</ph>, AF Competition and Commercial Advocates are responsible for the following:</p>
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.1. Support the AF Competition Advocate General in formulating, managing, and providing oversight of the AF Competition and Commercial Advocacy Program.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.2. Promote commercial practices and competition in acquisition programs managed by their Procuring/Contracting activity. Identify, track, and follow-up on actions to remove impediments to commercial practices and competition. Seek to improve the overall competitive performance, including effective competition*, and increase the use of commercial practices.</p>
-					       </li>
-				     </ol>
-				     <p outputclass="Normal" class="- topic/p ">* <ph outputclass="page number" class="- topic/ph ">See definition provided in</ph>
-					       <xref format="pdf"
-                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA006638-10-DPAP.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-						         <u class="+ topic/ph hi-d/u ">OUSD/AT&amp;L DPAP Memo, dated 16Dec 2010</u>
-					       </xref>
-					       <ph outputclass="page number" class="- topic/ph ">.</ph>
-				     </p>
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.3. Ensure the organization’s policies and procedures encourage full and open competition whenever possible including effective competition, and promote the use of commercial practices. Review acquisition planning documents, and ensure market research demonstrates that competitive and commercial opportunities were considered.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.4. Participate in acquisition strategy planning through forums such as the Acquisition Strategy Panel process.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.5. The Competition Advocate General will establish and assign fiscal year Procuring/Contracting activity and PEO competition goals based on annual projections submitted via the <xref format="aspx"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/aqcinternal/aqcp/af_competition/Pages/default.aspx"
-                        scope="external"
-                        class="- topic/xref ">
-								             <u class="+ topic/ph hi-d/u ">Competition Projection</u>
-							           </xref> site. Projections are due no later than 16 October of each year.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.8. Encourage contracting professionals to complete the Defense Acquisition University (DAU) Continuous Learning Module (CLM) <xref format="aspx?crs_id=1708"
-                        href="http://icatalog.dau.mil/onlinecatalog/courses.aspx?crs_id=1708"
-                        scope="external"
-                        class="- topic/xref ">
-								             <u class="+ topic/ph hi-d/u ">CLC 055</u>
-							           </xref>, <i class="+ topic/ph hi-d/i ">Competition Requirements</i>.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.9. Convey to program managers, contracting personnel, and senior leaders the advantages of full and open and effective competition, share success stories, and assist contracting officers in doing the same. Competition advocates should provide training to the various functionals involved in acquisition. Competition advocates are encouraged to use the <xref format="ppt"
-                        href="http://www.acq.osd.mil/dpap/cpic/cp/docs/training.ppt"
-                        scope="external"
-                        class="- topic/xref ">
-								             <u class="+ topic/ph hi-d/u ">Competition Training</u>
-							           </xref>
-							           <ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u "/>
-							           </ph>template<ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u "/>
-							           </ph>developed by OUSD(A&amp;S) DPC.<ph class="- topic/ph ">
-								             <u class="+ topic/ph hi-d/u "/>
-							           </ph>
-						         </p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.10. Identify the potential for full and open competition and effective competition and commercial opportunities through the Justification and Approval (J&amp;A) and acquisition planning document review process. Review and approve J&amp;A documents and fair opportunity justifications in accordance with AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
-								             <xref format="dita"
-                           href="5306_304.dita"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">5306.304</xref>
-							           </ph>(a) and AFFARS <ph outputclass="AFFARS" class="- topic/ph ">
-								             <xref format="dita"
-                           href="5308_405-6.dita"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">5308.405-6</xref>
-							           </ph>(d).</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.11. Work with Government and industry to eliminate barriers to competition and the acquisition of commercial items.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.12. The Procuring/Contracting activity Competition and Commercial Advocate must ensure operational contracting Squadrons/Flights have access to an Installation/Center Competition and Commercial Advocate.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.13. Establish a competition and commercial advocacy program for activities within the Procuring/Contracting activity. The activities’ Competition and Commercial Advocacy Program must meet the oversight and management and reporting requirements identified throughout this MP.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.14. Ensure that requirements are stated in the least restrictive manner to maximize competition and the use of commercial practices.</p>
-					       </li>
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.15. Review and provide appropriate comments on determinations made in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">9.202</ph>(b) that it would be unreasonable to specify the standards for qualification that a prospective offeror (or its product) must satisfy in order to meet established qualification requirements.</p>
-					       </li>
-					       <li id="li__Toc38365626" outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">2.16. Prepare and submit an annual competition and commercial report in accordance with FAR <ph outputclass="FAR" class="- topic/ph ">6.502</ph>(b)(2) and Paragraph 4 of this MP.</p>
-					       </li>
-				     </ol>
-				     <p outputclass="List_0_bold" class="- topic/p ">
-					       <b class="+ topic/ph hi-d/b ">3. Appointment of the Competition and Commercial Advocate.</b>
-				     </p>
-				     <ol class="- topic/ol ">
-					       <li outputclass="List 1" class="- topic/li ">
-						         <p outputclass="List 1" class="- topic/p ">3.1. Procuring/Contracting activity Competition and Commercial Advocate Appointments.</p>
-						         <ol class="- topic/ol ">
-							           <li class="- topic/li ">
-								             <p class="- topic/p ">3.1.1. The AF Competition Advocate General appoints procuring/contracting activity Competition and Commercial Advocates. MAJCOM/DRU/AFRCO/SpRCO/SMCSCOs must nominate a primary and alternate Competition and Commercial Advocate for each of the procuring/contracting activities identified at AFFARS <xref base="DFARS_5306_502"
-                              href="5306_502.dita#AFFARS_5306_502"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">5306.502</xref> to the AF Competition Advocate General. The AFICC SCO or civilian deputy) must be the primary Competition and Commercial Advocate for the MAJCOM they support. SCOs must submit the <xref format="pdf"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/competition_advocate_nomination.pdf"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">Competition and Commercial Advocate Nomination</u>
-									               </xref> package to <xref format="mailto"
-                              href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil?subject=Competition%20and%20Commercial%20Advocate%20Nomination"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
-									               </xref> and include the following information:</p>
-							           </li>
-						         </ol>
-					       </li>
-					       <li class="- topic/li ">
-						         <ol class="- topic/ol ">
-							           <li outputclass=" List 2" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.1. Procuring/Contracting Activity</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.2. Office symbol</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.3. Primary and/or alternate nomination</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.4. E-mail address of the nominated Competition and Commercial Advocate and/or alternate</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.5. Name of the nominated Competition and Commercial Advocate or alternate</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.6. Telephone number of the nominated Competition and Commercial Advocate or alternate</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.7. Candidate resume</p>
-							           </li>
-							           <li outputclass="" class="- topic/li ">
-								             <p class="- topic/p ">3.1.1.8. Competition action officer contact information, if applicable</p>
-							           </li>
-							           <li outputclass="List 2" class="- topic/li ">
-								             <p class="- topic/p ">3.1.2. The AF Competition Advocate General appoints the primary and alternate procuring/contracting activity Competition and Commercial Advocates via certificate.</p>
-							           </li>
-							           <li outputclass="List 2" class="- topic/li ">
-								             <p outputclass="List 2" class="- topic/p ">3.1.3. Once appointed, the primary or alternate Competition and Commercial Advocate (or the competition action officer) must update the <xref format="aspx"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Lists/competition_advocates/AllItems.aspx"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">Competition and Commercial Advocates</u>
-									               </xref>
-									               <ph class="- topic/ph ">
-										                 <u class="+ topic/ph hi-d/u ">list</u>
-									               </ph> with the required information.</p>
-							           </li>
-						         </ol>
-					       </li>
-					       <li class="- topic/li ">
-						         <p class="- topic/p ">3.2. Subordinate Contracting Activity Competition and Commercial Advocate Appointments.</p>
-						         <ol class="- topic/ol ">
-							           <li class="- topic/li ">
-								             <p class="- topic/p ">3.2.1. The procuring/contracting activity Competition and Commercial Advocate must nominate and appoint subordinate primary and alternate Competition and Commercial Advocates via the <xref format="pdf"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/competition_advocate_appointment.pdf"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">Competition and Commercial Advocate Appointment</u>
-									               </xref> memo.</p>
-							           </li>
-							           <li outputclass="List 2" class="- topic/li ">
-								             <p outputclass="List 2" class="- topic/p ">3.2.2. The names and telephone numbers of the subordinate contracting activity Competition and Commercial Advocate, the procuring/contracting activity Competition and Commercial Advocate, and the Air Force Competition Advocate General must be displayed on a <xref format="pdf"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/competition_advocates_poster.pdf"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">poster</u>
-									               </xref> in a prominent location in each unit.</p>
-							           </li>
-							           <li id="li__Toc38365627" outputclass="List 2" class="- topic/li ">
-								             <p outputclass="List 2" class="- topic/p ">3.2.3. Once appointed, the subordinate contracting activity primary or alternate Competition and Commercial Advocate (or competition action officer) must update the <xref format="aspx"
-                              href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Lists/competition_advocates/AllItems.aspx"
-                              scope="external"
-                              class="- topic/xref ">
-										                 <u class="+ topic/ph hi-d/u ">Competition Advocate list</u>
-									               </xref> with the required information</p>
-							           </li>
-						         </ol>
-					       </li>
-				     </ol>
-				     <p class="- topic/p ">
-					       <b class="+ topic/ph hi-d/b ">4. Annual Competition and Commercial Reporting Requirements.</b>
-				     </p>
-				     <ol class="- topic/ol ">
-					       <li outputclass="" class="- topic/li ">
-						         <p class="- topic/p ">4.1. The Procuring/Contracting activity Competition and Commercial Advocates must prepare a consolidated annual Competition and Commercial Report by providing the data elements required in the Competition Reporting Tool by 6 January of each year, unless directed otherwise. Subordinate competition advocates and PEOs, submit the required data elements for their respective organizations via the Competition Reporting Tool at least 45 days prior to the 6 January due date, unless directed otherwise.</p>
-					       </li>
-					       <li outputclass="" class="- topic/li ">
-						         <p class="- topic/p ">4.2. The report must be based on the data obtained from the <xref format="html"
-                        href="https://www.fpds.gov/"
-                        scope="external"
-                        class="- topic/xref ">Federal Procurement Data System-Next Generation (FPDS-NG)</xref>database. Instructions for pulling required reports from FPDS-NG are located in the <xref format="html"
-                        href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/Pages/5306.aspx"
-                        scope="external"
-                        class="- topic/xref ">AFFARS Library, Part 5306</xref>, under Useful Links.</p>
-					       </li>
-				     </ol>
-			   </conbody>
-		</concept>
-	</dita>
+<dita>
+   <topic id="AFFARS_mp_5306_502_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5306.502</ph> Air Force Competition and Commercial Advocacy Program</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <p id="p__Toc38365624" outputclass="Normal" class="- topic/p ">This Mandatory Procedure (MP) implements, in part, AFPD 64-1, <i class="+ topic/ph hi-d/i ">The Contracting System,</i>
+            <i class="+ topic/ph hi-d/i "/>and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_1.dita#AFFARS_mp_5306_502_topic_2">1. Objectives.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_2.dita#AFFARS_mp_5306_502_topic_3"> 2.  Duties and Responsibilities.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_3.dita#AFFARS_mp_5306_502_topic_4">3. Appointment of the Competition and Commercial Advocate.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_4.dita#AFFARS_mp_5306_502_topic_5">4. Annual Competition and Commercial Reporting Requirements.</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_1.dita#AFFARS_mp_5306_502_topic_2">1. Objectives.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_2.dita#AFFARS_mp_5306_502_topic_3"> 2.  Duties and Responsibilities.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_3.dita#AFFARS_mp_5306_502_topic_4">3. Appointment of the Competition and Commercial Advocate.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_4.dita#AFFARS_mp_5306_502_topic_5">4. Annual Competition and Commercial Reporting Requirements.</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_1.dita#AFFARS_mp_5306_502_topic_2">1. Objectives.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_2.dita#AFFARS_mp_5306_502_topic_3"> 2.  Duties and Responsibilities.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_3.dita#AFFARS_mp_5306_502_topic_4">3. Appointment of the Competition and Commercial Advocate.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP_5306_502_4.dita#AFFARS_mp_5306_502_topic_5">4. Annual Competition and Commercial Reporting Requirements.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

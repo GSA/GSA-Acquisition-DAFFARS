@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      xtrc="NoAutoListNumber"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-		<concept id="AFFARS_SMC_PGI_5304_402"
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5304_topic_13"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-			   <title class="- topic/title ">
-				     <ph outputclass="topicnum" class="- topic/ph " props="autonumber">SMC PGI 5304.402</ph> General</title>
-			   <conbody class="- topic/body  concept/conbody ">
-				     <p id="p__SMC_PGI_5304.403" outputclass="Normal" class="- topic/p ">Obtain coordination from the Office of Public Affairs (SMC/PA) before giving the written approval in DFARS <ph outputclass="DFARS" class="- topic/ph ">252.204-7000</ph>, Disclosure of Information. SMC/PA requires use of the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/pa_security_and_policy_review_worksheet.pdf"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">SMC PGI 5304.402</ph> General</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="p__SMC_PGI_5304.403" outputclass="Normal" class="- topic/p ">Obtain coordination from the Office of Public Affairs (SMC/PA) before giving the written approval in DFARS 252.204-7000, Disclosure of Information. SMC/PA requires use of the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/pa_security_and_policy_review_worksheet.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-						         <u class="+ topic/ph hi-d/u ">Public Affairs Security and Policy Review Worksheet</u>
-					       </xref>.</p>
-			   </conbody>
-		</concept>
-	</dita>
+					          <u class="+ topic/ph hi-d/u ">Public Affairs Security and Policy Review Worksheet</u>
+				        </xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>
