@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5331_topic_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5331.109</ph> Advance Agreements</title>
+		    <conbody class="- topic/body  concept/conbody ">
+		      <p  class="- topic/p ">
+				        <ph class="- topic/ph ">
+					          <b class="+ topic/ph hi-d/b ">(h)(4)(90) Pre-contract Costs</b>
+				        </ph>
+			      </p>
+			      <p outputclass="List1" class="- topic/p ">(a) Pre-contract cost agreements should be reviewed for legal sufficiency (see AFMC PGI 5331.109(h)(4)(90)(b) for a sample Pre-contract Cost Agreement). As a condition precedent to the use of a pre-contract cost agreement, the correct type of funds should be available upon issuance of the pre-contract cost agreement. While not legally necessary, prudent business acumen would dictate, that to the maximum extent possible, agreement on terms and conditions also be established prior to issuance of a pre-contract cost agreement. Contracting officers should consult with the designated clearance approval authority prior to agreement on pre-contract costs. The contracting officer should incorporate the pre-contract cost agreement into any resultant contract as an attachment within Section J.</p>
+			      <p outputclass="List1" class="- topic/p ">(b) The pre-contract cost agreement may be written as follows and should include the following minimum essential content:</p>
+			      <p outputclass="Normal" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">Subject to approval as required by law and regulation, the undersigned agree to include a clause in any contract resulting from negotiations with (</i>
+				        <i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert company name</u>
+				        </i>
+				        <i class="+ topic/ph hi-d/i ">) under (</i>
+				        <i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert solicitation number</u>
+				        </i>
+				        <i class="+ topic/ph hi-d/i ">) that all costs not in excess of $(</i>
+				        <i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert dollar amount</u>
+				        </i>
+				        <i class="+ topic/ph hi-d/i ">) incurred by the prospective contractor after (</i>
+				        <i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">insert date</u>
+				        </i>
+				        <i class="+ topic/ph hi-d/i ">), and before the contract effective date, shall be recognized the same as if incurred after the effective date of the resulting contract.</i>
+			      </p>
+			      <p outputclass="Normal" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">The parties agree that the Government shall not accept any benefit of the prospective contractor’s efforts, give no direction or encouragement, and make no payments until a contract is awarded. If no contract results from these negotiations, the prospective contractor is responsible for any incurred costs. Any incurred costs shall not be used as the basis of a claim against, or construed as an obligation of the Government. (</i>
+				        <i class="+ topic/ph hi-d/i ">
+					          <u class="+ topic/ph hi-d/u ">Include any specific cost categories and any other limiting details</u>
+				        </i>
+				        <i class="+ topic/ph hi-d/i ">).</i>
+			      </p>
+			      <p outputclass="Normal" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i "> </i>
+			      </p>
+			      <table frame="none"
+                rowsep="0"
+                colsep="0"
+                id="table_xwv_wwf_qqb"
+                class="- topic/table ">
+				        <tgroup cols="2" align="justify" class="- topic/tgroup ">
+					          <colspec colname="c1"
+                        colnum="1"
+                        colwidth="1*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+					          <colspec colname="c2"
+                        colnum="2"
+                        colwidth="1*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+					          <tbody class="- topic/tbody ">
+						            <row class="- topic/row ">
+							              <entry class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">
+									                  <i class="+ topic/ph hi-d/i ">
+										                    <u class="+ topic/ph hi-d/u ">(signed)</u>
+									                  </i>
+								                </p>
+							              </entry>
+							              <entry class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p ">
+									                  <i class="+ topic/ph hi-d/i ">
+										                    <u class="+ topic/ph hi-d/u ">(signed)</u>
+									                  </i>
+								                </p>
+							              </entry>
+						            </row>
+						            <row class="- topic/row ">
+							              <entry class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p "/>
+								                <p outputclass="Ctr" class="- topic/p "/>
+								                <p outputclass="Ctr" class="- topic/p ">
+									                  <i class="+ topic/ph hi-d/i "> Contracting Officer </i>
+								                </p>
+							              </entry>
+							              <entry class="- topic/entry ">
+								                <p outputclass="Ctr" class="- topic/p "/>
+								                <p outputclass="Ctr" class="- topic/p "/>
+								                <p outputclass="Ctr" class="- topic/p ">
+									                  <i class="+ topic/ph hi-d/i ">Prospective Contractor</i>
+								                </p>
+							              </entry>
+						            </row>
+					          </tbody>
+				        </tgroup>
+			      </table>
+		    </conbody>
+	  </concept>
+</dita>

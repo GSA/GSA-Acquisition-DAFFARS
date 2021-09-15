@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5322_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_1.dita#AFFARS_5322_topic_2">SUBPART 5322.1 — BASIC LABOR POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_1.dita#AFFARS_5322_topic_3">5322.101-1 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_3_70.dita#AFFARS_5322_topic_4">5322.101-3-70 Impact of Labor Disputes on Defense Programs</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_103_4.dita#AFFARS_5322_topic_5">5322.103-4 Approvals</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_3.dita#AFFARS_5322_topic_6">SUBPART 5322.3 — CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_302.dita#AFFARS_5322_topic_7">5322.302 Liquidated Damages and Overtime Pay</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_4.dita#AFFARS_5322_topic_8">SUBPART 5322.4 — LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_406_13.dita#AFFARS_5322_topic_9">5322.406-13 Semi-annual Enforcement Reports</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_8.dita#AFFARS_5322_topic_10">SUBPART 5322.8 — EQUAL EMPLOYMENT OPPORTUNITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_805.dita#AFFARS_5322_topic_11">5322.805 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_18.dita#AFFARS_5322_topic_12">SUBPART 5322.18 — EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_1802.dita#AFFARS_5322_topic_13">5322.1802 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_70.dita#AFFARS_5322_topic_14">SUBPART 5322.70 — RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_7003.dita#AFFARS_5322_topic_15">5322.7003 Waivers</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_1.dita#AFFARS_5322_topic_2">SUBPART 5322.1 — BASIC LABOR POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_1.dita#AFFARS_5322_topic_3">5322.101-1 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_3_70.dita#AFFARS_5322_topic_4">5322.101-3-70 Impact of Labor Disputes on Defense Programs</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_103_4.dita#AFFARS_5322_topic_5">5322.103-4 Approvals</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_3.dita#AFFARS_5322_topic_6">SUBPART 5322.3 — CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_302.dita#AFFARS_5322_topic_7">5322.302 Liquidated Damages and Overtime Pay</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_4.dita#AFFARS_5322_topic_8">SUBPART 5322.4 — LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_406_13.dita#AFFARS_5322_topic_9">5322.406-13 Semi-annual Enforcement Reports</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_8.dita#AFFARS_5322_topic_10">SUBPART 5322.8 — EQUAL EMPLOYMENT OPPORTUNITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_805.dita#AFFARS_5322_topic_11">5322.805 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_18.dita#AFFARS_5322_topic_12">SUBPART 5322.18 — EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_1802.dita#AFFARS_5322_topic_13">5322.1802 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_70.dita#AFFARS_5322_topic_14">SUBPART 5322.70 — RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_7003.dita#AFFARS_5322_topic_15">5322.7003 Waivers</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_1.dita#AFFARS_5322_topic_2">SUBPART 5322.1 — BASIC LABOR POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_1.dita#AFFARS_5322_topic_3">5322.101-1 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_101_3_70.dita#AFFARS_5322_topic_4">5322.101-3-70 Impact of Labor Disputes on Defense Programs</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_103_4.dita#AFFARS_5322_topic_5">5322.103-4 Approvals</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_3.dita#AFFARS_5322_topic_6">SUBPART 5322.3 — CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_302.dita#AFFARS_5322_topic_7">5322.302 Liquidated Damages and Overtime Pay</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_4.dita#AFFARS_5322_topic_8">SUBPART 5322.4 — LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_406_13.dita#AFFARS_5322_topic_9">5322.406-13 Semi-annual Enforcement Reports</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_8.dita#AFFARS_5322_topic_10">SUBPART 5322.8 — EQUAL EMPLOYMENT OPPORTUNITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_805.dita#AFFARS_5322_topic_11">5322.805 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_18.dita#AFFARS_5322_topic_12">SUBPART 5322.18 — EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_1802.dita#AFFARS_5322_topic_13">5322.1802 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_70.dita#AFFARS_5322_topic_14">SUBPART 5322.70 — RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5322_7003.dita#AFFARS_5322_topic_15">5322.7003 Waivers</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5333_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5333</ph> - Protests, Disputes, and Appeals</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="p__Toc351654222" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_1.dita#AFFARS_5333_topic_2">SUBPART 5333.1 — PROTESTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_102.dita#AFFARS_5333_topic_3">5333.102 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_103.dita#AFFARS_5333_topic_4"> 5333.103  Protests to the Agency</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_104.dita#AFFARS_5333_topic_5"> 5333.104  Protests to GAO</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_105.dita#AFFARS_5333_topic_6">5333.105 Protests to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_170.dita#AFFARS_5333_topic_7">5333.170 Briefing Requirement for Protested Acquisitions Valued at $1B or More</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_2.dita#AFFARS_5333_topic_8">SUBPART 5333.2 — DISPUTES AND APPEALS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_211.dita#AFFARS_5333_topic_9">5333.211 Contracting Officers Decision</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_214.dita#AFFARS_5333_topic_10"> 5333.214  Alternate Dispute Resolution (ADR)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_215.dita#AFFARS_5333_topic_11">5333.215 Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_290.dita#AFFARS_5333_topic_12"> 5333.290  Claims and Terminations for Default</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_291.dita#AFFARS_5333_topic_13"> 5333.291  Appeals to the Armed Services Board of Contract Appeals (ASBCA)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_292.dita#AFFARS_5333_topic_14">5333.292 Appeals to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_1.dita#AFFARS_5333_topic_2">SUBPART 5333.1 — PROTESTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_102.dita#AFFARS_5333_topic_3">5333.102 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_103.dita#AFFARS_5333_topic_4"> 5333.103  Protests to the Agency</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_104.dita#AFFARS_5333_topic_5"> 5333.104  Protests to GAO</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_105.dita#AFFARS_5333_topic_6">5333.105 Protests to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_170.dita#AFFARS_5333_topic_7">5333.170 Briefing Requirement for Protested Acquisitions Valued at $1B or More</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_2.dita#AFFARS_5333_topic_8">SUBPART 5333.2 — DISPUTES AND APPEALS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_211.dita#AFFARS_5333_topic_9">5333.211 Contracting Officers Decision</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_214.dita#AFFARS_5333_topic_10"> 5333.214  Alternate Dispute Resolution (ADR)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_215.dita#AFFARS_5333_topic_11">5333.215 Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_290.dita#AFFARS_5333_topic_12"> 5333.290  Claims and Terminations for Default</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_291.dita#AFFARS_5333_topic_13"> 5333.291  Appeals to the Armed Services Board of Contract Appeals (ASBCA)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_292.dita#AFFARS_5333_topic_14">5333.292 Appeals to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_1.dita#AFFARS_5333_topic_2">SUBPART 5333.1 — PROTESTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_102.dita#AFFARS_5333_topic_3">5333.102 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_103.dita#AFFARS_5333_topic_4"> 5333.103  Protests to the Agency</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_104.dita#AFFARS_5333_topic_5"> 5333.104  Protests to GAO</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_105.dita#AFFARS_5333_topic_6">5333.105 Protests to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_170.dita#AFFARS_5333_topic_7">5333.170 Briefing Requirement for Protested Acquisitions Valued at $1B or More</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5333_2.dita#AFFARS_5333_topic_8">SUBPART 5333.2 — DISPUTES AND APPEALS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_211.dita#AFFARS_5333_topic_9">5333.211 Contracting Officers Decision</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_214.dita#AFFARS_5333_topic_10"> 5333.214  Alternate Dispute Resolution (ADR)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_215.dita#AFFARS_5333_topic_11">5333.215 Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_290.dita#AFFARS_5333_topic_12"> 5333.290  Claims and Terminations for Default</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_291.dita#AFFARS_5333_topic_13"> 5333.291  Appeals to the Armed Services Board of Contract Appeals (ASBCA)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5333_292.dita#AFFARS_5333_topic_14">5333.292 Appeals to the United States Court of Federal Claims (COFC)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

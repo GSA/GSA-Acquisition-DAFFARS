@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5352_topic_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">5352.201-9101</ph> Ombudsman</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">As prescribed in <xref href="5301_9103.dita" class="- topic/xref ">5301.9103</xref> , insert the following clause: </p>
+			      <p class="- topic/p ">
+				        <b class="+ topic/ph hi-d/b ">OMBUDSMAN</b>
+				        <b class="+ topic/ph hi-d/b "> </b>
+				        <b class="+ topic/ph hi-d/b ">(</b>
+				        <b class="+ topic/ph hi-d/b ">OCT 2019</b>
+				        <b class="+ topic/ph hi-d/b ">)</b>
+			      </p>
+			      <p outputclass="List1" class="- topic/p ">(a) An ombudsman has been appointed to hear and facilitate the resolution of concerns from offerors, potential offerors, and others for this acquisition. When requested, the ombudsman will maintain strict confidentiality as to the source of the concern. The existence of the ombudsman does not affect the authority of the program manager, contracting officer, or source selection official. Further, the ombudsman does not participate in the evaluation of proposals, the source selection process, or the adjudication of protests or formal contract disputes. The ombudsman may refer the interested party to another official who can resolve the concern. </p>
+			      <p outputclass="List1" class="- topic/p ">(b) Before consulting with an ombudsman, interested parties must first address their concerns, issues, disagreements, and/or recommendations to the contracting officer for resolution. Consulting an ombudsman does not alter or postpone the timelines for any other processes (e.g., agency level bid protests, GAO bid protests, requests for debriefings, employee-employer actions, contests of OMB Circular A-76 competition performance decisions).</p>
+			      <p outputclass="List1" class="- topic/p ">(c) If resolution cannot be made by the contracting officer, the interested party may contact the ombudsman, [Insert names, addresses, telephone numbers, facsimile numbers, and e-mail addresses of Center/MAJCOM/DRU/AFRCO/SMC ombudsman/ombudsmen]. Concerns, issues, disagreements, and recommendations that cannot be resolved at the Center/MAJCOM/DRU/SMC ombudsman level, may be brought by the interested party for further consideration to the Air Force ombudsman, Associate Deputy Assistant Secretary (ADAS) (Contracting), SAF/AQC, 1060 Air Force Pentagon, Washington DC 20330-1060, phone number (571) 256-2395, facsimile number (571) 256-2431.</p>
+			      <p outputclass="List1" class="- topic/p ">(d) The ombudsman has no authority to render a decision that binds the agency. </p>
+			      <p outputclass="List1" class="- topic/p ">(e) Do not contact the ombudsman to request copies of the solicitation, verify offer due date, or clarify technical requirements. Such inquiries shall be directed to the contracting officer. </p>
+			      <p id="p__Toc38365559" outputclass="Ctr" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

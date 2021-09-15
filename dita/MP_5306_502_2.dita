@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_mp_5306_502_topic_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 2" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 2. </ph> Duties and Responsibilities.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="Normal" class="- topic/p ">In addition to the duties and responsibilities identified at FAR 6.502, AF Competition and Commercial Advocates are responsible for the following:</p>
+			      <p outputclass="List1" class="- topic/p ">2.1. Support the AF Competition Advocate General in formulating, managing, and providing oversight of the AF Competition and Commercial Advocacy Program. </p>
+			      <p outputclass="List1" class="- topic/p ">2.2. Promote commercial practices and competition in acquisition programs managed by their Procuring activity. Identify, track, and follow-up on actions to remove impediments to commercial practices and competition. Seek to improve the overall competitive performance, including effective competition*, and increase the use of commercial practices. </p>
+		      <p outputclass="Normal" class="- topic/p ">*<ph class="- topic/ph "> SEE DEFINITION PROVIDED IN  </ph>
+				        <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA006638-10-DPAP.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">OUSD/AT&amp;L DPAP Memo, dated 16 Dec 2010</u>
+				        </xref>
+				        <ph class="- topic/ph "> . </ph>
+			      </p>
+			      <p outputclass="List1" class="- topic/p ">2.3. Ensure the organization's policies and procedures encourage full and open competition whenever possible including effective competition, and promote the use of commercial practices. Review acquisition planning documents, and ensure market research demonstrates that competitive and commercial opportunities were considered. </p>
+			      <p outputclass="List1" class="- topic/p ">2.4. Participate in acquisition strategy planning through forums such as the Acquisition Strategy Panel process.</p>
+			      <p outputclass="List1" class="- topic/p ">2.5. The Competition Advocate General will establish and assign fiscal year Procuring activity and PEO competition goals based on annual projections submitted via the <xref href="https://usaf.dps.mil/sites/AFCC/afcc/aqcinternal/aqcp/af_competition/Pages/default.aspx"
+                  scope="external"
+                  format="aspx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Competition Projection</u>
+				        </xref> site. Projections are due no later than 16 October of each year.</p>
+			      <p outputclass="List1" class="- topic/p ">2.8. Encourage contracting professionals to complete the Defense Acquisition University (DAU) Continuous Learning Module (CLM) <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1708"
+                  scope="external"
+                  format="aspx?crs_id=1708"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">CLC 055</u>
+				        </xref>, <i class="+ topic/ph hi-d/i ">Competition Requirements</i>.</p>
+			      <p outputclass="List1" class="- topic/p ">2.9. Convey to program managers, contracting personnel, and senior leaders the advantages of full and open and effective competition, share success stories, and assist contracting officers in doing the same. Competition advocates should provide training to the various functionals involved in acquisition. Competition advocates are encouraged to use the <xref href="http://www.acq.osd.mil/dpap/cpic/cp/docs/training.ppt"
+                  scope="external"
+                  format="ppt"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Competition Training</u>
+				        </xref>
+				        <ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u "> </u>
+				        </ph>template<ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u "> </u>
+				        </ph>developed by OUSD(A&amp;S) DPC.<ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u "> </u>
+				        </ph>
+			      </p>
+			      <p outputclass="List1" class="- topic/p ">2.10. Identify the potential for full and open competition and effective competition and commercial opportunities through the Justification and Approval (J&amp;A) and acquisition planning document review process. Review and approve J&amp;A documents and fair opportunity justifications in accordance with <u class="+ topic/ph hi-d/u ">AFFARS 5306.304(a)</u> and <u class="+ topic/ph hi-d/u ">AFFARS 5308.405-6(d)</u> .</p>
+			      <p outputclass="List1" class="- topic/p ">2.11. Work with Government and industry to eliminate barriers to competition and the acquisition of commercial items. </p>
+			      <p outputclass="List1" class="- topic/p ">2.12. The Procuring activity Competition and Commercial Advocate must ensure operational contracting Squadrons/Flights have access to an Installation/Center Competition and Commercial Advocate.</p>
+			      <p outputclass="List1" class="- topic/p ">2.13. Establish a competition and commercial advocacy program for activities within the Procuring activity. The activities’ Competition and Commercial Advocacy Program must meet the oversight and management and reporting requirements identified throughout this MP.</p>
+			      <p outputclass="List1" class="- topic/p ">2.14. Ensure that requirements are stated in the least restrictive manner to maximize competition and the use of commercial practices.</p>
+			      <p outputclass="List1" class="- topic/p ">2.15. Review and provide appropriate comments on determinations made in accordance with FAR 9.202(b) that it would be unreasonable to specify the standards for qualification that a prospective offeror (or its product) must satisfy in order to meet established qualification requirements.</p>
+			      <p id="p__Toc38365626" outputclass="List1" class="- topic/p ">2.16. Prepare and submit an annual competition and commercial report in accordance with FAR 6.502(b)(2) and Paragraph 4 of this MP.</p>
+		    </conbody>
+	  </concept>
+</dita>

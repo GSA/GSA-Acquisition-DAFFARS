@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5317_topic_6"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFICC PGI 5317.204-90</ph> Contracts</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="Normal" class="- topic/p ">Enter relevant data into the <xref href="https://cs2.eis.af.mil/sites/10074/afcc/aficc/kp/SitePages/MIPRtracker.aspx"
+                  scope="external"
+                  format="aspx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Air Force [AFICC]</u>
+					          <u class="+ topic/ph hi-d/u "> </u>
+					          <u class="+ topic/ph hi-d/u ">MIPR </u>
+					          <u class="+ topic/ph hi-d/u ">Database</u>
+					          <u class="+ topic/ph hi-d/u "> Tool</u>
+				        </xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>

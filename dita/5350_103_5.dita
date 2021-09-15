@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5350_topic_8"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">5350.103-5</ph> Processing Cases</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) All requests for relief and all related documents, certifications, correspondence, reports, files, and a proposed memorandum of decision must be forwarded through the SCO to the approving official. </p>
+			      <p id="p__Toc38365555" outputclass="List1" class="- topic/p ">(b) Air Force Contract Adjustment Board serves as the exclusive point of contact with other military departments, or other departments or agencies of the Government, relative to the exercise of authority under Public Law 85-804.</p>
+		    </conbody>
+	  </concept>
+</dita>

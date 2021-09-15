@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5311_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5311</ph> Describing Agency Needs</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5311.dita#AFFARS_pgi_5311_topic_2">AFMC PGI 5311 Describing Agency Needs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5311_304_90.dita#AFFARS_pgi_5311_topic_3">AFMC PGI 5311.304-90 Contract Clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5311.dita#AFFARS_pgi_5311_topic_2">AFMC PGI 5311 Describing Agency Needs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5311_304_90.dita#AFFARS_pgi_5311_topic_3">AFMC PGI 5311.304-90 Contract Clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5311.dita#AFFARS_pgi_5311_topic_2">AFMC PGI 5311 Describing Agency Needs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5311_304_90.dita#AFFARS_pgi_5311_topic_3">AFMC PGI 5311.304-90 Contract Clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

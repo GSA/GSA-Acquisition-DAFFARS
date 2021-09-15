@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5331_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5331</ph> Contract Cost Principles and Procedures</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5331.dita#AFFARS_pgi_5331_topic_2">AFMC PGI 5331 Contract Cost Principles and Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5331_109.dita#AFFARS_pgi_5331_topic_3">AFMC PGI 5331.109 Advance Agreements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5331.dita#AFFARS_pgi_5331_topic_2">AFMC PGI 5331 Contract Cost Principles and Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5331_109.dita#AFFARS_pgi_5331_topic_3">AFMC PGI 5331.109 Advance Agreements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5331.dita#AFFARS_pgi_5331_topic_2">AFMC PGI 5331 Contract Cost Principles and Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5331_109.dita#AFFARS_pgi_5331_topic_3">AFMC PGI 5331.109 Advance Agreements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

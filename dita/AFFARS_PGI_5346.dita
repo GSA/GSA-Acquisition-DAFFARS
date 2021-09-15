@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5346_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5346</ph> Quality Assurance</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2">AF PGI 5346 Quality Assurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4">AF PGI 5346.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5">AF PGI 5346.702 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2">AF PGI 5346 Quality Assurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4">AF PGI 5346.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5">AF PGI 5346.702 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2">AF PGI 5346 Quality Assurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4">AF PGI 5346.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5">AF PGI 5346.702 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

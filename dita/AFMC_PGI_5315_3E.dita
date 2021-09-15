@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5315_topic_22"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5315.3</ph> (2.3.1) Evaluation Factors/Subfactors</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="Normal" class="- topic/p ">For all AFRL Sites: consider the following technical and cost factors and/or subfactors:</p>
+			      <p outputclass="List1" class="- topic/p ">(a) Cost is a substantial factor in Science and Technology (S&amp;T) source selections, but it is significantly less important than all other factors combined in determining the basis for award. </p>
+			      <p outputclass="List1" class="- topic/p ">(b) Technical:</p>
+			      <p outputclass="List2" class="- topic/p ">(1) Technical approach: The soundness of the offeror's technical approach, including the offeror's demonstrated understanding of the technical requirement.</p>
+			      <p outputclass="List2" class="- topic/p ">(2) Qualification: The quantity and quality of experience and qualifications of the proposed personnel relevant to the proposed task. The quantity and quality of the offeror's corporate experience relevant to the proposed task.</p>
+			      <p outputclass="List2" class="- topic/p ">(3) Management: The degree to which the offeror demonstrates the ability to effectively and efficiently manage and administer the program to a successful conclusion. </p>
+			      <p outputclass="List2" class="- topic/p ">(4) Facilities: The degree to which the proposed facilities enable accomplishment of the proposed effort.</p>
+			      <p outputclass="List1" class="- topic/p ">(c) Past Performance Information (PPI):</p>
+			      <p outputclass="List2" class="- topic/p ">(1)Unlike contracts for supplies and services, most S&amp;T contracts are directed toward objectives for which the work or methods cannot be precisely described in advance and it is difficult to judge the probabilities of success or the likelihood of the proposed approach being achieved. Some approaches offer little or no early assurance of full success (see FAR 35.002). Due to the trial and error nature of the S&amp;T environment, many problems and failures are routine and expected. Therefore, PPI may not be a significant discriminator in S&amp;T source selection decisions.</p>
+			      <p id="p__AFMC_PGI_5315.402-90" outputclass="List2" class="- topic/p ">(2)When PPI is used in S&amp;T source selections, tailor the type of past performance data to be collected and the manner in which it is to be evaluated to the specific acquisition. Evaluation of ad hoc past performance information should either be incorporated in other evaluation factors and/or subfactors (e.g., technical approach, qualification, management, facilities) or used as a stand-alone factor or subfactor as appropriate. PCOs should review “Guidance for the Contractor Performance Assessment Reporting System (<xref href="https://www.cpars.gov/pdfs/CPARS-Guidance.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">CPARS</u>
+				        </xref>)”, for additional guidance on S&amp;T acquisitions. </p>
+		    </conbody>
+	  </concept>
+</dita>

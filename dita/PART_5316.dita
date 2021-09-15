@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5316_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5316</ph> - Types of Contracts</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_1.dita#AFFARS_5316_topic_2">SUBPART 5316.1 — SELECTING CONTRACT TYPES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_102.dita#AFFARS_5316_topic_3">5316.102 Policies</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_103.dita#AFFARS_5316_topic_4">5316.103 Negotiating Contract Type</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_104.dita#AFFARS_5316_topic_5">5316.104 Factors in Selecting Contract Types</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_203.dita#AFFARS_5316_topic_6">SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_203_4.dita#AFFARS_5316_topic_7">5316.203-4 Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_206.dita#AFFARS_5316_topic_8">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_206_3.dita#AFFARS_5316_topic_9">5316.206-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_3.dita#AFFARS_5316_topic_10">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_301_3.dita#AFFARS_5316_topic_11">5316.301-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_4.dita#AFFARS_5316_topic_12">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_401.dita#AFFARS_5316_topic_13">5316.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_404.dita#AFFARS_5316_topic_14">5316.404 Fixed-Price Contracts with Award Fees</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_405_2.dita#AFFARS_5316_topic_15">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_5.dita#AFFARS_5316_topic_16">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_503.dita#AFFARS_5316_topic_17"> 5316.503  Requirements Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_504.dita#AFFARS_5316_topic_18"> 5316.504  Indefinite-Quantity Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505.dita#AFFARS_5316_topic_19"> 5316.505  Ordering</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505_90.dita#AFFARS_5316_topic_20"> 5316.505-90  Decentralized Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_6.dita#AFFARS_5316_topic_21">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_601.dita#AFFARS_5316_topic_22"> 5316.601 (d) Limitations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_2.dita#AFFARS_5316_topic_23">5316.603-2 Application</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_3.dita#AFFARS_5316_topic_24">5316.603-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_1.dita#AFFARS_5316_topic_2">SUBPART 5316.1 — SELECTING CONTRACT TYPES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_102.dita#AFFARS_5316_topic_3">5316.102 Policies</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_103.dita#AFFARS_5316_topic_4">5316.103 Negotiating Contract Type</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_104.dita#AFFARS_5316_topic_5">5316.104 Factors in Selecting Contract Types</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_203.dita#AFFARS_5316_topic_6">SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_203_4.dita#AFFARS_5316_topic_7">5316.203-4 Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_206.dita#AFFARS_5316_topic_8">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_206_3.dita#AFFARS_5316_topic_9">5316.206-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_3.dita#AFFARS_5316_topic_10">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_301_3.dita#AFFARS_5316_topic_11">5316.301-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_4.dita#AFFARS_5316_topic_12">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_401.dita#AFFARS_5316_topic_13">5316.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_404.dita#AFFARS_5316_topic_14">5316.404 Fixed-Price Contracts with Award Fees</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_405_2.dita#AFFARS_5316_topic_15">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_5.dita#AFFARS_5316_topic_16">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_503.dita#AFFARS_5316_topic_17"> 5316.503  Requirements Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_504.dita#AFFARS_5316_topic_18"> 5316.504  Indefinite-Quantity Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505.dita#AFFARS_5316_topic_19"> 5316.505  Ordering</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505_90.dita#AFFARS_5316_topic_20"> 5316.505-90  Decentralized Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_6.dita#AFFARS_5316_topic_21">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_601.dita#AFFARS_5316_topic_22"> 5316.601 (d) Limitations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_2.dita#AFFARS_5316_topic_23">5316.603-2 Application</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_3.dita#AFFARS_5316_topic_24">5316.603-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_1.dita#AFFARS_5316_topic_2">SUBPART 5316.1 — SELECTING CONTRACT TYPES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_102.dita#AFFARS_5316_topic_3">5316.102 Policies</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_103.dita#AFFARS_5316_topic_4">5316.103 Negotiating Contract Type</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_104.dita#AFFARS_5316_topic_5">5316.104 Factors in Selecting Contract Types</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_203.dita#AFFARS_5316_topic_6">SUBPART 5316.203 — FIXED-PRICE CONTRACTS WITH ECONOMIC PRICE ADJUSTMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_203_4.dita#AFFARS_5316_topic_7">5316.203-4 Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_206.dita#AFFARS_5316_topic_8">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_206_3.dita#AFFARS_5316_topic_9">5316.206-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_3.dita#AFFARS_5316_topic_10">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_301_3.dita#AFFARS_5316_topic_11">5316.301-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_4.dita#AFFARS_5316_topic_12">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_401.dita#AFFARS_5316_topic_13">5316.401 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_404.dita#AFFARS_5316_topic_14">5316.404 Fixed-Price Contracts with Award Fees</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_405_2.dita#AFFARS_5316_topic_15">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_5.dita#AFFARS_5316_topic_16">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_503.dita#AFFARS_5316_topic_17"> 5316.503  Requirements Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_504.dita#AFFARS_5316_topic_18"> 5316.504  Indefinite-Quantity Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505.dita#AFFARS_5316_topic_19"> 5316.505  Ordering</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_505_90.dita#AFFARS_5316_topic_20"> 5316.505-90  Decentralized Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_6.dita#AFFARS_5316_topic_21">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_601.dita#AFFARS_5316_topic_22"> 5316.601 (d) Limitations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_2.dita#AFFARS_5316_topic_23">5316.603-2 Application</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5316_603_3.dita#AFFARS_5316_topic_24">5316.603-3 Limitations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

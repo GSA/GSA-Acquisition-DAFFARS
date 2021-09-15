@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5304_topic_17"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">SMC PGI 5304.803</ph> Contents of Contract Files</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) It is incumbent upon contracting professionals to research the regulations, policies, and instructions related to their acquisitions and understand what documentation is expected as a result of those regulations, policies, and instructions.  There are many parts of the FAR, for example, that require the contracting officer to make a determination regarding certain facts or situations without expressly stating that those determinations should be in writing.  If the contracting officer does not document his or her determination in writing, it may look as if he or she never made that determination.  In certain cases, it may be appropriate for the contracting officer to commit such determinations to writing and include them in the contract file.</p>
+			      <p outputclass="List2" class="- topic/p ">(43) Contract File Content Index (CFCI). Contracting officers may include a CFCI in all contract files as prescribed below. </p>
+			      <p outputclass="List3" class="- topic/p ">(i) PEO Systems &amp; Enterprise contracting: <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/CFCI%20Systems%20Enterprise_SMC_FINAL.docx"
+                  scope="external"
+                  format="docx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SMC CFCI (PEO Systems &amp; Enterprise)</u>
+				        </xref>
+			      </p>
+			      <p outputclass="List3" class="- topic/p ">(ii) Operational contracting (above the Simplified Acquisition Threshold): <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/templates/contract_file_operational.docx"
+                  scope="external"
+                  format="docx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">AFFARS CFCI (Operational Supplies, Services and Construction)</u>
+				        </xref>
+			      </p>
+			      <p outputclass="List3" class="- topic/p ">(iii) Operational contracting (Simplified Acquisitions): <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/04.%20Operational%20SAT%20CFCI%20-%20Dec%202015.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SMC Operational CFCI for Simplified Acquisitions</u>
+				        </xref>
+			      </p>
+			      <p outputclass="List2" class="- topic/p ">(44) Buy Plan (applicable to actions awarded in ConWrite).</p>
+			      <p outputclass="List3" class="- topic/p ">(i) Each contract action should have a Buy Plan. Multiple Buy Plans should not be attached to a single contract action (i.e., the Buy Plan for the RFP is only attached to RFP and the Buy Plan for the contract is only attached to the contract in ConWrite). </p>
+			      <p outputclass="List3" class="- topic/p ">(ii) A printout of the final Buy Plan should be included in the official contract file at Tab 57. Dates in the Buy Plan should accurately reflect dates milestones occurred and be consistent with other contract file documentation. </p>
+			      <p id="p__SMC_PGI_5304.804" outputclass="List3" class="- topic/p ">(iii) Contracting officers may request Buy Plan deletions through the SMC ConWrite administrator. </p>
+		    </conbody>
+	  </concept>
+</dita>

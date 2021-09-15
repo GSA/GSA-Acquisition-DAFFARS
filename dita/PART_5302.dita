@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5302_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5302</ph> - Definitions of Words and Terms</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5302_1.dita#AFFARS_5302_topic_2">SUBPART 5302.1 — DEFINITIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5302_101.dita#AFFARS_5302_topic_3">5302.101 Definitions</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5302_1.dita#AFFARS_5302_topic_2">SUBPART 5302.1 — DEFINITIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5302_101.dita#AFFARS_5302_topic_3">5302.101 Definitions</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5302_1.dita#AFFARS_5302_topic_2">SUBPART 5302.1 — DEFINITIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5302_101.dita#AFFARS_5302_topic_3">5302.101 Definitions</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

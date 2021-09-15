@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5332_topic_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5332.104 </ph> Providing Contract Financing</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a)(5) Report known adverse developments affecting a contractor or subcontractor to the contract administration office, other interested Government parties, and the SCO. If there is an adverse development affecting a contractor receiving a bank loan guaranteed by the Air Force, progress payments, or advance payments, the contracting office must report the adverse development, its expected impact upon continued satisfactory performance under the contract, remedial actions taken to date (if any), and any recommendations for further action through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+				        </xref>
+				        <u class="+ topic/ph hi-d/u ">.</u>
+			      </p>
+			      <p id="p__Toc38365442" outputclass="List1" class="- topic/p ">(c)(2) The contracting officer must submit any unusual financing requests by a contractor to the SCO contracting staff for consultation. If the SCO determines unusual financing is required, the SCO must submit a memorandum outlining the pertinent facts together with a recommendation on the action to be taken through <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+				        </xref> to <xref href="mailto:SAF.FMF.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/FMF</u>
+				        </xref> no later than 30 days before the needed effective date of the proposed financing arrangement.</p>
+		    </conbody>
+	  </concept>
+</dita>

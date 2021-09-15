@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5306_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5306</ph> Competition Requirements</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+      Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+      Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+      Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

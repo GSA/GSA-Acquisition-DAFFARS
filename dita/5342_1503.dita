@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5342_topic_10"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5342.1503 </ph> Procedures</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) The acquisition team must use the Contractor Performance Assessment Reporting System (CPARS) to record evaluations of contractor performance. Guidance on systematically assessing contractor performance and using past performance information is available in the <xref href="https://cpars.gov/"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Guidance for the Contractor Performance Assessment Reporting System (CPARS)</u>
+				        </xref>.</p>
+			      <p outputclass="List2" class="- topic/p ">(1) Individuals appointed to CPARS roles (Focal Point, Alternate Focal Point, Agency Point of Contact (APOC), Assessing Official, Assessing Official Representative, or Reviewing Official) must complete online instructor-led, automated online, or onsite CPARS program office instructor-led training specific to their CPARS role(s) within 30 days of appointment. Class registration is available at <xref href="https://cpars.gov/lc.htm"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">https://cpars.gov/lc.htm</u>
+				        </xref> and a list of classes by role is available at <xref href="https://www.cpars.gov/lc_role.htm"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">https://www.cpars.gov/lc_role.htm</u>
+				        </xref>
+				        <ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u ">. Copies of each organization’s CPARS training certificates must be maintained by APOCs or Quality Assurance Program Coordinators (QAPC).</u>
+				        </ph>
+			      </p>
+			      <p outputclass="List3" class="- topic/p ">(ii) Individuals assigned CPARS roles and responsibilities (Focal Point, Alternate Focal Point, Agency Point of Contact, Assessing Official, Assessing Official Representative, or Reviewing Official) must be removed from those roles and responsibilities and formally replaced prior to their departure (PCS, retirement, resignation, or rotation) from the office or position.</p>
+			      <p outputclass="List1" class="- topic/p ">(h)(3) APOCs for CPARS and their subordinate focal points are designated as Federal Awardee Performance and Integrity Information System (FAPIIS) Focal Points to register users and ensure timely and accurate reporting of required contract performance information into the FAPIIS module of CPARS. Guidance on FAPIIS data reporting is available in the <xref href="https://cpars.gov/documents/CPARS_User_Manual.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">CPARS User Manual</u>
+				        </xref>.</p>
+			      <p id="p__Toc38365513" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5342_1503_90.dita" class="- topic/xref ">AFMC PGI 5342.1503-90</xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>

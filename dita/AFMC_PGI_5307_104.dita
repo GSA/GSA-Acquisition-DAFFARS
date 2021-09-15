@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5307_topic_9"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5307.104</ph> General Procedures</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) In order to develop a sound acquisition strategy, AFMC acquisition personnel are encouraged to engage the local Acquisition Center of Excellence (ACE) and others as appropriate, including Contracting, Financial Management, Staff Judge Advocate, Small Business and other technical experts.</p>
+			      <p id="p__AFMC_PGI_5307.104-92" outputclass="List1" class="- topic/p ">(b) AFMC/CA is the Early Strategy &amp; Issues Session (ESIS) authority for AFPEO/CM acquisitions <u class="+ topic/ph hi-d/u ">&gt;</u> $100M to &lt;$1B unless further delegated by AFMC/CA. See the <xref href="https://cs2.eis.af.mil/sites/10263/projects/Services/Acquisition%20Templates/ESIS%20template.pptx"
+                  scope="external"
+                  format="pptx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">AFPEO/CM ESIS template</u>
+				        </xref>. To schedule an ESIS for programs where AFMC/CA is the approval authority, send an email notification to AFMC/PK Workflow with the following information: name of program, program office POC, estimated dollar value, projected need date for the ESIS, status of RAD, projected ASP date, RFP release date, and contract award date.</p>
+		    </conbody>
+	  </concept>
+</dita>

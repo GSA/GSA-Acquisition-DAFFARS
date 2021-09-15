@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5332_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5332</ph> - Contract Financing</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_1.dita#AFFARS_5332_topic_2">SUBPART 5332.1 — NON-COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_104.dita#AFFARS_5332_topic_3"> 5332.104  Providing Contract Financing</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_2.dita#AFFARS_5332_topic_4">SUBPART 5332.2 – COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_202_1.dita#AFFARS_5332_topic_5"> 5332.202-1  Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_4.dita#AFFARS_5332_topic_6">SUBPART 5332.4 — ADVANCE PAYMENTS FOR NON-COMMERCIAL ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_402.dita#AFFARS_5332_topic_7">5332.402 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_5.dita#AFFARS_5332_topic_8">SUBPART 5332.5 — PROGRESS PAYMENTS BASED ON COSTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_2.dita#AFFARS_5332_topic_9">5332.501-2 Unusual Progress Payments</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_3.dita#AFFARS_5332_topic_10">5332.501-3 Contract Price</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_6.dita#AFFARS_5332_topic_11">SUBPART 5332.6 — CONTRACT DEBTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_604.dita#AFFARS_5332_topic_12">5332.604 Demand for Payment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_607.dita#AFFARS_5332_topic_13">5332.607 Installment Payments and Deferment of Collection</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_7.dita#AFFARS_5332_topic_14">SUBPART 5332.7 — CONTRACT FUNDING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_703_2.dita#AFFARS_5332_topic_15"> 5332.703-2  Contracts Conditioned Upon Availability of Funds</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_9.dita#AFFARS_5332_topic_16">SUBPART 5332.9 —PROMPT PAYMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_901.dita#AFFARS_5332_topic_17">5332.901 Applicability</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_906.dita#AFFARS_5332_topic_18">5332.906 Making Payments</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_11.dita#AFFARS_5332_topic_19">SUBPART 5332.11 —ELECTRONIC FUNDS TRANSFER</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_1106.dita#AFFARS_5332_topic_20">5332.1106 EFT Mechanisms</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_1.dita#AFFARS_5332_topic_2">SUBPART 5332.1 — NON-COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_104.dita#AFFARS_5332_topic_3"> 5332.104  Providing Contract Financing</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_2.dita#AFFARS_5332_topic_4">SUBPART 5332.2 – COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_202_1.dita#AFFARS_5332_topic_5"> 5332.202-1  Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_4.dita#AFFARS_5332_topic_6">SUBPART 5332.4 — ADVANCE PAYMENTS FOR NON-COMMERCIAL ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_402.dita#AFFARS_5332_topic_7">5332.402 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_5.dita#AFFARS_5332_topic_8">SUBPART 5332.5 — PROGRESS PAYMENTS BASED ON COSTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_2.dita#AFFARS_5332_topic_9">5332.501-2 Unusual Progress Payments</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_3.dita#AFFARS_5332_topic_10">5332.501-3 Contract Price</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_6.dita#AFFARS_5332_topic_11">SUBPART 5332.6 — CONTRACT DEBTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_604.dita#AFFARS_5332_topic_12">5332.604 Demand for Payment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_607.dita#AFFARS_5332_topic_13">5332.607 Installment Payments and Deferment of Collection</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_7.dita#AFFARS_5332_topic_14">SUBPART 5332.7 — CONTRACT FUNDING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_703_2.dita#AFFARS_5332_topic_15"> 5332.703-2  Contracts Conditioned Upon Availability of Funds</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_9.dita#AFFARS_5332_topic_16">SUBPART 5332.9 —PROMPT PAYMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_901.dita#AFFARS_5332_topic_17">5332.901 Applicability</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_906.dita#AFFARS_5332_topic_18">5332.906 Making Payments</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_11.dita#AFFARS_5332_topic_19">SUBPART 5332.11 —ELECTRONIC FUNDS TRANSFER</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_1106.dita#AFFARS_5332_topic_20">5332.1106 EFT Mechanisms</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_1.dita#AFFARS_5332_topic_2">SUBPART 5332.1 — NON-COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_104.dita#AFFARS_5332_topic_3"> 5332.104  Providing Contract Financing</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_2.dita#AFFARS_5332_topic_4">SUBPART 5332.2 – COMMERCIAL ITEM PURCHASE FINANCING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_202_1.dita#AFFARS_5332_topic_5"> 5332.202-1  Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_4.dita#AFFARS_5332_topic_6">SUBPART 5332.4 — ADVANCE PAYMENTS FOR NON-COMMERCIAL ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_402.dita#AFFARS_5332_topic_7">5332.402 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_5.dita#AFFARS_5332_topic_8">SUBPART 5332.5 — PROGRESS PAYMENTS BASED ON COSTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_2.dita#AFFARS_5332_topic_9">5332.501-2 Unusual Progress Payments</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_501_3.dita#AFFARS_5332_topic_10">5332.501-3 Contract Price</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_6.dita#AFFARS_5332_topic_11">SUBPART 5332.6 — CONTRACT DEBTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_604.dita#AFFARS_5332_topic_12">5332.604 Demand for Payment</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_607.dita#AFFARS_5332_topic_13">5332.607 Installment Payments and Deferment of Collection</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_7.dita#AFFARS_5332_topic_14">SUBPART 5332.7 — CONTRACT FUNDING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_703_2.dita#AFFARS_5332_topic_15"> 5332.703-2  Contracts Conditioned Upon Availability of Funds</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_9.dita#AFFARS_5332_topic_16">SUBPART 5332.9 —PROMPT PAYMENT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_901.dita#AFFARS_5332_topic_17">5332.901 Applicability</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_906.dita#AFFARS_5332_topic_18">5332.906 Making Payments</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5332_11.dita#AFFARS_5332_topic_19">SUBPART 5332.11 —ELECTRONIC FUNDS TRANSFER</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_1106.dita#AFFARS_5332_topic_20">5332.1106 EFT Mechanisms</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

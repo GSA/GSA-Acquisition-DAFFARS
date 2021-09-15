@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_mp_5301_9001_i_1_i_topic_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 2" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> MP5301.9001b </ph> (B) Business Clearance Approval for Competitive Actions</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(1)</i> The contracting officer will submit notifications to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+				        </xref> thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+				        </xref>:</p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(2)</i> Business Clearance Approval;</p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(3)</i> Request for Business Clearance (competitive) briefing charts;</p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(4)</i> Request for Proposal (including attachments); and </p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(5)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review (e.g., Source Selection Plan, Acquisition Strategy Document, Acquisition Strategy Plan Charts).</p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(6)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
+			      <p outputclass="List2" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">(7)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs either before or after the commencement of the DoD Phase 1 Peer Review. The decision to hold Peer Reviews prior to Business Clearance approval will be made in coordination with SAF/AQC. Should Business Clearance be held prior to the Peer Review, Business Clearance is conditioned upon successful completion of the Peer Review in accordance with <xref href="AF_PGI_5301_170_2.dita" class="- topic/xref ">AF PGI 5301.170-2(b)(1)</xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5315_topic_31"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5315.407-1-90</ph> Defective Certified Cost or Pricing Data</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="p__AFMC_PGI_5315.407-2" outputclass="Normal" class="- topic/p ">Ensure timely resolution of defective pricing audits. The Pricing Chief should coordinate on the “resolution” for all defective pricing audits when the location has a centralized pricing organization, except when the defective pricing audit is being resolved by the centralized pricing organization. For locations without a co-located centralized pricing organization, coordination on the “resolution” should be at one-level above the contracting officer. If the Air Force Negotiation Objective or negotiated amount deviates from the DCAA Recommended Price Adjustment, the contracting officer should seek approval of the variance from at least one-level above the contracting officer. Contracting officers should ensure that defective pricing adjustments (excluding interest) are reflected in automated procurement history records for repetitive spares. Negotiated settlement agreement with a contractor do not waive the rights of the government for future defective pricing claims or otherwise restrict the government’s rights to conduct audits under the same or other contracts. The collection of interest cannot be waived or offset. Refer to the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/defective_pricing_guide.doc"
+                  scope="external"
+                  format="doc"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Defective Pricing Guide</u>
+				        </xref> for additional guidance. <b class="+ topic/ph hi-d/b ">
+					          <i class="+ topic/ph hi-d/i "> </i>
+				        </b>
+			      </p>
+		    </conbody>
+	  </concept>
+</dita>

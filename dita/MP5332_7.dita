@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_mp_5332_7_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5332.7</ph> Contract Funding</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26 </i>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_mp_5332_7_topic_2">Release of Solicitations in Advance of Funding
+      Availability</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_mp_5332_7_topic_2">Release of Solicitations in Advance of Funding
+      Availability</xref>
+               </p>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_mp_5332_7_topic_2">Release of Solicitations in Advance of Funding
+      Availability</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5319_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5319</ph> Small Business Programs</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5319.dita#AFFARS_pgi_5319_topic_2">AF PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_201.dita#AFFARS_pgi_5319_topic_3"> 5319.201  General Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_303.dita#AFFARS_pgi_5319_topic_4">AF PGI 5319.303 Determining North American
+      Industry Classification System (NAICS) Codes and Size Standards</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_705_2.dita#AFFARS_pgi_5319_topic_5">AF PGI 5319.705-2 Determining the Need for a Subcontracting Plan</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5319.dita#AFFARS_pgi_5319_topic_6">AFMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_505.dita#AFFARS_pgi_5319_topic_7">AFMC PGI 5319.505 Rejecting Small Business Administration Recommendations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_602_3.dita#AFFARS_pgi_5319_topic_8">AFMC PGI 5319.602-3 Resolving Differences Between the Agency and the Small Business Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5319.dita#AFFARS_pgi_5319_topic_9">SMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5319_201_90.dita#AFFARS_pgi_5319_topic_10">SMC PGI 5319.201-90 General Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5319.dita#AFFARS_pgi_5319_topic_2">AF PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_201.dita#AFFARS_pgi_5319_topic_3"> 5319.201  General Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_303.dita#AFFARS_pgi_5319_topic_4">AF PGI 5319.303 Determining North American
+      Industry Classification System (NAICS) Codes and Size Standards</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_705_2.dita#AFFARS_pgi_5319_topic_5">AF PGI 5319.705-2 Determining the Need for a Subcontracting Plan</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5319.dita#AFFARS_pgi_5319_topic_6">AFMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_505.dita#AFFARS_pgi_5319_topic_7">AFMC PGI 5319.505 Rejecting Small Business Administration Recommendations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_602_3.dita#AFFARS_pgi_5319_topic_8">AFMC PGI 5319.602-3 Resolving Differences Between the Agency and the Small Business Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5319.dita#AFFARS_pgi_5319_topic_9">SMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5319_201_90.dita#AFFARS_pgi_5319_topic_10">SMC PGI 5319.201-90 General Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5319.dita#AFFARS_pgi_5319_topic_2">AF PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_201.dita#AFFARS_pgi_5319_topic_3"> 5319.201  General Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_303.dita#AFFARS_pgi_5319_topic_4">AF PGI 5319.303 Determining North American
+      Industry Classification System (NAICS) Codes and Size Standards</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5319_705_2.dita#AFFARS_pgi_5319_topic_5">AF PGI 5319.705-2 Determining the Need for a Subcontracting Plan</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5319.dita#AFFARS_pgi_5319_topic_6">AFMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_505.dita#AFFARS_pgi_5319_topic_7">AFMC PGI 5319.505 Rejecting Small Business Administration Recommendations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5319_602_3.dita#AFFARS_pgi_5319_topic_8">AFMC PGI 5319.602-3 Resolving Differences Between the Agency and the Small Business Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5319.dita#AFFARS_pgi_5319_topic_9">SMC PGI 5319 Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5319_201_90.dita#AFFARS_pgi_5319_topic_10">SMC PGI 5319.201-90 General Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

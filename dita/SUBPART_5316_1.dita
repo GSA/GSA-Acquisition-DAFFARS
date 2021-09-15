@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+          id="AFFARS_5316_topic_2"
+          xml:lang="en-US"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+          class="- topic/topic ">
+		    <title outputclass="Subpart" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">SUBPART 5316.1</ph> — SELECTING CONTRACT TYPES</title>
+		    <body class="- topic/body ">
+			      <p id="p__Toc351650163" outputclass="Normal" class="- topic/p ">See <xref href="AF_PGI_5316_101.dita" class="- topic/xref ">AF PGI 5316.101</xref>.</p>
+		    </body>
+	  </topic>
+</dita>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_5307_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5307</ph> - Acquisition Planning</title>
+      <body>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: </i>
+            <i class="+ topic/ph hi-d/i ">26</i>
+            <i class="+ topic/ph hi-d/i "/>
+            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_1.dita#AFFARS_5307_topic_2">SUBPART 5307.1 — ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_topic_3"> 5307.104  General Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_90.dita#AFFARS_5307_topic_4"> 5307.104-90  Solicitation Release</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_91.dita#AFFARS_5307_topic_5">5307.104-91 Changes</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_92.dita#AFFARS_5307_topic_6"> 5307.104-92  Acquisition Strategy Panels (ASP) and AP Approval Authority</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_topic_7"> 5307.105  Contents of Written Acquisition Plans</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_107_2.dita#AFFARS_5307_topic_8">5307.107-2 Consolidation</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_4.dita#AFFARS_5307_topic_9">SUBPART 5307.4 —EQUIPMENT LEASE OR PURCHASE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_topic_10">5307.470 Statutory Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_1.dita#AFFARS_5307_topic_2">SUBPART 5307.1 — ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_topic_3"> 5307.104  General Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_90.dita#AFFARS_5307_topic_4"> 5307.104-90  Solicitation Release</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_91.dita#AFFARS_5307_topic_5">5307.104-91 Changes</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_92.dita#AFFARS_5307_topic_6"> 5307.104-92  Acquisition Strategy Panels (ASP) and AP Approval Authority</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_topic_7"> 5307.105  Contents of Written Acquisition Plans</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_107_2.dita#AFFARS_5307_topic_8">5307.107-2 Consolidation</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_4.dita#AFFARS_5307_topic_9">SUBPART 5307.4 —EQUIPMENT LEASE OR PURCHASE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_topic_10">5307.470 Statutory Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_1.dita#AFFARS_5307_topic_2">SUBPART 5307.1 — ACQUISITION PLANS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_topic_3"> 5307.104  General Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_90.dita#AFFARS_5307_topic_4"> 5307.104-90  Solicitation Release</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_91.dita#AFFARS_5307_topic_5">5307.104-91 Changes</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_104_92.dita#AFFARS_5307_topic_6"> 5307.104-92  Acquisition Strategy Panels (ASP) and AP Approval Authority</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_topic_7"> 5307.105  Contents of Written Acquisition Plans</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_107_2.dita#AFFARS_5307_topic_8">5307.107-2 Consolidation</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5307_4.dita#AFFARS_5307_topic_9">SUBPART 5307.4 —EQUIPMENT LEASE OR PURCHASE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_topic_10">5307.470 Statutory Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_pgi_5313_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5313</ph> Simplified Acquisition Procedures</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5313.dita#AFFARS_pgi_5313_topic_2">AFICC PGI 5313 Simplified Acquisition Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5313_500.dita#AFFARS_pgi_5313_topic_3">AFICC PGI 5313.500 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5313.dita#AFFARS_pgi_5313_topic_2">AFICC PGI 5313 Simplified Acquisition Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5313_500.dita#AFFARS_pgi_5313_topic_3">AFICC PGI 5313.500 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5313.dita#AFFARS_pgi_5313_topic_2">AFICC PGI 5313 Simplified Acquisition Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="AFICC_PGI_5313_500.dita#AFFARS_pgi_5313_topic_3">AFICC PGI 5313.500 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

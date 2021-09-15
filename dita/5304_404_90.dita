@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_5304_topic_7"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 5304.404-90 </ph> Additional Contract Clauses</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="p__Toc38286407" outputclass="Normal" class="- topic/p ">The contracting officer must insert the clause at <xref href="5352_204_9000.dita" class="- topic/xref ">AFFARS 5352.204-9000</xref> , <i class="+ topic/ph hi-d/i ">Notification of Government Security Activities</i>, in solicitations and contracts which require a <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">DD Form 254</u>
+				        </xref> for performance on U.S. Government installations and overseas. The contracting officer may change the number of days specified in <xref href="5352_204_9000.dita" class="- topic/xref ">AFFARS 5352.204-9000(a)</xref> . If less than thirty days is used, coordinate with the servicing information protection office.</p>
+		    </conbody>
+	  </concept>
+</dita>

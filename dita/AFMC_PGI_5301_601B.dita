@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5301_topic_26"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5301.601</ph> (a)(i)(A)(S-91)</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) The AFNWC/PZ SCO retains all HCA delegated responsibilities with the exception of delegating the authority to enter into, approve, modify, and terminate contracts to the SCO at Eglin AFB, Hanscom AFB, Hill AFB, and Tinker AFB for all AFNWC contracting personnel residing at their respective locations. </p>
+			      <p outputclass="List1" class="- topic/p ">(b) The AFLCMC SCO has delegated all delegable HCA responsibilities, to include the authority to enter into, approve, modify and terminate contracts, to the AFSC SCO for all AFLCMC contracting actions executed at Tinker AFB. The AFSC SCO has further delegated all delegable HCA responsibilities, to include the authority to enter into, approve, modify and terminate contracts, to the SCO equivalents at Hill AFB and Robins AFB for all AFLCMC actions executed at their respective locations. </p>
+		    </conbody>
+	  </concept>
+</dita>

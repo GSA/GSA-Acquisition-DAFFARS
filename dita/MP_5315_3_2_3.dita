@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_mp_5315_3_topic_10"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph "> 2.3 </ph> Develop the Request for Proposals</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List2" class="- topic/p ">2.3.1 Evaluation Factors/Subfactors. RFP<i class="+ topic/ph hi-d/i "> </i>
+				        <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
+                  scope="external"
+                  format="aspx"
+                  class="- topic/xref ">
+					          <u class="+ topic/ph hi-d/u ">Section L and M samples</u>
+				        </xref>
+				        <ph class="- topic/ph ">
+					          <u class="+ topic/ph hi-d/u "> are available for use, as desired</u>
+				        </ph>. </p>
+			      <p outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5315_3E.dita" class="- topic/xref ">AFMC PGI 5315.3 (2.3.1)</xref> .</p>
+			      <p outputclass="List3" class="- topic/p ">2.3.4.1 Cost or Price. The analysis technique(s) identified in FAR 15.404, as supplemented, for the evaluation of the proposed cost or price shall be included in the evaluation criteria (Section M or equivalent provisions of the solicitation for commercial acquisitions).</p>
+			      <p outputclass="List4" class="- topic/p ">2.3.4.1.1 When used, the Probable Cost estimate is the government estimate of the cost to acquire specified goods and/or services based on each offeror’s proposed approach. The Probable Cost is based upon an analysis of each offeror’s unique proposal in accordance with FAR 15.404-1(d). Define all the components that make up the aggregate government Probable Cost and specify them in Section M (or equivalent provisions of the solicitation for commercial acquisitions). </p>
+			      <p outputclass="List4" class="- topic/p ">2.3.4.2.4 Affordability Cap. When an affordability cap is established, the affordability cap must be specified in the RFP and affordability must be included either as a go/no go gate or as an evaluation criterion in the RFP. The RFP must state whether proposals that exceed the affordability cap can be considered for award.</p>
+			      <p id="p__Ref59348021" outputclass="List2" class="- topic/p ">2.3.6. Requirements that fall within the areas of traditional offeror responsibility factors may trigger the Small Business Administration Certificate of Competency (CoC) process if such requirements are evaluated on an acceptable/unacceptable basis, as a rating of unacceptable for an otherwise apparently successful business offeror equates to a non-responsibility determination. For example, issues related to facility clearance/security requirements or evaluation of professional employee compensation as an element of responsibility are areas that may trigger the CoC process for small business offerors. PCOs should consult with small business and legal counsel regarding the use and treatment of such evaluation factors/subfactors.</p>
+		    </conbody>
+	  </concept>
+</dita>

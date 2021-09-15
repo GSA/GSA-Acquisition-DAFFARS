@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+            id="AFFARS_pgi_5304_topic_15"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
+            class="- topic/topic concept/concept ">
+		    <title outputclass="Heading 3" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">SMC PGI 5304.606</ph> Reporting Data  </title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p outputclass="List1" class="- topic/p ">(a) ConWrite Buy Plan Journal</p>
+			      <p outputclass="List2" class="- topic/p ">(1) For supplemental agreements and non-competitive new contracts, the minimum milestones have been defaulted in ConWrite to automatically prompt when a Buy Plan is created.  Please do not attempt to remove these milestones.  Additional milestones may be added.</p>
+			      <p outputclass="List2" class="- topic/p ">(2) User will need to ensure the Buy Plan is attached to the contract action (i.e. the Buy Plan for the RFP is only attached to RFP and the Buy Plan for the contract is only attached to the contract) in ConWrite.   </p>
+			      <p outputclass="List1" class="- topic/p ">(b) ConWrite Buy Plan Journals for RFPs and RFP Amendments:</p>
+			      <p outputclass="List2" class="- topic/p ">(1) A separate Buy Plan should be created for the RFP and the associated contract.</p>
+			      <p outputclass="List2" class="- topic/p ">(2) Ensure the RFP Number is referenced in the Buy Plan description block for the associated contract.</p>
+			      <p outputclass="List2" class="- topic/p ">(3) Immediately after the RFP is issued, contact the ConWrite Administrator (or alternate) or Contract Award with notification that the RFP has been issued along with the issued date.</p>
+			      <p outputclass="List2" class="- topic/p ">(4) The ConWrite Administrator (or alternate) or Award Distro team will enter the Issued Date on the cover page of the RFP and put the RFP in award/locked status.</p>
+			      <p outputclass="List2" class="- topic/p ">(5) Amendments to an RFP are separate contract actions with their own Buy Plans.  </p>
+			      <p outputclass="List2" class="- topic/p ">(6) RFP Amendments should not be attached to the basic RFP’s Buy Plan and vice versa. </p>
+			      <p id="p__SMC_PGI_5304.802" outputclass="List2" class="- topic/p ">(7) RFP Amendments are to be initiated in ConWrite after the basic RFP is awarded/locked in ConWrite.​</p>
+		    </conbody>
+	  </concept>
+</dita>
