@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_MP5315_4_1"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5315_4_1"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -57,7 +58,7 @@
 				        <i class="+ topic/ph hi-d/i ">contracting officer </i>
 				        <i class="+ topic/ph hi-d/i ">should take into consideration the extent to which the contractor’s existing business systems can support requests for granularity in reporting of actual costs incurred, as well as the potential time and cost involved in obtaining very detailed or low-level historical actuals.) </i>
 			      </p>
-			      <p outputclass="List3" class="- topic/p ">(i) The contractor shall provide the following information for these prior acquisitions: <i class="+ topic/ph hi-d/i ">[</i>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) The contractor shall provide the following information for these prior acquisitions: <i class="+ topic/ph hi-d/i ">[</i>
 				        <i class="+ topic/ph hi-d/i ">contracting officer </i>
 				        <i class="+ topic/ph hi-d/i ">identifies the specific acquisitions for which actual cost data is required. Alternately, the </i>
 				        <i class="+ topic/ph hi-d/i ">contracting officer </i>
@@ -67,7 +68,7 @@
 			      <p outputclass="List1" class="- topic/p ">c. contract quantity;</p>
 			      <p outputclass="List1" class="- topic/p ">d. contract price; and </p>
 			      <p outputclass="List1" class="- topic/p ">e. actual cost incurred, including a breakout of actuals as recurring/non-recurring costs. If performance is not complete on any of the specified contract actions, provide an estimate to complete and the basis for that estimate. </p>
-			      <p outputclass="List3" class="- topic/p ">(ii) The contractor shall also request that its top five major sole source subcontractors provide the information listed in the above paragraphs (i) a. through e. on prior contracts for items the prime is purchasing from the subcontractors for this effort. If a subcontractor’s information on prior actuals is not included in the prime’s proposal, the proposal should identify status and anticipated receipt date(s). If the subcontractor deems the information proprietary, the subcontractor may submit the information directly to the contracting officer. </p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) The contractor shall also request that its top five major sole source subcontractors provide the information listed in the above paragraphs (i) a. through e. on prior contracts for items the prime is purchasing from the subcontractors for this effort. If a subcontractor’s information on prior actuals is not included in the prime’s proposal, the proposal should identify status and anticipated receipt date(s). If the subcontractor deems the information proprietary, the subcontractor may submit the information directly to the contracting officer. </p>
 			      <p outputclass="List2" class="- topic/p ">(7) The proposal shall identify those actions where assist audits have been requested by the prime or sub-tier contractors and identify the request date and scheduled receipt date for those audits. The need for assist audits resulting from proprietary data rights assertions at any tier shall be identified to the contracting officer as soon as the offeror becomes aware of the need. Government performance of assist audits does not relieve the offeror of the responsibility to accomplish and provide its price/cost analysis of the subcontracts. </p>
 			      <p outputclass="List2" class="- topic/p ">(8) If the offeror intends to request Performance-Based Payments (PBP), the offeror’s proposal shall include a monthly expenditure profile, proposed events and their projected completion dates, rationale on why the proposed event demonstrates significant progress towards the completion of the end item, proposed values for each event, completion criteria for each event, and an identification of each event as severable or cumulative. </p>
 			      <p outputclass="List2" class="- topic/p ">(9) Commercial item considerations: </p>

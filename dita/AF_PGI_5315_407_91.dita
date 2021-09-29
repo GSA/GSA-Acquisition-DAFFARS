@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_pgi_5315_topic_9"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_pgi_5315_topic_9"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -25,17 +26,17 @@
 			      <p outputclass="List2" class="- topic/p ">(5) Provide for cancellation at the option of either party;</p>
 			      <p outputclass="List2" class="- topic/p ">(6) Require the contractor to notify the contracting officer and the cognizant contract auditor of any significant change in its estimating/accounting system or the cost or pricing data and describe the impact on the FPA;</p>
 			      <p outputclass="List2" class="- topic/p ">(7) Require the contractor to identify in each specific pricing proposal where the agreement is used:</p>
-			      <p outputclass="List3" class="- topic/p ">(i) The FPA and the date of the latest certification of cost or pricing data supporting it; and,</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) Any items in the proposal that are not priced under the agreement;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) The FPA and the date of the latest certification of cost or pricing data supporting it; and,</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Any items in the proposal that are not priced under the agreement;</p>
 			      <p outputclass="List2" class="- topic/p ">(8) Indicate that the FPA should not be used if the contractor’s purchasing, estimating or accounting systems are disapproved by the Government;</p>
 			      <p outputclass="List2" class="- topic/p ">(9) Allow for the contracting officer, or designated representative, to perform detailed cost or price analysis on random samples of proposed items and/or items that have unit prices that are significantly higher than previous buys;</p>
 			      <p outputclass="List2" class="- topic/p ">(10) Be supported by certified cost or pricing data (see FAR 15.403-4) and a signed Certificate of Current Cost or Pricing Data that is submitted when agreement on the FPA is reached (and annually thereafter);</p>
 			      <p outputclass="List2" class="- topic/p ">(11) Provide that contractual documents for items priced using the FPA, include:</p>
-			      <p outputclass="List3" class="- topic/p ">(i) The statement at FAR 52.215-10, Price Reduction for Defective Certified Cost or Pricing Data; and,</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) A clause incorporating the FPA by reference.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) The statement at FAR 52.215-10, Price Reduction for Defective Certified Cost or Pricing Data; and,</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) A clause incorporating the FPA by reference.</p>
 			      <p outputclass="List2" class="- topic/p ">(12) Be based on a pricing methodology that ensures that unit prices are in proportion to the item’s base cost (see FAR 15.404-1(f)) and that prices may be adjusted, if it is found that:</p>
-			      <p outputclass="List3" class="- topic/p ">(i) Cost or pricing data supporting the FPA were not accurate, current or complete; or,</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) The price was developed through incorrect application of the FPA.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Cost or pricing data supporting the FPA were not accurate, current or complete; or,</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) The price was developed through incorrect application of the FPA.</p>
 			      <p outputclass="List1" class="- topic/p ">(d) Contracting office responsibilities, as appropriate: </p>
 			      <p outputclass="List2" class="- topic/p ">(1) Establish appropriate approval levels for FPAs;</p>
 			      <p outputclass="List2" class="- topic/p ">(2) Maintain a list of FPAs that identifies each company and the group of items covered under each FPA;</p>
@@ -54,8 +55,8 @@
 			      <p outputclass="List2" class="- topic/p ">(5) Determine the effect changed conditions may have on the FPA’s validity. Cancel an FPA when appropriate and notify all interested parties;</p>
 			      <p outputclass="List2" class="- topic/p ">(6) Do not use a cancelled FPA;</p>
 			      <p outputclass="List2" class="- topic/p ">(7) Conduct an evaluation of each proposal under an FPA in order to ensure that the FPA applies to the items and to determine the reasonableness of discrete cost inputs and any non-covered costs (e.g., nonrecurring costs);</p>
-			      <p outputclass="List3" class="- topic/p ">(i) Compare proposed prices with prior prices, Government estimates, and purchase request estimates to ensure reasonableness, as use of an FPA does not relieve the CO of the responsibility to ensure that the price is fair and reasonable;</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) Conduct detailed cost analysis on random samples of proposed items and/or items that have unit prices that are significantly higher than previous buys; and, (iii) Ensure that individual contract actions priced using the FPA comply with the terms of the FPA.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Compare proposed prices with prior prices, Government estimates, and purchase request estimates to ensure reasonableness, as use of an FPA does not relieve the CO of the responsibility to ensure that the price is fair and reasonable;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Conduct detailed cost analysis on random samples of proposed items and/or items that have unit prices that are significantly higher than previous buys; and, (iii) Ensure that individual contract actions priced using the FPA comply with the terms of the FPA.</p>
 			      <p outputclass="List1" class="- topic/p ">(f) Contractors could have FPAs, or similar agreements, with other Air Force activities and/or non-Air Force activities. COs may consider using these agreements, but should take care to ensure that the FPA to be used addresses all aspects of their acquisition situation.</p>
 		    </conbody>
 	  </concept>

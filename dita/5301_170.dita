@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_5301_topic_5"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5301_topic_5"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -13,13 +14,13 @@
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p outputclass="List1" class="- topic/p ">(a) DoD Peer Reviews. </p>
 			      <p outputclass="List2" class="- topic/p ">(1) See <xref href="AF_PGI_5301_170_2.dita" class="- topic/xref ">AF PGI 5301.170-2</xref> for Pre-award procedures for Peer Reviews</p>
-			      <p outputclass="List2" class="- topic/p ">(i) See <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Class_Deviation_2019-O0010-DPC.pdf"
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) See <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Class_Deviation_2019-O0010-DPC.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
 					          <u class="+ topic/ph hi-d/u ">DFARS Class Deviation 2019-O0010</u>
 				        </xref>, Peer Reviews of Competitive Contracts for Supplies and Services (OUSD(A&amp;S)/DPC Memo, 20 Aug 19)</p>
-			      <p outputclass="List2" class="- topic/p ">(ii) Preaward peer reviews for noncompetitive procurements will be conducted in two phases for new contract actions valued at $1 billion or more. </p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Preaward peer reviews for noncompetitive procurements will be conducted in two phases for new contract actions valued at $1 billion or more. </p>
 			      <p outputclass="List2" class="- topic/p "> (2) To facilitate planning for DoD Peer Reviews and clearances by the DAS(C)/ADAS(C) (see <xref href="5301_9001.dita" class="- topic/xref ">5301.9001(i)(1)(iv)</xref> ), the SCO must ensure the rolling forecast data is current in the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
                   scope="external"
                   format="aspx"
@@ -28,7 +29,7 @@
 				        </xref> as of the 15th of March, June, September, and December each year. SAF/AQC will submit the consolidated Peer Review forecast to OUSD(A&amp;S)/DPC at the end of each quarter.</p>
 			      <p outputclass="List1" class="- topic/p ">(b) Component Peer Reviews</p>
 			      <p outputclass="List2" class="- topic/p ">(1) Pre-award Peer Reviews of solicitations for competitive procurements valued at less than $1B must be accomplished by complying with the clearance requirements in <xref href="SUBPART_5301_90.dita" class="- topic/xref ">5301.90</xref>.</p>
-			      <p outputclass="List1" class="- topic/p ">(2) Pre-award Peer Reviews for non-competitive procurements valued at less than $500M must be accomplished by complying with the clearance requirements in <xref href="SUBPART_5301_90.dita" class="- topic/xref ">5301.90</xref>
+			      <p outputclass="List2" class="- topic/p ">(2) Pre-award Peer Reviews for non-competitive procurements valued at less than $500M must be accomplished by complying with the clearance requirements in <xref href="SUBPART_5301_90.dita" class="- topic/xref ">5301.90</xref>
 			      </p>
 			      <p outputclass="List2" class="- topic/p ">(3) Post-award Peer Reviews of contracts for services with a dollar value &gt; than the SAT must be accomplished by complying with the applicable reviews in <xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf"
                   scope="external"

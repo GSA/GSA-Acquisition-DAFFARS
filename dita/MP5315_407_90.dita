@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_mp_5315_407_90_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_mp_5315_407_90_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "> MP5315.407-90 </ph> Contract Audit Follow-up (CAFU)</title>
-      <body>
+      <body class="- topic/body ">
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
@@ -50,7 +55,7 @@
          <p class="- topic/p ">3. CAFU requirements for DCAA audit reports:</p>
          <p outputclass="List1" class="- topic/p ">a. <b class="+ topic/ph hi-d/b ">SCO </b>
             <b class="+ topic/ph hi-d/b ">RESPONSIBILITIES</b>: SCOs: </p>
-         <p outputclass="List3" class="- topic/p ">(i) Designate a CAFU focal point to manage the
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Designate a CAFU focal point to manage the
             organization’s CAFU program in accordance with these procedures. The CAFU Focal Point:</p>
          <p outputclass="List1" class="- topic/p ">(a) Monitors and ensures proper and timely resolution
             and disposition of contract audit reports within the focal point’s organization.</p>
@@ -125,14 +130,14 @@
             Audit Agency within 60 days of receipt of the audit report; and</p>
          <p outputclass="List1" class="- topic/p ">b. A copy of the initial response and the disposition
             documents to the following:</p>
-         <p outputclass="List3" class="- topic/p ">(i) SAF/FMPF, 1130 Air Force Pentagon, Washington, DC
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) SAF/FMPF, 1130 Air Force Pentagon, Washington, DC
             20330-1130. </p>
-         <p outputclass="List3" class="- topic/p ">(ii) SAF/AQCP, 1060 Air Force Pentagon, 4C149,
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) SAF/AQCP, 1060 Air Force Pentagon, 4C149,
             Washington, DC 20330-1060.</p>
-         <p outputclass="List3" class="- topic/p ">(iii) Office of the Inspector General, Department of
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) Office of the Inspector General, Department of
             Defense, Attn: DAIG, GAO Report Analysis, 4800 Mark Center Drive, Alexandria, VA
             22350-1500.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5315_407_90.dita">AFICC PGI 5315.407-90</xref> .</p>
+         <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5315_407_90.dita" class="- topic/xref ">AFICC PGI 5315.407-90</xref> .</p>
       </body>
    </topic>
 </dita>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_5352_topic_8"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5352_topic_8"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -29,7 +30,7 @@
 			      <p outputclass="List2" class="- topic/p ">(2) Chlorofluorocarbons (CFCs): CFC-11, CFC-12, CFC-13, CFC-111, CFC-112, CFC-113, CFC-114, CFC-115, CFC-211, CFC-212, CFC-213, CFC-214, CFC-215, CFC-216, and CFC-217, and the blends R-500, R-501, R-502, and R-503; and</p>
 			      <p outputclass="List2" class="- topic/p ">(3) Carbon Tetrachloride, Methyl Chloroform, and Methyl Bromide.</p>
 			      <p outputclass="Body Text Indent" class="- topic/p ">[NOTE: Material that uses one or more of these Class I ODSs as minor constituents do not meet the Air Force definition of a Class I ODS.]</p>
-			      <p id="p__Toc351655732" outputclass="Ctr" class="- topic/p ">(End of clause)</p>
+			      <p id="p__Toc351655732" outputclass="List4" class="- topic/p ">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

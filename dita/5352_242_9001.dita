@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_5352_topic_12"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5352_topic_12"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -19,8 +20,8 @@
 			      </p>
 			      <p outputclass="List1" class="- topic/p ">(a) For installation(s)/location(s) cited in the contract, contractors shall ensure Common Access Cards (CACs) are obtained by all contract or subcontract personnel who meet one or both of the following criteria:</p>
 			      <p outputclass="List2" class="- topic/p ">(1) Require logical access to Department of Defense computer networks and systems in either:</p>
-			      <p outputclass="List3" class="- topic/p ">(i) the unclassified environment; or</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) the classified environment where authorized by governing security directives.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) the unclassified environment; or</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) the classified environment where authorized by governing security directives.</p>
 			      <p outputclass="List2" class="- topic/p ">(2) Perform work, which requires the use of a CAC for installation entry control or physical access to facilities and buildings.</p>
 			      <p outputclass="List1" class="- topic/p ">(b) Contractors and their personnel shall use the following procedures to obtain CACs:</p>
 			      <p outputclass="List2" class="- topic/p ">(1) Contractors shall provide a listing of personnel who require a CAC to the contracting officer. The government will provide the contractor instruction on how to complete the Contractor Verification System (CVS) application and then notify the contractor when approved. </p>
@@ -33,7 +34,7 @@
 			      <p outputclass="List2" class="- topic/p ">(4) Report lost or stolen CACs in accordance with local policy/directives.</p>
 			      <p outputclass="List1" class="- topic/p ">(e) Within 7 working days following completion/termination of the contract, the contractor shall return all CACs issued to their personnel to the issuing office or the location specified by local policy/directives.</p>
 			      <p outputclass="List1" class="- topic/p ">(f) Failure to comply with these requirements may result in withholding of final payment.</p>
-			      <p id="p_p53522479000" class="- topic/p " outputclass="Ctr">(End of clause)</p>
+			      <p id="p_p53522479000" class="- topic/p " outputclass="List4">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

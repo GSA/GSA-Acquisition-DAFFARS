@@ -1,249 +1,299 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_pgi_5337_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_pgi_5337_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5337</ph> Service Contracting</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2">AFICC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4">AFMC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9">AFMC PGI 5337.503-90 Management and Oversight
-      of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10">USAFA PGI 5337 Service Contracting</xref>
+                        href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2"
+                        class="- topic/xref ">AFICC PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11">USAFA PGI 5337.503-90 Management and Oversight
+                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3"
+                              class="- topic/xref ">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4"
+                        class="- topic/xref ">AFMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"
+                              class="- topic/xref "> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6"
+                              class="- topic/xref ">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7"
+                              class="- topic/xref ">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"
+                              class="- topic/xref "> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9"
+                              class="- topic/xref ">AFMC PGI 5337.503-90 Management and Oversight
       of the Acquisition of Services</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12">SMC PGI 5337 Service Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10"
+                        class="- topic/xref ">USAFA PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
+                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11"
+                              class="- topic/xref ">USAFA PGI 5337.503-90 Management and Oversight
+      of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12"
+                        class="- topic/xref ">SMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13"
+                              class="- topic/xref ">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2">AFICC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4">AFMC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9">AFMC PGI 5337.503-90 Management and Oversight
-      of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10">USAFA PGI 5337 Service Contracting</xref>
+                        href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2"
+                        class="- topic/xref ">AFICC PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11">USAFA PGI 5337.503-90 Management and Oversight
+                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3"
+                              class="- topic/xref ">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4"
+                        class="- topic/xref ">AFMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"
+                              class="- topic/xref "> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6"
+                              class="- topic/xref ">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7"
+                              class="- topic/xref ">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"
+                              class="- topic/xref "> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9"
+                              class="- topic/xref ">AFMC PGI 5337.503-90 Management and Oversight
       of the Acquisition of Services</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12">SMC PGI 5337 Service Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10"
+                        class="- topic/xref ">USAFA PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
+                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11"
+                              class="- topic/xref ">USAFA PGI 5337.503-90 Management and Oversight
+      of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12"
+                        class="- topic/xref ">SMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13"
+                              class="- topic/xref ">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2">AFICC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4">AFMC PGI 5337 Service Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9">AFMC PGI 5337.503-90 Management and Oversight
-      of the Acquisition of Services</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10">USAFA PGI 5337 Service Contracting</xref>
+                        href="AFICC_PGI_5337.dita#AFFARS_pgi_5337_topic_2"
+                        class="- topic/xref ">AFICC PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11">USAFA PGI 5337.503-90 Management and Oversight
+                              href="AFICC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_3"
+                              class="- topic/xref ">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5337.dita#AFFARS_pgi_5337_topic_4"
+                        class="- topic/xref ">AFMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_90.dita#AFFARS_pgi_5337_topic_5"
+                              class="- topic/xref "> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_102_91.dita#AFFARS_pgi_5337_topic_6"
+                              class="- topic/xref ">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_110_90.dita#AFFARS_pgi_5337_topic_7"
+                              class="- topic/xref ">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_8"
+                              class="- topic/xref "> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AFMC_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_9"
+                              class="- topic/xref ">AFMC PGI 5337.503-90 Management and Oversight
       of the Acquisition of Services</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12">SMC PGI 5337 Service Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5337.dita#AFFARS_pgi_5337_topic_10"
+                        class="- topic/xref ">USAFA PGI 5337 Service Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
+                              href="USAFA_PGI_5337_503_90.dita#AFFARS_pgi_5337_topic_11"
+                              class="- topic/xref ">USAFA PGI 5337.503-90 Management and Oversight
+      of the Acquisition of Services</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5337.dita#AFFARS_pgi_5337_topic_12"
+                        class="- topic/xref ">SMC PGI 5337 Service Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5337_204.dita#AFFARS_pgi_5337_topic_13"
+                              class="- topic/xref ">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
                      </p>
                   </li>
                </ul>

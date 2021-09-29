@@ -1,168 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_pgi_5335_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_pgi_5335_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5335</ph> Research and Development Contracting</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2">AFICC PGI 5335 Research and Development Contracting</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2"
+                        class="- topic/xref ">AFICC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3"
+                              class="- topic/xref ">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4">AFMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4"
+                        class="- topic/xref ">AFMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
+                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5"
+                              class="- topic/xref ">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6">AFMC PGI 5335.007-90 Suggested Contract
+                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6"
+                              class="- topic/xref ">AFMC PGI 5335.007-90 Suggested Contract
       Language</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7">SMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7"
+                        class="- topic/xref ">SMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8">SMC PGI 5335.017-3  Using an FFRDC</xref>
+                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8"
+                              class="- topic/xref ">SMC PGI 5335.017-3  Using an FFRDC</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
+                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9"
+                              class="- topic/xref ">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2">AFICC PGI 5335 Research and Development Contracting</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2"
+                        class="- topic/xref ">AFICC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3"
+                              class="- topic/xref ">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4">AFMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4"
+                        class="- topic/xref ">AFMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
+                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5"
+                              class="- topic/xref ">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6">AFMC PGI 5335.007-90 Suggested Contract
+                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6"
+                              class="- topic/xref ">AFMC PGI 5335.007-90 Suggested Contract
       Language</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7">SMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7"
+                        class="- topic/xref ">SMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8">SMC PGI 5335.017-3  Using an FFRDC</xref>
+                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8"
+                              class="- topic/xref ">SMC PGI 5335.017-3  Using an FFRDC</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
+                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9"
+                              class="- topic/xref ">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2">AFICC PGI 5335 Research and Development Contracting</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2"
+                        class="- topic/xref ">AFICC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3"
+                              class="- topic/xref ">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4">AFMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4"
+                        class="- topic/xref ">AFMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
+                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5"
+                              class="- topic/xref ">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6">AFMC PGI 5335.007-90 Suggested Contract
+                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6"
+                              class="- topic/xref ">AFMC PGI 5335.007-90 Suggested Contract
       Language</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7">SMC PGI 5335 Research and Development Contracting</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7"
+                        class="- topic/xref ">SMC PGI 5335 Research and Development Contracting</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8">SMC PGI 5335.017-3  Using an FFRDC</xref>
+                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8"
+                              class="- topic/xref ">SMC PGI 5335.017-3  Using an FFRDC</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
+                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9"
+                              class="- topic/xref ">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
                      </p>
                   </li>
                </ul>

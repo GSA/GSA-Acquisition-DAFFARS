@@ -1,246 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_pgi_5306_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_pgi_5306_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5306</ph> Competition Requirements</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2"
+                        class="- topic/xref ">AF PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3"
+                              class="- topic/xref ">AF PGI 5306.302-4 International Agreement</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4"
+                        class="- topic/xref ">AFMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5"
+                              class="- topic/xref ">AFMC PGI 5306.304 Approval of the
       Justification</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6"
+                              class="- topic/xref ">AFMC PGI 5306.501 Requirement</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7"
+                              class="- topic/xref ">AFMC PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+                        href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8"
+                        class="- topic/xref ">SMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"
+                              class="- topic/xref "> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10"
+                              class="- topic/xref ">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11"
+                              class="- topic/xref ">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12"
+                        class="- topic/xref ">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13"
+                              class="- topic/xref ">USAFA PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2"
+                        class="- topic/xref ">AF PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3"
+                              class="- topic/xref ">AF PGI 5306.302-4 International Agreement</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4"
+                        class="- topic/xref ">AFMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5"
+                              class="- topic/xref ">AFMC PGI 5306.304 Approval of the
       Justification</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6"
+                              class="- topic/xref ">AFMC PGI 5306.501 Requirement</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7"
+                              class="- topic/xref ">AFMC PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+                        href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8"
+                        class="- topic/xref ">SMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"
+                              class="- topic/xref "> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10"
+                              class="- topic/xref ">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11"
+                              class="- topic/xref ">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12"
+                        class="- topic/xref ">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13"
+                              class="- topic/xref ">USAFA PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2">AF PGI 5306 Competition Requirements</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5306.dita#AFFARS_pgi_5306_topic_2"
+                        class="- topic/xref ">AF PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3">AF PGI 5306.302-4 International Agreement</xref>
+                              href="AF_PGI_5306_302_4.dita#AFFARS_pgi_5306_topic_3"
+                              class="- topic/xref ">AF PGI 5306.302-4 International Agreement</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4">AFMC PGI 5306 Competition Requirements</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AFMC_PGI_5306.dita#AFFARS_pgi_5306_topic_4"
+                        class="- topic/xref ">AFMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5">AFMC PGI 5306.304 Approval of the
+                              href="AFMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_5"
+                              class="- topic/xref ">AFMC PGI 5306.304 Approval of the
       Justification</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6">AFMC PGI 5306.501 Requirement</xref>
+                              href="AFMC_PGI_5306_501.dita#AFFARS_pgi_5306_topic_6"
+                              class="- topic/xref ">AFMC PGI 5306.501 Requirement</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7">AFMC PGI 5306.502 Duties and Responsibilities</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8">SMC PGI 5306 Competition Requirements</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"> SMC PGI 5306.301-90  Policy </xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10">SMC PGI 5306.304 Approval of the Justification</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                              href="AFMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_7"
+                              class="- topic/xref ">AFMC PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12">USAFA PGI 5306 Competition Requirements</xref>
+                        href="SMC_PGI_5306.dita#AFFARS_pgi_5306_topic_8"
+                        class="- topic/xref ">SMC PGI 5306 Competition Requirements</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                              href="SMC_PGI_5306_301_90.dita#AFFARS_pgi_5306_topic_9"
+                              class="- topic/xref "> SMC PGI 5306.301-90  Policy </xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_304.dita#AFFARS_pgi_5306_topic_10"
+                              class="- topic/xref ">SMC PGI 5306.304 Approval of the Justification</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5306_502.dita#AFFARS_pgi_5306_topic_11"
+                              class="- topic/xref ">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="USAFA_PGI_5306.dita#AFFARS_pgi_5306_topic_12"
+                        class="- topic/xref ">USAFA PGI 5306 Competition Requirements</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="USAFA_PGI_5306_502.dita#AFFARS_pgi_5306_topic_13"
+                              class="- topic/xref ">USAFA PGI 5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>

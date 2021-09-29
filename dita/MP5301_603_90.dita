@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_mp_5301_603_90_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_mp_5301_603_90_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5301.603-90</ph> Selection, Appointment, and
          Termination of Appointment of Contracting Officers</title>
-      <body>
+      <body class="- topic/body ">
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
@@ -15,14 +20,14 @@
             <i class="+ topic/ph hi-d/i ">26 </i>
             <i class="+ topic/ph hi-d/i ">Jul 21</i>
          </p>
-         <p outputclass="Normal" class="- topic/p ">(a) <u class="+ topic/ph hi-d/u ">Applicability</u>. This MP must be used when selecting, nominating, appointing, and
+         <p outputclass="List1" class="- topic/p ">(a) <u class="+ topic/ph hi-d/u ">Applicability</u>. This MP must be used when selecting, nominating, appointing, and
             terminating contracting officers (CO) to maximize standardization across the AF.
             Warrants are issued in accordance with FAR 1.603, DFARS 201.603, AFFARS 5301.603-2-90,
             and this MP.</p>
-         <p outputclass="Normal" class="- topic/p ">(b) <u class="+ topic/ph hi-d/u ">Exemption</u>.
+         <p outputclass="List1" class="- topic/p ">(b) <u class="+ topic/ph hi-d/u ">Exemption</u>.
             Warrant procedures for Contingency Contracting Officers (CCOs) are set forth in AFFARS
             5301.603-2-90 and, this MP, as applicable.</p>
-         <p outputclass="Normal" class="- topic/p ">(c) <u class="+ topic/ph hi-d/u ">Focal Point
+         <p outputclass="List1" class="- topic/p ">(c) <u class="+ topic/ph hi-d/u ">Focal Point
                (FP)</u>
             <u class="+ topic/ph hi-d/u ">.</u> FPs must be designated in writing via the FP
             designation form and may be assigned unlimited or limited duties as indicated in the
@@ -35,7 +40,7 @@
             with unlimited duties. SCOs may delegate authority to appoint “limited FPs” to perform
             COT Proctor functions to the COCO. This authority is not further delegable. Follow the
             form instructions when appointing FPs.</p>
-         <p outputclass="Normal" class="- topic/p ">(d) <u class="+ topic/ph hi-d/u ">AF CO Warrant
+         <p outputclass="List1" class="- topic/p ">(d) <u class="+ topic/ph hi-d/u ">AF CO Warrant
                Tracking Tool</u>. All warrants are entered into and tracked via the AF CO Warrant
             Tracking Tool (<xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/afmc_pk_mp_ig/Warrant/SitePages/Warrant-Home.aspx"
                   scope="external"
@@ -70,7 +75,7 @@
                <u class="+ topic/ph hi-d/u ">all other warrant actions and are </u>
             </ph>responsible for maintaining current, accurate, and complete warrant data in the
             AFCOWTT. </p>
-         <p outputclass="Normal" class="- topic/p ">(e) <u class="+ topic/ph hi-d/u ">CO Warrant
+         <p outputclass="List1" class="- topic/p ">(e) <u class="+ topic/ph hi-d/u ">CO Warrant
                Nomenclature</u>. All transferable warrants are numbered as follows: the first two
             positions are “AF”, the third and fourth positions are the last two digits of the fiscal
             year (FY) in which the appointment is made, and positions 5-8 are obtained from the
@@ -79,11 +84,11 @@
             be updated through attrition. All new non-transferable warrants will be numbered as
             follows: Organization-FY-XXXX e.g., SMC-21-2499 for SMC; positions 5-8 are obtained from
             the ID field of the AFCOWTT. </p>
-         <p outputclass="Normal" class="- topic/p ">(f) <u class="+ topic/ph hi-d/u ">Nominating </u>
+         <p outputclass="List1" class="- topic/p ">(f) <u class="+ topic/ph hi-d/u ">Nominating </u>
             <u class="+ topic/ph hi-d/u ">Warrant Candidates</u>. Warrant candidates are nominated by a candidate sponsor who shall be no lower than
             the candidate’s first level supervisor. Submit warrant nominations to the designated FP
             using the COWER. </p>
-         <p outputclass="Normal" class="- topic/p ">(g)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List1" class="- topic/p ">(g)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>
             <u class="+ topic/ph hi-d/u ">AF</u>
             <u class="+ topic/ph hi-d/u "/>
@@ -93,11 +98,11 @@
             <b class="+ topic/ph hi-d/b "/>Candidates for warrants above the simplified
             acquisition threshold (SAT) must pass the two-hour timed, open book COT by achieving a
             minimum score of 80%. </p>
-         <p outputclass="List1" class="- topic/p ">(1)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List2" class="- topic/p ">(1)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>The COT is a proctored, computer generated test
             containing 25 randomly selected true/false and multiple-choice questions from the FAR,
             DFARS, and/or AFFARS. Each question is worth up to two points. </p>
-         <p outputclass="List1" class="- topic/p ">(2)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List2" class="- topic/p ">(2)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>During the COT, candidates are limited to the use of
             electronic regulations available via <xref href="www.acquisition.gov"
                   scope="external"
@@ -108,7 +113,7 @@
             copies will not be provided. Notes and electronic devices are not permitted in the
             testing site. Use of email, instant messaging, or any other form of electronic
             communication is prohibited during the COT.</p>
-         <p outputclass="List1" class="- topic/p ">(3)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List2" class="- topic/p ">(3)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Candidates must provide the correct answer and the
             correct, associated complete reference (e.g., FAR 15.401(a)(2)(i)(B)), in order to earn
             two points. If the candidate answers the question correctly but provides an incorrect
@@ -116,29 +121,29 @@
             but the reference correctly, the candidate will not receive any points as this indicates
             a failure to understand the regulation. The COT is automatically and electronically
             scored. </p>
-         <p outputclass="List2" class="- topic/p ">(i)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>If the candidate fails to pass the COT, the candidate
             may challenge missed questions and/or references in accordance with the Proctor User
                Guide<ph class="- topic/ph ">
                <u class="+ topic/ph hi-d/u "/>
                <u class="+ topic/ph hi-d/u ">only </u>
             </ph>when approval of the challenge would result in a passing score. </p>
-         <p outputclass="List2" class="- topic/p ">(ii)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>A candidate who
             fails the COT may retake it if authorized by their immediate supervisor and space is
             available. If the candidate fails to pass the COT on the second attempt, the candidate
             may not retake the COT until a six month waiting period has passed.</p>
-         <p outputclass="List2" class="- topic/p ">(iii)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Supervisors are authorized to approve a maximum of
             two continuous learning points per 12-month period for an individual who completes the
             COT, whether for a warrant request action or for training purposes.</p>
-         <p outputclass="List1" class="- topic/p ">(4)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List2" class="- topic/p ">(4)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>
             <u class="+ topic/ph hi-d/u ">Practice COT</u>: Practice tests are available via the
             ADLS site in accordance with number (5) below. Practice tests may not be administered on
             the COT site. The completion of a practice test shall not be used as the basis for
             warrant eligibility. </p>
-         <p outputclass="List1" class="- topic/p ">(5) <u class="+ topic/ph hi-d/u ">Demonstration
+         <p outputclass="List2" class="- topic/p ">(5) <u class="+ topic/ph hi-d/u ">Demonstration
                (Demo) </u>
             <u class="+ topic/ph hi-d/u ">COT</u>: A demo test was developed to help familiarize
             warrant candidates with the question structure of the COT. The Demo is a non-proctored,
@@ -157,26 +162,26 @@
                <u class="+ topic/ph hi-d/u "/>
             </ph>
          </p>
-         <p outputclass="List1" class="- topic/p ">(6) <u class="+ topic/ph hi-d/u ">COT
+         <p outputclass="List2" class="- topic/p ">(6) <u class="+ topic/ph hi-d/u ">COT
                Maintenance</u>. To ensure the integrity of the COT, the database of questions,
             answers, and references are reviewed and updated on a regular basis. HQ AFMC/PK
             maintains the </p>
          <p outputclass="List1" class="- topic/p ">COT SharePoint page and has configuration control
             over the COT question database and the Proctor User Guide.</p>
-         <p outputclass="List2" class="- topic/p ">(i) The MAJCOM/DRU FP (or for AFMC, the
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) The MAJCOM/DRU FP (or for AFMC, the
             subordinate unit FP) must immediately notify HQ AFMC/PK upon discovery of an incorrect
             or incomplete reference or incorrect answer, or a suspect question, as evidenced by the
             percentage of incorrect answers selected or by test score challenges/validation efforts. </p>
-         <p outputclass="List2" class="- topic/p ">(ii)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>HQ AFMC/PK is responsible for updating questions,
             answers, and references in the COT database, as necessary, due to errors, administrative
             changes, regulatory changes, etc. </p>
-         <p outputclass="List1" class="- topic/p ">(7) Additional information and testing protocols
+         <p outputclass="List2" class="- topic/p ">(7) Additional information and testing protocols
             regarding the COT are located on the COT SharePoint page.</p>
-         <p outputclass="List1" class="- topic/p ">(8) When a candidate passes the COT, the COT
+         <p outputclass="List2" class="- topic/p ">(8) When a candidate passes the COT, the COT
             automatically generates a COT Certificate of Completion, and the COT proctor annotates
             successful COT completion on the candidate’s COWER. </p>
-         <p outputclass="Normal" class="- topic/p ">(h) <u class="+ topic/ph hi-d/u ">Non-Transferable Warrants</u>.<b class="+ topic/ph hi-d/b "/>Non-transferable
+         <p outputclass="List1" class="- topic/p ">(h) <u class="+ topic/ph hi-d/u ">Non-Transferable Warrants</u>.<b class="+ topic/ph hi-d/b "/>Non-transferable
             warrants may be issued for specific functions or buying activities (i.e., contract
             closeout, defective pricing actions, funding modifications, administrative
             modifications, specific contracts, units, etc.) if the requirements of AFFARS
@@ -185,7 +190,7 @@
             non-transferable warrants; however, a vetting process may be used when the resultant
             contract actions are expected to exceed $25M. The SF1402 must clearly state “Limited
             Non-Transferable Warrant” and cite the specific warrant limitations. </p>
-         <p outputclass="Normal" class="- topic/p ">(i) <u class="+ topic/ph hi-d/u ">Limited
+         <p outputclass="List1" class="- topic/p " xtrf="CheckMapping">(i) <u class="+ topic/ph hi-d/u ">Limited
                Transferable Warrants</u>.<b class="+ topic/ph hi-d/b "/>Warrants limited by a
             monetary threshold are transferable across the AF. Dollarized warrant limitations apply
             to the value of the instant contract action a CO is executing. For example, if a CO
@@ -193,55 +198,55 @@
             $6M, the CO is not authorized to sign the contract; however, the same CO would be
             authorized to sign a $5M funding action issued against the same contract (See AF PGI
             5301.108(c)). </p>
-         <p outputclass="List1" class="- topic/p ">(1) <u class="+ topic/ph hi-d/u ">Warrants&gt;SAT
+         <p outputclass="List2" class="- topic/p ">(1) <u class="+ topic/ph hi-d/u ">Warrants&gt;SAT
                to &lt;$5M</u>. Successful completion of the COT and meeting the requirements of this
             MP indicate eligibility for a limited warrant above the SAT but less than $5M. Warrant
             boards shall not be convened for warrants within this threshold. </p>
-         <p outputclass="List1" class="- topic/p ">(2) <u class="+ topic/ph hi-d/u ">Warrants $5M to
+         <p outputclass="List2" class="- topic/p ">(2) <u class="+ topic/ph hi-d/u ">Warrants $5M to
                $25M</u>.<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Successful completion of the COT, meeting the
             requirements of this MP, and a vetting process established by the appointing official
             and documented on the COWER, indicate eligibility for a limited warrant from $5M to
             $25M. Warrant boards shall not be convened for warrants within this threshold. </p>
-         <p outputclass="Normal" class="- topic/p ">(j) <u class="+ topic/ph hi-d/u ">Unlimited
+         <p outputclass="List1" class="- topic/p ">(j) <u class="+ topic/ph hi-d/u ">Unlimited
                Warrants</u>.<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Successful completion of the COT, meeting the
             requirements of this MP, and passing a warrant board indicate eligibility for an
             unlimited warrant. All unlimited warrants are transferable across the AF. </p>
-         <p outputclass="List1" class="- topic/p ">(1) Warrant Boards. </p>
-         <p outputclass="List2" class="- topic/p ">(i)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List2" class="- topic/p ">(1) Warrant Boards. </p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Warrant boards are reserved exclusively for warrants
             greater than $25M and are used to further assess the candidate’s experience,
             qualifications, communication skills, and overall demeanor. </p>
-         <p outputclass="List2" class="- topic/p ">(ii)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii)<b class="+ topic/ph hi-d/b "/>
             <b class="+ topic/ph hi-d/b "/>Warrant boards must be chaired by the appointing
             official or designee at a level no lower than:</p>
-         <p outputclass="List3" class="- topic/p ">(A) Deputy Director or Assistant Director of
+         <p outputclass="List4" class="- topic/p ">(A) Deputy Director or Assistant Director of
             Contracting; </p>
-         <p outputclass="List3" class="- topic/p ">(B) Technical Director/Assistant to the Director
+         <p outputclass="List4" class="- topic/p ">(B) Technical Director/Assistant to the Director
             of Contracting; </p>
-         <p outputclass="List3" class="- topic/p ">(C) Chief of the Clearance and Program Support
+         <p outputclass="List4" class="- topic/p ">(C) Chief of the Clearance and Program Support
             Division or Chief of Policy; </p>
-         <p outputclass="List3" class="- topic/p ">(D) Highest level contracting official at a
+         <p outputclass="List4" class="- topic/p ">(D) Highest level contracting official at a
             geographically separated organization; or</p>
-         <p outputclass="List3" class="- topic/p ">(E) COCO, Deputy, or equivalent.</p>
-         <p outputclass="List2" class="- topic/p ">(iii) Warrant boards must have a minimum of five
+         <p outputclass="List4" class="- topic/p ">(E) COCO, Deputy, or equivalent.</p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) Warrant boards must have a minimum of five
             members, including the board chairperson, participating to constitute a quorum.
             Suggested board composition includes: </p>
-         <p outputclass="List3" class="- topic/p ">(A) Contracting office supervisors; </p>
-         <p outputclass="List3" class="- topic/p ">(B) Representative from the staff judge advocate
+         <p outputclass="List4" class="- topic/p ">(A) Contracting office supervisors; </p>
+         <p outputclass="List4" class="- topic/p ">(B) Representative from the staff judge advocate
             office;</p>
-         <p outputclass="List3" class="- topic/p ">(C) Competition Advocate; </p>
-         <p outputclass="List3" class="- topic/p ">(D) Clearance/program support procurement
+         <p outputclass="List4" class="- topic/p ">(C) Competition Advocate; </p>
+         <p outputclass="List4" class="- topic/p ">(D) Clearance/program support procurement
             analyst; </p>
-         <p outputclass="List3" class="- topic/p ">(E) Small business specialist/liaison; </p>
-         <p outputclass="List3" class="- topic/p ">(F) Supervisors/Directors/Deputy Directors from
+         <p outputclass="List4" class="- topic/p ">(E) Small business specialist/liaison; </p>
+         <p outputclass="List4" class="- topic/p ">(F) Supervisors/Directors/Deputy Directors from
             other disciplines; and/or </p>
-         <p outputclass="List3" class="- topic/p ">(G) Cost/price analyst. </p>
-         <p outputclass="List2" class="- topic/p ">(iv) Warrant board members may participate in
+         <p outputclass="List4" class="- topic/p ">(G) Cost/price analyst. </p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iv) Warrant board members may participate in
             person, by teleconference, or video conference at the discretion of the board
             chairperson. </p>
-         <p outputclass="List2" class="- topic/p ">(v) The warrant candidate must correctly answer
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(v) The warrant candidate must correctly answer
             and/or discuss no fewer than 10 questions, seven of which must be obtained from the
             scenario-based AF question repository. To obtain access to the question repository,
             submit the Warrant Process Focal Point Designation Form to </p>
@@ -251,17 +256,17 @@
             remaining three questions, which may be scenario- or knowledge-based. The board shall
             include questions that address PEO, Enterprise, and Operational portfolios, as well as
             pricing, fiscal law, contract law, legal, and problem solving.</p>
-         <p outputclass="List2" class="- topic/p ">(vi) The board chairperson/appointing official,
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(vi) The board chairperson/appointing official,
             in consultation with the board members, may appoint an unlimited warrant, a limited,
             specified dollar warrant, or none. Individuals awarded an unlimited warrant as a result
             of a warrant board shall not be required to sit before the board again. </p>
-         <p outputclass="Normal" class="- topic/p ">(k)<b class="+ topic/ph hi-d/b "/>
+         <p outputclass="List1" class="- topic/p ">(k)<b class="+ topic/ph hi-d/b "/>
             <u class="+ topic/ph hi-d/u ">Warrant Transfer</u>
             <u class="+ topic/ph hi-d/u "> and Reinstatement</u>
             <u class="+ topic/ph hi-d/u ">.</u>
             <b class="+ topic/ph hi-d/b "/>
          </p>
-         <p outputclass="List1" class="- topic/p ">(1) Warrants issued in accordance with this MP,
+         <p outputclass="List2" class="- topic/p ">(1) Warrants issued in accordance with this MP,
             with the exception of those issued in accordance with paragraph (h) above, are
             transferable across the AF. As long as a warrant is in good standing, an individual
             shall not be required to test or board again. However, warrant transferability does not
@@ -270,19 +275,19 @@
             procedures. When a CO, including those grandfathered, transfers to an organization with
             a different appointing official and the new position requires a warrant,<b class="+ topic/ph hi-d/b "/>the gaining appointing official must obtain a copy of
             the current COWER from the losing appointing official. </p>
-         <p outputclass="List1" class="- topic/p ">(2) Warrant reinstatement is applicable to an
+         <p outputclass="List2" class="- topic/p ">(2) Warrant reinstatement is applicable to an
             individual who previously held an AF warrant and whose warrant was subsequently
             terminated for reasons such as reassignment or resignation. A request to reinstate an AF
             warrant must be submitted to the appointing official for approval through the designated
             FP using the COWER. The appointing official shall document their assessment and
             rationale for warrant reinstatement on the COWER. </p>
-         <p outputclass="Normal" class="- topic/p ">(l) <u class="+ topic/ph hi-d/u ">Grandfathered
+         <p outputclass="List1" class="- topic/p ">(l) <u class="+ topic/ph hi-d/u ">Grandfathered
                Contracting Officers</u>. Current COs are not required to be tested, boarded, or
             reappointed as a result of the issuance of, or changes to, this MP. However, those with
             limited non-transferable or limited transferable warrants must meet the requirements of
             this MP to obtain a transferable and/or higher dollar value warrant. Taking of the COT
             is only required for those candidates holding a limited non-transferable warrant.</p>
-         <p outputclass="Normal" class="- topic/p ">(m) <u class="+ topic/ph hi-d/u ">Warrants
+         <p outputclass="List1" class="- topic/p ">(m) <u class="+ topic/ph hi-d/u ">Warrants
                Issued Based on </u>
             <u class="+ topic/ph hi-d/u ">External Warrant Credentials</u>. <b class="+ topic/ph hi-d/b "/>A new AF 1102 with external, federal government CO
             experience may be issued an AF warrant without meeting the requirements of this MP (COT
@@ -300,12 +305,12 @@
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">See sample criteria</u>
             </xref>). </p>
-         <p outputclass="Normal" class="- topic/p ">(n) <u class="+ topic/ph hi-d/u ">Reissuance of
+         <p outputclass="List1" class="- topic/p ">(n) <u class="+ topic/ph hi-d/u ">Reissuance of
                Warrant Certificates</u>. A request to reissue an existing warrant certificate for
             administrative purposes (e.g., damage to or deterioration of the original SF1402, name
             changes, etc.) is not a new appointment and may be submitted directly to the FP for
             processing to the appropriate appointing official; use of the COWER is not required. </p>
-         <p outputclass="Normal" class="- topic/p ">(o) <u class="+ topic/ph hi-d/u ">Warrant
+         <p outputclass="List1" class="- topic/p ">(o) <u class="+ topic/ph hi-d/u ">Warrant
                Suspension or Termination for Cause</u>. Warrants may be suspended or terminated for
             unsatisfactory performance. The appointing official may suspend a warrant in writing
             until proficiency is demonstrated to the satisfaction of the appointing official. If a

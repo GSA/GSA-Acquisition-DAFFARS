@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_pgi_5301_topic_44"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_pgi_5301_topic_44"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -37,7 +38,7 @@
 			      <p outputclass="List6" class="- topic/p ">
 				        <i class="+ topic/ph hi-d/i ">(<u class="+ topic/ph hi-d/u ">6</u>) If the legal reviewer has not clearly labeled the review using the terminology above, or you do not agree with the categorization of the comments, politely challenge the reviewer. If you cannot resolve the issue with the reviewer, elevate it through leadership chain quickly so that it does not linger and delay your action.   </i>
 			      </p>
-			      <p outputclass="List3" class="- topic/p ">(ii) Other Reviews.  </p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Other Reviews.  </p>
 			      <p outputclass="List4" class="- topic/p ">(A) Contracting officers obtain Committee and Pricing reviews as directed by regulation, the COCO, or SMC/PK.</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Legal, committee, and pricing reviews may be done in parallel.</p>
 			      <p outputclass="List4" class="- topic/p ">(C) Contracting officers may, in coordination with reviewers, decide the appropriate method for submitting review requests if done outside the <xref href="https://insidesmc.losangeles.af.mil/sites/pk/div/pkc/requests/Lists/committee/AllItems.aspx"

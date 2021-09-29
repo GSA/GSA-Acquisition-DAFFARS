@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_mp_5333_104_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_mp_5333_104_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "> MP5333.104 </ph> Protests to GAO</title>
-      <body>
+      <body class="- topic/body ">
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
@@ -77,14 +82,14 @@
             supporting legal office/local attorney who provides contract law advice.</p>
          <p class="- topic/p " outputclass="List2">(2) The contracting officer must, within one business
             day of receiving the protest:</p>
-         <p class="- topic/p " outputclass="List3">(i) Forward a copy of the protest to its supporting
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(i) Forward a copy of the protest to its supporting
             legal office/local attorney who provides contract law advice.</p>
-         <p class="- topic/p " outputclass="List3">(ii) Provide a copy of the protest (or a redacted copy
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) Provide a copy of the protest (or a redacted copy
             if the protest is designated as containing protected material) to the awardee, or if no award
             has been made, to all offerors who appear to have a reasonable prospect of receiving award. If
             no redacted copy of a protected protest was received, so advise AF/JACQ who will raise the
             issue with the protester. </p>
-         <p class="- topic/p " outputclass="List3">(iii) Advise AF/JACQ and SAF/AQC as to all actions
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(iii) Advise AF/JACQ and SAF/AQC as to all actions
             being taken regarding a stay of performance and any override of the stay to include:</p>
          <p class="- topic/p " outputclass="List4">(A) A discussion of whether a stay of performance or
             award is required IAW 31 U.S.C. 3553.</p>
@@ -93,7 +98,7 @@
          <p class="- topic/p " outputclass="List4">(C) If a stay is not required, discuss whether a
             suspension of performance or termination of the contract is in the best interest of the Air
             Force.</p>
-         <p class="- topic/p " outputclass="List3">(iv) Send an email to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(iv) Send an email to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
@@ -113,10 +118,10 @@
             practicable, but not later than 15 days after the Air Force is notified of the protest (or
             seven days from the date the express option is invoked by the GAO).</p>
          <p class="- topic/p " outputclass="List1">(c) Hearings</p>
-         <p class="- topic/p " outputclass="List2">(i) If GAO calls for a hearing, the contracting
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(i) If GAO calls for a hearing, the contracting
             activity must provide the requested witnesses and other support required by AF/JACQ. The
             contracting activity is responsible for funding witness travel and TDY costs.</p>
-         <p class="- topic/p " outputclass="List2">(ii) At the request of the GAO through AF/JACQ or at
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) At the request of the GAO through AF/JACQ or at
             the request of AF/JACQ, the contracting activity must obtain and fund court reporter services
             to transcribe the hearing. The cost of court reporter services is typically shared between the
             contracting activity, the protester, and the intervener. </p>
@@ -132,19 +137,19 @@
             Generally, those admitted to access under the protective order will be legal counsel for the
             protester and interveners. The GAO will issue a public redacted version of the decision at a
             later date. </p>
-         <p class="- topic/p " outputclass="List2">(i) Denial or Dismissal. If the GAO denies or
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(i) Denial or Dismissal. If the GAO denies or
             dismisses a protest, the protest is closed. The Air Force can proceed with all contractual
             actions upon notification of denial or dismissal.</p>
-         <p class="- topic/p " outputclass="List2">(ii) Sustain. If the GAO sustains a protest, the GAO
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) Sustain. If the GAO sustains a protest, the GAO
             will also recommend corrective action and may recommend payment of reasonable protest costs,
             to include reasonable attorney fees. In some cases the GAO may also recommend payment of
             proposal preparation costs.</p>
-         <p class="- topic/p " outputclass="List3">(A) Corrective action should be accomplished pursuant
+         <p class="- topic/p " outputclass="List4">(A) Corrective action should be accomplished pursuant
             to paragraph (g) below. A decision not to comply with a GAO recommendation for corrective
             action may only be made by SAF/AQC. Any recommendation not to comply with GAO’s corrective
             action recommendation must be coordinated with the focal point and forwarded through the SCO
             to SAF/AQC and AF/JACQ within 15 days of the date of the decision. </p>
-         <p class="- topic/p " outputclass="List3">(B) Potential costs may include attorney fees and
+         <p class="- topic/p " outputclass="List4">(B) Potential costs may include attorney fees and
             in-house costs related to pursuit of the protest. Costs must be paid by the base or procuring
             activity. </p>
          <p class="- topic/p " outputclass="List2">(2) Alternative Dispute Resolution (ADR). Resolution
@@ -190,7 +195,7 @@
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">31 USC 3551-3556</u>
             </xref>)</p>
-         <p outputclass="List2" class="- topic/p ">(i) Paragraph 33.104(c)(1) of the Federal Acquisition
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Paragraph 33.104(c)(1) of the Federal Acquisition
             Regulation (FAR), in conjunction with <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000563-18-DPAP.pdf"
                   scope="external"
                   format="pdf"
@@ -205,32 +210,32 @@
             questions related to the debriefing are submitted; or</p>
          <p outputclass="List3" class="- topic/p ">• Five days after the government delivers its written
             response to additional questions submitted by the unsuccessful offeror.</p>
-         <p class="- topic/p " outputclass="List2">(ii) <ph class="- topic/ph "> The Air Force can
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) <ph class="- topic/ph "> The Air Force can
             override a stay in appropriate circumstances when it can show a requisite level of harm
             resulting from a delay of contract award or performance. A challenge to the override
             decision is brought before the Court of Federal Claims vice GAO. </ph>
          </p>
          <p class="- topic/p " outputclass="List2">(2) Overriding Stay of Award (protest filed before
             award). </p>
-         <p class="- topic/p " outputclass="List2">(i) See <u class="+ topic/ph hi-d/u ">5333.104(b)(1)</u> for processing instructions.</p>
-         <p class="- topic/p " outputclass="List2">(ii) <ph class="- topic/ph "> A stay of award may only
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(i) See <u class="+ topic/ph hi-d/u ">5333.104(b)(1)</u> for processing instructions.</p>
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) <ph class="- topic/ph "> A stay of award may only
             be overridden by “urgent and compelling circumstances that significantly affect interests of
             the United States.” These circumstances may include delays, work stoppages, or performance
             degradations that severely impact mission-critical operations. </ph>
          </p>
-         <p class="- topic/p " outputclass="List2">(iii) All requests must include facts that establish
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(iii) All requests must include facts that establish
             the urgent and compelling circumstances that significantly affect the interests of the United
             States. The request must explain, if there is an incumbent, why the incumbent’s contract
             cannot be extended. The request must explain what other options are available and why those
             options, if any, are not viable.</p>
          <p class="- topic/p " outputclass="List2">(3) Overriding Stay of Performance (protest filed
             after award). </p>
-         <p class="- topic/p " outputclass="List2">(i) See <xref href="5333_104.dita">AFFARS
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(i) See <xref href="5333_104.dita" class="- topic/xref ">AFFARS
             5333.104(c)(2)</xref> for processing instructions.</p>
-         <p class="- topic/p " outputclass="List2">(ii) A stay of performance may only be overridden by
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(ii) A stay of performance may only be overridden by
             urgent and compelling circumstances that significantly affect interests of the United States,
             or where performance of the contract is in the best interests of the United States.</p>
-         <p class="- topic/p " outputclass="List2">(iii) <ph class="- topic/ph "> HCA Override </ph>. See
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(iii) <ph class="- topic/ph "> HCA Override </ph>. See
             <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/D-F_override.pdf"
                   scope="external"
                   format="pdf"
@@ -238,13 +243,13 @@
                <u class="+ topic/ph hi-d/u ">Override D&amp;F Template</u>
             </xref>. NOTE: The template contains guidance on the last few pages of the document.<ph class="- topic/ph "/>
          </p>
-         <p class="- topic/p " outputclass="List3">(A) The request to the HCA for an override must
+         <p class="- topic/p " outputclass="List4">(A) The request to the HCA for an override must
             include the findings required by FAR 33.104(b) or (c).</p>
-         <p class="- topic/p " outputclass="List3">(B) The HCA will make a decision with respect to
+         <p class="- topic/p " outputclass="List4">(B) The HCA will make a decision with respect to
             authorizing award or continued performance within ten days of the protest notification by
             SAF/AQC. If circumstances change after suspension of contract performance, the contracting
             officer may initiate a request to continue performance.</p>
-         <p class="- topic/p " outputclass="List3">(C) The HCA’s decision to override is not effective
+         <p class="- topic/p " outputclass="List4">(C) The HCA’s decision to override is not effective
             until a written finding is made and the agency files with GAO either a copy of any issued
             determination and finding, or a statement by the individual who approved the determination and
             finding that explains the statutory basis for the override, in accordance with FAR
@@ -256,7 +261,7 @@
                <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
             </xref>. AF/JACQ will file the notice at GAO and provide copies to the protester and
             interested parties, as required by FAR 33.104(d). </p>
-         <p class="- topic/p " outputclass="List2">(iv) SAF/AQC may request a briefing on technical and
+         <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(iv) SAF/AQC may request a briefing on technical and
             contractual aspects of the solicitation when an override is requested.</p>
       </body>
    </topic>

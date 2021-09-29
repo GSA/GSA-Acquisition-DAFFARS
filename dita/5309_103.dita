@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_5309_topic_3"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5309_topic_3"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -20,13 +21,13 @@
 				        <b class="+ topic/ph hi-d/b ">
 					          <i class="+ topic/ph hi-d/i ">,</i>
 				        </b> establishes the CRWL and its applicability to “space program solicitations or contracts” (See <xref href="5302_101.dita" class="- topic/xref ">AFFARS 5302</xref> ).</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) Contractors may be placed on the CRWL when their ability to successfully perform space program contracts is uncertain due to any of the following:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Contractors may be placed on the CRWL when their ability to successfully perform space program contracts is uncertain due to any of the following:</p>
 			      <p outputclass="List4" class="- topic/p ">
 				        <i class="+ topic/ph hi-d/i ">(A)</i> Poor performance or award fee scores below 50%.</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Financial concerns.</p>
 			      <p outputclass="List4" class="- topic/p ">(C) Felony convictions or civil judgements.</p>
 			      <p outputclass="List4" class="- topic/p ">(D) Security or foreign ownership and control issues.</p>
-			      <p outputclass="List3" class="- topic/p ">(iii) For any of the following actions on space program solicitations or contracts (See <xref href="5302_101.dita" class="- topic/xref ">AFFARS 5302</xref> ) follow the procedures at <xref href="MP5309_190.dita" class="- topic/xref ">MP5309.190</xref>:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) For any of the following actions on space program solicitations or contracts (See <xref href="5302_101.dita" class="- topic/xref ">AFFARS 5302</xref> ) follow the procedures at <xref href="MP5309_190.dita" class="- topic/xref ">MP5309.190</xref>:</p>
 			      <p outputclass="List4" class="- topic/p ">
 				        <i class="+ topic/ph hi-d/i ">(A)</i> Soliciting a sole source proposal.</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Entering into discussions (FAR 15.306(d)) (or equivalent activity) or awarding a competitive contract or awarding a sole source contract.</p>

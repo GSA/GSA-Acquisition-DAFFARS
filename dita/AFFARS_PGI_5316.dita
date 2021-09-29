@@ -1,234 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_pgi_5316_topic_1">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_pgi_5316_topic_1"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5316</ph> Types of Contracts</title>
-      <body>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2">AF PGI 5316 Types of Contracts</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2"
+                        class="- topic/xref ">AF PGI 5316 Types of Contracts</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3">AF PGI 5316.101 General</xref>
+                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3"
+                              class="- topic/xref ">AF PGI 5316.101 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
+                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4"
+                              class="- topic/xref ">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5">AF PGI 5316.203-4 Contract Clauses</xref>
+                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5"
+                              class="- topic/xref ">AF PGI 5316.203-4 Contract Clauses</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6">AF PGI 5316.401-90 General</xref>
+                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6"
+                              class="- topic/xref ">AF PGI 5316.401-90 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7">AF PGI 5316.505 Ordering</xref>
+                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7"
+                              class="- topic/xref ">AF PGI 5316.505 Ordering</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
+                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8"
+                              class="- topic/xref ">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9">SMC PGI 5316 Types of Contracts</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9"
+                        class="- topic/xref ">SMC PGI 5316 Types of Contracts</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10">SMC PGI 5316.401-90 General</xref>
+                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10"
+                              class="- topic/xref ">SMC PGI 5316.401-90 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
+                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11"
+                              class="- topic/xref ">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12">SMC PGI 5316.505 Ordering</xref>
+                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12"
+                              class="- topic/xref ">SMC PGI 5316.505 Ordering</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13">SMC PGI 5316.505-90 Decentralized Ordering</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2">AF PGI 5316 Types of Contracts</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3">AF PGI 5316.101 General</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5">AF PGI 5316.203-4 Contract Clauses</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6">AF PGI 5316.401-90 General</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7">AF PGI 5316.505 Ordering</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9">SMC PGI 5316 Types of Contracts</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10">SMC PGI 5316.401-90 General</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12">SMC PGI 5316.505 Ordering</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13">SMC PGI 5316.505-90 Decentralized Ordering</xref>
+                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13"
+                              class="- topic/xref ">SMC PGI 5316.505-90 Decentralized Ordering</xref>
                      </p>
                   </li>
                </ul>
             </li>
          </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2">AF PGI 5316 Types of Contracts</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2"
+                        class="- topic/xref ">AF PGI 5316 Types of Contracts</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3">AF PGI 5316.101 General</xref>
+                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3"
+                              class="- topic/xref ">AF PGI 5316.101 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
+                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4"
+                              class="- topic/xref ">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5">AF PGI 5316.203-4 Contract Clauses</xref>
+                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5"
+                              class="- topic/xref ">AF PGI 5316.203-4 Contract Clauses</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6">AF PGI 5316.401-90 General</xref>
+                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6"
+                              class="- topic/xref ">AF PGI 5316.401-90 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7">AF PGI 5316.505 Ordering</xref>
+                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7"
+                              class="- topic/xref ">AF PGI 5316.505 Ordering</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
+                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8"
+                              class="- topic/xref ">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9">SMC PGI 5316 Types of Contracts</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9"
+                        class="- topic/xref ">SMC PGI 5316 Types of Contracts</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10">SMC PGI 5316.401-90 General</xref>
+                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10"
+                              class="- topic/xref ">SMC PGI 5316.401-90 General</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
+                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11"
+                              class="- topic/xref ">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12">SMC PGI 5316.505 Ordering</xref>
+                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12"
+                              class="- topic/xref ">SMC PGI 5316.505 Ordering</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13">SMC PGI 5316.505-90 Decentralized Ordering</xref>
+                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13"
+                              class="- topic/xref ">SMC PGI 5316.505-90 Decentralized Ordering</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AF_PGI_5316.dita#AFFARS_pgi_5316_topic_2"
+                        class="- topic/xref ">AF PGI 5316 Types of Contracts</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_101.dita#AFFARS_pgi_5316_topic_3"
+                              class="- topic/xref ">AF PGI 5316.101 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_104.dita#AFFARS_pgi_5316_topic_4"
+                              class="- topic/xref ">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_203_4.dita#AFFARS_pgi_5316_topic_5"
+                              class="- topic/xref ">AF PGI 5316.203-4 Contract Clauses</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_6"
+                              class="- topic/xref ">AF PGI 5316.401-90 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_505.dita#AFFARS_pgi_5316_topic_7"
+                              class="- topic/xref ">AF PGI 5316.505 Ordering</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AF_PGI_5316_506.dita#AFFARS_pgi_5316_topic_8"
+                              class="- topic/xref ">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SMC_PGI_5316.dita#AFFARS_pgi_5316_topic_9"
+                        class="- topic/xref ">SMC PGI 5316 Types of Contracts</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5316_401_90.dita#AFFARS_pgi_5316_topic_10"
+                              class="- topic/xref ">SMC PGI 5316.401-90 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_pgi_5316_topic_11"
+                              class="- topic/xref ">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5316_505.dita#AFFARS_pgi_5316_topic_12"
+                              class="- topic/xref ">SMC PGI 5316.505 Ordering</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5316_505_90.dita#AFFARS_pgi_5316_topic_13"
+                              class="- topic/xref ">SMC PGI 5316.505-90 Decentralized Ordering</xref>
                      </p>
                   </li>
                </ul>

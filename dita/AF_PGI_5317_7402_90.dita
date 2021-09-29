@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_pgi_5317_topic_3"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_pgi_5317_topic_3"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -25,13 +26,13 @@
 			      <p outputclass="List1" class="- topic/p ">(c) How Best to Acquire Long-Lead Items:<i class="+ topic/ph hi-d/i "> </i>
 			      </p>
 			      <p outputclass="List2" class="- topic/p ">(1) Pre-award Steps: </p>
-			      <p outputclass="List3" class="- topic/p ">(i) Obtain a Not-to-Exceed (NTE) proposal and reach agreement on an NTE amount for the long-lead effort;</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) If feasible, obtain an NTE for the total contract effort, or as a minimum, obtain a Rough Order of Magnitude (ROM) estimate;</p>
-			      <p outputclass="List3" class="- topic/p ">(iii) Obtain a listing of the long-lead items from the contractor;</p>
-			      <p outputclass="List3" class="- topic/p ">(iv) Obtain a written technical evaluation for the long-lead items that focuses on the need for the items to protect end item delivery schedules. This evaluation should be included in the contract file; and</p>
-			      <p outputclass="List3" class="- topic/p ">(v) Conduct a thorough evaluation of the contractor’s termination liability amount, expenditure profile, and NTE proposal. The evaluation of the termination liability estimate should focus on the content of the estimate, the methodology used to develop the estimate, and the termination liability time phasing. The evaluation should be included in the contract file.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Obtain a Not-to-Exceed (NTE) proposal and reach agreement on an NTE amount for the long-lead effort;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) If feasible, obtain an NTE for the total contract effort, or as a minimum, obtain a Rough Order of Magnitude (ROM) estimate;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) Obtain a listing of the long-lead items from the contractor;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iv) Obtain a written technical evaluation for the long-lead items that focuses on the need for the items to protect end item delivery schedules. This evaluation should be included in the contract file; and</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(v) Conduct a thorough evaluation of the contractor’s termination liability amount, expenditure profile, and NTE proposal. The evaluation of the termination liability estimate should focus on the content of the estimate, the methodology used to develop the estimate, and the termination liability time phasing. The evaluation should be included in the contract file.</p>
 			      <p outputclass="List2" class="- topic/p ">(2) Components of the Undefinitized Long-Lead Contract: </p>
-			      <p outputclass="List3" class="- topic/p ">(i) The undefinitized long-lead contract should include:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) The undefinitized long-lead contract should include:</p>
 			      <p outputclass="List4" class="- topic/p ">(A) An NTE for the long-lead effort;</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Specifications, statement of work, and/or other technical description of the end items being acquired;</p>
 			      <p outputclass="List4" class="- topic/p ">(C) Identification of statement of work tasks related to the long-lead effort including a listing of the long-lead items being acquired. If it is not feasible to develop a complete material listing identifying individual parts, components, material, or efforts, as a minimum, the long-lead items listing should include a description of each major component;</p>
@@ -46,23 +47,26 @@
 			      <p outputclass="List6" class="- topic/p ">
 				        <i class="+ topic/ph hi-d/i ">(2) Identify the CLINs or SubCLINs that will be affected.</i>
 			      </p>
-			      <p outputclass="List3" class="- topic/p ">(ii) A special contract requirement (Section H) clause that addresses the unique requirements of the long-lead effort should be included and should at a minimum:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) A special contract requirement (Section H) clause that addresses the unique requirements of the long-lead effort should be included and should at a minimum:</p>
 			      <p outputclass="List4" class="- topic/p ">(A) Stipulate that the purpose of the undefinitized long-lead contract initiated with advance procurement funds is to protect the end item delivery schedule contained in Section F of the Schedule and that the contractor is contractually obligated to meet this schedule except as provided for in the Long Lead Limitation of Government Liability clause; and</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Require the contractor to submit an NTE proposal and agree to an NTE for the total contract effort (if an NTE for the total contract effort was not previously obtained) if definitization of the total contract effort has not occurred before termination liability exceeds advance procurement funds on the contract and, if necessary, add procurement funds to protect the end item delivery schedules. Incorporate the NTE into the contract concurrent with the obligation of any procurement funds.</p>
-			      <p outputclass="List3" class="- topic/p ">(iii) A special contract requirement (Section H) clause that addresses suspension or reduction in progress payments for late submission of either the NTE proposal or the definitive price proposal for the total contract effort should be included and should address at a minimum: </p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) A special contract requirement (Section H) clause that addresses suspension or reduction in progress payments for late submission of either the NTE proposal or the definitive price proposal for the total contract effort should be included and should address at a minimum: </p>
 			      <p outputclass="List4" class="- topic/p ">(A)Require submittal of an NTE proposal or definitive price proposal adequate for negotiations to complete definitization within the specified time period, and identify this submission as a material requirement of the contract; and </p>
 			      <p outputclass="List4" class="- topic/p ">(B)State that if the contractor fails to submit either an NTE proposal or adequate definitive price proposal in accordance with the agreed upon definitization schedule, progress payments may be reduced or suspended unless such failure is due to causes beyond its control and without its fault or negligence.</p>
-			      <p outputclass="List3" class="- topic/p ">(iv) A special contract requirement (Section H) clause that addresses the process for definitizing the long-lead contract. The clause should, as a minimum:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iv) A special contract requirement (Section H) clause that addresses the process for definitizing the long-lead contract. The clause should, as a minimum:</p>
 			      <p outputclass="List4" class="- topic/p ">(A) State that a definitive contract is intended, and to the maximum extent practicable, a definitive contract will be negotiated prior to the receipt of full production program release;</p>
 			      <p outputclass="List4" class="- topic/p ">(B) Include an agreed upon schedule for definitizing the total contract effort that addresses, as a minimum, target dates for submission of proposal, negotiations completion, and definitization; and</p>
 			      <p outputclass="List4" class="- topic/p ">(C) Address adequate remedies if a definitive contract cannot be reached by the target date or within any extension granted by the contracting officer. These remedies may include, with approval from the original approval authority for the undefinitized long-lead contract, the contracting officer’s unilateral determination of a reasonable fee for the long-lead effort and/or a reasonable price for the total contract effort if a NTE has been established. The contracting officer’s determination is subject to contractor appeal as provided in the Disputes clause.</p>
 			      <p outputclass="List2" class="- topic/p ">(3) Adding Procurement Funds when Termination Liability has Exceeded Obligated Advance Procurement Funds. If the undefinitized long-lead contract cannot be definitized before termination liability exceeds advance procurement funds, procurement funds may be obligated for the long-lead effort. Prior to obligating any procurement funds the contracting officer should:</p>
-			      <p outputclass="List3" class="- topic/p ">(i) Obtain the approval of the original approval authority for the undefinitized long-lead contract. The request for approval should include:</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Obtain the approval of the original approval authority for the undefinitized long-lead contract. The request for approval should include:</p>
 			      <p outputclass="List4" class="- topic/p ">(A) A written justification that addresses the need, the impact if not granted, and why contract definitization cannot be completed within the time specified; and</p>
 			      <p outputclass="List4" class="- topic/p ">(B) A revised contract definitization schedule which has been agreed to by the contractor;</p>
-			      <p outputclass="List3" class="- topic/p ">(ii) Obtain a NTE proposal for the total contract effort and evaluate for reasonableness. After reaching agreement on the NTE, the contracting officer will incorporate it into the contract;</p>
-			      <p outputclass="List3" class="- topic/p ">(iii) Evaluate the contractor’s revised termination liability estimate, and</p>
-			      <p id="p__AF_PGI_5317.9000" outputclass="List3" class="- topic/p ">(iv) Comply with all UCA requirements contained in DFARS 217.74. Previously obligated advance procurement funds will be combined with the procurement funds in establishing UCA obligation limitations. The 180-day definitization schedule begins when the procurement funds are obligated on the undefinitized long-lead contract.</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Obtain a NTE proposal for the total contract effort and evaluate for reasonableness. After reaching agreement on the NTE, the contracting officer will incorporate it into the contract;</p>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) Evaluate the contractor’s revised termination liability estimate, and</p>
+			      <p id="p__AF_PGI_5317.9000"
+            outputclass="List3"
+            class="- topic/p "
+            xtrf="CheckMapping">(iv) Comply with all UCA requirements contained in DFARS 217.74. Previously obligated advance procurement funds will be combined with the procurement funds in establishing UCA obligation limitations. The 180-day definitization schedule begins when the procurement funds are obligated on the undefinitized long-lead contract.</p>
 		    </conbody>
 	  </concept>
 </dita>

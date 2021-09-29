@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-            id="AFFARS_5323_topic_3"
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5323_topic_3"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
@@ -14,7 +15,7 @@
 			      <p outputclass="List2" class="- topic/p ">(1)<i class="+ topic/ph hi-d/i ">Preaward phase</i>
 				        <i class="+ topic/ph hi-d/i ">.</i>
 			      </p>
-			      <p outputclass="List3" class="- topic/p ">(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i>
+			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i>
 				        <i class="+ topic/ph hi-d/i "> </i>See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
 		    </conbody>
 	  </concept>
