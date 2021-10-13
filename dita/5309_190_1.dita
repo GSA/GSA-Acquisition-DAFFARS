@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_mp_5309_190_topic_2"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 2" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph "> 5309.190-1 </ph> CRWL SOLICITATION AND CONTRACT LANGUAGE</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="Normal" class="- topic/p ">Insert the language provided at the link below when preparing a space program solicitation or contract (See <xref href="PART_5302.dita" class="- topic/xref ">AFFARS 5302</xref> ):.</p>
-			      <p outputclass="List1" class="- topic/p ">(a)(1) For commercial solicitations and contracts, include the following statement in FAR clause 52.212-4, Contract Terms and Conditions, “Consent to subcontract is required for each subcontract with an anticipated value in excess of $3M or 5% of the prime contract value, whichever is lesser, when the prospective subcontractor is listed on the Air Force Space Contractor Responsibility Watch List in accordance with SMCI 64-101 and the FY18 National Defense Authorization Act, Section 1612.”</p>
-			      <p outputclass="List1" class="- topic/p ">(a)(2) For all other solicitations and contracts, notwithstanding the prescription at FAR 44.204(a)(1), include the Attachment 1 clause of the SMC Subcontract Clause Class Deviation in full text in the solicitations and resultant contracts in lieu of the FAR clause 52.244-2, Subcontracts.</p>
-			      <p id="p__Toc38365632" outputclass="List1" class="- topic/p "> (b) Insert mandatory <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/affars_pgi_related_documents/crwl_solicitation_and_contract_language.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">CRWL language</u>
-				        </xref> in sole source solicitations (in the solicitation letter), competitive solicitations (in the contracts volume where other responsibility matters are addressed), and in contracts (in Statements of Work or Performance Work Statements or similar documents). In all contracts include <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/affars_pgi_related_documents/SMCI_64-101.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SMCI 64-101</u>
-				        </xref> on the compliance document list.</p>
-		    </conbody>
-	  </concept>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="AFFARS_mp_5309_190_topic_2">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">MP5309.190-1</ph> CRWL SOLICITATION AND CONTRACT LANGUAGE</title>
+      <conbody>
+         <p id="zOTYcY" outputclass="Normal">Insert the language provided at the link below when preparing a space program solicitation or contract (See <xref href="PART_5302.dita">AFFARS 5302</xref> ):.</p>
+         <p id="frANXz" outputclass="List1">(a)(1) For commercial solicitations and contracts, include the following statement in FAR clause 52.212-4, Contract Terms and Conditions, “Consent to subcontract is required for each subcontract with an anticipated value in excess of $3M or 5% of the prime contract value, whichever is lesser, when the prospective subcontractor is listed on the Air Force Space Contractor Responsibility Watch List in accordance with SMCI 64-101 and the FY18 National Defense Authorization Act, Section 1612.”</p>
+         <p id="AEpkAn" outputclass="List1">(a)(2) For all other solicitations and contracts, notwithstanding the prescription at FAR 44.204(a)(1), include the Attachment 1 clause of the SMC Subcontract Clause Class Deviation in full text in the solicitations and resultant contracts in lieu of the FAR clause 52.244-2, Subcontracts.</p>
+         <p id="p__Toc38365632" outputclass="List1">(b) Insert mandatory <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/affars_pgi_related_documents/crwl_solicitation_and_contract_language.docx"
+                  scope="external">
+               <u>CRWL language</u>
+            </xref> in sole source solicitations (in the solicitation letter), competitive solicitations (in the contracts volume where other responsibility matters are addressed), and in contracts (in Statements of Work or Performance Work Statements or similar documents). In all contracts include <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/affars_pgi_related_documents/SMCI_64-101.pdf"
+                  scope="external">
+               <u>SMCI 64-101</u>
+            </xref> on the compliance document list.</p>
+      </conbody>
+   </concept>
 </dita>

@@ -1,90 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_mp_5315_4_topic_1"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5315.4</ph> Contract Pricing</title>
-      <body class="- topic/body ">
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <topic id="AFFARS_mp_5315_4_topic_1">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5315.4</ph> Contract Pricing</title>
+      <body>
+         <p id="rSMxGX" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="Lmokjz" outputclass="Normal">
+            <i>Revised:</i>
+            <i>26</i>
+            <i>Jul 21</i>
          </p>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_1.dita#AFFARS_MP5315_4_1"
-                        class="- topic/xref ">1. Proposal Instructions.</xref>
+         <ul outputclass="TOC">
+            <li id="WFgAOD">
+               <p id="WQQPTA">
+                  <xref href="MP5315_4_1.dita#AFFARS_MP5315_4_1" outputclass="fm:TOC">1. Proposal Instructions.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_2.dita#AFFARS_mp_5315_4_topic_3"
-                        class="- topic/xref ">2. Requesting data/documentation after receipt of the proposal.</xref>
+            <li id="dwiDgy">
+               <p id="bINJPZ">
+                  <xref href="MP5315_4_2.dita#AFFARS_mp_5315_4_topic_3" outputclass="fm:TOC">2. Requesting data/documentation after receipt of the proposal.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_404_1_90.dita#AFFARS_mp_5315_4_topic_4"
-                        class="- topic/xref "> 5315.404-1-90  Pricing Assistance or Pricing Assistance Waiver</xref>
-               </p>
-            </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_1.dita#AFFARS_MP5315_4_1"
-                        class="- topic/xref ">1. Proposal Instructions.</xref>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_2.dita#AFFARS_mp_5315_4_topic_3"
-                        class="- topic/xref ">2. Requesting data/documentation after receipt of the proposal.</xref>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_404_1_90.dita#AFFARS_mp_5315_4_topic_4"
-                        class="- topic/xref "> 5315.404-1-90  Pricing Assistance or Pricing Assistance Waiver</xref>
-               </p>
-            </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_1.dita#AFFARS_MP5315_4_1"
-                        class="- topic/xref ">1. Proposal Instructions.</xref>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_4_2.dita#AFFARS_mp_5315_4_topic_3"
-                        class="- topic/xref ">2. Requesting data/documentation after receipt of the proposal.</xref>
-               </p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5315_404_1_90.dita#AFFARS_mp_5315_4_topic_4"
-                        class="- topic/xref "> 5315.404-1-90  Pricing Assistance or Pricing Assistance Waiver</xref>
+            <li id="GDAvLD">
+               <p id="FMUUqy">
+                  <xref href="MP5315_404_1_90.dita#AFFARS_mp_5315_4_topic_4"
+                        outputclass="fm:TOC">5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
                </p>
             </li>
          </ul>
