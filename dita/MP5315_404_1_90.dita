@@ -1,68 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_mp_5315_4_topic_4"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 2" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph "> 5315.404-1-90 </ph> Pricing Assistance or Pricing Assistance Waiver</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(b) Requesting Pricing Assistance.</p>
-			      <p outputclass="List2" class="- topic/p ">(1)“Full Pricing Assistance” means the price analyst accomplishes the majority of the pricing effort (e.g. pricing case) for a specific contract action which meets or exceeds the thresholds identified in AFFARS 5315.404-1-90(a). Submit the request for pricing assistance to the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). The contracting officer may also request full pricing assistance for actions below the thresholds identified in AFFARS 5315.404-1-90(a) when additional pricing expertise is needed. The Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief) is the approval authority for those requests, on a case by case basis. See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Request for Pricing Assistance or Pricing Assistance Waiver</u>
-				        </xref>
-				        <b class="+ topic/ph hi-d/b ">
-					          <i class="+ topic/ph hi-d/i "> </i>
-				        </b>template.<b class="+ topic/ph hi-d/b ">
-					          <i class="+ topic/ph hi-d/i "> </i>
-				        </b>
-				        <b class="+ topic/ph hi-d/b "> </b>
-			      </p>
-			      <p outputclass="List2" class="- topic/p ">(2)“Tailored Pricing Assistance” may also be requested for actions below the mandatory thresholds (or in conjunction with a Pricing Assistance Waiver Request) and will be provided at the discretion of the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Request for Pricing Assistance or Pricing Assistance Waiver</u>
-				        </xref>
-				        <b class="+ topic/ph hi-d/b ">
-					          <i class="+ topic/ph hi-d/i "> </i>
-				        </b>template. Examples of Tailored Pricing Assistance that may be available include: </p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Assistance with completion of the Weighted Guidelines (DD Form 1547)</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Pricing inputs for business/contract clearance</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) Cost proposal spreadsheet development/modeling</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iv) Defective pricing</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(v) Assistance with structuring Economic Price Adjustment (EPA) clauses</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(vi) Assistance with determination of final prices of incentive contracts</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(vii) Claims</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(viii) PNM review</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ix) Assistance with/review of reopener clauses</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(x) Evaluating Performance Based Payments</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(xi) Source selection support, including drafting and/or review of Sections L and M, drafting cost sections of briefings and reports, and review of pricing volumes of proposals</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(xii) Rate and factor reviews when DCMA assistance is not available</p>
-			      <p outputclass="List2" class="- topic/p ">(3) Request pricing assistance as early as practicable in the acquisition process, but no later than receipt of the proposal. For large dollar sole source acquisitions, the contracting officer is expected to consult with the pricing office (or Clearance and Program Support office ) to determine which components of the <b class="+ topic/ph hi-d/b ">L-XXX</b>
-				        <b class="+ topic/ph hi-d/b ">Cost Proposal Adequacy and Structure</b> provision described in MP5315.4-1.d, should be included in the RFP. </p>
-			      <p outputclass="List1" class="- topic/p ">(c) Requesting a Pricing Assistance Waiver. Contracting officers may request a Pricing Assistance Waiver for acquisitions which meet or exceed the required thresholds identified in <xref href="5315_404_1_90.dita" class="- topic/xref ">AFFARS 5315.404-1-90(a)</xref> . Submit the waiver request to the CAA through the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Request for Pricing Assistance or Pricing Assistance Waiver</u>
-				        </xref>
-				        <b class="+ topic/ph hi-d/b ">
-					          <i class="+ topic/ph hi-d/i "> </i>
-				        </b>template<b class="+ topic/ph hi-d/b ">
-					          <i class="+ topic/ph hi-d/i ">. </i>
-				        </b>
-				        <b class="+ topic/ph hi-d/b "> </b>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5315_404_1_90.dita" class="- topic/xref ">AFICC PGI 5315.404-1-90</xref> .</p>
-		    </conbody>
-	  </concept>
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="AFFARS_mp_5315_4_topic_4">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">MP5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
+      <conbody>
+         <p id="luEBsH" outputclass="List1">(b) Requesting Pricing Assistance.</p>
+         <p id="zOlkvw" outputclass="List2">(1)“Full Pricing Assistance” means the price analyst accomplishes the majority of the pricing effort (e.g. pricing case) for a specific contract action which meets or exceeds the thresholds identified in AFFARS 5315.404-1-90(a). Submit the request for pricing assistance to the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). The contracting officer may also request full pricing assistance for actions below the thresholds identified in AFFARS 5315.404-1-90(a) when additional pricing expertise is needed. The Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief) is the approval authority for those requests, on a case by case basis. See the tailorable <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
+                  scope="external">
+               <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
+            </xref>template.</p>
+         <p id="SXvNyB" outputclass="List2">(2)“Tailored Pricing Assistance” may also be requested for actions below the mandatory thresholds (or in conjunction with a Pricing Assistance Waiver Request) and will be provided at the discretion of the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
+                  scope="external">
+               <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
+            </xref>template. Examples of Tailored Pricing Assistance that may be available include:</p>
+         <p id="Tkbwzc" outputclass="List3" xtrf="CheckMapping">(i) Assistance with completion of the Weighted Guidelines (DD Form 1547)</p>
+         <p id="zycWHf" outputclass="List3" xtrf="CheckMapping">(ii) Pricing inputs for business/contract clearance</p>
+         <p id="EEjyTH" outputclass="List3" xtrf="CheckMapping">(iii) Cost proposal spreadsheet development/modeling</p>
+         <p id="LNITko" outputclass="List3" xtrf="CheckMapping">(iv) Defective pricing</p>
+         <p id="SaVpVP" outputclass="List3" xtrf="CheckMapping">(v) Assistance with structuring Economic Price Adjustment (EPA) clauses</p>
+         <p id="HewQHw" outputclass="List3" xtrf="CheckMapping">(vi) Assistance with determination of final prices of incentive contracts</p>
+         <p id="bThvtX" outputclass="List3" xtrf="CheckMapping">(vii) Claims</p>
+         <p id="tJCgkM" outputclass="List3" xtrf="CheckMapping">(viii) PNM review</p>
+         <p id="GfIGgq" outputclass="List3" xtrf="CheckMapping">(ix) Assistance with/review of reopener clauses</p>
+         <p id="JchkHD" outputclass="List3" xtrf="CheckMapping">(x) Evaluating Performance Based Payments</p>
+         <p id="jGtkHf" outputclass="List3" xtrf="CheckMapping">(xi) Source selection support, including drafting and/or review of Sections L and M, drafting cost sections of briefings and reports, and review of pricing volumes of proposals</p>
+         <p id="lFiswZ" outputclass="List3" xtrf="CheckMapping">(xii) Rate and factor reviews when DCMA assistance is not available</p>
+         <p id="vyShmp" outputclass="List2">(3) Request pricing assistance as early as practicable in the acquisition process, but no later than receipt of the proposal. For large dollar sole source acquisitions, the contracting officer is expected to consult with the pricing office (or Clearance and Program Support office ) to determine which components of the <b>L-XXX</b>
+            <b>Cost Proposal Adequacy and Structure</b> provision described in MP5315.4-1.d, should be included in the RFP.</p>
+         <p id="SCslOt" outputclass="List1">(c) Requesting a Pricing Assistance Waiver. Contracting officers may request a Pricing Assistance Waiver for acquisitions which meet or exceed the required thresholds identified in <xref href="5315_404_1_90.dita">AFFARS 5315.404-1-90(a)</xref> . Submit the waiver request to the CAA through the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
+                  scope="external">
+               <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
+            </xref>template<b>
+               <i>.</i>
+            </b>
+         </p>
+         <p id="tDYANr" outputclass="Normal">See <xref href="AFICC_PGI_5315_404_1_90.dita">AFICC PGI 5315.404-1-90</xref> .</p>
+      </conbody>
+   </concept>
 </dita>
