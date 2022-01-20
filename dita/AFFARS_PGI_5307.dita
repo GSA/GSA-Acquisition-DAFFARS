@@ -1,389 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_pgi_5307_topic_1"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="AFFARS_pgi_5307_topic_1">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5307</ph> Acquisition Planning</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5307.dita#AFFARS_pgi_5307_topic_2"
-                        class="- topic/xref ">AF PGI 5307 Acquisition Planning</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5307.dita#AFFARS_pgi_5307_topic_2">AF PGI 5307 Acquisition Planning</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_3"
-                              class="- topic/xref ">AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
+                              href="AF_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_3">AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_105.dita#AFFARS_pgi_5307_topic_4"
-                              class="- topic/xref "> AF PGI 5307.105  Contents of Written Acquisition Plans</xref>
+                              href="AF_PGI_5307_105.dita#AFFARS_pgi_5307_topic_4"> AF PGI 5307.105  Contents of Written Acquisition Plans</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFICC_PGI_5307.dita#AFFARS_pgi_5307_topic_5"
-                        class="- topic/xref ">AFICC PGI 5307 Acquisition Planning</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5307.dita#AFFARS_pgi_5307_topic_5">AFICC PGI 5307 Acquisition Planning</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_6"
-                              class="- topic/xref ">AFICC PGI 5307.104 General Procedures</xref>
+                              href="AFICC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_6">AFICC PGI 5307.104 General Procedures</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_7"
-                              class="- topic/xref ">AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority</xref>
+                              href="AFICC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_7">AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFMC_PGI_5307.dita#AFFARS_pgi_5307_topic_8"
-                        class="- topic/xref ">AFMC PGI 5307 Acquisition Planning</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5307.dita#AFFARS_pgi_5307_topic_8">AFMC PGI 5307 Acquisition Planning</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_9"
-                              class="- topic/xref ">AFMC PGI 5307.104 General Procedures</xref>
+                              href="AFMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_9">AFMC PGI 5307.104 General Procedures</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_10"
-                              class="- topic/xref ">AFMC PGI 5307.104-92 Acquisition Strategy
+                              href="AFMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_10">AFMC PGI 5307.104-92 Acquisition Strategy
       Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy
       Summary (SASS) Approval Authority</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_105.dita#AFFARS_pgi_5307_topic_11"
-                              class="- topic/xref ">AFMC PGI 5307.105 Contents of Written APs</xref>
+                              href="AFMC_PGI_5307_105.dita#AFFARS_pgi_5307_topic_11">AFMC PGI 5307.105 Contents of Written APs</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_107_2.dita#AFFARS_pgi_5307_topic_12"
-                              class="- topic/xref ">AFMC PGI 5307.107-2 Consolidation</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SMC_PGI_5307.dita#AFFARS_pgi_5307_topic_13"
-                        class="- topic/xref ">SMC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_14"
-                              class="- topic/xref "> SMC PGI 5307.104  General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_15"
-                              class="- topic/xref ">SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
+                              href="AFMC_PGI_5307_107_2.dita#AFFARS_pgi_5307_topic_12">AFMC PGI 5307.107-2 Consolidation</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5307.dita#AFFARS_pgi_5307_topic_16"
-                        class="- topic/xref ">USAFA PGI 5307 Acquisition Planning</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5307.dita#AFFARS_pgi_5307_topic_13">SMC PGI 5307 Acquisition Planning</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_17"
-                              class="- topic/xref ">USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</xref>
+                              href="SMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_14"> SMC PGI 5307.104  General Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="SMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_15">SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
                      </p>
                   </li>
                </ul>
             </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+            <li>
+               <p>
                   <xref outputclass="fm:TOC"
-                        href="AF_PGI_5307.dita#AFFARS_pgi_5307_topic_2"
-                        class="- topic/xref ">AF PGI 5307 Acquisition Planning</xref>
+                        href="USAFA_PGI_5307.dita#AFFARS_pgi_5307_topic_16">USAFA PGI 5307 Acquisition Planning</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_3"
-                              class="- topic/xref ">AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_105.dita#AFFARS_pgi_5307_topic_4"
-                              class="- topic/xref "> AF PGI 5307.105  Contents of Written Acquisition Plans</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFICC_PGI_5307.dita#AFFARS_pgi_5307_topic_5"
-                        class="- topic/xref ">AFICC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_6"
-                              class="- topic/xref ">AFICC PGI 5307.104 General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_7"
-                              class="- topic/xref ">AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFMC_PGI_5307.dita#AFFARS_pgi_5307_topic_8"
-                        class="- topic/xref ">AFMC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_9"
-                              class="- topic/xref ">AFMC PGI 5307.104 General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_10"
-                              class="- topic/xref ">AFMC PGI 5307.104-92 Acquisition Strategy
-      Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy
-      Summary (SASS) Approval Authority</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_105.dita#AFFARS_pgi_5307_topic_11"
-                              class="- topic/xref ">AFMC PGI 5307.105 Contents of Written APs</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_107_2.dita#AFFARS_pgi_5307_topic_12"
-                              class="- topic/xref ">AFMC PGI 5307.107-2 Consolidation</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SMC_PGI_5307.dita#AFFARS_pgi_5307_topic_13"
-                        class="- topic/xref ">SMC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_14"
-                              class="- topic/xref "> SMC PGI 5307.104  General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_15"
-                              class="- topic/xref ">SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5307.dita#AFFARS_pgi_5307_topic_16"
-                        class="- topic/xref ">USAFA PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_17"
-                              class="- topic/xref ">USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5307.dita#AFFARS_pgi_5307_topic_2"
-                        class="- topic/xref ">AF PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_3"
-                              class="- topic/xref ">AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_105.dita#AFFARS_pgi_5307_topic_4"
-                              class="- topic/xref "> AF PGI 5307.105  Contents of Written Acquisition Plans</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFICC_PGI_5307.dita#AFFARS_pgi_5307_topic_5"
-                        class="- topic/xref ">AFICC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_6"
-                              class="- topic/xref ">AFICC PGI 5307.104 General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_7"
-                              class="- topic/xref ">AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AFMC_PGI_5307.dita#AFFARS_pgi_5307_topic_8"
-                        class="- topic/xref ">AFMC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_9"
-                              class="- topic/xref ">AFMC PGI 5307.104 General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_10"
-                              class="- topic/xref ">AFMC PGI 5307.104-92 Acquisition Strategy
-      Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy
-      Summary (SASS) Approval Authority</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_105.dita#AFFARS_pgi_5307_topic_11"
-                              class="- topic/xref ">AFMC PGI 5307.105 Contents of Written APs</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_107_2.dita#AFFARS_pgi_5307_topic_12"
-                              class="- topic/xref ">AFMC PGI 5307.107-2 Consolidation</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SMC_PGI_5307.dita#AFFARS_pgi_5307_topic_13"
-                        class="- topic/xref ">SMC PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104.dita#AFFARS_pgi_5307_topic_14"
-                              class="- topic/xref "> SMC PGI 5307.104  General Procedures</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_15"
-                              class="- topic/xref ">SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="USAFA_PGI_5307.dita#AFFARS_pgi_5307_topic_16"
-                        class="- topic/xref ">USAFA PGI 5307 Acquisition Planning</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_17"
-                              class="- topic/xref ">USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</xref>
+                              href="USAFA_PGI_5307_104_92.dita#AFFARS_pgi_5307_topic_17">USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</xref>
                      </p>
                   </li>
                </ul>

@@ -8,6 +8,6 @@
                 domains="(topic concept) (topic concept glossentry) (topic concept glossgroup) (topic reference) (topic task) (topic hi-d) (topic ut-d) (topic indexing-d) (topic hazard-d) (topic abbrev-d) (topic pr-d) (topic sw-d) (topic ui-d) (topic task strictTaskbody-c)"
                 class="- topic/topic "
                 ditaarch:DITAArchVersion="1.2">
-			   <CTitle class="- topic/title ">Volume I-Parts 5301 to 5352</CTitle>
+			   <CTitle class="- topic/title ">Volume I - Parts 5301 to 5352</CTitle>
 		</CoverVolume>
 	</dita>

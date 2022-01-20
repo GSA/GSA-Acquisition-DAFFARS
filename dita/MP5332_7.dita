@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_mp_5332_7_topic_1">
       <title outputclass="Heading 1">
-         <ph props="autonumber">MP5332.7</ph> Contract Funding</title>
-      <body>
-         <p id="mLuKps" outputclass="Normal">
-            <b>2019 Edition</b>
-         </p>
-         <p id="veFfup" outputclass="Normal">
-            <i>Revised:</i>
-            <i>26</i>
-            <i>Jul 21</i>
-         </p>
-         <ul outputclass="TOC">
-            <li id="AkbmSx">
-               <p id="ZEklUP">
-                  <xref href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_mp_5332_7_topic_2"
-                        outputclass="fm:TOC">Release of Solicitations in Advance of Funding Availability</xref>
-               </p>
-            </li>
-         </ul>
-      </body>
+         <ph props="autonumber">MP5332.7</ph>— CONTRACT FUNDING</title>
+      <body/>
    </topic>
 </dita>

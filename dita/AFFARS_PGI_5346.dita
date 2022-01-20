@@ -1,107 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_pgi_5346_topic_1"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<dita>
+   <topic id="AFFARS_pgi_5346_topic_1">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5346</ph> Quality Assurance</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2"
-                        class="- topic/xref ">AF PGI 5346 Quality Assurance</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2">AF PGI 5346 Quality Assurance</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3"
-                              class="- topic/xref ">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
+                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4"
-                              class="- topic/xref ">AF PGI 5346.401 General</xref>
+                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4">AF PGI 5346.401 General</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5"
-                              class="- topic/xref ">AF PGI 5346.702 General</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2"
-                        class="- topic/xref ">AF PGI 5346 Quality Assurance</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3"
-                              class="- topic/xref ">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4"
-                              class="- topic/xref ">AF PGI 5346.401 General</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5"
-                              class="- topic/xref ">AF PGI 5346.702 General</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="AF_PGI_5346.dita#AFFARS_pgi_5346_topic_2"
-                        class="- topic/xref ">AF PGI 5346 Quality Assurance</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_202_4.dita#AFFARS_pgi_5346_topic_3"
-                              class="- topic/xref ">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_401.dita#AFFARS_pgi_5346_topic_4"
-                              class="- topic/xref ">AF PGI 5346.401 General</xref>
-                     </p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5"
-                              class="- topic/xref ">AF PGI 5346.702 General</xref>
+                              href="AF_PGI_5346_702.dita#AFFARS_pgi_5346_topic_5">AF PGI 5346.702 General</xref>
                      </p>
                   </li>
                </ul>

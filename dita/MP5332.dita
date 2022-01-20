@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_mp_5332_topic_1">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5332</ph> -
+Contract Financing</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5332_4.dita#AFFARS_MP5332_4">MP5332.4 — ADVANCE PAYMENTS FOR NON-COMMERCIAL
+      ITEMS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5332_470.dita#AFFARS_mp_5332_470_topic_1">MP5332.470 Advance Payment Pool</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="ADVANCE_PAYMENT_REQUESTS.dita#AFFARS_mp_5332_470_topic_2">Advance payment requests must be processed as follows:</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5332_7.dita#AFFARS_mp_5332_7_topic_1">MP5332.7— CONTRACT FUNDING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_mp_5332_7_topic_2">Release of Solicitations in Advance of Funding
+      Availability</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
