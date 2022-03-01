@@ -10,14 +10,13 @@
                ditaarch:DITAArchVersion="1.2">
 			   <CTitle id="id184NG60B05Z" class="- topic/title ">Air Force Federal Acquisition Regulation Supplement</CTitle>
 			   <CBody id="id184NG7000Y4" class="- topic/body ">
-      <CoverIssued id="id184NG7008HS" class="- topic/pre ">Issued Fiscal Year 2019 by the:</CoverIssued>
+      <CoverIssued id="id184NG7008HS" class="- topic/p ">Issued Fiscal Year 2019 by the:</CoverIssued>
       <CoverGSADODNASA id="id184NG700CUz" class="- topic/p ">UNITED STATES AIR
         FORCE</CoverGSADODNASA>
       <CoverEdition id="id184NG700GYK" class="- topic/p "/>
-      <CoverTitle48 id="id184NG700KHT" class="- topic/pre ">TITLE 48 - AIR FORCE FEDERAL ACQUISITION REGULATIONS SUPPLEMENT</CoverTitle48>
+      <CoverTitle48 id="id184NG700KHT" class="- topic/p ">TITLE 48 - AIR FORCE FEDERAL ACQUISITION REGULATIONS SUPPLEMENT</CoverTitle48>
       <CoverChapterTitle id="id184NG700YPF" class="- topic/p ">Chapter 53</CoverChapterTitle>
-      <CoverFARTitle id="id184NG7030PN" class="- topic/line ">Air Force Federal Acquisition
-        Regulation</CoverFARTitle>
+      <CoverFARTitle id="id184NG7030PN" class="- topic/p ">Air Force Federal Acquisition Regulation</CoverFARTitle>
       <ForewordTitle id="id184NG70E030" class="- topic/p "/>
     </CBody>
 		</CoverTitle>
