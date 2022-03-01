@@ -4,22 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5307_topic_7"
+   <concept id="AFFARS_5307_105"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph "> 5307.105 </ph> Contents of Written Acquisition Plans</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="Normal" class="- topic/p ">See the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/acquisition_plan.pdf"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph "> 5307.105 </ph> Contents of Written Acquisition Plans</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal" class="- topic/p ">See the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/acquisition_plan.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Acquisition Plan</u>
-				        </xref> template. Note: A Streamlined Acquisition Strategy Summary (SASS) [see AF PGI 5307.105] document may be used for actions less than $10M if directed by the applicable AP Approval Authority.</p>
-			      <p outputclass="Normal" class="- topic/p ">See <xref href="AF_PGI_5307_105.dita" class="- topic/xref ">AF PGI 5307.105</xref>. </p>
-			      <p id="p__Toc38364755" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5307_105.dita" class="- topic/xref ">AFMC PGI 5307.105</xref>.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">Acquisition Plan</u>
+            </xref> template. Note: A Streamlined Acquisition Strategy Summary (SASS) [see AF PGI 5307.105] document may be used for actions less than $10M if directed by the applicable AP Approval Authority.</p>
+         <p outputclass="Normal" class="- topic/p ">See <xref href="AF_PGI_5307_105.dita" class="- topic/xref ">AF PGI 5307.105</xref>. </p>
+         <p id="p__Toc38364755" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5307_105.dita" class="- topic/xref ">AFMC PGI 5307.105</xref>.</p>
+      </conbody>
+   </concept>
 </dita>

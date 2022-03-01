@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5311_topic_1">
+   <topic id="AFFARS_PART_5311">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5311</ph> - Describing Agency Needs</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5311.aspx">AFFARS PART 5311 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5311.aspx"
+                  class="- topic/xref ">AFFARS PART 5311 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -22,53 +23,53 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5311_1.dita#AFFARS_5311_topic_2">SUBPART 5311.1 — SELECTING AND DEVELOPING REQUIREMENT DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5311_1.dita#AFFARS_SUBPART_5311_1">SUBPART 5311.1 — SELECTING AND DEVELOPING REQUIREMENT DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_103.dita#AFFARS_5311_topic_3">5311.103 Market Acceptance</xref>
+                        <xref outputclass="fm:TOC" href="5311_103.dita#AFFARS_5311_103">5311.103 Market Acceptance</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5311_2.dita#AFFARS_5311_topic_4">SUBPART 5311.2 —USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5311_2.dita#AFFARS_SUBPART_5311_2">SUBPART 5311.2 —USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_273_3.dita#AFFARS_5311_topic_5">5311.273-3 Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5311_273_3.dita#AFFARS_5311_273_3">5311.273-3 Procedures</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_274_2.dita#AFFARS_5311_topic_6"> 5311.274-2  Policy for unique item identification</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5311_5.dita#AFFARS_5311_topic_7">SUBPART 5311.5 — LIQUIDATED DAMAGES</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5311_501.dita#AFFARS_5311_topic_8">5311.501 Policy</xref>
+                        <xref outputclass="fm:TOC" href="5311_274_2.dita#AFFARS_5311_274_2"> 5311.274-2  Policy for unique item identification</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5311_6.dita#AFFARS_5311_topic_9">SUBPART 5311.6 — PRIORITIES AND ALLOCATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5311_5.dita#AFFARS_SUBPART_5311_5">SUBPART 5311.5 — LIQUIDATED DAMAGES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_603.dita#AFFARS_5311_topic_10"> 5311.603  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5311_501.dita#AFFARS_5311_501">5311.501 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5311_6.dita#AFFARS_SUBPART_5311_6">SUBPART 5311.6 — PRIORITIES AND ALLOCATIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5311_603.dita#AFFARS_5311_603"> 5311.603  Procedures</xref>
                      </p>
                   </li>
                </ul>

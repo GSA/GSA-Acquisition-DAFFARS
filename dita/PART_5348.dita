@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5348_topic_1">
+   <topic id="AFFARS_PART_5348">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5348</ph> - Value Engineering</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5348.aspx">AFFARS PART 5348 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5348.aspx"
+                  class="- topic/xref ">AFFARS PART 5348 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -17,12 +18,12 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5348_1.dita#AFFARS_5348_topic_2">SUBPART 5348.1 — POLICIES AND PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5348_1.dita#AFFARS_SUBPART_5348_1">SUBPART 5348.1 — POLICIES AND PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5348_104_3.dita#AFFARS_5348_topic_3">5348.104-3 Sharing Collateral Savings</xref>
+                        <xref outputclass="fm:TOC" href="5348_104_3.dita#AFFARS_5348_104_3">5348.104-3 Sharing Collateral Savings</xref>
                      </p>
                   </li>
                </ul>

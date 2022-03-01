@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_mp_5306_topic_1">
+   <topic id="AFFARS_MP5306">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5306</ph> -
 Competition Requirements</title>
@@ -15,31 +15,27 @@ Competition Requirements</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5306_502.dita#AFFARS_mp_5306_502_topic_1">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>
+                        <xref outputclass="fm:TOC" href="MP5306_502.dita#AFFARS_MP5306_502">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5306_502_1.dita#AFFARS_mp_5306_502_topic_2">1. Objectives.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1">1. Objectives.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5306_502_2.dita#AFFARS_mp_5306_502_topic_3"> 2.  Duties and Responsibilities.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"> 2.  Duties and Responsibilities.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5306_502_3.dita#AFFARS_mp_5306_502_topic_4">3. Appointment of the Competition and Commercial Advocate.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3">3. Appointment of the Competition and Commercial Advocate.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5306_502_4.dita#AFFARS_mp_5306_502_topic_5">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4">4. Annual Competition and Commercial Reporting Requirements.</xref>
                            </p>
                         </li>
                      </ul>

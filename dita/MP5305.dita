@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_mp_5305_topic_1">
+   <topic id="AFFARS_MP5305">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5305</ph> -
 Publicizing Contract Actions</title>
@@ -15,7 +15,7 @@ Publicizing Contract Actions</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5305_303.dita#AFFARS_mp_5305_303_topic_1"> MP5305.303  Announcement of Contract
+                        <xref outputclass="fm:TOC" href="MP5305_303.dita#AFFARS_MP5305_303"> MP5305.303  Announcement of Contract
          Awards</xref>
                      </p>
                   </li>

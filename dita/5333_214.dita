@@ -4,31 +4,31 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5333_topic_10"
+   <concept id="AFFARS_5333_214"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph "> 5333.214 </ph> Alternate Dispute Resolution (ADR)</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a) For ACAT I and II programs, the contracting officer must establish an agreement between the Government and the contractor, such as a memorandum of understanding, that outlines the intent of the parties with respect to the use of ADR. Contracting officers must consider establishing ADR agreements for other programs and acquisitions.</p>
-			      <p outputclass="List1" class="- topic/p ">(c) The acquisition team must use ADR to the maximum extent practicable (see <xref href="http://static.e-publishing.af.mil/production/1/af_a3_5/publication/afpd51-12/afpd51-12.pdf"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph "> 5333.214 </ph> Alternate Dispute Resolution (ADR)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) For ACAT I and II programs, the contracting officer must establish an agreement between the Government and the contractor, such as a memorandum of understanding, that outlines the intent of the parties with respect to the use of ADR. Contracting officers must consider establishing ADR agreements for other programs and acquisitions.</p>
+         <p outputclass="List1" class="- topic/p ">(c) The acquisition team must use ADR to the maximum extent practicable (see <xref href="http://static.e-publishing.af.mil/production/1/af_a3_5/publication/afpd51-12/afpd51-12.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFPD 51-12</u>
-				        </xref>, <i class="+ topic/ph hi-d/i ">Alternate Disputes Resolution</i>). ADR must also be used to resolve protests to the maximum extent practicable. The acquisition team must attempt to use ADR prior to the commencement of litigation once unassisted negotiations have reached an impasse. Further, ADR must be offered in litigation, unless one of the exceptions in <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section572&amp;num=0&amp;edition=prelim"
+               <u class="+ topic/ph hi-d/u ">AFPD 51-12</u>
+            </xref>, <i class="+ topic/ph hi-d/i ">Alternate Disputes Resolution</i>). ADR must also be used to resolve protests to the maximum extent practicable. The acquisition team must attempt to use ADR prior to the commencement of litigation once unassisted negotiations have reached an impasse. Further, ADR must be offered in litigation, unless one of the exceptions in <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section572&amp;num=0&amp;edition=prelim"
                   scope="external"
                   format="xhtml?req=granuleid:USC-prelim-title5-section572&amp;num=0&amp;edition=prelim"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">5 U.S.C. 572(b)</u>
-				        </xref> applies or the policy set forth by Deputy General Counsel (Contractor Responsibility &amp; Conflict Resolution (<xref href="mailto:SAF.GCR.Workflow@us.af.mil"
+               <u class="+ topic/ph hi-d/u ">5 U.S.C. 572(b)</u>
+            </xref> applies or the policy set forth by Deputy General Counsel (Contractor Responsibility &amp; Conflict Resolution (<xref href="mailto:SAF.GCR.Workflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SAF/GCR</u>
-				        </xref>)) indicates that ADR is not appropriate.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">SAF/GCR</u>
+            </xref>)) indicates that ADR is not appropriate.</p>
+      </conbody>
+   </concept>
 </dita>

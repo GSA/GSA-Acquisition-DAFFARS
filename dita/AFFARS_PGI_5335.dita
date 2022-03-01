@@ -2,39 +2,39 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_pgi_5335_topic_1">
+   <topic id="AFFARS_AFFARS_PGI_5335">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5335</ph> Research and Development Contracting</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="AFICC_PGI_5335.dita#AFFARS_pgi_5335_topic_2">AFICC PGI 5335 Research and Development Contracting</xref>
+                  <xref outputclass="fm:TOC" href="AFICC_PGI_5335.dita#AFFARS_AFICC_PGI_5335">AFICC PGI 5335 Research and Development Contracting</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5335_015_70.dita#AFFARS_pgi_5335_topic_3">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+                              href="AFICC_PGI_5335_015_70.dita#AFFARS_AFICC_PGI_5335_015_70">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5335.dita#AFFARS_pgi_5335_topic_4">AFMC PGI 5335 Research and Development Contracting</xref>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5335.dita#AFFARS_AFMC_PGI_5335">AFMC PGI 5335 Research and Development Contracting</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_006_90.dita#AFFARS_pgi_5335_topic_5">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
+                              href="AFMC_PGI_5335_006_90.dita#AFFARS_AFMC_PGI_5335_006_90">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_007_90.dita#AFFARS_pgi_5335_topic_6">AFMC PGI 5335.007-90 Suggested Contract
+                              href="AFMC_PGI_5335_007_90.dita#AFFARS_AFMC_PGI_5335_007_90">AFMC PGI 5335.007-90 Suggested Contract
       Language</xref>
                      </p>
                   </li>
@@ -42,19 +42,19 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5335.dita#AFFARS_pgi_5335_topic_7">SMC PGI 5335 Research and Development Contracting</xref>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5335.dita#AFFARS_SMC_PGI_5335">SMC PGI 5335 Research and Development Contracting</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_3.dita#AFFARS_pgi_5335_topic_8">SMC PGI 5335.017-3  Using an FFRDC</xref>
+                              href="SMC_PGI_5335_017_3.dita#AFFARS_SMC_PGI_5335_017_3">SMC PGI 5335.017-3  Using an FFRDC</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_90.dita#AFFARS_pgi_5335_topic_9">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
+                              href="SMC_PGI_5335_017_90.dita#AFFARS_SMC_PGI_5335_017_90">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
                      </p>
                   </li>
                </ul>

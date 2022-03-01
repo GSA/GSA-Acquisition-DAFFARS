@@ -2,52 +2,51 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_pgi_5305_topic_1">
+   <topic id="AFFARS_AFFARS_PGI_5305">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5305</ph> Publicizing Contract Actions</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5305.dita#AFFARS_pgi_5305_topic_2">AF PGI 5305 Publicizing Contract Actions</xref>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5305.dita#AFFARS_AF_PGI_5305">AF PGI 5305 Publicizing Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5305_201.dita#AFFARS_pgi_5305_topic_3"> AF PGI 5305.201  General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5305_201.dita#AFFARS_AF_PGI_5305_201"> AF PGI 5305.201  General</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="AFMC_PGI_5305.dita#AFFARS_pgi_5305_topic_4">AFMC PGI 5305 Publicizing Contract Actions</xref>
+                  <xref outputclass="fm:TOC" href="AFMC_PGI_5305.dita#AFFARS_AFMC_PGI_5305">AFMC PGI 5305 Publicizing Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5305_303.dita#AFFARS_pgi_5305_topic_5">AFMC PGI 5305.303 Announcement of Contract Awards</xref>
+                              href="AFMC_PGI_5305_303.dita#AFFARS_AFMC_PGI_5305_303">AFMC PGI 5305.303 Announcement of Contract Awards</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5305.dita#AFFARS_pgi_5305_topic_6">SMC PGI 5305 Publicizing Contract Actions</xref>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5305.dita#AFFARS_SMC_PGI_5305">SMC PGI 5305 Publicizing Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5305_207_90.dita#AFFARS_pgi_5305_topic_7">SMC PGI 5305.207-90 Preparation and Transmittal of Synopses</xref>
+                              href="SMC_PGI_5305_207_90.dita#AFFARS_SMC_PGI_5305_207_90">SMC PGI 5305.207-90 Preparation and Transmittal of Synopses</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5305_303.dita#AFFARS_pgi_5305_topic_8">SMC PGI 5305.303 Announcement of Contract Awards</xref>
+                              href="SMC_PGI_5305_303.dita#AFFARS_SMC_PGI_5305_303">SMC PGI 5305.303 Announcement of Contract Awards</xref>
                      </p>
                   </li>
                </ul>

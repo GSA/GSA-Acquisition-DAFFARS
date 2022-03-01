@@ -2,20 +2,20 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_pgi_5343_topic_1">
+   <topic id="AFFARS_AFFARS_PGI_5343">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFFARS PGI 5343</ph> Contract Modifications</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="AF_PGI_5343.dita#AFFARS_pgi_5343_topic_2">AF PGI 5343 Contract Modifications</xref>
+                  <xref outputclass="fm:TOC" href="AF_PGI_5343.dita#AFFARS_AF_PGI_5343">AF PGI 5343 Contract Modifications</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AF_PGI_5343_103_90.dita#AFFARS_pgi_5343_topic_3">AF PGI 5343.103-90 Types of Contract
+                              href="AF_PGI_5343_103_90.dita#AFFARS_AF_PGI_5343_103_90">AF PGI 5343.103-90 Types of Contract
       Modifications</xref>
                      </p>
                   </li>
@@ -23,13 +23,13 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SMC_PGI_5343.dita#AFFARS_pgi_5343_topic_4">SMC PGI 5343 Contract Modifications</xref>
+                  <xref outputclass="fm:TOC" href="SMC_PGI_5343.dita#AFFARS_SMC_PGI_5343">SMC PGI 5343 Contract Modifications</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5343_102_90.dita#AFFARS_pgi_5343_topic_5">SMC PGI 5343.102-90 General</xref>
+                              href="SMC_PGI_5343_102_90.dita#AFFARS_SMC_PGI_5343_102_90">SMC PGI 5343.102-90 General</xref>
                      </p>
                   </li>
                </ul>

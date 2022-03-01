@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_mp_5325_7003_3_topic_2"
+   <concept id="AFFARS_MP5325_7003_3_1"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 2" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">1.</ph> Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="p__Toc38365662" outputclass="Normal" class="- topic/p ">Follow these mandatory procedures (MP) when requesting approval to purchase restricted specialty metals under DFARS 225.7003. The requirement to comply with these statutory and regulatory restrictions applies to procurements in excess of the simplified acquisition threshold. This MP provides guidance for drafting DNAD and Commercial Derivative Military Article (CDMA) Determination and Finding (D&amp;F) documents. The DNAD or CDMA D&amp;Fs should be tailored to the particular acquisition. In some cases, the contracting officer may not be able to obtain all of the data specified in the templates referenced below; however, the contracting officer should make every effort to do so.</p>
-		    </conbody>
-	  </concept>
+      <title outputclass="Heading 2" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">1.</ph> Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__Toc38365662" outputclass="Normal" class="- topic/p ">Follow these mandatory procedures (MP) when requesting approval to purchase restricted specialty metals under DFARS 225.7003. The requirement to comply with these statutory and regulatory restrictions applies to procurements in excess of the simplified acquisition threshold. This MP provides guidance for drafting DNAD and Commercial Derivative Military Article (CDMA) Determination and Finding (D&amp;F) documents. The DNAD or CDMA D&amp;Fs should be tailored to the particular acquisition. In some cases, the contracting officer may not be able to obtain all of the data specified in the templates referenced below; however, the contracting officer should make every effort to do so.</p>
+      </conbody>
+   </concept>
 </dita>

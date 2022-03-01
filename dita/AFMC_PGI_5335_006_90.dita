@@ -4,26 +4,26 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5335_topic_5"
+   <concept id="AFFARS_AFMC_PGI_5335_006_90"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5335.006-90</ph> Small Business Innovation Research (SBIR)</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="p__AFMC_PGI_5335.007-90"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5335.006-90</ph> Small Business Innovation Research (SBIR)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__AFMC_PGI_5335.007-90"
             outputclass="Normal"
             class="- topic/p ">All contracting organizations executing SBIR/Small Business Technology Transfer (STTR) Phase I, II, and III contracts should comply with the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SBIR_STTR_govt_guide.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SBIR/STTR Guide </u>
-					          <u class="+ topic/ph hi-d/u ">for</u>
-					          <u class="+ topic/ph hi-d/u "> Contracting Personnel</u>
-				        </xref>
-				        <u class="+ topic/ph hi-d/u ">.</u>
-			      </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">SBIR/STTR Guide </u>
+               <u class="+ topic/ph hi-d/u ">for</u>
+               <u class="+ topic/ph hi-d/u "> Contracting Personnel</u>
+            </xref>
+            <u class="+ topic/ph hi-d/u ">.</u>
+         </p>
+      </conbody>
+   </concept>
 </dita>

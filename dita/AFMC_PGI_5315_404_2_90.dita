@@ -4,27 +4,27 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5315_topic_26"
+   <concept id="AFFARS_AFMC_PGI_5315_404_2_90"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5315.404-2-90</ph> Data to Support Proposal Analysis</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a) Field Pricing Support: </p>
-			      <p outputclass="List2" class="- topic/p ">(1) The AFNT, led by the contracting officer, will decide the level of field support required from the cognizant DCMA and/or DCAA early in the acquisition.</p>
-			      <p outputclass="List2" class="- topic/p ">(2) Informal discussions with these two organizations are strongly encouraged. Ultimately, however, the contracting officer will officially request their support and identify specific areas where pricing assistance is requested (e.g., vendor decrements, direct and indirect rates, pricing history, disclosure statement status, etc.).</p>
-			      <p outputclass="List2" class="- topic/p ">(3) Copies of relevant acquisition documents (e.g., RFP) should be furnished to the cognizant DCMA office with a courtesy copy to the cognizant DCAA office whenever possible, electronically if possible. </p>
-			      <p outputclass="Normal" class="- topic/p "> DCAA treats direct requests from the activity as a signal to begin the audit work. </p>
-			      <p id="p__AFMC_PGI_5315.404-3-90"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5315.404-2-90</ph> Data to Support Proposal Analysis</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Field Pricing Support: </p>
+         <p outputclass="List2" class="- topic/p ">(1) The AFNT, led by the contracting officer, will decide the level of field support required from the cognizant DCMA and/or DCAA early in the acquisition.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Informal discussions with these two organizations are strongly encouraged. Ultimately, however, the contracting officer will officially request their support and identify specific areas where pricing assistance is requested (e.g., vendor decrements, direct and indirect rates, pricing history, disclosure statement status, etc.).</p>
+         <p outputclass="List2" class="- topic/p ">(3) Copies of relevant acquisition documents (e.g., RFP) should be furnished to the cognizant DCMA office with a courtesy copy to the cognizant DCAA office whenever possible, electronically if possible. </p>
+         <p outputclass="Normal" class="- topic/p "> DCAA treats direct requests from the activity as a signal to begin the audit work. </p>
+         <p id="p__AFMC_PGI_5315.404-3-90"
             outputclass="List1"
             class="- topic/p ">(b) Field Pricing Support: <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/510536p.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">DoD Directive 5105.36</u>
-				        </xref> authorized the Director, Defense Contract Audit Agency (DCAA), to perform all necessary contract audits for the Department of Defense (DoD) and provide accounting and financial advisory services regarding contracts and subcontracts to all DoD Components responsible for procurement and contract administration, and to establish and maintain liaison auditors and financial advisors, as appropriate, at major procuring and contract administration offices. </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">DoD Directive 5105.36</u>
+            </xref> authorized the Director, Defense Contract Audit Agency (DCAA), to perform all necessary contract audits for the Department of Defense (DoD) and provide accounting and financial advisory services regarding contracts and subcontracts to all DoD Components responsible for procurement and contract administration, and to establish and maintain liaison auditors and financial advisors, as appropriate, at major procuring and contract administration offices. </p>
+      </conbody>
+   </concept>
 </dita>

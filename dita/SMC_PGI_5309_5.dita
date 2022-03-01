@@ -4,21 +4,21 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5309_topic_11"
+   <concept id="AFFARS_SMC_PGI_5309_5"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">SMC PGI 5309.5</ph> Organizational and Consultant Conflicts Of Interest</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="p__SMC_PGI_5309.503" outputclass="Normal" class="- topic/p ">See <xref href="https://insidesmc.losangeles.af.mil/sites/pk/Style%20Library/PON/modules/07-OCI/default.aspx"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">SMC PGI 5309.5</ph> Organizational and Consultant Conflicts Of Interest</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__SMC_PGI_5309.503" outputclass="Normal" class="- topic/p ">See <xref href="https://insidesmc.losangeles.af.mil/sites/pk/Style%20Library/PON/modules/07-OCI/default.aspx"
                   scope="external"
                   format="aspx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Organizational Conflict of Interest (OCI) Point of Need Training</u>
-				        </xref>
-			      </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">Organizational Conflict of Interest (OCI) Point of Need Training</u>
+            </xref>
+         </p>
+      </conbody>
+   </concept>
 </dita>

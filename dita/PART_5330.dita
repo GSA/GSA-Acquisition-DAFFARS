@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5330_topic_1">
+   <topic id="AFFARS_PART_5330">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5330</ph> - Cost Accounting Standards Administration</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5330.aspx">AFFARS PART 5330 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5330.aspx"
+                  class="- topic/xref ">AFFARS PART 5330 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -17,7 +18,7 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="5330_201_5.dita#AFFARS_5330_topic_2"> 5330.201-5  Waivers</xref>
+                  <xref outputclass="fm:TOC" href="5330_201_5.dita#AFFARS_5330_201_5"> 5330.201-5  Waivers</xref>
                </p>
             </li>
          </ul>

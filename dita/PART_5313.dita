@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5313_topic_1">
+   <topic id="AFFARS_PART_5313">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5313</ph> - Simplified Acquisition Procedures</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5313.aspx">AFFARS PART 5313 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5313.aspx"
+                  class="- topic/xref ">AFFARS PART 5313 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -17,63 +18,63 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_1.dita#AFFARS_5313_topic_2">SUBPART 5313.1 — PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_1.dita#AFFARS_SUBPART_5313_1">SUBPART 5313.1 — PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_106_1.dita#AFFARS_5313_topic_3"> 5313.106-1  Soliciting from a Single Source</xref>
+                        <xref outputclass="fm:TOC" href="5313_106_1.dita#AFFARS_5313_106_1"> 5313.106-1  Soliciting from a Single Source</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_106_3.dita#AFFARS_5313_topic_4"> 5313.106-3  Award and Documentation</xref>
+                        <xref outputclass="fm:TOC" href="5313_106_3.dita#AFFARS_5313_106_3"> 5313.106-3  Award and Documentation</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_2.dita#AFFARS_5313_topic_5">SUBPART 5313.2 – ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_2.dita#AFFARS_SUBPART_5313_2">SUBPART 5313.2 – ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_201.dita#AFFARS_5313_topic_6">5313.201 General</xref>
+                        <xref outputclass="fm:TOC" href="5313_201.dita#AFFARS_5313_201">5313.201 General</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_3.dita#AFFARS_5313_topic_7">SUBPART 5313.3 – SIMPLIFIED ACQUISITION METHODS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_3.dita#AFFARS_SUBPART_5313_3">SUBPART 5313.3 – SIMPLIFIED ACQUISITION METHODS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_301.dita#AFFARS_5313_topic_8"> 5313.301  Governmentwide Commercial Purchase Card</xref>
+                        <xref outputclass="fm:TOC" href="5313_301.dita#AFFARS_5313_301"> 5313.301  Governmentwide Commercial Purchase Card</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_303_5.dita#AFFARS_5313_topic_9"> 5313.303-5  Purchases Under BPAs</xref>
+                        <xref outputclass="fm:TOC" href="5313_303_5.dita#AFFARS_5313_303_5"> 5313.303-5  Purchases Under BPAs</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_5.dita#AFFARS_5313_topic_10">SUBPART 5313.5 – SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_5.dita#AFFARS_SUBPART_5313_5">SUBPART 5313.5 – SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_500.dita#AFFARS_5313_topic_11"> 5313.500  General</xref>
+                        <xref outputclass="fm:TOC" href="5313_500.dita#AFFARS_5313_500"> 5313.500  General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_501.dita#AFFARS_5313_topic_12"> 5313.501  Special Documentation Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5313_501.dita#AFFARS_5313_501"> 5313.501  Special Documentation Requirements</xref>
                      </p>
                   </li>
                </ul>

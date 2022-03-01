@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5325_topic_1">
+   <topic id="AFFARS_PART_5325">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5325</ph> - Foreign Acquisition</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5325.aspx">AFFARS PART 5325 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5325.aspx"
+                  class="- topic/xref ">AFFARS PART 5325 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -22,123 +23,123 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_1.dita#AFFARS_5325_topic_2">SUBPART 5325.1 — BUY AMERICAN - SUPPLIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_1.dita#AFFARS_SUBPART_5325_1">SUBPART 5325.1 — BUY AMERICAN - SUPPLIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_topic_3"> 5325.103  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_103"> 5325.103  Exceptions</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_2.dita#AFFARS_5325_topic_4">SUBPART 5325.2 — BUY AMERICAN – CONSTRUCTION MATERIALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_2.dita#AFFARS_SUBPART_5325_2">SUBPART 5325.2 — BUY AMERICAN – CONSTRUCTION MATERIALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_topic_5"> 5325.202  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_202"> 5325.202  Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_204.dita#AFFARS_5325_topic_6">5325.204 Evaluation Offers of Foreign Construction Material</xref>
+                        <xref outputclass="fm:TOC" href="5325_204.dita#AFFARS_5325_204">5325.204 Evaluation Offers of Foreign Construction Material</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_4.dita#AFFARS_5325_topic_7">SUBPART 5325.4 — TRADE AGREEMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_4.dita#AFFARS_SUBPART_5325_4">SUBPART 5325.4 — TRADE AGREEMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_topic_8"> 5325.403  World Trade Organization Government Procurement Agreement and Free Trade Agreements</xref>
+                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_403"> 5325.403  World Trade Organization Government Procurement Agreement and Free Trade Agreements</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_6.dita#AFFARS_5325_topic_9">SUBPART 5325.6 — AMERICAN RECOVERY AND REINVESTMENT ACT - BUY AMERICAN STATUTE - CONSTRUCTION MATERIALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_6.dita#AFFARS_SUBPART_5325_6">SUBPART 5325.6 — AMERICAN RECOVERY AND REINVESTMENT ACT - BUY AMERICAN STATUTE - CONSTRUCTION MATERIALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_topic_10"> 5325.603  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_603"> 5325.603  Exceptions</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_10.dita#AFFARS_5325_topic_11">SUBPART 5325.10 — ADDITIONAL FOREIGN ACQUISITION REGULATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_10.dita#AFFARS_SUBPART_5325_10">SUBPART 5325.10 — ADDITIONAL FOREIGN ACQUISITION REGULATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_1001.dita#AFFARS_5325_topic_12">5325.1001 Waiver of Right to Examination of Records</xref>
+                        <xref outputclass="fm:TOC" href="5325_1001.dita#AFFARS_5325_1001">5325.1001 Waiver of Right to Examination of Records</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_70.dita#AFFARS_5325_topic_13">SUBPART 5325.70 — AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_70.dita#AFFARS_SUBPART_5325_70">SUBPART 5325.70 — AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_topic_14"> 5325.7002-2  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_7002_2"> 5325.7002-2  Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_topic_15"> 5325.7003-3  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_7003_3"> 5325.7003-3  Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_topic_16"> 5325.7008  Waiver of Restrictions of 10 U.S.C. 2534</xref>
+                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_7008"> 5325.7008  Waiver of Restrictions of 10 U.S.C. 2534</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_73.dita#AFFARS_5325_topic_17">SUBPART 5325.73 — ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_73.dita#AFFARS_SUBPART_5325_73">SUBPART 5325.73 — ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7301_2.dita#AFFARS_5325_topic_18">5325.7301-2 Solicitation Approval for Sole Source Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5325_7301_2.dita#AFFARS_5325_7301_2">5325.7301-2 Solicitation Approval for Sole Source Contracts</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_75.dita#AFFARS_5325_topic_19">SUBPART 5325.75 — BALANCE OF PAYMENTS PROGRAM</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_75.dita#AFFARS_SUBPART_5325_75">SUBPART 5325.75 — BALANCE OF PAYMENTS PROGRAM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7501.dita#AFFARS_5325_topic_20">5325.7501 Policy</xref>
+                        <xref outputclass="fm:TOC" href="5325_7501.dita#AFFARS_5325_7501">5325.7501 Policy</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5325_77.dita#AFFARS_5325_topic_21">SUBPART 5325.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5325_77.dita#AFFARS_SUBPART_5325_77">SUBPART 5325.77 — ACQUISITIONS IN SUPPORT OF OPERATIONS IN AFGHANISTAN</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7703_2.dita#AFFARS_5325_topic_22">5325.7703-2 Determination requirements.</xref>
+                        <xref outputclass="fm:TOC" href="5325_7703_2.dita#AFFARS_5325_7703_2">5325.7703-2 Determination requirements.</xref>
                      </p>
                   </li>
                </ul>

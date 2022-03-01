@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_mp_5342_topic_1">
+   <topic id="AFFARS_MP5342">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5342</ph> -
 Contract Administration and Audit Services</title>
@@ -15,7 +15,7 @@ Contract Administration and Audit Services</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5342_902.dita#AFFARS_mp_5342_902_topic_1">MP5342.902 Bankruptcy Procedures</xref>
+                        <xref outputclass="fm:TOC" href="MP5342_902.dita#AFFARS_MP5342_902">MP5342.902 Bankruptcy Procedures</xref>
                      </p>
                   </li>
                </ul>

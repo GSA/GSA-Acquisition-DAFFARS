@@ -4,22 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5333_topic_4"
+   <concept id="AFFARS_AFICC_PGI_5333_103"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFICC PGI 5333.103</ph> Protests to the Agency</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(f) Contracting officers are encouraged to work with interested parties to resolve issues amicably in lieu of a protest. However, when an Agency Protest occurs and the contracting officer determines it to be invalid or unsupportable, contracting officers may use the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/agency_protest_summary_dismissal_template.pdf"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFICC PGI 5333.103</ph> Protests to the Agency</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(f) Contracting officers are encouraged to work with interested parties to resolve issues amicably in lieu of a protest. However, when an Agency Protest occurs and the contracting officer determines it to be invalid or unsupportable, contracting officers may use the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/agency_protest_summary_dismissal_template.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Agency Protest Summary Dismissal Template</u>
-				        </xref>.</p>
-			      <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Pre-award.</i> Following legal review of the protest, should a decision to award be made, the COCO should review and make the final decision to award.</p>
-		      <p id="p__AFICC_PGI_5333.9000" outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Post-award.</i> Following legal review of a protest, the COCO should review and decide whether or not to continue performance.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">Agency Protest Summary Dismissal Template</u>
+            </xref>.</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Pre-award.</i> Following legal review of the protest, should a decision to award be made, the COCO should review and make the final decision to award.</p>
+         <p id="p__AFICC_PGI_5333.9000" outputclass="List2" class="- topic/p ">(3) <i class="+ topic/ph hi-d/i ">Post-award.</i> Following legal review of a protest, the COCO should review and decide whether or not to continue performance.</p>
+      </conbody>
+   </concept>
 </dita>

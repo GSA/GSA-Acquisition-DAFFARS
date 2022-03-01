@@ -4,24 +4,24 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_mp_5315_3_topic_16"
+   <concept id="AFFARS_MP_5315_3_3_4"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">3.4</ph> Competitive Range Decision Document</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List2" class="- topic/p ">3.4.1 The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competitive_range_decision_document.docx"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">3.4</ph> Competitive Range Decision Document</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">3.4.1 The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competitive_range_decision_document.docx"
                   scope="external"
                   format="docx"
                   class="- topic/xref ">
-					          <i class="+ topic/ph hi-d/i ">
-						            <u class="+ topic/ph hi-d/u ">Competitive Range Decision Document</u>
-					          </i>
-				        </xref>
-				        <i class="+ topic/ph hi-d/i "> </i>
-				        <i class="+ topic/ph hi-d/i ">(CRDD) </i>template is available for use, as desired.</p>
-		    </conbody>
-	  </concept>
+               <i class="+ topic/ph hi-d/i ">
+                  <u class="+ topic/ph hi-d/u ">Competitive Range Decision Document</u>
+               </i>
+            </xref>
+            <i class="+ topic/ph hi-d/i "> </i>
+            <i class="+ topic/ph hi-d/i ">(CRDD) </i>template is available for use, as desired.</p>
+      </conbody>
+   </concept>
 </dita>

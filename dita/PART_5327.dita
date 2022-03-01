@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5327_topic_1">
+   <topic id="AFFARS_PART_5327">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5327</ph> - Patents, Data, and Copyrights</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5327.aspx">AFFARS PART 5327 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5327.aspx"
+                  class="- topic/xref ">AFFARS PART 5327 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -17,27 +18,27 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5327_2.dita#AFFARS_5327_topic_2">SUBPART 5327.2 — PATENTS AND COPYRIGHTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5327_2.dita#AFFARS_SUBPART_5327_2">SUBPART 5327.2 — PATENTS AND COPYRIGHTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5327_201_2.dita#AFFARS_5327_topic_3">5327.201-2 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5327_201_2.dita#AFFARS_5327_201_2">5327.201-2 Contract Clauses</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5327_303.dita#AFFARS_5327_topic_4">5327.303 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5327_303.dita#AFFARS_5327_303">5327.303 Contract Clauses</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5327_90.dita#AFFARS_5327_topic_5"> 5327.90  – FOREIGN DISCLOSURE</xref>
+                        <xref outputclass="fm:TOC" href="5327_90.dita#AFFARS_5327_90"> 5327.90  – FOREIGN DISCLOSURE</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5327_9000.dita#AFFARS_5327_topic_6">5327.9000 Foreign Disclosure Policy</xref>
+                        <xref outputclass="fm:TOC" href="5327_9000.dita#AFFARS_5327_9000">5327.9000 Foreign Disclosure Policy</xref>
                      </p>
                   </li>
                </ul>

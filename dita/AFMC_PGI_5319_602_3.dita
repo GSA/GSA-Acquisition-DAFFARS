@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5319_topic_8"
+   <concept id="AFFARS_AFMC_PGI_5319_602_3"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5319.602-3</ph> Resolving Differences Between the Agency and the Small Business Administration</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a)(3)(A) If the contracting officer believes the agency should appeal a Certificate of Competency, the contracting officer coordinates with the local Small Business office and forward the appeal file through the SCO to SAF/SB with a courtesy copy to the MAJCOM small business office. </p>
-		    </conbody>
-	  </concept>
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5319.602-3</ph> Resolving Differences Between the Agency and the Small Business Administration</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(3)(A) If the contracting officer believes the agency should appeal a Certificate of Competency, the contracting officer coordinates with the local Small Business office and forward the appeal file through the SCO to SAF/SB with a courtesy copy to the MAJCOM small business office. </p>
+      </conbody>
+   </concept>
 </dita>

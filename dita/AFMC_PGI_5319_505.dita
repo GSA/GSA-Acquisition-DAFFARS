@@ -4,20 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5319_topic_7"
+   <concept id="AFFARS_AFMC_PGI_5319_505"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5319.505</ph> Rejecting Small Business Administration Recommendations</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="p__AFMC_PGI_5319.602-3" outputclass="List1" class="- topic/p ">(d) Notify the local Small Business Office when the SBA procurement center representative appeals to the agency head (SAF/AQ) the contracting officer’s rejection of an SBA recommendation of a Small Business Set-Aside and keep the Small Business Office informed as the appeal process proceeds. If a Small Business Appeal is filed with the agency head, the contracting officer’s appeal file should be coordinated through the local small business office, legal office, and Clearance and Program Support office, then submitted by the SCO to SAF/SB. Provide a copy to <xref href="mailto:afmc.sb.workflow@us.af.mil"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5319.505</ph> Rejecting Small Business Administration Recommendations</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__AFMC_PGI_5319.602-3" outputclass="List1" class="- topic/p ">(d) Notify the local Small Business Office when the SBA procurement center representative appeals to the agency head (SAF/AQ) the contracting officer’s rejection of an SBA recommendation of a Small Business Set-Aside and keep the Small Business Office informed as the appeal process proceeds. If a Small Business Appeal is filed with the agency head, the contracting officer’s appeal file should be coordinated through the local small business office, legal office, and Clearance and Program Support office, then submitted by the SCO to SAF/SB. Provide a copy to <xref href="mailto:afmc.sb.workflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFMC/SB</u>
-				        </xref>.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">AFMC/SB</u>
+            </xref>.</p>
+      </conbody>
+   </concept>
 </dita>

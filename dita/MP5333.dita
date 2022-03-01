@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_mp_5333_topic_1">
+   <topic id="AFFARS_MP5333">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5333</ph> -
 Protests, Disputes, and Appeals</title>
@@ -15,7 +15,7 @@ Protests, Disputes, and Appeals</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5333_104.dita#AFFARS_mp_5333_104_topic_1"> MP5333.104  Protests to GAO</xref>
+                        <xref outputclass="fm:TOC" href="MP5333_104.dita#AFFARS_MP5333_104"> MP5333.104  Protests to GAO</xref>
                      </p>
                   </li>
                </ul>

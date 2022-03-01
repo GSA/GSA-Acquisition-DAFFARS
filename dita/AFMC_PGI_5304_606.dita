@@ -4,22 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5304_topic_5"
+   <concept id="AFFARS_AFMC_PGI_5304_606"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5304.606</ph> Reporting Data</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List2" class="- topic/p ">(3)(xiii)(I)(1) Contracting officers and Buyers shall ensure all Bridge Actions are properly identified in the Contract Action Report (CAR) within Federal Procurement Data System-Next Generation (FPDS-NG). All Bridge Actions shall be clearly identified in the “Description of Requirement” field by adding “:Bridge:” to the description.</p>
-			      <p outputclass="List2" class="- topic/p ">(2) For purposes of this reporting, a Bridge Action is defined as: “A non-competitive action requiring a justification to include, but not limited to, a formal justification and approval (FAR Part 6 or 13.5), limited sources justification (FAR Part 8.4) and exception to fair opportunity (FAR 16.5), to retain the current or similar product or service as a result of delay in the negotiation and award of a follow-on contract.” Extension of services executed in accordance with FAR 52.217-8, Option to Extend Services, are not considered a bridge action.</p>
-			      <p id="p__AFMC_PGI_5304.1602" outputclass="Normal" class="- topic/p ">Contracting officers and Buyers may use the <xref href="https://cs2.eis.af.mil/sites/10148/afcc/car/default.aspx"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5304.606</ph> Reporting Data</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List2" class="- topic/p ">(3)(xiii)(I)(1) Contracting officers and Buyers shall ensure all Bridge Actions are properly identified in the Contract Action Report (CAR) within Federal Procurement Data System-Next Generation (FPDS-NG). All Bridge Actions shall be clearly identified in the “Description of Requirement” field by adding “:Bridge:” to the description.</p>
+         <p outputclass="List2" class="- topic/p ">(2) For purposes of this reporting, a Bridge Action is defined as: “A non-competitive action requiring a justification to include, but not limited to, a formal justification and approval (FAR Part 6 or 13.5), limited sources justification (FAR Part 8.4) and exception to fair opportunity (FAR 16.5), to retain the current or similar product or service as a result of delay in the negotiation and award of a follow-on contract.” Extension of services executed in accordance with FAR 52.217-8, Option to Extend Services, are not considered a bridge action.</p>
+         <p id="p__AFMC_PGI_5304.1602" outputclass="Normal" class="- topic/p ">Contracting officers and Buyers may use the <xref href="https://cs2.eis.af.mil/sites/10148/afcc/car/default.aspx"
                   scope="external"
                   format="aspx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Air Force Contract Action Report (CAR) Tool</u>
-				        </xref> to assist with filling out the CAR within their respective Contract writing System and or FPDS-NG. </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">Air Force Contract Action Report (CAR) Tool</u>
+            </xref> to assist with filling out the CAR within their respective Contract writing System and or FPDS-NG. </p>
+      </conbody>
+   </concept>
 </dita>

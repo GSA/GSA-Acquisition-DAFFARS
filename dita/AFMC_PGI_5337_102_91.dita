@@ -4,52 +4,52 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5337_topic_6"
+   <concept id="AFFARS_AFMC_PGI_5337_102_91"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5337.102-91</ph> Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a) For maintenance, repair, overhaul, and modification efforts which include work request provisions for "over and above" effort on other than a fixed-price basis the contracting officer may include the following suggested contract language substantially as written in section M:</p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">EVALUATION OF OVER AND ABOVE WORK</i>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">For evaluation purposes, the estimated "Over and Above" hours applicable to Section B of the Schedule entitled "Over and Above Work" is (insert number of hours) hours. The estimated over and above hours shall be multiplied by the proposed hourly rate for evaluation. These estimated hour figures are furnished for evaluation purposes only and are not intended to guarantee that the number of hours used for evaluation will actually be experienced or that the hour figure represents maximum or minimum hours for any resultant contract. Offerors are required to submit the proposed fixed hourly rate to be inserted into Section B of the resultant contract.</i>
-			      </p>
-			      <p outputclass="List1" class="- topic/p ">(b) The requirements office shall determine the man-hour estimates used for evaluation, based on estimates of all factors including previous organic and contractor experience. </p>
-			      <p outputclass="List1" class="- topic/p ">(c) The contracting officer may include the following suggested contract language substantially as written in Section M for maintenance, repair, overhaul, and modification indefinite quantity and requirements solicitations that include a Best Estimated Quantity: </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS</i>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">Offers shall be evaluated on the basis of the unit prices offered for the quantity designated as the best estimated quantity in the schedule for (insert item(s)) by multiplying the proposed price(s) by the best estimated quantity(s).</i>
-			      </p>
-			      <p outputclass="List1" class="- topic/p ">(d) The contracting officer may include the following suggested contract language substantially as written in Section M when the Government will evaluate the cost associated with relocating government furnished property from the incumbent contractor's facility:</p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS - MOVEMENT OF GOVERNMENT-FURNISHED PROPERTY</i>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">A cost factor which represents the estimated cost to the government for packaging, packing, preservation and transportation of government-furnished property from the incumbent contractor's facilities to a new contractor's facility shall be added to all offers except the incumbent's. This government-furnished property represents the residual inventory of government-furnished material and any special tooling which may have been furnished. For evaluation purposes, this cost is estimated to be (insert dollar amount), plus cost of transportation to the recipient contractor's facility. </i>
-			      </p>
-			      <p outputclass="List1" class="- topic/p ">(e) Transportation costs for any additional government-furnished property not resident at the incumbent contractor's facility shall be evaluated based on the estimated cost of transportation from the applicable Government installation to the contractor's facility.</p>
-			      <p outputclass="List1" class="- topic/p ">(f) The contracting officer may include the following suggested contract language substantially as written in Section M when the Government shall evaluate transportation cost based on multiple points of generation:</p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS-TRANSPORTATION COST</i>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">For evaluation purposes the government shall add a cost factor for transportation to all offers based on the distances between point(s) of destination as follows: </i>
-			      </p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">Transportation cost for (insert item(s)) will be evaluated on the basis of estimates of probable points of generation in the field to the contractor's facilities and return to the point(s) of generation and; </i>
-			      </p>
-			      <p id="p__AFMC_PGI_5337.110-90"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5337.102-91</ph> Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) For maintenance, repair, overhaul, and modification efforts which include work request provisions for "over and above" effort on other than a fixed-price basis the contracting officer may include the following suggested contract language substantially as written in section M:</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">EVALUATION OF OVER AND ABOVE WORK</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">For evaluation purposes, the estimated "Over and Above" hours applicable to Section B of the Schedule entitled "Over and Above Work" is (insert number of hours) hours. The estimated over and above hours shall be multiplied by the proposed hourly rate for evaluation. These estimated hour figures are furnished for evaluation purposes only and are not intended to guarantee that the number of hours used for evaluation will actually be experienced or that the hour figure represents maximum or minimum hours for any resultant contract. Offerors are required to submit the proposed fixed hourly rate to be inserted into Section B of the resultant contract.</i>
+         </p>
+         <p outputclass="List1" class="- topic/p ">(b) The requirements office shall determine the man-hour estimates used for evaluation, based on estimates of all factors including previous organic and contractor experience. </p>
+         <p outputclass="List1" class="- topic/p ">(c) The contracting officer may include the following suggested contract language substantially as written in Section M for maintenance, repair, overhaul, and modification indefinite quantity and requirements solicitations that include a Best Estimated Quantity: </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Offers shall be evaluated on the basis of the unit prices offered for the quantity designated as the best estimated quantity in the schedule for (insert item(s)) by multiplying the proposed price(s) by the best estimated quantity(s).</i>
+         </p>
+         <p outputclass="List1" class="- topic/p ">(d) The contracting officer may include the following suggested contract language substantially as written in Section M when the Government will evaluate the cost associated with relocating government furnished property from the incumbent contractor's facility:</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS - MOVEMENT OF GOVERNMENT-FURNISHED PROPERTY</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">A cost factor which represents the estimated cost to the government for packaging, packing, preservation and transportation of government-furnished property from the incumbent contractor's facilities to a new contractor's facility shall be added to all offers except the incumbent's. This government-furnished property represents the residual inventory of government-furnished material and any special tooling which may have been furnished. For evaluation purposes, this cost is estimated to be (insert dollar amount), plus cost of transportation to the recipient contractor's facility. </i>
+         </p>
+         <p outputclass="List1" class="- topic/p ">(e) Transportation costs for any additional government-furnished property not resident at the incumbent contractor's facility shall be evaluated based on the estimated cost of transportation from the applicable Government installation to the contractor's facility.</p>
+         <p outputclass="List1" class="- topic/p ">(f) The contracting officer may include the following suggested contract language substantially as written in Section M when the Government shall evaluate transportation cost based on multiple points of generation:</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">EVALUATION OF OFFERS-TRANSPORTATION COST</i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">For evaluation purposes the government shall add a cost factor for transportation to all offers based on the distances between point(s) of destination as follows: </i>
+         </p>
+         <p outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Transportation cost for (insert item(s)) will be evaluated on the basis of estimates of probable points of generation in the field to the contractor's facilities and return to the point(s) of generation and; </i>
+         </p>
+         <p id="p__AFMC_PGI_5337.110-90"
             outputclass="Normal"
             class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">Transportation cost for (insert item(s)) will be evaluated on the basis of estimates of probable points of generation in the field, to the contractor's facilities and return to (e.g., Hill AFB).</i>
-			      </p>
-		    </conbody>
-	  </concept>
+            <i class="+ topic/ph hi-d/i ">Transportation cost for (insert item(s)) will be evaluated on the basis of estimates of probable points of generation in the field, to the contractor's facilities and return to (e.g., Hill AFB).</i>
+         </p>
+      </conbody>
+   </concept>
 </dita>

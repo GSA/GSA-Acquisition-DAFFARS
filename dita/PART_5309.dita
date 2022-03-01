@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5309_topic_1">
+   <topic id="AFFARS_PART_5309">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5309</ph> Contractor Qualifications</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx">AFFARS PART 5309 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx"
+                  class="- topic/xref ">AFFARS PART 5309 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -22,108 +23,108 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5309_1.dita#AFFARS_5309_topic_2">SUBPART 5309.1 — RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_1.dita#AFFARS_SUBPART_5309_1">SUBPART 5309.1 — RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_103.dita#AFFARS_5309_topic_3"> 5309.103  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_103.dita#AFFARS_5309_103"> 5309.103  Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_topic_4">5309.104-1 General Standards</xref>
+                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_104_1">5309.104-1 General Standards</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_105_1.dita#AFFARS_5309_topic_5"> 5309.105-1  Obtaining Information</xref>
+                        <xref outputclass="fm:TOC" href="5309_105_1.dita#AFFARS_5309_105_1"> 5309.105-1  Obtaining Information</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_105_2.dita#AFFARS_5309_topic_6"> 5309.105-2  Determination and Documentation</xref>
+                        <xref outputclass="fm:TOC" href="5309_105_2.dita#AFFARS_5309_105_2"> 5309.105-2  Determination and Documentation</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5309_2.dita#AFFARS_5309_topic_7">SUBPART 5309.2 — QUALIFICATION REQUIREMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_2.dita#AFFARS_SUBPART_5309_2">SUBPART 5309.2 — QUALIFICATION REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_topic_8"> 5309.202  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_202"> 5309.202  Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_topic_9"> 5309.206-1  General</xref>
+                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_206_1"> 5309.206-1  General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_topic_10"> 5309.270-3  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_270_3"> 5309.270-3  Policy</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5309_4.dita#AFFARS_5309_topic_11">SUBPART 5309.4 — DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_4.dita#AFFARS_SUBPART_5309_4">SUBPART 5309.4 — DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_topic_12"> 5309.405  Effect of Listing</xref>
+                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_405"> 5309.405  Effect of Listing</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_topic_13">5309.405-1 Continuation of Current Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_405_1">5309.405-1 Continuation of Current Contracts</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_topic_14">5309.405-2 Restrictions on Subcontracting</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_405_2">5309.405-2 Restrictions on Subcontracting</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_topic_15"> 5309.406-3  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_406_3"> 5309.406-3  Procedures</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_topic_16"> 5309.407-3  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_407_3"> 5309.407-3  Procedures</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5309_5.dita#AFFARS_5309_topic_17">SUBPART 5309.5—ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_5.dita#AFFARS_SUBPART_5309_5">SUBPART 5309.5—ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_topic_18"> 5309.503  Waiver</xref>
+                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_503"> 5309.503  Waiver</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_topic_19"> 5309.504  Contracting Officer Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_504"> 5309.504  Contracting Officer Responsibilities</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_topic_20"> 5309.507-2  Solicitation Provisions and Contract Clause</xref>
+                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_507_2"> 5309.507-2  Solicitation Provisions and Contract Clause</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_topic_21"> 5309.571-7  Systems Engineering and Technical Assistance Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_571_7"> 5309.571-7  Systems Engineering and Technical Assistance Contracts</xref>
                      </p>
                   </li>
                </ul>

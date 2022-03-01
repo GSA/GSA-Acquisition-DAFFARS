@@ -4,31 +4,31 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_topic_28"
+   <concept id="AFFARS_5301_707"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">5301.707</ph> Signatory Authority</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a) Determinations and Findings (D&amp;F) for actions requiring Senior Procurement Executive (SPE) or SAF/AQ approval must be coordinated with the DAS(C) or the ADAS(C).  The contracting officer must submit determinations for approval simultaneously to <xref href="mailto:SAF.AQ.Workflow@us.af.mil"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">5301.707</ph> Signatory Authority</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Determinations and Findings (D&amp;F) for actions requiring Senior Procurement Executive (SPE) or SAF/AQ approval must be coordinated with the DAS(C) or the ADAS(C).  The contracting officer must submit determinations for approval simultaneously to <xref href="mailto:SAF.AQ.Workflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SAF/AQ</u>
-				        </xref> and to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+               <u class="+ topic/ph hi-d/u ">SAF/AQ</u>
+            </xref> and to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-				        </xref> after coordination by the SCO.  Allow 18 days for staffing and approval after receipt by SAF/AQ.  Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the D&amp;F package. </p>
-			      <p outputclass="List1" class="- topic/p ">(b) The contracting officer must submit D&amp;Fs for actions requiring DAS(C)/ADAS(C) approval to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> after coordination by the SCO.  Allow 18 days for staffing and approval after receipt by SAF/AQ.  Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the D&amp;F package. </p>
+         <p outputclass="List1" class="- topic/p ">(b) The contracting officer must submit D&amp;Fs for actions requiring DAS(C)/ADAS(C) approval to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-				        </xref> after coordination by the SCO. Allow 7 days for staffing and approval after receipt by SAF/AQC unless otherwise specified.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> after coordination by the SCO. Allow 7 days for staffing and approval after receipt by SAF/AQC unless otherwise specified.</p>
+      </conbody>
+   </concept>
 </dita>

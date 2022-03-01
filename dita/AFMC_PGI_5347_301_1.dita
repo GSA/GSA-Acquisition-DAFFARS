@@ -4,25 +4,25 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5347_topic_3"
+   <concept id="AFFARS_AFMC_PGI_5347_301_1"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5347.301-1</ph> Responsibilities of Contracting Officers</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(b) The contracting officer should ensure that the Purchase Request (PR) package, for solicitations that include supplies, includes an <xref href="https://static.e-publishing.af.mil/production/1/afmc/form/afmc158/afmc158.pdf"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5347.301-1</ph> Responsibilities of Contracting Officers</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) The contracting officer should ensure that the Purchase Request (PR) package, for solicitations that include supplies, includes an <xref href="https://static.e-publishing.af.mil/production/1/afmc/form/afmc158/afmc158.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFMC Form 158</u>
-				        </xref> (Packaging Instructions) and <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1653.pdf"
+               <u class="+ topic/ph hi-d/u ">AFMC Form 158</u>
+            </xref> (Packaging Instructions) and <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd1653.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">DD Form 1653</u>
-				        </xref> (Transportation Data), or other documentation showing that the PR package was reviewed by the packaging and transportation functions.  When provided with the PR, include the AFMC Form 158 and DD Form 1653 with their attachments in Section J (List of Attachments) of the solicitation/contract.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">DD Form 1653</u>
+            </xref> (Transportation Data), or other documentation showing that the PR package was reviewed by the packaging and transportation functions.  When provided with the PR, include the AFMC Form 158 and DD Form 1653 with their attachments in Section J (List of Attachments) of the solicitation/contract.</p>
+      </conbody>
+   </concept>
 </dita>

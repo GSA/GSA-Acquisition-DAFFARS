@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5345_topic_1">
+   <topic id="AFFARS_PART_5345">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5345</ph> - Government Property</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5345.aspx">AFFARS PART 5345 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5345.aspx"
+                  class="- topic/xref ">AFFARS PART 5345 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -22,39 +23,39 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5345_1.dita#AFFARS_5345_topic_2">SUBPART 5345.1 — GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5345_1.dita#AFFARS_SUBPART_5345_1">SUBPART 5345.1 — GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5345_102.dita#AFFARS_5345_topic_3"> 5345.102  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5345_102.dita#AFFARS_5345_102"> 5345.102  Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5345_103.dita#AFFARS_5345_topic_4">5345.103 General</xref>
+                        <xref outputclass="fm:TOC" href="5345_103.dita#AFFARS_5345_103">5345.103 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5345_103_72.dita#AFFARS_5345_topic_5"> 5345.103-72  Government Furnished Property Attachments to Solicitations and Awards</xref>
+                        <xref outputclass="fm:TOC" href="5345_103_72.dita#AFFARS_5345_103_72"> 5345.103-72  Government Furnished Property Attachments to Solicitations and Awards</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5345_3.dita#AFFARS_5345_topic_6">SUBPART 5345.3 — PROVIDING GOVERNMENT PROPERTY TO CONTRACTORS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5345_3.dita#AFFARS_SUBPART_5345_3">SUBPART 5345.3 — PROVIDING GOVERNMENT PROPERTY TO CONTRACTORS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5345_301.dita#AFFARS_5345_topic_7">5345.301 Use and Rental</xref>
+                        <xref outputclass="fm:TOC" href="5345_301.dita#AFFARS_5345_301">5345.301 Use and Rental</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5345_302.dita#AFFARS_5345_topic_8">5345.302 Contracts with Foreign Governments or International Organizations</xref>
+                        <xref outputclass="fm:TOC" href="5345_302.dita#AFFARS_5345_302">5345.302 Contracts with Foreign Governments or International Organizations</xref>
                      </p>
                   </li>
                </ul>

@@ -2,14 +2,15 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFFARS_5314_topic_1">
+   <topic id="AFFARS_PART_5314">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5314</ph> - Sealed Bidding</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx">AFFARS PART 5314 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx"
+                  class="- topic/xref ">AFFARS PART 5314 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -17,24 +18,24 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5314_2.dita#AFFARS_5314_topic_2">SUBPART 5314.2 — SOLICITATION OF BIDS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5314_2.dita#AFFARS_SUBPART_5314_2">SUBPART 5314.2 — SOLICITATION OF BIDS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_topic_3">5314.201-7 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_201_7">5314.201-7 Contract Clauses</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5314_4.dita#AFFARS_5314_topic_4"> SUBPART 5314.4  — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5314_4.dita#AFFARS_SUBPART_5314_4"> SUBPART 5314.4  — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_topic_5">5314.407-3 Other Mistakes Disclosed Before Award</xref>
+                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_407_3">5314.407-3 Other Mistakes Disclosed Before Award</xref>
                      </p>
                   </li>
                </ul>

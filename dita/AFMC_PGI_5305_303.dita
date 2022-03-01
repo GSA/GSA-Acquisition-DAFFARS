@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5305_topic_5"
+   <concept id="AFFARS_AFMC_PGI_5305_303"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5305.303</ph> Announcement of Contract Awards</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">
-				        <b class="+ topic/ph hi-d/b ">1279 SCO Reporting</b>
-				        <b class="+ topic/ph hi-d/b ">.</b> For AFRL, if an action is submitted for HQ AFRL/PK Contract Clearance, the Contracting Officer is deemed to have met the requirement for providing a courtesy copy of the 1279 report to the SCO. If Contract Clearance is not applicable to an action valued at $50M or above, or the requirement for contract clearance for said action has been waived; the local contracting office will include notification of the anticipated award in their Monthly Activity Report preceding the award, but no fewer than 3 days prior to the expected date of award.</p>
-		    </conbody>
-	  </concept>
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5305.303</ph> Announcement of Contract Awards</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">1279 SCO Reporting</b>
+            <b class="+ topic/ph hi-d/b ">.</b> For AFRL, if an action is submitted for HQ AFRL/PK Contract Clearance, the Contracting Officer is deemed to have met the requirement for providing a courtesy copy of the 1279 report to the SCO. If Contract Clearance is not applicable to an action valued at $50M or above, or the requirement for contract clearance for said action has been waived; the local contracting office will include notification of the anticipated award in their Monthly Activity Report preceding the award, but no fewer than 3 days prior to the expected date of award.</p>
+      </conbody>
+   </concept>
 </dita>

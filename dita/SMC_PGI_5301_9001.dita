@@ -4,69 +4,69 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5301_topic_47"
+   <concept id="AFFARS_SMC_PGI_5301_9001"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph "> SMC PGI 5301.9001 </ph> Policy, Thresholds, and Approvals  </title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(b) Clearance process. </p>
-			      <p outputclass="List2" class="- topic/p ">(1) Clearance approval authority (CAA) is at the SCO or DAS(C)/ADAS(C) level. The clearance review is conducted by the assigned committee reviewer in conjunction with the pricing reviewer and program attorney (as applicable) using the process in <xref href="SMC_PGI_5301_602_2.dita" class="- topic/xref ">SMC PGI 5301.602-2</xref>(c)(ii).</p>
-			      <p outputclass="List2" class="- topic/p ">(2) CAA is the COCO or below. COCOs establish procedures for conducting clearance reviews.</p>
-			      <p outputclass="List2" class="- topic/p ">(3) Scheduling the Clearance Briefing with SCO, DAS(C), or ADAS(C).</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) CAA is the SCO. The contracting officer schedules the clearance briefing with the PK Exec after legal, committee, and pricing reviewers (as applicable) have submitted their comments to the contracting officer. The contracting officer notifies the clearance reviewer(s) of the briefing date and time.</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) CAA is the DAS(C) or ADAS(C). The contracting officer is responsible for submitting the notification of anticipated Business Clearance Session in accordance with AFFARS <xref href="MP5301_9001.dita" class="- topic/xref ">MP5301.9001</xref>(i)(1)(i), paragraph (A)<i class="+ topic/ph hi-d/i ">(1)</i> or (B)<i class="+ topic/ph hi-d/i ">(1)</i>. For situational awareness, the contracting officer should copy the pricing reviewer, the committee reviewer and the COCO on the notification. Prior to submitting the Business Clearance documentation to SAF/AQC, the documentation should be reviewed in accordance with the clearance review procedures described in <xref href="SMC_PGI_5301_9001.dita" class="- topic/xref ">SMC PGI 5301.9001</xref>(b)(1). </p>
-			      <p outputclass="List2" class="- topic/p ">(4) Clearance Briefings. For clearances to the SCO, DAS(C), or ADAS(C), contracting officers are highly encouraged to use the templates identified below. SAF/AQC updates its clearance templates periodically. When DAS(C) or ADAS(C) is the CAA, follow AFFARS <xref href="MP5301_9001.dita" class="- topic/xref ">MP5301.9001</xref>(i)(1)(i) to ensure that the applicable SMC template below captures all necessary content for the specific action. For clearances at or below the COCO, the CAA determines whether or not a briefing is required. If the CAA does not require a briefing, the contract file should document the clearance approval and identify the information relied upon in making the clearance decision.  </p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Competitive Clearances</p>
-			      <p outputclass="List4" class="- topic/p ">(A) Approval to Issue the Solicitation: <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/business_clearance_template_(competitive).pptx"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph "> SMC PGI 5301.9001 </ph> Policy, Thresholds, and Approvals  </title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) Clearance process. </p>
+         <p outputclass="List2" class="- topic/p ">(1) Clearance approval authority (CAA) is at the SCO or DAS(C)/ADAS(C) level. The clearance review is conducted by the assigned committee reviewer in conjunction with the pricing reviewer and program attorney (as applicable) using the process in <xref href="SMC_PGI_5301_602_2.dita" class="- topic/xref ">SMC PGI 5301.602-2</xref>(c)(ii).</p>
+         <p outputclass="List2" class="- topic/p ">(2) CAA is the COCO or below. COCOs establish procedures for conducting clearance reviews.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Scheduling the Clearance Briefing with SCO, DAS(C), or ADAS(C).</p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) CAA is the SCO. The contracting officer schedules the clearance briefing with the PK Exec after legal, committee, and pricing reviewers (as applicable) have submitted their comments to the contracting officer. The contracting officer notifies the clearance reviewer(s) of the briefing date and time.</p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) CAA is the DAS(C) or ADAS(C). The contracting officer is responsible for submitting the notification of anticipated Business Clearance Session in accordance with AFFARS <xref href="MP5301_9001.dita" class="- topic/xref ">MP5301.9001</xref>(i)(1)(i), paragraph (A)<i class="+ topic/ph hi-d/i ">(1)</i> or (B)<i class="+ topic/ph hi-d/i ">(1)</i>. For situational awareness, the contracting officer should copy the pricing reviewer, the committee reviewer and the COCO on the notification. Prior to submitting the Business Clearance documentation to SAF/AQC, the documentation should be reviewed in accordance with the clearance review procedures described in <xref href="SMC_PGI_5301_9001.dita" class="- topic/xref ">SMC PGI 5301.9001</xref>(b)(1). </p>
+         <p outputclass="List2" class="- topic/p ">(4) Clearance Briefings. For clearances to the SCO, DAS(C), or ADAS(C), contracting officers are highly encouraged to use the templates identified below. SAF/AQC updates its clearance templates periodically. When DAS(C) or ADAS(C) is the CAA, follow AFFARS <xref href="MP5301_9001.dita" class="- topic/xref ">MP5301.9001</xref>(i)(1)(i) to ensure that the applicable SMC template below captures all necessary content for the specific action. For clearances at or below the COCO, the CAA determines whether or not a briefing is required. If the CAA does not require a briefing, the contract file should document the clearance approval and identify the information relied upon in making the clearance decision.  </p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Competitive Clearances</p>
+         <p outputclass="List4" class="- topic/p ">(A) Approval to Issue the Solicitation: <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/business_clearance_template_(competitive).pptx"
                   scope="external"
                   format="pptx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Business Clearance Template </u>
-				        </xref>
-			      </p>
-			      <p outputclass="List4" class="- topic/p ">(B) Approval to Request Final Proposal Revisions: Use the SSA briefing and supplement with the charts in the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/pre-fpr_clearance_template.pptx"
+               <u class="+ topic/ph hi-d/u ">Business Clearance Template </u>
+            </xref>
+         </p>
+         <p outputclass="List4" class="- topic/p ">(B) Approval to Request Final Proposal Revisions: Use the SSA briefing and supplement with the charts in the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/pre-fpr_clearance_template.pptx"
                   scope="external"
                   format="pptx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Pre-FPR Clearance Template </u>
-				        </xref>
-			      </p>
-			      <p outputclass="List4" class="- topic/p ">(C) Approval to Make a Source Selection Decision: Use the SSA briefing and supplement with the charts in the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/award_decision_clearance_template.pptx"
+               <u class="+ topic/ph hi-d/u ">Pre-FPR Clearance Template </u>
+            </xref>
+         </p>
+         <p outputclass="List4" class="- topic/p ">(C) Approval to Make a Source Selection Decision: Use the SSA briefing and supplement with the charts in the <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/award_decision_clearance_template.pptx"
                   scope="external"
                   format="pptx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Award Decision Clearance Template</u>
-				        </xref>.</p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Noncompetitive Clearances</p>
-			      <p outputclass="List4" class="- topic/p ">(A) Approval to Begin Negotiations: <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/business_clearance_template_(non_competitive).pptx"
+               <u class="+ topic/ph hi-d/u ">Award Decision Clearance Template</u>
+            </xref>.</p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) Noncompetitive Clearances</p>
+         <p outputclass="List4" class="- topic/p ">(A) Approval to Begin Negotiations: <xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/business_clearance_template_(non_competitive).pptx"
                   scope="external"
                   format="pptx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Noncompetitive Clearance Template </u>
-				        </xref>
-			      </p>
-			      <p outputclass="List3" class="- topic/p "> (5) Attendance at Clearance Briefings. Contracting officers should notify the committee, pricing, and legal reviewers of the scheduled clearance briefings for which they acted as reviewer. </p>
-			      <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Clearance Approval Authority. SCO clearance approval authority for PEO (Systems) and Enterprise contract actions less than $1B is delegated to COCOs with the authority to further delegate (see “<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMC_CAA_delegation_and_pricing_assistance_waiver_memo.pdf"
+               <u class="+ topic/ph hi-d/u ">Noncompetitive Clearance Template </u>
+            </xref>
+         </p>
+         <p outputclass="List3" class="- topic/p "> (5) Attendance at Clearance Briefings. Contracting officers should notify the committee, pricing, and legal reviewers of the scheduled clearance briefings for which they acted as reviewer. </p>
+         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i) Clearance Approval Authority. SCO clearance approval authority for PEO (Systems) and Enterprise contract actions less than $1B is delegated to COCOs with the authority to further delegate (see “<xref href="https://cs2.eis.af.mil/sites/10059/afcc/knowledge_center/affars_pgi_related_documents/SMC_CAA_delegation_and_pricing_assistance_waiver_memo.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Delegation of Clearance Approval Authorities and Waiver of Pricing Assistance Threshold</u>
-				        </xref>” memo, dated 01 Oct 19). </p>
-			      <p outputclass="List2" class="- topic/p ">(1)Further COCO delegations are found <xref href="https://insidesmc.losangeles.af.mil/sites/pk/library/Lists/other/Attachments/220/COCO%20Clearance%20Delegations.pdf"
+               <u class="+ topic/ph hi-d/u ">Delegation of Clearance Approval Authorities and Waiver of Pricing Assistance Threshold</u>
+            </xref>” memo, dated 01 Oct 19). </p>
+         <p outputclass="List2" class="- topic/p ">(1)Further COCO delegations are found <xref href="https://insidesmc.losangeles.af.mil/sites/pk/library/Lists/other/Attachments/220/COCO%20Clearance%20Delegations.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">here</u>
-				        </xref>.</p>
-			      <p outputclass="List2" class="- topic/p ">(2)Upon amending their clearance approval authority delegation, COCOs are to notify <xref href="mailto:smc.pkv.workflow@us.af.mil?subject=CAA%20Delegation"
+               <u class="+ topic/ph hi-d/u ">here</u>
+            </xref>.</p>
+         <p outputclass="List2" class="- topic/p ">(2)Upon amending their clearance approval authority delegation, COCOs are to notify <xref href="mailto:smc.pkv.workflow@us.af.mil?subject=CAA%20Delegation"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">SMC/PKV</u>
-				        </xref> and identify the Clearance Reviewer or indicate whether Clearance Review was waived in accordance with AFFARS <xref href="5301_9001.dita" class="- topic/xref ">5301.9001</xref>(d). </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">SMC/PKV</u>
+            </xref> and identify the Clearance Reviewer or indicate whether Clearance Review was waived in accordance with AFFARS <xref href="5301_9001.dita" class="- topic/xref ">5301.9001</xref>(d). </p>
+      </conbody>
+   </concept>
 </dita>

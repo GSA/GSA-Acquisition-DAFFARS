@@ -4,20 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5316_topic_4"
+   <concept id="AFFARS_AF_PGI_5316_104"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AF PGI 5316.104</ph> Factors In Selecting Contract Type</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="p__AF_PGI_5316.203-4" outputclass="Normal" class="- topic/p ">Refer to <xref href="https://www.dau.mil/tools/p/cprg"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AF PGI 5316.104</ph> Factors In Selecting Contract Type</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p__AF_PGI_5316.203-4" outputclass="Normal" class="- topic/p ">Refer to <xref href="https://www.dau.mil/tools/p/cprg"
                   scope="external"
                   format="html"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">OUSD/DPAP Contract Pricing Reference Guides (CPRG)</u>
-				        </xref>, Volume 3, Cost Analysis, Chapter 5.3, “Recognizing Cost Risk”, for assistance in assessing contract cost risk and determining the appropriate contract type for the acquisition.  Risk assessment guidelines and contract type definitions are included. Click “Launch Tool” from the CPRG page. </p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">OUSD/DPAP Contract Pricing Reference Guides (CPRG)</u>
+            </xref>, Volume 3, Cost Analysis, Chapter 5.3, “Recognizing Cost Risk”, for assistance in assessing contract cost risk and determining the appropriate contract type for the acquisition.  Risk assessment guidelines and contract type definitions are included. Click “Launch Tool” from the CPRG page. </p>
+      </conbody>
+   </concept>
 </dita>

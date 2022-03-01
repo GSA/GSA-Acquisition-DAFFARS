@@ -4,204 +4,204 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5301_topic_39"
+   <concept id="AFFARS_AFRC_PGI_5301_601_91"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFRC PGI 5301.601-91</ph> Air Force Contracting Self-Inspection Program</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="Normal" class="- topic/p ">In accordance with <xref href="http://static.e-publishing.af.mil/production/1/saf_ig/publication/afi90-201/afi90-201.pdf"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFRC PGI 5301.601-91</ph> Air Force Contracting Self-Inspection Program</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="Normal" class="- topic/p ">In accordance with <xref href="http://static.e-publishing.af.mil/production/1/saf_ig/publication/afi90-201/afi90-201.pdf"
                   scope="external"
                   format="pdf"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFI90-201, </u>
-					          <i class="+ topic/ph hi-d/i ">
-						            <u class="+ topic/ph hi-d/u ">The Air Force Inspection System</u>
-					          </i>
-				        </xref> and AFFARS MP5301.601-91, <i class="+ topic/ph hi-d/i ">Air Force Contracting Self-Inspection Program</i>, all contracting offices/squadrons will have a Self-Inspection Program (SIP) that assesses contract files and management programs. This PGI establishes the standardized process for performing self-inspections of contract actions/files and support the AFRC Chief of Contracting in the completion of both the <i class="+ topic/ph hi-d/i ">Air Force Contracting Self-Assessment Communicator</i> (AQC 2) and <i class="+ topic/ph hi-d/i ">Air Force Operational Contracting Self-Assessment Communicator for Operational Contracting Squadrons Only</i> (AQC 3), both of which are found in the <xref href="https://mict.us.af.mil/mymict.aspx"
+               <u class="+ topic/ph hi-d/u ">AFI90-201, </u>
+               <i class="+ topic/ph hi-d/i ">
+                  <u class="+ topic/ph hi-d/u ">The Air Force Inspection System</u>
+               </i>
+            </xref> and AFFARS MP5301.601-91, <i class="+ topic/ph hi-d/i ">Air Force Contracting Self-Inspection Program</i>, all contracting offices/squadrons will have a Self-Inspection Program (SIP) that assesses contract files and management programs. This PGI establishes the standardized process for performing self-inspections of contract actions/files and support the AFRC Chief of Contracting in the completion of both the <i class="+ topic/ph hi-d/i ">Air Force Contracting Self-Assessment Communicator</i> (AQC 2) and <i class="+ topic/ph hi-d/i ">Air Force Operational Contracting Self-Assessment Communicator for Operational Contracting Squadrons Only</i> (AQC 3), both of which are found in the <xref href="https://mict.us.af.mil/mymict.aspx"
                   scope="external"
                   format="aspx"
                   class="- topic/xref ">
-					          <i class="+ topic/ph hi-d/i ">
-						            <u class="+ topic/ph hi-d/u ">Management Internal Control Toolset </u>
-					          </i>
-					          <u class="+ topic/ph hi-d/u ">(MICT)</u>
-				        </xref> system.</p>
-			      <p outputclass="Normal" class="- topic/p ">Each contracting office is responsible for ensuring its contract actions reflect good business judgment and comply with applicable statutes, regulations and policies. The self-inspection process includes the selection of previously awarded and/or completed contract actions, both above and below prescribed clearance review thresholds, for review by the office’s Self-Inspection Program (SIP) Team. Through review of previous contract actions and gap analysis, the identification of best practices, trends or areas of concern (AOCs) should result in recommendations for sharing lessons learned, recommended areas for improvement (i.e., RIAs) and/or the development of corrective action plans (CAPs). The process is iterative and requires proactive trend and issue identification with the goal of improving the quality of the resultant contract files as well as the overall acquisition health of the unit.</p>
-			      <p outputclass="Normal" class="- topic/p "> The Chief of Contracting (COCO) is responsible for the Contracting Office’s overall Self-Inspection Program, which includes both the assessment of individual contract files and the assessment of contracting management programs. This position is also responsible for entry, review, and monitoring of MICT. The COCO also has overall responsibility for the self-inspection process to include use of appropriate checklists, worksheets or other tools, collation of self-inspection data, completion of the <xref href="https://usaf.dps.mil/:w:/r/sites/AFCC/afcc/knowledge_center/_layouts/15/Doc.aspx?sourcedoc=%7BE4A45E66-F157-4D15-87F0-A6BBCF4080AB%7D&amp;file=AFRC_Unit_Self_Inspection_Report.docx&amp;action=default&amp;mobileredirect=true"
+               <i class="+ topic/ph hi-d/i ">
+                  <u class="+ topic/ph hi-d/u ">Management Internal Control Toolset </u>
+               </i>
+               <u class="+ topic/ph hi-d/u ">(MICT)</u>
+            </xref> system.</p>
+         <p outputclass="Normal" class="- topic/p ">Each contracting office is responsible for ensuring its contract actions reflect good business judgment and comply with applicable statutes, regulations and policies. The self-inspection process includes the selection of previously awarded and/or completed contract actions, both above and below prescribed clearance review thresholds, for review by the office’s Self-Inspection Program (SIP) Team. Through review of previous contract actions and gap analysis, the identification of best practices, trends or areas of concern (AOCs) should result in recommendations for sharing lessons learned, recommended areas for improvement (i.e., RIAs) and/or the development of corrective action plans (CAPs). The process is iterative and requires proactive trend and issue identification with the goal of improving the quality of the resultant contract files as well as the overall acquisition health of the unit.</p>
+         <p outputclass="Normal" class="- topic/p "> The Chief of Contracting (COCO) is responsible for the Contracting Office’s overall Self-Inspection Program, which includes both the assessment of individual contract files and the assessment of contracting management programs. This position is also responsible for entry, review, and monitoring of MICT. The COCO also has overall responsibility for the self-inspection process to include use of appropriate checklists, worksheets or other tools, collation of self-inspection data, completion of the <xref href="https://usaf.dps.mil/:w:/r/sites/AFCC/afcc/knowledge_center/_layouts/15/Doc.aspx?sourcedoc=%7BE4A45E66-F157-4D15-87F0-A6BBCF4080AB%7D&amp;file=AFRC_Unit_Self_Inspection_Report.docx&amp;action=default&amp;mobileredirect=true"
                   scope="external"
                   format="docx&amp;action=default&amp;mobileredirect=true"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFRC </u>
-					          <u class="+ topic/ph hi-d/u ">Unit Self-Inspection Report</u>
-					          <u class="+ topic/ph hi-d/u "> </u>
-				        </xref>and submission of the report within MICT. The COCO flags all Critical, Significant, and Minor deficiencies as well as identifies any trends resulting from the unit inspection. Unless otherwise directed by their senior functional leadership, MAJCOM, or Wing’s policy, COCOs can exercise their own discretion in deciding the interval of their self-inspections/assessments. However, at a minimum, all AFRC Contracting Offices shall perform an annual self-inspection which shall be completed <u class="+ topic/ph hi-d/u ">NLT 15 November</u>. The Inspection results and individual review sheets as well as a trend analysis will be uploaded to a designated folder on the HQ AFRC PK SharePoint. </p>
-			      <p outputclass="Normal" class="- topic/p ">Based on the volume and complexity of actions to be reviewed, the COCO assigns an appropriate number of assessors to complete the self-inspection, to include entry of all required data into the appropriate <xref href="https://usaf.dps.mil/:x:/r/sites/AFCC/afcc/knowledge_center/_layouts/15/Doc.aspx?sourcedoc=%7B2A852740-8B19-4D93-96A9-A29E294E049D%7D&amp;file=AFRC_Self-Inspection_Worksheet.xlsx&amp;action=default&amp;mobileredirect=true"
+               <u class="+ topic/ph hi-d/u ">AFRC </u>
+               <u class="+ topic/ph hi-d/u ">Unit Self-Inspection Report</u>
+               <u class="+ topic/ph hi-d/u "> </u>
+            </xref>and submission of the report within MICT. The COCO flags all Critical, Significant, and Minor deficiencies as well as identifies any trends resulting from the unit inspection. Unless otherwise directed by their senior functional leadership, MAJCOM, or Wing’s policy, COCOs can exercise their own discretion in deciding the interval of their self-inspections/assessments. However, at a minimum, all AFRC Contracting Offices shall perform an annual self-inspection which shall be completed <u class="+ topic/ph hi-d/u ">NLT 15 November</u>. The Inspection results and individual review sheets as well as a trend analysis will be uploaded to a designated folder on the HQ AFRC PK SharePoint. </p>
+         <p outputclass="Normal" class="- topic/p ">Based on the volume and complexity of actions to be reviewed, the COCO assigns an appropriate number of assessors to complete the self-inspection, to include entry of all required data into the appropriate <xref href="https://usaf.dps.mil/:x:/r/sites/AFCC/afcc/knowledge_center/_layouts/15/Doc.aspx?sourcedoc=%7B2A852740-8B19-4D93-96A9-A29E294E049D%7D&amp;file=AFRC_Self-Inspection_Worksheet.xlsx&amp;action=default&amp;mobileredirect=true"
                   scope="external"
                   format="xlsx&amp;action=default&amp;mobileredirect=true"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFRC </u>
-					          <u class="+ topic/ph hi-d/u ">Self-Inspection Worksheet</u>
-				        </xref> tabs and <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/templates/self_inspection_checklist.xlsx"
+               <u class="+ topic/ph hi-d/u ">AFRC </u>
+               <u class="+ topic/ph hi-d/u ">Self-Inspection Worksheet</u>
+            </xref> tabs and <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/templates/self_inspection_checklist.xlsx"
                   scope="external"
                   format="xlsx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AF Self Inspection Checklist</u>
-				        </xref>, analysis of self-inspection data (including subjective observations/comments), culminated by the completion of the written report.</p>
-			      <p outputclass="Normal" class="- topic/p "> The assigned assessors should possess the minimum requisite skill level of APDP Level II in Contracting and have no less than five years of experience in the contracting career field. Reviews should be done by a PCO (and may be supported by a buyer). The intent/role of the buyer is to provide a mentoring experience for junior contracting personnel to facilitate both thorough inspections and a culture of learning and professional growth. PCOs may only review files within the scope/limit of their individual warrant. The reviewer is responsible for verifying discrepancies are corrected/fixed prior to submitting the completed inspection review sheets to the COCO. Any findings will be corrected/fixed prior to submitting/uploading the completed inspection review sheets.</p>
-			      <p outputclass="Normal" class="- topic/p ">When required, the assessors will brief the results of the self-inspection, to include open observations, corrective actions, repeat findings and all pertinent information to the COCO and/or SCO or designee (reporting requirements are determined by the SCO).</p>
-			      <p outputclass="Normal" class="- topic/p ">Assigned assessors should assess contract actions/files using the applicable portions of the <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/templates/self_inspection_checklist.xlsx"
+               <u class="+ topic/ph hi-d/u ">AF Self Inspection Checklist</u>
+            </xref>, analysis of self-inspection data (including subjective observations/comments), culminated by the completion of the written report.</p>
+         <p outputclass="Normal" class="- topic/p "> The assigned assessors should possess the minimum requisite skill level of APDP Level II in Contracting and have no less than five years of experience in the contracting career field. Reviews should be done by a PCO (and may be supported by a buyer). The intent/role of the buyer is to provide a mentoring experience for junior contracting personnel to facilitate both thorough inspections and a culture of learning and professional growth. PCOs may only review files within the scope/limit of their individual warrant. The reviewer is responsible for verifying discrepancies are corrected/fixed prior to submitting the completed inspection review sheets to the COCO. Any findings will be corrected/fixed prior to submitting/uploading the completed inspection review sheets.</p>
+         <p outputclass="Normal" class="- topic/p ">When required, the assessors will brief the results of the self-inspection, to include open observations, corrective actions, repeat findings and all pertinent information to the COCO and/or SCO or designee (reporting requirements are determined by the SCO).</p>
+         <p outputclass="Normal" class="- topic/p ">Assigned assessors should assess contract actions/files using the applicable portions of the <xref href="https://usaf.dps.mil/sites/AFCC/afcc/knowledge_center/templates/self_inspection_checklist.xlsx"
                   scope="external"
                   format="xlsx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">Air Force Contracting Self-Inspection Checklist</u>
-				        </xref> and whenever possible, teams should utilize the self-inspection capability of <xref href="https://cs2.eis.af.mil/sites/11191/KTFSApp/app/index.aspx"
+               <u class="+ topic/ph hi-d/u ">Air Force Contracting Self-Inspection Checklist</u>
+            </xref> and whenever possible, teams should utilize the self-inspection capability of <xref href="https://cs2.eis.af.mil/sites/11191/KTFSApp/app/index.aspx"
                   scope="external"
                   format="aspx"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">KTFileShare</u>
-				        </xref> to assist them in completing the Unit Self-Inspection Report. At a minimum, assessors will review the specified number of contract actions (by type) for the current or previous fiscal year (not to exceed 12 months prior to the date of the self-inspection unless a review of the basic contract is necessary) in accordance with the table below.</p>
-			      <p outputclass="Normal" class="- topic/p ">
-				        <b class="+ topic/ph hi-d/b ">AFRC Self-Inspection Program - Minimum Action Review Requirements</b>
-			      </p>
-			      <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-				        <title outputclass="MovedTT" class="- topic/title "/>
-				        <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-					          <colspec colname="col1"
+               <u class="+ topic/ph hi-d/u ">KTFileShare</u>
+            </xref> to assist them in completing the Unit Self-Inspection Report. At a minimum, assessors will review the specified number of contract actions (by type) for the current or previous fiscal year (not to exceed 12 months prior to the date of the self-inspection unless a review of the basic contract is necessary) in accordance with the table below.</p>
+         <p outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">AFRC Self-Inspection Program - Minimum Action Review Requirements</b>
+         </p>
+         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+            <title outputclass="MovedTT" class="- topic/title "/>
+            <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+               <colspec colname="col1"
                         colwidth="155.8*"
                         rowheader="headers"
                         class="- topic/colspec "/>
-					          <colspec colname="col2"
+               <colspec colname="col2"
                         colwidth="155.85*"
                         rowheader="headers"
                         class="- topic/colspec "/>
-					          <colspec colname="col3"
+               <colspec colname="col3"
                         colwidth="183.1*"
                         rowheader="headers"
                         class="- topic/colspec "/>
-					          <tbody class="- topic/tbody ">
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">
-									                  <b class="+ topic/ph hi-d/b ">If the Action type* is:</b>
-								                </p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">
-									                  <b class="+ topic/ph hi-d/b ">And the </b>
-									                  <b class="+ topic/ph hi-d/b ">
-										                    <u class="+ topic/ph hi-d/u ">Total</u>
-									                  </b>
-									                  <b class="+ topic/ph hi-d/b ">
-										                    <u class="+ topic/ph hi-d/u "> </u>
-									                  </b>
-									                  <b class="+ topic/ph hi-d/b ">Number of Actions for the previous FY or 12 mos is:</b>
-								                </p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">
-									                  <b class="+ topic/ph hi-d/b ">Minimum Number of Actions (by type) to Be Reviewed Is:</b>
-								                </p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">Competitive Awards</p>
-								                <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(including multiple award ID/IQ task/delivery orders)</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">1 – 25</p>
-								                <p class="- topic/p ">26 – 50</p>
-								                <p class="- topic/p ">Over 50</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
-								                <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
-								                <p class="- topic/p ">No less than 10%</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">Non-Competitive Awards</p>
-								                <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(including orders issued citing a Fair Opportunity Exception, 8(a) SB set-asides and other mandatory or designated sources)</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">1 – 25</p>
-								                <p class="- topic/p ">26 – 50</p>
-								                <p class="- topic/p ">Over 50</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
-								                <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
-								                <p class="- topic/p ">No less than 10%</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">Modifications</p>
-								                <p class="- topic/p " outputclass="List1">(other than administrative)</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">1 – 25</p>
-								                <p class="- topic/p ">26 – 50</p>
-								                <p class="- topic/p ">Over 50</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
-								                <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
-								                <p class="- topic/p ">No less than 10%</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">BPAs, BOAs and associated Calls/Orders</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">1 – 25</p>
-								                <p class="- topic/p ">26 – 50</p>
-								                <p class="- topic/p ">Over 50</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
-								                <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
-								                <p class="- topic/p ">No less than 10%</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">Terminations, UCAs, Protests, Ratifications and other extraordinary contract actions</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">1 – 25</p>
-								                <p class="- topic/p ">26 – 50</p>
-								                <p class="- topic/p ">Over 50</p>
-							              </entry>
-							              <entry class="- topic/entry ">
-								                <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
-								                <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
-								                <p class="- topic/p ">No less than 10%</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry namest="col1" nameend="col3" class="- topic/entry ">
-								                <p class="- topic/p ">*This list is not inclusive of every type of contract action or agreement; COCOs may include other contract action types or specific actions as they deem necessary.</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry namest="col1" nameend="col3" class="- topic/entry ">
-								                <p class="- topic/p ">**If the total number of actions available for review is less than the mandatory minimum, all files for that action type should be reviewed.</p>
-							              </entry>
-						            </row>
-						            <row rowsep="1" class="- topic/row ">
-							              <entry namest="col1" nameend="col3" class="- topic/entry ">
-								                <p class="- topic/p ">Note: To ensure maximum fidelity in the resultant SIP data and to determine the overall acquisition health of the office/squadron, actions chosen for review should be selected from the entire contract portfolio, to include the responsible flights, divisions, teams and individual contracting officers. </p>
-							              </entry>
-						            </row>
-					          </tbody>
-				        </tgroup>
-			      </table>
-		    </conbody>
-	  </concept>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">If the Action type* is:</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">And the </b>
+                           <b class="+ topic/ph hi-d/b ">
+                              <u class="+ topic/ph hi-d/u ">Total</u>
+                           </b>
+                           <b class="+ topic/ph hi-d/b ">
+                              <u class="+ topic/ph hi-d/u "> </u>
+                           </b>
+                           <b class="+ topic/ph hi-d/b ">Number of Actions for the previous FY or 12 mos is:</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <b class="+ topic/ph hi-d/b ">Minimum Number of Actions (by type) to Be Reviewed Is:</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Competitive Awards</p>
+                        <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(including multiple award ID/IQ task/delivery orders)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1 – 25</p>
+                        <p class="- topic/p ">26 – 50</p>
+                        <p class="- topic/p ">Over 50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
+                        <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
+                        <p class="- topic/p ">No less than 10%</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Non-Competitive Awards</p>
+                        <p class="- topic/p " outputclass="List3" xtrf="CheckMapping">(including orders issued citing a Fair Opportunity Exception, 8(a) SB set-asides and other mandatory or designated sources)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1 – 25</p>
+                        <p class="- topic/p ">26 – 50</p>
+                        <p class="- topic/p ">Over 50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
+                        <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
+                        <p class="- topic/p ">No less than 10%</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Modifications</p>
+                        <p class="- topic/p " outputclass="List1">(other than administrative)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1 – 25</p>
+                        <p class="- topic/p ">26 – 50</p>
+                        <p class="- topic/p ">Over 50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
+                        <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
+                        <p class="- topic/p ">No less than 10%</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">BPAs, BOAs and associated Calls/Orders</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1 – 25</p>
+                        <p class="- topic/p ">26 – 50</p>
+                        <p class="- topic/p ">Over 50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
+                        <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
+                        <p class="- topic/p ">No less than 10%</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">Terminations, UCAs, Protests, Ratifications and other extraordinary contract actions</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">1 – 25</p>
+                        <p class="- topic/p ">26 – 50</p>
+                        <p class="- topic/p ">Over 50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p class="- topic/p ">5 actions (or all, if less than 5 total awards)</p>
+                        <p class="- topic/p ">5 actions, or no less than 10% - whichever is greater</p>
+                        <p class="- topic/p ">No less than 10%</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">*This list is not inclusive of every type of contract action or agreement; COCOs may include other contract action types or specific actions as they deem necessary.</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">**If the total number of actions available for review is less than the mandatory minimum, all files for that action type should be reviewed.</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry namest="col1" nameend="col3" class="- topic/entry ">
+                        <p class="- topic/p ">Note: To ensure maximum fidelity in the resultant SIP data and to determine the overall acquisition health of the office/squadron, actions chosen for review should be selected from the entire contract portfolio, to include the responsible flights, divisions, teams and individual contracting officers. </p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
 </dita>

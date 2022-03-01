@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5314_topic_4"
+   <concept id="AFFARS_AFMC_PGI_5314_404_1"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFMC PGI 5314.404-1</ph> Cancellation of Invitations after Opening</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(a)(3) In the event an invitation for bid (IFB) is to be canceled after opening and all offers will be rejected, an Abstract should be completed and marked accordingly to indicate “all bids have been rejected” and “purchase will not be made.” If the IFB is only partially canceled, the abstract should be marked to clearly indicate which of the items are being canceled.</p>
-		    </conbody>
-	  </concept>
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFMC PGI 5314.404-1</ph> Cancellation of Invitations after Opening</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(3) In the event an invitation for bid (IFB) is to be canceled after opening and all offers will be rejected, an Abstract should be completed and marked accordingly to indicate “all bids have been rejected” and “purchase will not be made.” If the IFB is only partially canceled, the abstract should be marked to clearly indicate which of the items are being canceled.</p>
+      </conbody>
+   </concept>
 </dita>

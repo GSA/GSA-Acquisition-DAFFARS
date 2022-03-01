@@ -4,28 +4,28 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_pgi_5315_topic_12"
+   <concept id="AFFARS_AFICC_PGI_5315_403_1"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-		    <title outputclass="Heading 3" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">AFICC PGI 5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p outputclass="List1" class="- topic/p ">(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i> Commercial Item Exceptions to TINA Requirements Report. The COCO will consolidate and submit the information as outlined in DFARS PGI 215.403-1(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i>, or submit a negative report for the organization, to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFICC PGI 5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C. 2306a and 41 U.S.C. Chapter 35)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i> Commercial Item Exceptions to TINA Requirements Report. The COCO will consolidate and submit the information as outlined in DFARS PGI 215.403-1(c)(3)(B)<i class="+ topic/ph hi-d/i ">(1)</i>, or submit a negative report for the organization, to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
-				        </xref> no later than 7 October each year.</p>
-			      <p id="p__AFICC_PGI_5315.404-1-90"
+               <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
+            </xref> no later than 7 October each year.</p>
+         <p id="p__AFICC_PGI_5315.404-1-90"
             outputclass="List1"
             class="- topic/p ">(c)(4)(B) Waiver of TINA Requirements Report. The COCO will consolidate and submit the information as outlined in DFARS PGI 215.403-1(c)(4)(B), or submit a negative report for their organization to the SCO for review and submission to <xref href="mailto:aficc.kpf.aficckpfworkflow@us.af.mil"
                   scope="external"
                   format="mailto"
                   class="- topic/xref ">
-					          <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
-				        </xref> no later than 7 October each year.</p>
-		    </conbody>
-	  </concept>
+               <u class="+ topic/ph hi-d/u ">AFICC/KPF</u>
+            </xref> no later than 7 October each year.</p>
+      </conbody>
+   </concept>
 </dita>
