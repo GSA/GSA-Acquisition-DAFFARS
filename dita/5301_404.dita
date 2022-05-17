@@ -1,36 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_404"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5301.404 </ph> Class Deviations</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b)(i) USD(A&amp;S)/DPC is the approval authority for any class deviation described in DFARS 201.402(1), class deviations from DFARS 215.3, and class deviations that meet the criteria in DFARS 201.404(b)(II)(A-D).<b class="+ topic/ph hi-d/b "> </b>Submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-            </xref> for processing to USD(A&amp;S)/DPC for approval. </p>
-         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(ii) The DAS(C)/ADAS(C) is the approval authority for class deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Deviation Request</u>
-            </xref> template. Requests must be submitted through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-            </xref> for approval. </p>
-         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(iii) SCOs are authorized to approve class deviations except as restricted by paragraphs (i) and (ii) above. Class deviation approval authority is not delegable.</p>
-         <p id="p__Toc351646725" outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5301_404_92.dita" class="- topic/xref ">AFICC PGI 5301.404-92</xref>.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="AFFARS_5301_404">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5301.404</ph> Class Deviations</title>
+      <conbody>
+         <p id="VLkQih" outputclass="List1">(b)(i) USD(A&amp;S)/DPC is the approval authority for any class deviation described in DFARS 201.402(1), class deviations from DFARS 215.3, and class deviations that meet the criteria in DFARS 201.404(b)(II)(A-D).Submit requests through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+               <u>SAF/AQC</u>
+            </xref> for processing to USD(A&amp;S)/DPC for approval.</p>
+         <p id="ovSGgY" outputclass="List3" xtrf="CheckMapping">(ii) The DAS(C)/ADAS(C) is the approval authority for class deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external">
+               <u>Deviation Request</u>
+            </xref> template. Requests must be submitted through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+               <u>SAF/AQC</u>
+            </xref> for approval.</p>
+         <p id="EeKalU" outputclass="List3" xtrf="CheckMapping">(iii) SCOs are authorized to approve class deviations except as restricted by paragraphs (i) and (ii) above. Class deviation approval authority is not delegable.</p>
       </conbody>
    </concept>
 </dita>

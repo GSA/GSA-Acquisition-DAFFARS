@@ -3,21 +3,24 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5301">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5301</ph> -
-Federal Acquisition Regulations System</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5301</ph> - Federal Acquisition Regulations System</title>
       <body>
+         <p id="oqCfGn">
+            <b>2019 Edition</b>
+         </p>
+         <p id="YzMFBP">
+            <i>Revised: 2 May 2022</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="MP5301_6.dita#AFFARS_MP5301_6">MP5301.6 – CAREER DEVELOPMENT, CONTRACTING
-      AUTHORITY, AND RESPONSIBILITIES</xref>
+                  <xref outputclass="fm:TOC" href="MP5301_6.dita#AFFARS_MP5301_6">MP5301.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5301_601.dita#AFFARS_MP5301_601"> MP5301.601  (a)(i) Head of the Contracting
-   Activity (HCA) Matrix</xref>
+                        <xref outputclass="fm:TOC" href="MP5301_601.dita#AFFARS_MP5301_601">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>
                      </p>
                   </li>
                   <li>
@@ -32,8 +35,7 @@ Federal Acquisition Regulations System</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1"> 1.0  Contracting Officer Roles and
-      Responsibilities</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1">1.0 Contracting Officer Roles and Responsibilities</xref>
                            </p>
                         </li>
                         <li>
@@ -65,8 +67,7 @@ Federal Acquisition Regulations System</title>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5301_603_90.dita#AFFARS_MP5301_603_90">MP5301.603-90 Selection, Appointment, and
-         Termination of Appointment of Contracting Officers</xref>
+                        <xref outputclass="fm:TOC" href="MP5301_603_90.dita#AFFARS_MP5301_603_90">MP5301.603-90 Selection, Appointment, and Termination of Appointment of Contracting Officers</xref>
                      </p>
                   </li>
                </ul>
@@ -83,12 +84,12 @@ Federal Acquisition Regulations System</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_9001A.dita#AFFARS_MP5301_9001A"> MP5301.9001a  (A) Business Clearance Approval for Non-Competitive Actions</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_9001A.dita#AFFARS_MP5301_9001A">MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_9001B.dita#AFFARS_MP5301_9001B"> MP5301.9001b  (B) Business Clearance Approval for Competitive Actions</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_9001B.dita#AFFARS_MP5301_9001B">MP5301.9001b (B) Business Clearance Approval for Competitive Actions</xref>
                            </p>
                         </li>
                      </ul>

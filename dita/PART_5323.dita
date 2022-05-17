@@ -3,22 +3,20 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5323">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5323</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5323</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="nwCqJx" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5323.aspx"
-                  class="- topic/xref ">AFFARS PART 5323 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5323 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="rMfFYN" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="HsoLAL" outputclass="Normal">
+            <i>Revised:</i>
+            <i>2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -29,18 +27,6 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5323_370_4.dita#AFFARS_5323_370_4">5323.370-4 Procedures</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5323_7.dita#AFFARS_SUBPART_5323_7">SUBPART 5323.7 — CONTRACTING FOR ENVIRONMENTALLY PREFERABLE AND ENERGY-EFFICIENT PRODUCTS AND SERVICES</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5323_703.dita#AFFARS_5323_703">5323.703 Policy</xref>
                      </p>
                   </li>
                </ul>

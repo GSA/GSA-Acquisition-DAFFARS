@@ -1,85 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5315_404_1_90"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)Required thresholds for requesting pricing assistance:</p>
-         <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-            <title outputclass="MovedTT" class="- topic/title "/>
-            <tgroup outputclass="fix" cols="3" colsep="1" class="- topic/tgroup ">
-               <colspec colname="col1"
-                        colwidth="150.75*"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col2"
-                        colwidth="131.25*"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <colspec colname="col3"
-                        colwidth="138.75*"
-                        rowheader="headers"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry namest="col1"
-                            nameend="col2"
-                            valign="middle"
-                            class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Sole Source</b>
+<dita>
+   <concept id="AFFARS_5315_404_1_90">
+      <title id="EhSwS9" outputclass="Heading 3">
+         <ph id="8vylhT" props="autonumber">5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
+      <conbody id="jZAzJ1">
+         <p id="MycoKk" outputclass="List1">(a)Required thresholds for requesting pricing assistance:</p>
+         <table colsep="1" id="kX7b68" rowsep="1">
+            <title id="Fe9QWg"/>
+            <tgroup cols="3" colsep="1" id="UIxkHq" outputclass="fix">
+               <tbody id="vQvyT5">
+                  <row id="yjAPHL" rowsep="1">
+                     <entry id="3qz6vf" nameend="2" namest="1">
+                        <p id="SzvTVS">
+                           <b id="A0lJy8">Sole Source</b>
                         </p>
                      </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Competitive</b>
+                     <entry id="w6NCcK">
+                        <p id="fIseio">
+                           <b id="sQyM04">Competitive</b>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">PEO (Systems)</b>
+                  <row id="eWexBu" rowsep="1">
+                     <entry id="RQ8pV9">
+                        <p id="jQzOGZ">
+                           <b id="10mgsW">PEO (Systems)</b>
                         </p>
                      </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">All Other</b>
+                     <entry id="fFJivw">
+                        <p id="jeCsQR">
+                           <b id="ec87RM">All Other</b>
                         </p>
                      </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">All</b>
+                     <entry id="M3f2RR">
+                        <p id="lntxge">
+                           <b id="gB6V47">All</b>
                         </p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">$25M or more</p>
+                  <row id="QWIBkH" rowsep="1">
+                     <entry id="Ng0qH6">
+                        <p id="OJjKPM">$25M or more</p>
                      </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">$10M or more</p>
+                     <entry id="Iq6Tcn">
+                        <p id="wmlqoA">$10M or more</p>
                      </entry>
-                     <entry valign="middle" class="- topic/entry ">
-                        <p class="- topic/p ">$100M or more</p>
+                     <entry id="5NJRaY">
+                        <p id="HMsuTC">$100M or more</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p outputclass="List1" class="- topic/p ">(b) See <xref href="MP5315_404_1_90.dita" class="- topic/xref ">MP5315.404-1-90(b)</xref> for procedures for requesting pricing assistance.</p>
-         <p outputclass="List1" class="- topic/p ">(c) See <xref href="MP5315_404_1_90.dita" class="- topic/xref ">MP5315.404-1-90(c)</xref> for procedures for requesting a pricing assistance waiver for actions that meet or exceed the required thresholds identified in 5315.404-1-90(a). </p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5315_404_1_90.dita" class="- topic/xref ">AFICC PGI 5315.404-1-90</xref>.</p>
-         <p id="p__Toc38364937" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5315_404_1_90.dita" class="- topic/xref ">AFMC PGI 5315.404-1-90</xref>.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5315_404_1_90.dita" class="- topic/xref ">SMC PGI 5315.404-1-90</xref>.</p>
+         <p id="TAPJFW" outputclass="List1">(b) See <xref href="MP5315_404_1_90.dita" id="pCF0EE">MP5315.404-1-90</xref> for procedures for requesting pricing assistance.</p>
+         <p id="RLQIUH" outputclass="List1">(c) See <xref href="MP5315_404_1_90.dita" id="hxhoRt">MP5315.404-1-90</xref> for procedures for requesting a pricing assistance waiver for actions that meet or exceed the required thresholds identified in 5315.404-1-90(a).</p>
+         <p id="qnfpOD" outputclass="Normal"/>
       </conbody>
    </concept>
 </dita>

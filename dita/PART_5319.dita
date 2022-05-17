@@ -3,22 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5319">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5319</ph> - Small Business Programs</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5319</ph> - Small Business Programs</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="kBMnvH" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5319.aspx"
-                  class="- topic/xref ">AFFARS PART 5319 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5319 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="TkgDTU" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="SMTAIq" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -29,6 +26,11 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5319_201.dita#AFFARS_5319_201">5319.201 General Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5319_202.dita#jQOZnI">5319.202 Specific Policy</xref>
                      </p>
                   </li>
                </ul>

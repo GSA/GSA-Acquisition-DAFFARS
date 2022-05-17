@@ -3,17 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5314">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5314</ph> - Sealed Bidding</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5314</ph> - Sealed Bidding</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="CVoimY" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx"
-                  class="- topic/xref ">AFFARS PART 5314 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5314 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="xcXNqd" outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <p id="097ukfu" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -30,7 +32,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5314_4.dita#AFFARS_SUBPART_5314_4"> SUBPART 5314.4  — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5314_4.dita#AFFARS_SUBPART_5314_4">SUBPART 5314.4 — OPENING OF BIDS AND AWARD OF CONTRACT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

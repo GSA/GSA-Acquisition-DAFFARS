@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_101"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5301.101 </ph> Purpose</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The Air Force Federal Acquisition Regulation Supplement (AFFARS) establishes uniform policies and procedures for the Air Force implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting. AFFARS Mandatory Procedures (MP) and Procedures, Guidance, and Information (PGI) are companion resources arranged by parts, which correspond to the relevant FAR parts. Supplements to the AFFARS, MPs, and PGI are prohibited. </p>
-         <p id="p__Toc351646713" outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5301_1.dita" class="- topic/xref ">AFICC PGI 5301.1</xref>.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="AFFARS_5301_101">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5301.101</ph> Purpose</title>
+      <conbody>
+         <p id="zNhKFh" outputclass="Normal">The Air Force Federal Acquisition Regulation Supplement (AFFARS) establishes uniform policies and procedures for the Air Force implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting. AFFARS Mandatory Procedures (MP) and Procedures, Guidance, and Information (PGI) are companion resources arranged by parts, which correspond to the relevant FAR parts. Supplements to the AFFARS and MPs are prohibited.</p>
       </conbody>
    </concept>
 </dita>

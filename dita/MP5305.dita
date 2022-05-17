@@ -3,10 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5305">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5305</ph> -
-Publicizing Contract Actions</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5305</ph> - Publicizing Contract Actions</title>
       <body>
+         <p id="t96j2ryr">
+            <b>2019 Edition</b>
+         </p>
+         <p id="1pzkdk3r">
+            <i>Revised: 2 May 2022</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -15,8 +20,7 @@ Publicizing Contract Actions</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5305_303.dita#AFFARS_MP5305_303"> MP5305.303  Announcement of Contract
-         Awards</xref>
+                        <xref outputclass="fm:TOC" href="MP5305_303.dita#AFFARS_MP5305_303">MP5305.303 Announcement of Contract Awards</xref>
                      </p>
                   </li>
                </ul>

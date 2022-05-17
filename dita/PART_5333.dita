@@ -3,22 +3,21 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5333">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5333</ph> - Protests, Disputes, and Appeals</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5333</ph> - Protests, Disputes, and Appeals</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="aLwHlu" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5333.aspx"
-                  class="- topic/xref ">AFFARS PART 5333 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5333 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="neXRPw" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="p__Toc351654222" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="p__Toc351654222" outputclass="Normal">
+            <i>Revised:</i>
+            <i>2 May</i>
+            <i>2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -33,7 +32,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5333_103.dita#AFFARS_5333_103"> 5333.103  Protests to the Agency</xref>
+                        <xref outputclass="fm:TOC" href="5333_103.dita#AFFARS_5333_103">5333.103 Protests to the Agency</xref>
                      </p>
                   </li>
                   <li>

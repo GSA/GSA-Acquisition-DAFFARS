@@ -3,22 +3,21 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5305">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5305</ph> - Publicizing Contract Actions</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5305</ph> - Publicizing Contract Actions</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="rQjXZP" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5305.aspx"
-                  class="- topic/xref ">AFFARS PART 5305 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5305 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="mftAFC" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "> Jul 21</i>
+         <p id="AqyiFu" outputclass="Normal">
+            <i>Revised:</i>
+            <i>2</i>
+            <i>May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -53,11 +52,6 @@
                         <xref outputclass="fm:TOC" href="5305_204.dita#AFFARS_5305_204">5305.204 Presolicitation Notices</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5305_207.dita#AFFARS_5305_207"> 5305.207  Preparation and Transmittal of Synopses</xref>
-                     </p>
-                  </li>
                </ul>
             </li>
             <li>
@@ -67,7 +61,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_303.dita#AFFARS_5305_303"> 5305.303  Announcement of Contract Awards</xref>
+                        <xref outputclass="fm:TOC" href="5305_303.dita#AFFARS_5305_303">5305.303 Announcement of Contract Awards</xref>
                      </p>
                   </li>
                </ul>
@@ -79,7 +73,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_502.dita#AFFARS_5305_502"> 5305.502  Authority</xref>
+                        <xref outputclass="fm:TOC" href="5305_502.dita#AFFARS_5305_502">5305.502 Authority</xref>
                      </p>
                   </li>
                </ul>

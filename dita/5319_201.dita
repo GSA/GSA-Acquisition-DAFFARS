@@ -1,41 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5319_201"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5319.201</ph> General Policy</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(b) See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p outputclass="List1" class="- topic/p ">(c)(8) See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p outputclass="List1" class="- topic/p ">(c)(10)(A) SB specialists/PCRs must be included early in the acquisition planning process. SB specialists review all acquisitions IAW DFARS 219.201(c)(10)(A) (excluding awards under the Small Business Innovation Research/Small Business Technology Transfer Programs). The SCO and the MAJCOM/DRU/AFRCO/SMC Director of Small Business may jointly agree, in writing, to lower the threshold to $10,000 (regardless of proposed set-aside strategy) for the purpose of achieving small business goals.</p>
-         <p outputclass="List4" class="- topic/p ">(B) Document review on the <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2579.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">DD Form 2579</u>
-            </xref>, <i class="+ topic/ph hi-d/i ">Small Business Coordination Record</i>. Except for AFMC and SMC, forward a copy of all completed DD Forms 2579 in excess of $1,000,000 to the applicable MAJCOM/DRU Director of Small Business prior to convening an Acquisition Strategy Panel or prior to finalizing the Acquisition Strategy if an ASP is not convened. In those instances where the SB specialist and the SBA/PCR are precluded from the review process due to security classification, the contracting officer must complete a <xref href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html"
-                  scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">DD Form 2579</u>
-            </xref>, and the COCO must review and coordinate on the form.</p>
-         <p outputclass="List1" class="- topic/p ">(d) Refer to <ph class="- topic/ph "> </ph>
-            <xref href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 90-1801</u>
-            </xref>, <i class="+ topic/ph hi-d/i ">Small Business Programs</i>, for Air Force Small Business Program requirements.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AF_PGI_5319_201.dita" class="- topic/xref ">AF PGI 5319.201</xref> .</p>
-         <p class="- topic/p ">See <xref href="SMC_PGI_5319_201_90.dita" class="- topic/xref ">SMC PGI 5319.201-90</xref>.</p>
-         <p id="p__Toc38293715" class="- topic/p ">See <xref href="AF_PGI_5319_303.dita" class="- topic/xref ">AF PGI 5319.303</xref>.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<dita>
+   <concept id="AFFARS_5319_201">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5319.201</ph> General Policy</title>
+      <conbody>
+         <p id="xVvUZu" outputclass="List1">(b) See <xref href="MP5301_601.dita">MP5301.601(a)(i)</xref>.</p>
+         <p id="pCjRBj" outputclass="List1">(c)(8) See <xref href="MP5301_601.dita">MP5301.601(a)(i)</xref>.</p>
+         <p id="jfOjJk" outputclass="List1">(c)(10)(A) SB specialists review all acquisitions IAW <xref format="html" href="https://www.acquisition.gov/dfars/part-219-small-business-programs#DFARS-219.201" scope="external">DFARS 219.201(c)(10)(A)</xref> to include task and delivery orders (excluding awards under Phase I and Phase II of the Small Business Innovation Research/Small Business Technology Transfer Programs). SB specialists shall review actions over $10,000, but under the simplified acquisition threshold, when required by the Director, SAF/SB or by written, joint agreement of the SCO and the MAJCOM/DRU/AFRCO/SMC Director of Small Business in accordance with <xref format="html" href="https://www.acquisition.gov/dfarspgi/pgi-part-219-small-business-programs#DFARS-PGI_PGI_219.201" scope="external">DFARS PGI 219.201(c)(10)(1)</xref>.</p>
+         <p id="whUiUO" outputclass="List4">(B) Document review on the <xref format="pdf" href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2579.pdf" scope="external">DD Form 2579</xref>, Small Business Coordination Record. Except for AFMC and SMC, forward a copy of all completed DD Forms 2579 in excess of $1,000,000 to the applicable MAJCOM/DRU Director of Small Business prior to convening an Acquisition Strategy Panel or prior to finalizing the Acquisition Strategy if an ASP is not convened. In those instances where the SB specialist and the SBA/PCR are precluded from the review process due to security classification, the contracting officer must complete a <xref format="html" href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html" scope="external">DD Form 2579</xref>, and the COCO must review and coordinate on the form.</p>
+         <p id="JTaegR" outputclass="List1">(d)(1) The contracting office shall coordinate with the SB specialist as early in the acquisition planning process as practicable to enable early engagement on Air Force Small Business Program requirements. Refer to <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf" scope="external">AFI 90-1801</xref>, Small Business Programs.</p>
+         <p id="fFQObs" outputclass="List1">(d)(2) The SB specialist shall coordinate with SAF/SB when an acquisition strategy or plan involves substantial bundling.</p>
+         <p id="wWQoKk" outputclass="List1">(d)(3) The SB specialist shall coordinate with SAF/SB on all determinations and findings that involve substantial bundling.</p>
       </conbody>
    </concept>
 </dita>

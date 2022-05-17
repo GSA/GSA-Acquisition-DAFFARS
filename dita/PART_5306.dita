@@ -3,23 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5306">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5306</ph> - Competition Requirements</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5306</ph> - Competition Requirements</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="ZZgkDJ" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5306.aspx"
-                  class="- topic/xref ">AFFARS PART 5306 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5306 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="IRjDjb" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "/>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="dwSiAH" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -46,12 +42,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5306_302_2.dita#AFFARS_5306_302_2"> 5306.302-2  Unusual and Compelling Urgency</xref>
+                        <xref outputclass="fm:TOC" href="5306_302_2.dita#AFFARS_5306_302_2">5306.302-2 Unusual and Compelling Urgency</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5306_302_4.dita#AFFARS_5306_302_4"> 5306.302-4  International Agreement</xref>
+                        <xref outputclass="fm:TOC" href="5306_302_4.dita#AFFARS_5306_302_4">5306.302-4 International Agreement</xref>
                      </p>
                   </li>
                   <li>
@@ -71,8 +67,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5306_304.dita#AFFARS_5306_304"> 5306.304  Approval of the
-      Justification</xref>
+                        <xref outputclass="fm:TOC" href="5306_304.dita#AFFARS_5306_304">5306.304 Approval of the Justification</xref>
                      </p>
                   </li>
                </ul>
@@ -84,12 +79,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5306_501.dita#AFFARS_5306_501"> 5306.501  Requirement</xref>
+                        <xref outputclass="fm:TOC" href="5306_501.dita#AFFARS_5306_501">5306.501 Requirement</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5306_502.dita#AFFARS_5306_502"> 5306.502  Duties and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5306_502.dita#AFFARS_5306_502">5306.502 Duties and Responsibilities</xref>
                      </p>
                   </li>
                </ul>

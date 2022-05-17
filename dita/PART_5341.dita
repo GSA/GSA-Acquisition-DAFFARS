@@ -3,17 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5341">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5341</ph> - Acquisition of Utility Services</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5341</ph> - Acquisition of Utility Services</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="xBbXbE" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5341.aspx"
-                  class="- topic/xref ">AFFARS PART 5341 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5341 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="pLrhaB" outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <p id="ry8glan" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -23,7 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5341_102.dita#AFFARS_5341_102"> 5341.102  Applicability</xref>
+                        <xref outputclass="fm:TOC" href="5341_102.dita#AFFARS_5341_102">5341.102 Applicability</xref>
                      </p>
                   </li>
                </ul>

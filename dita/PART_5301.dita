@@ -3,22 +3,21 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5301">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5301</ph> - Federal Acquisition Regulations System</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5301</ph> - Federal Acquisition Regulations System</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="vjhpKV" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx"
-                  class="- topic/xref ">AFFARS PART 5301 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5301 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="YzEXrA" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "> Jul 21</i>
+         <p id="gsDsGj" outputclass="Normal">
+            <i>Revised:</i>
+            <i>2</i>
+            <i>May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -29,17 +28,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_101.dita#AFFARS_5301_101"> 5301.101  Purpose</xref>
+                        <xref outputclass="fm:TOC" href="5301_101.dita#AFFARS_5301_101">5301.101 Purpose</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_105_1.dita#AFFARS_5301_105_1"> 5301.105-1  Publication and Code Arrangement</xref>
+                        <xref outputclass="fm:TOC" href="5301_105_1.dita#AFFARS_5301_105_1">5301.105-1 Publication and Code Arrangement</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_170.dita#AFFARS_5301_170"> 5301.170  Peer Reviews</xref>
+                        <xref outputclass="fm:TOC" href="5301_170.dita#AFFARS_5301_170">5301.170 Peer Reviews</xref>
                      </p>
                   </li>
                </ul>
@@ -56,7 +55,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_201_90.dita#AFFARS_5301_201_90"> 5301.201-90  Maintenance of the AFFARS</xref>
+                        <xref outputclass="fm:TOC" href="5301_201_90.dita#AFFARS_5301_201_90">5301.201-90 Maintenance of the AFFARS</xref>
                      </p>
                   </li>
                </ul>
@@ -73,7 +72,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_304.dita#AFFARS_5301_304"> 5301.304  Agency Control and Compliance Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5301_304.dita#AFFARS_5301_304">5301.304 Agency Control and Compliance Procedures</xref>
                      </p>
                   </li>
                </ul>
@@ -95,7 +94,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_404.dita#AFFARS_5301_404"> 5301.404  Class Deviations</xref>
+                        <xref outputclass="fm:TOC" href="5301_404.dita#AFFARS_5301_404">5301.404 Class Deviations</xref>
                      </p>
                   </li>
                </ul>
@@ -107,7 +106,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_601.dita#AFFARS_5301_601"> 5301.601  General</xref>
+                        <xref outputclass="fm:TOC" href="5301_601.dita#AFFARS_5301_601">5301.601 General</xref>
                      </p>
                   </li>
                   <li>
@@ -117,7 +116,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_601_91.dita#AFFARS_5301_601_91"> 5301.601-91  Air Force Contracting Self-Inspection Program</xref>
+                        <xref outputclass="fm:TOC" href="5301_601_91.dita#AFFARS_5301_601_91">5301.601-91 Air Force Contracting Self-Inspection Program</xref>
                      </p>
                   </li>
                   <li>
@@ -132,12 +131,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_602_3.dita#AFFARS_5301_602_3"> 5301.602-3  Ratification of Unauthorized Commitments</xref>
+                        <xref outputclass="fm:TOC" href="5301_602_3.dita#AFFARS_5301_602_3">5301.602-3 Ratification of Unauthorized Commitments</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_603_1.dita#AFFARS_5301_603_1"> 5301.603-1  General</xref>
+                        <xref outputclass="fm:TOC" href="5301_603_1.dita#AFFARS_5301_603_1">5301.603-1 General</xref>
                      </p>
                   </li>
                   <li>
@@ -181,8 +180,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9001.dita#AFFARS_5301_9001">5301.9001 Policy, Thresholds, and
-      Approvals</xref>
+                        <xref outputclass="fm:TOC" href="5301_9001.dita#AFFARS_5301_9001">5301.9001 Policy, Thresholds, and Approvals</xref>
                      </p>
                   </li>
                </ul>
@@ -204,7 +202,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9103.dita#AFFARS_5301_9103"> 5301.9103  Solicitation Provision and Contract Clause</xref>
+                        <xref outputclass="fm:TOC" href="5301_9103.dita#AFFARS_5301_9103">5301.9103 Solicitation Provision and Contract Clause</xref>
                      </p>
                   </li>
                </ul>

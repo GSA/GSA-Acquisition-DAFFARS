@@ -3,10 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5306">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5306</ph> -
-Competition Requirements</title>
+      <title outputclass="Part">
+         <ph props="autonumber">MP5306</ph> - Competition Requirements</title>
       <body>
+         <p id="o0dm98rl">
+            <b>2019 Edition</b>
+         </p>
+         <p id="ury8pylq">
+            <i>Revised: 2 May 2022</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -25,7 +30,7 @@ Competition Requirements</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"> 2.  Duties and Responsibilities.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2">2. Duties and Responsibilities.</xref>
                            </p>
                         </li>
                         <li>

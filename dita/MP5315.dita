@@ -3,10 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5315">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5315</ph> -
-Contracting by Negotiation</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5315</ph> - Contracting by Negotiation</title>
       <body>
+         <p id="zrse89lh">
+            <b>2019 Edition</b>
+         </p>
+         <p id="751wf1z">
+            <i>Revised: 2 May 2022</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -25,7 +30,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2"> 1.2  Applicability and Waivers</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2">1.2 Applicability and Waivers</xref>
                            </p>
                         </li>
                         <li>
@@ -35,7 +40,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4"> 1.4  Source Selection Team Roles and Responsibilities</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4">1.4 Source Selection Team Roles and Responsibilities</xref>
                            </p>
                         </li>
                      </ul>
@@ -57,7 +62,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3"> 2.3  Develop the Request for Proposals</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3">2.3 Develop the Request for Proposals</xref>
                            </p>
                         </li>
                         <li>
@@ -84,7 +89,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3"> 3.3  Award without Discussions</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3">3.3 Award without Discussions</xref>
                            </p>
                         </li>
                         <li>
@@ -99,7 +104,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6"> 3.6  Final Proposal Revisions</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6">3.6 Final Proposal Revisions</xref>
                            </p>
                         </li>
                         <li>
@@ -151,8 +156,7 @@ Contracting by Negotiation</title>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3">4.3 Tactics, Techniques and Procedures (TTP),
-      Samples, and Tailorable Templates</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3">4.3 Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates</xref>
                            </p>
                         </li>
                      </ul>
@@ -266,7 +270,7 @@ Contracting by Negotiation</title>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5315_407_90.dita#AFFARS_MP5315_407_90"> MP5315.407-90  Contract Audit Follow-up (CAFU)</xref>
+                        <xref outputclass="fm:TOC" href="MP5315_407_90.dita#AFFARS_MP5315_407_90">MP5315.407-90 Contract Audit Follow-up (CAFU)</xref>
                      </p>
                   </li>
                </ul>

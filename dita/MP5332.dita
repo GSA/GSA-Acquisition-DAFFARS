@@ -3,10 +3,15 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5332">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5332</ph> -
-Contract Financing</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5332</ph> - Contract Financing</title>
       <body>
+         <p id="kwFlhx" outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <p id="nmghfe">
+            <i>Revised 2 May 2022</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -18,14 +23,6 @@ Contract Financing</title>
                      <p>
                         <xref outputclass="fm:TOC" href="MP5332_470.dita#AFFARS_MP5332_470">MP5332.470 Advance Payment Pool</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC"
-                                    href="ADVANCE_PAYMENT_REQUESTS.dita#AFFARS_ADVANCE_PAYMENT_REQUESTS">Advance payment requests must be processed as follows:</xref>
-                           </p>
-                        </li>
-                     </ul>
                   </li>
                </ul>
             </li>

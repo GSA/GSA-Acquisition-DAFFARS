@@ -3,25 +3,22 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5312">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5312</ph> - Acquisition of Commercial Items</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">PART 5312</ph> - Acquisition of Commercial Items</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="sfiOtH" outputclass="Normal">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5312.aspx"
-                  class="- topic/xref ">AFFARS PART 5312 Knowledge Center</xref>
+                  scope="external">AFFARS PART 5312 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="BAdzNZ" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "> Jul 21</i>
+         <p id="VJfcTN" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
-         <p id="p__Toc45291003" outputclass="Normal" class="- topic/p ">INTERIM CHANGE: See Policy Memo<ph class="- topic/ph ">
-               <u class="+ topic/ph hi-d/u ">18-C-03</u>
+         <p id="p__Toc45291003" outputclass="Normal">INTERIM CHANGE: See Policy Memo<ph>
+               <u>18-C-03</u>
             </ph>
          </p>
          <ul otherprops="TOC">
@@ -32,7 +29,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_102.dita#AFFARS_5312_102"> 5312.102  Applicability</xref>
+                        <xref outputclass="fm:TOC" href="5312_102.dita#AFFARS_5312_102">5312.102 Applicability</xref>
                      </p>
                   </li>
                </ul>
@@ -74,18 +71,6 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5312_403.dita#AFFARS_5312_403">5312.403 Termination</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5312_70.dita#AFFARS_SUBPART_5312_70">SUBPART 5312.70 – LIMITATION ON CONVERSION OF PROCUREMENT FROM COMMERCIAL ACQUISITION PROCEDURES</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5312_7001.dita#AFFARS_5312_7001"> 5312.7001  Procedures</xref>
                      </p>
                   </li>
                </ul>
