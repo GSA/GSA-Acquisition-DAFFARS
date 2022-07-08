@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5317">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,15 +13,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5317_7402_90.dita#AFFARS_AF_PGI_5317_7402_90"> AF PGI 5317.7402-90  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5317_7402_90.dita#AFFARS_AF_PGI_5317_7402_90" xtrc="AF PGI 5317.7402-90 Exceptions">AF PGI 5317.7402-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5317_9000.dita#AFFARS_AF_PGI_5317_9000"> AF PGI 5317.9000  Associate Contractor
-      Agreements</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5317_9000.dita#AFFARS_AF_PGI_5317_9000" xtrc="AF PGI 5317.9000 Associate Contractor Agreements">AF PGI 5317.9000</xref>
                      </p>
                   </li>
                </ul>
@@ -34,8 +30,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5317_204_90.dita#AFFARS_AFICC_PGI_5317_204_90">AFICC PGI 5317.204-90 Contracts</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5317_204_90.dita#AFFARS_AFICC_PGI_5317_204_90" xtrc="AFICC PGI 5317.204-90 Contracts">AFICC PGI 5317.204-90</xref>
                      </p>
                   </li>
                </ul>
@@ -47,32 +42,27 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_204_90.dita#AFFARS_AFMC_PGI_5317_204_90">AFMC PGI 5317.204-90 Contracts</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5317_204_90.dita#AFFARS_AFMC_PGI_5317_204_90" xtrc="AFMC PGI 5317.204-90 Contracts">AFMC PGI 5317.204-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7404_3_90.dita#AFFARS_AFMC_PGI_5317_7404_3_90">AFMC PGI 5317.7404-3-90 Definitization Schedule</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5317_7404_3_90.dita#AFFARS_AFMC_PGI_5317_7404_3_90" xtrc="AFMC PGI 5317.7404-3-90 Definitization Schedule">AFMC PGI 5317.7404-3-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7502_90.dita#AFFARS_AFMC_PGI_5317_7502_90">AFMC PGI 5317.7502-90 General</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5317_7502_90.dita#AFFARS_AFMC_PGI_5317_7502_90" xtrc="AFMC PGI 5317.7502-90 General">AFMC PGI 5317.7502-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7506_90.dita#AFFARS_AFMC_PGI_5317_7506_90">AFMC PGI 5317.7506-90 Spare Parts Breakout Program</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5317_7506_90.dita#AFFARS_AFMC_PGI_5317_7506_90" xtrc="AFMC PGI 5317.7506-90 Spare Parts Breakout Program">AFMC PGI 5317.7506-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5317_7601_90.dita#AFFARS_AFMC_PGI_5317_7601_90">AFMC PGI 5317.7601-90 Provisioning</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5317_7601_90.dita#AFFARS_AFMC_PGI_5317_7601_90" xtrc="AFMC PGI 5317.7601-90 Provisioning">AFMC PGI 5317.7601-90</xref>
                      </p>
                   </li>
                </ul>
@@ -84,14 +74,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5317_502_2.dita#AFFARS_SMC_PGI_5317_502_2">SMC PGI 5317.502-2 The Economy Act</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5317_502_2.dita#AFFARS_SMC_PGI_5317_502_2" xtrc="SMC PGI 5317.502-2 The Economy Act">SMC PGI 5317.502-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5317_7404_1.dita#AFFARS_SMC_PGI_5317_7404_1">SMC PGI 5317.7404-1 Authorization</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5317_7404_1.dita#AFFARS_SMC_PGI_5317_7404_1" xtrc="SMC PGI 5317.7404-1 Authorization">SMC PGI 5317.7404-1</xref>
                      </p>
                   </li>
                </ul>

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5346">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5346</ph> Quality Assurance</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5346.aspx"
-                  class="- topic/xref ">AFFARS PART 5346 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5346.aspx" class="- topic/xref ">AFFARS PART 5346 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -23,7 +19,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5346_103.dita#AFFARS_5346_103"> 5346.103  Contracting Office Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5346_103.dita#AFFARS_5346_103" xtrc="5346.103 Contracting Office Responsibilities">5346.103</xref>
                      </p>
                   </li>
                </ul>

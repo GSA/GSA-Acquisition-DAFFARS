@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5336">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,14 +13,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5336_9001.dita#AFFARS_AF_PGI_5336_9001">AF PGI 5336.9001 Forms</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5336_9001.dita#AFFARS_AF_PGI_5336_9001" xtrc="AF PGI 5336.9001 Forms">AF PGI 5336.9001</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5336_9002.dita#AFFARS_AF_PGI_5336_9002">AF PGI 5336.9002 Air Force Construction Guide</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5336_9002.dita#AFFARS_AF_PGI_5336_9002" xtrc="AF PGI 5336.9002 Air Force Construction Guide">AF PGI 5336.9002</xref>
                      </p>
                   </li>
                </ul>

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5314">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5314</ph> - Sealed Bidding</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx"
-                  class="- topic/xref ">AFFARS PART 5314 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx" class="- topic/xref ">AFFARS PART 5314 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -23,7 +19,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_201_7">5314.201-7 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_201_7" xtrc="5314.201-7 Contract Clauses">5314.201-7</xref>
                      </p>
                   </li>
                </ul>
@@ -35,7 +31,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_407_3">5314.407-3 Other Mistakes Disclosed Before Award</xref>
+                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_407_3" xtrc="5314.407-3 Other Mistakes Disclosed Before Award">5314.407-3</xref>
                      </p>
                   </li>
                </ul>

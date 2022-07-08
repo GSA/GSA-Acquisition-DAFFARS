@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5349">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,7 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5349_101.dita#AFFARS_AF_PGI_5349_101">AF PGI 5349.101 Authorities and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5349_101.dita#AFFARS_AF_PGI_5349_101" xtrc="AF PGI 5349.101 Authorities and Responsibilities">AF PGI 5349.101</xref>
                      </p>
                   </li>
                </ul>
@@ -26,8 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5349_101.dita#AFFARS_SMC_PGI_5349_101">SMC PGI 5349.101 Authorities and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5349_101.dita#AFFARS_SMC_PGI_5349_101" xtrc="SMC PGI 5349.101 Authorities and Responsibilities">SMC PGI 5349.101</xref>
                      </p>
                   </li>
                </ul>
@@ -39,8 +37,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5349_101.dita#AFFARS_USAFA_PGI_5349_101">USAFA PGI 5349.101 Authorities and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="USAFA_PGI_5349_101.dita#AFFARS_USAFA_PGI_5349_101" xtrc="USAFA PGI 5349.101 Authorities and Responsibilities">USAFA PGI 5349.101</xref>
                      </p>
                   </li>
                </ul>

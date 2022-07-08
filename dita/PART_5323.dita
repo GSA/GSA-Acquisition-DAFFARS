@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5323">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5323</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5323.aspx"
-                  class="- topic/xref ">AFFARS PART 5323 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5323.aspx" class="- topic/xref ">AFFARS PART 5323 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5323_370_4.dita#AFFARS_5323_370_4">5323.370-4 Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5323_370_4.dita#AFFARS_5323_370_4" xtrc="5323.370-4 Procedures">5323.370-4</xref>
                      </p>
                   </li>
                </ul>
@@ -40,7 +36,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5323_703.dita#AFFARS_5323_703">5323.703 Policy</xref>
+                        <xref outputclass="fm:TOC" href="5323_703.dita#AFFARS_5323_703" xtrc="5323.703 Policy">5323.703</xref>
                      </p>
                   </li>
                </ul>
@@ -52,12 +48,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5323_803.dita#AFFARS_5323_803">5323.803 Policy</xref>
+                        <xref outputclass="fm:TOC" href="5323_803.dita#AFFARS_5323_803" xtrc="5323.803 Policy">5323.803</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5323_804_90.dita#AFFARS_5323_804_90">5323.804-90 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5323_804_90.dita#AFFARS_5323_804_90" xtrc="5323.804-90 Contract Clauses">5323.804-90</xref>
                      </p>
                   </li>
                </ul>
@@ -69,7 +65,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5323_9001.dita#AFFARS_5323_9001">5323.9001 Contract Clause</xref>
+                        <xref outputclass="fm:TOC" href="5323_9001.dita#AFFARS_5323_9001" xtrc="5323.9001 Contract Clause">5323.9001</xref>
                      </p>
                   </li>
                </ul>

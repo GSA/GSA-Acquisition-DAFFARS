@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5326">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5326</ph> - Other Socioeconomic Programs</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5326.aspx"
-                  class="- topic/xref ">AFFARS PART 5326 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5326.aspx" class="- topic/xref ">AFFARS PART 5326 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5326_203.dita#AFFARS_5326_203">5326.203 TRANSITION OF WORK</xref>
+                        <xref outputclass="fm:TOC" href="5326_203.dita#AFFARS_5326_203" xtrc="5326.203 TRANSITION OF WORK">5326.203</xref>
                      </p>
                   </li>
                </ul>

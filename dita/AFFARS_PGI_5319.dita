@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5319">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,19 +13,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5319_201.dita#AFFARS_AF_PGI_5319_201"> 5319.201  General Policy</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5319_201.dita#AFFARS_AF_PGI_5319_201" xtrc="5319.201 General Policy">5319.201</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5319_303.dita#AFFARS_AF_PGI_5319_303">AF PGI 5319.303 Determining North American
-      Industry Classification System (NAICS) Codes and Size Standards</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5319_303.dita#AFFARS_AF_PGI_5319_303" xtrc="AF PGI 5319.303 Determining North American Industry Classification System (NAICS) Codes and Size Standards">AF PGI 5319.303</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5319_705_2.dita#AFFARS_AF_PGI_5319_705_2">AF PGI 5319.705-2 Determining the Need for a Subcontracting Plan</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5319_705_2.dita#AFFARS_AF_PGI_5319_705_2" xtrc="AF PGI 5319.705-2 Determining the Need for a Subcontracting Plan">AF PGI 5319.705-2</xref>
                      </p>
                   </li>
                </ul>
@@ -38,14 +35,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5319_505.dita#AFFARS_AFMC_PGI_5319_505">AFMC PGI 5319.505 Rejecting Small Business Administration Recommendations</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5319_505.dita#AFFARS_AFMC_PGI_5319_505" xtrc="AFMC PGI 5319.505 Rejecting Small Business Administration Recommendations">AFMC PGI 5319.505</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5319_602_3.dita#AFFARS_AFMC_PGI_5319_602_3">AFMC PGI 5319.602-3 Resolving Differences Between the Agency and the Small Business Administration</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5319_602_3.dita#AFFARS_AFMC_PGI_5319_602_3" xtrc="AFMC PGI 5319.602-3 Resolving Differences Between the Agency and the Small Business Administration">AFMC PGI 5319.602-3</xref>
                      </p>
                   </li>
                </ul>
@@ -57,8 +52,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5319_201_90.dita#AFFARS_SMC_PGI_5319_201_90">SMC PGI 5319.201-90 General Policy</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5319_201_90.dita#AFFARS_SMC_PGI_5319_201_90" xtrc="SMC PGI 5319.201-90 General Policy">SMC PGI 5319.201-90</xref>
                      </p>
                   </li>
                </ul>

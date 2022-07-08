@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5347">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,8 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5347_301_1.dita#AFFARS_AFMC_PGI_5347_301_1">AFMC PGI 5347.301-1 Responsibilities of Contracting Officers</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5347_301_1.dita#AFFARS_AFMC_PGI_5347_301_1" xtrc="AFMC PGI 5347.301-1 Responsibilities of Contracting Officers">AFMC PGI 5347.301-1</xref>
                      </p>
                   </li>
                </ul>

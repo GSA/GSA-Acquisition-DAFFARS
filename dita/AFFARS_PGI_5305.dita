@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5305">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,7 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5305_201.dita#AFFARS_AF_PGI_5305_201"> AF PGI 5305.201  General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5305_201.dita#AFFARS_AF_PGI_5305_201" xtrc="AF PGI 5305.201 General">AF PGI 5305.201</xref>
                      </p>
                   </li>
                </ul>
@@ -26,8 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5305_303.dita#AFFARS_AFMC_PGI_5305_303">AFMC PGI 5305.303 Announcement of Contract Awards</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5305_303.dita#AFFARS_AFMC_PGI_5305_303" xtrc="AFMC PGI 5305.303 Announcement of Contract Awards">AFMC PGI 5305.303</xref>
                      </p>
                   </li>
                </ul>
@@ -39,14 +37,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5305_207_90.dita#AFFARS_SMC_PGI_5305_207_90">SMC PGI 5305.207-90 Preparation and Transmittal of Synopses</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5305_207_90.dita#AFFARS_SMC_PGI_5305_207_90" xtrc="SMC PGI 5305.207-90 Preparation and Transmittal of Synopses">SMC PGI 5305.207-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5305_303.dita#AFFARS_SMC_PGI_5305_303">SMC PGI 5305.303 Announcement of Contract Awards</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5305_303.dita#AFFARS_SMC_PGI_5305_303" xtrc="SMC PGI 5305.303 Announcement of Contract Awards">SMC PGI 5305.303</xref>
                      </p>
                   </li>
                </ul>

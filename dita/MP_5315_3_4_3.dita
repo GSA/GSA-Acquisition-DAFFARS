@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_4_3"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP_5315_3_4_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept ">
       <title outputclass="Heading 3" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">4.3</ph> Tactics, Techniques and Procedures (TTP),
       Samples, and Tailorable Templates</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">TTP: <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/ss_documentation_guidance.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+         <p outputclass="Normal" class="- topic/p ">TTP: <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/ss_documentation_guidance.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Protection, Maintenance, Retention, and Disposition of
             Source Selection Data</u>
             </xref>
@@ -25,10 +15,7 @@
             <b class="+ topic/ph hi-d/b ">Templates:</b> A comprehensive collection of samples and
         tailorable templates for your use as desired, is provided below.</p>
          <p outputclass="Normal" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/abstract_of_proposals_and_quotations.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/abstract_of_proposals_and_quotations.pdf" scope="external" format="pdf" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Abstract of Proposals/Quotations (Negotiated
             Procurement)</u>
             </xref>
@@ -37,84 +24,54 @@
             <b class="+ topic/ph hi-d/b ">Source Selection Documentation Templates</b>
          </p>
          <p id="p_P322_21438" outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/memo_SSA_Delegation.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/memo_SSA_Delegation.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Delegation of Source Selection Authority (SSA)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_1.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_1.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Past Performance Questionnaire (Sample 1)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_2.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_2.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Past Performance Questionnaire (Sample 2)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_3.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/past_perf_quest_sample_3.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Past Performance Questionnaire (Sample 3)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/section_L_past_performance_information.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/section_L_past_performance_information.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Section L </u>
                <u class="+ topic/ph hi-d/u ">Attachment </u>
                <u class="+ topic/ph hi-d/u ">- Past Performance Information</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/solicitation_cross_reference_matrix.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/solicitation_cross_reference_matrix.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Solicitation Cross Reference Matrix</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_file_checklist.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_file_checklist.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Source Selection File Checklist</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_plan.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_plan.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Source Selection Plan</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/subcontractor_consent_letter.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/subcontractor_consent_letter.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Subcontractor Consent Letter</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/verification_of_correspondence_to_offeror.xls"
-                  scope="external"
-                  format="xls"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/verification_of_correspondence_to_offeror.xls" scope="external" format="xls" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Verification of Correspondence Going to Offeror</u>
             </xref>
             <ph class="- topic/ph ">
@@ -122,18 +79,12 @@
             </ph>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_info_cover_sheet.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_info_cover_sheet.pdf" scope="external" format="pdf" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Source Selection Information Coversheet</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_info_cover_sheet_USAF_CUI_SF901.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_info_cover_sheet_USAF_CUI_SF901.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">SF 901</u>
                <u class="+ topic/ph hi-d/u ">,</u>
                <u class="+ topic/ph hi-d/u "> Controlled Unclassified Information (CUI) Cover Sheet (AF
@@ -141,43 +92,28 @@
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_non-disclosure_agreement.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_non-disclosure_agreement.pdf" scope="external" format="pdf" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Source Selection Non-Disclosure Agreement (NDA)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/conflict_of_interest_statement.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/conflict_of_interest_statement.pdf" scope="external" format="pdf" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Conflict of Interest Statement</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/use_of_non-government_advisors.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/use_of_non-government_advisors.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Sample RFP Section L language – Use of Non-Government
             Advisors</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/section_L_and_M_samples.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/section_L_and_M_samples.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">RFP Section L &amp; M Samples</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/soure_selection_notification.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/soure_selection_notification.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Notice Announcing that a Source Selection is in Progress</u>
             </xref>
             <ph class="- topic/ph ">
@@ -185,26 +121,17 @@
             </ph>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competitive_range_decision_document.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competitive_range_decision_document.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Competitive Range Decision Document</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/comparative_anal_rpt_and_award_rec.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/comparative_anal_rpt_and_award_rec.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Comparative Analysis Report &amp; Award Recommendation</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_decision_document.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_decision_document.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Source Selection Decision Document</u>
             </xref>
          </p>
@@ -212,98 +139,62 @@
             <b class="+ topic/ph hi-d/b ">Source Selection Evaluation Board (SSEB) Templates </b>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/rating_team_worksheet_method_1.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/rating_team_worksheet_method_1.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Rating Team Worksheet (Methodology 1)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/rating_team_worksheet_method_2.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/rating_team_worksheet_method_2.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Rating Team Worksheet (Methodology 2)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/PPT_rating_team_worksheet.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/PPT_rating_team_worksheet.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Rating Team Worksheet (PPT)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_Tech_Evaluator_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_Tech_Evaluator_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Tradeoff Technical Evaluator Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/LPTA_Tech_Evaluator_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/LPTA_Tech_Evaluator_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">LPTA Technical Evaluator Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_SubFactor_Chief_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_SubFactor_Chief_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Tradeoff Subfactor Chief Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/LPTA_SubFactor_Chief_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/LPTA_SubFactor_Chief_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">LPTA Subfactor Chief Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/EN_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/EN_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Evaluation Notice (EN)</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sseb_report.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sseb_report.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">SSEB Report</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Initial_evaluation_briefing.pptx"
-                  scope="external"
-                  format="pptx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Initial_evaluation_briefing.pptx" scope="external" format="pptx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Initial Evaluation Briefing</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/pre-FPR_request_briefing.pptx"
-                  scope="external"
-                  format="pptx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/pre-FPR_request_briefing.pptx" scope="external" format="pptx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Pre-Final Proposal Revisions (FPR) Request Briefing</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/final_decision_brief.pptx"
-                  scope="external"
-                  format="pptx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/final_decision_brief.pptx" scope="external" format="pptx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Final Decision Briefing</u>
             </xref>
          </p>
@@ -311,66 +202,42 @@
             <b class="+ topic/ph hi-d/b ">Past Performance Evaluation Team Documents</b>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/Relevancy_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/Relevancy_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Relevancy Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_PerformanceQuality_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_PerformanceQuality_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Tradeoff Performance Quality Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/LPTA_PerformanceQuality_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/LPTA_PerformanceQuality_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">LPTA Performance Quality Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/BusinessRelationship_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/BusinessRelationship_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Business Relationship Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/PPI_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/PPI_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Past Performance Information Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_PastPerformanceConfidence_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/afcc/records_contract/EZ/EZ_Docs/Templates/Tradeoff_PastPerformanceConfidence_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Tradeoff Past Performance Confidence Assessment Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/LPTA_PastPerformanceEvaluation_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/LPTA_PastPerformanceEvaluation_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">LPTA Past Performance Evaluation Template</u>
             </xref>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/perf_conf_rating_eval.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/perf_conf_rating_eval.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Performance Confidence Rating Evaluation</u>
             </xref>
          </p>
@@ -378,14 +245,11 @@
             <b class="+ topic/ph hi-d/b ">Cost/Price Evaluation Team Document</b>
          </p>
          <p outputclass="List5" class="- topic/p ">
-            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/CostPrice_Template.docx"
-                  scope="external"
-                  format="docx"
-                  class="- topic/xref ">
+            <xref href="https://usaf.dps.mil/teams/PK-Central/AFCC/records_contract/EZ/EZ_Docs/Templates/CostPrice_Template.docx" scope="external" format="docx" class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Cost/Price Template</u>
             </xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5315_3G.dita" class="- topic/xref ">SMC PGI 5315.3 (4.3)</xref> .</p>
+         <p outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5315_3G.dita" class="- topic/xref " xtrc="SMC PGI 5315.3 (4.3)">SMC PGI 5315.3</xref> .</p>
       </conbody>
    </concept>
 </dita>

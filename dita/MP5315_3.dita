@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5315_3"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5315_3" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5315.3</ph> Source Selection</title>
       <body class="- topic/body ">
@@ -22,311 +16,227 @@
          <ul outputclass="TOC" class="- topic/ul ">
             <li id="kjgVjh" class="- topic/li ">
                <p id="VUjcSo" class="- topic/p ">
-                  <xref href="MP_5315_3_1.dita#AFFARS_MP_5315_3_1"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
+                  <xref href="MP_5315_3_1.dita#AFFARS_MP_5315_3_1" outputclass="fm:TOC" class="- topic/xref ">1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="RVNmTR" class="- topic/li ">
                      <p id="xvUFuw" class="- topic/p ">
-                        <xref href="MP_5315_3_1_1.dita#AFFARS_MP_5315_3_1_1"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">1.1 Purpose</xref>
+                        <xref href="MP_5315_3_1_1.dita#AFFARS_MP_5315_3_1_1" outputclass="fm:TOC" class="- topic/xref " xtrc="1.1 Purpose">1.1</xref>
                      </p>
                   </li>
                   <li id="wWmgIU" class="- topic/li ">
                      <p id="VIeWSc" class="- topic/p ">
-                        <xref href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">1.2 Applicability and Waivers</xref>
+                        <xref href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2" outputclass="fm:TOC" class="- topic/xref " xtrc="1.2 Applicability and Waivers">1.2</xref>
                      </p>
                   </li>
                   <li id="TCPslu" class="- topic/li ">
                      <p id="cPDbng" class="- topic/p ">
-                        <xref href="MP_5315_3_1_3.dita#AFFARS_MP_5315_3_1_3"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">1.3 Best Value Continuum (No AF Text)</xref>
+                        <xref href="MP_5315_3_1_3.dita#AFFARS_MP_5315_3_1_3" outputclass="fm:TOC" class="- topic/xref " xtrc="1.3 Best Value Continuum (No AF Text)">1.3</xref>
                      </p>
                   </li>
                   <li id="nlZrZw" class="- topic/li ">
                      <p id="uvLvCz" class="- topic/p ">
-                        <xref href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">1.4 Source Selection Team Roles and Responsibilities</xref>
+                        <xref href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4" outputclass="fm:TOC" class="- topic/xref " xtrc="1.4 Source Selection Team Roles and Responsibilities">1.4</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li id="NGFjIY" class="- topic/li ">
                <p id="GWQDap" class="- topic/p ">
-                  <xref href="MP_5315_3_2.dita#AFFARS_MP_5315_3_2"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">2 PRE-SOLICITATION ACTIVITIES</xref>
+                  <xref href="MP_5315_3_2.dita#AFFARS_MP_5315_3_2" outputclass="fm:TOC" class="- topic/xref ">2 PRE-SOLICITATION ACTIVITIES</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="rOcDiK" class="- topic/li ">
                      <p id="nDdQul" class="- topic/p ">
-                        <xref href="MP_5315_3_2_1.dita#AFFARS_MP_5315_3_2_1"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">2.1 Conduct Acquisition Planning</xref>
+                        <xref href="MP_5315_3_2_1.dita#AFFARS_MP_5315_3_2_1" outputclass="fm:TOC" class="- topic/xref " xtrc="2.1 Conduct Acquisition Planning">2.1</xref>
                      </p>
                   </li>
                   <li id="tAKuoB" class="- topic/li ">
                      <p id="ZXzUfz" class="- topic/p ">
-                        <xref href="MP_5315_3_2_2.dita#AFFARS_MP_5315_3_2_2"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">2.2 Develop a Source Selection Plan (SSP)</xref>
+                        <xref href="MP_5315_3_2_2.dita#AFFARS_MP_5315_3_2_2" outputclass="fm:TOC" class="- topic/xref " xtrc="2.2 Develop a Source Selection Plan (SSP)">2.2</xref>
                      </p>
                   </li>
                   <li id="mcMJbi" class="- topic/li ">
                      <p id="bCuXIz" class="- topic/p ">
-                        <xref href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">2.3 Develop the Request for Proposals</xref>
+                        <xref href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3" outputclass="fm:TOC" class="- topic/xref " xtrc="2.3 Develop the Request for Proposals">2.3</xref>
                      </p>
                   </li>
                   <li id="cLmxGJ" class="- topic/li ">
                      <p id="QIzLPw" class="- topic/p ">
-                        <xref href="MP_5315_3_2_4.dita#AFFARS_MP_5315_3_2_4"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">2.4 Release the Request for Proposals (No AF Text)</xref>
+                        <xref href="MP_5315_3_2_4.dita#AFFARS_MP_5315_3_2_4" outputclass="fm:TOC" class="- topic/xref " xtrc="2.4 Release the Request for Proposals (No AF Text)">2.4</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li id="ZIBtjE" class="- topic/li ">
                <p id="PjFFOl" class="- topic/p ">
-                  <xref href="MP_5315_3_3.dita#AFFARS_MP_5315_3_3"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">3 EVALUATION AND DECISION PROCESS</xref>
+                  <xref href="MP_5315_3_3.dita#AFFARS_MP_5315_3_3" outputclass="fm:TOC" class="- topic/xref ">3 EVALUATION AND DECISION PROCESS</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="MMJuFb" class="- topic/li ">
                      <p id="ZtWAJi" class="- topic/p ">
-                        <xref href="MP_5315_3_3_1.dita#AFFARS_MP_5315_3_3_1"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.1 Evaluation Activities</xref>
+                        <xref href="MP_5315_3_3_1.dita#AFFARS_MP_5315_3_3_1" outputclass="fm:TOC" class="- topic/xref " xtrc="3.1 Evaluation Activities">3.1</xref>
                      </p>
                   </li>
                   <li id="Xtzwny" class="- topic/li ">
                      <p id="DWRqCL" class="- topic/p ">
-                        <xref href="MP_5315_3_3_2.dita#AFFARS_MP_5315_3_3_2"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.2 Documentation of Initial Evaluation Results</xref>
+                        <xref href="MP_5315_3_3_2.dita#AFFARS_MP_5315_3_3_2" outputclass="fm:TOC" class="- topic/xref " xtrc="3.2 Documentation of Initial Evaluation Results">3.2</xref>
                      </p>
                   </li>
                   <li id="hXGSSc" class="- topic/li ">
                      <p id="suspfa" class="- topic/p ">
-                        <xref href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.3 Award without Discussions</xref>
+                        <xref href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3" outputclass="fm:TOC" class="- topic/xref " xtrc="3.3 Award without Discussions">3.3</xref>
                      </p>
                   </li>
                   <li id="jeOPsq" class="- topic/li ">
                      <p id="SZyDMJ" class="- topic/p ">
-                        <xref href="MP_5315_3_3_4.dita#AFFARS_MP_5315_3_3_4"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.4 Competitive Range Decision Document</xref>
+                        <xref href="MP_5315_3_3_4.dita#AFFARS_MP_5315_3_3_4" outputclass="fm:TOC" class="- topic/xref " xtrc="3.4 Competitive Range Decision Document">3.4</xref>
                      </p>
                   </li>
                   <li id="sZvmWg" class="- topic/li ">
                      <p id="SMFhbQ" class="- topic/p ">
-                        <xref href="MP_5315_3_3_5.dita#AFFARS_MP_5315_3_3_5"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.5 Discussion Process</xref>
+                        <xref href="MP_5315_3_3_5.dita#AFFARS_MP_5315_3_3_5" outputclass="fm:TOC" class="- topic/xref " xtrc="3.5 Discussion Process">3.5</xref>
                      </p>
                   </li>
                   <li id="OBQDNt" class="- topic/li ">
                      <p id="FgHiSI" class="- topic/p ">
-                        <xref href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.6 Final Proposal Revisions</xref>
+                        <xref href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6" outputclass="fm:TOC" class="- topic/xref " xtrc="3.6 Final Proposal Revisions">3.6</xref>
                      </p>
                   </li>
                   <li id="xWuqky" class="- topic/li ">
                      <p id="cbAjkk" class="- topic/p ">
-                        <xref href="MP_5315_3_3_7.dita#AFFARS_MP_5315_3_3_7"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.7 Documentation of Final Evaluation Results</xref>
+                        <xref href="MP_5315_3_3_7.dita#AFFARS_MP_5315_3_3_7" outputclass="fm:TOC" class="- topic/xref " xtrc="3.7 Documentation of Final Evaluation Results">3.7</xref>
                      </p>
                   </li>
                   <li id="eKDXRT" class="- topic/li ">
                      <p id="zuamfl" class="- topic/p ">
-                        <xref href="MP_5315_3_3_8.dita#AFFARS_MP_5315_3_3_8"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.8 Conduct and Document the Comparative Analysis</xref>
+                        <xref href="MP_5315_3_3_8.dita#AFFARS_MP_5315_3_3_8" outputclass="fm:TOC" class="- topic/xref " xtrc="3.8 Conduct and Document the Comparative Analysis">3.8</xref>
                      </p>
                   </li>
                   <li id="nLkvSq" class="- topic/li ">
                      <p id="KiKDea" class="- topic/p ">
-                        <xref href="MP_5315_3_3_9.dita#AFFARS_MP_5315_3_3_9"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.9 Best Value Decision</xref>
+                        <xref href="MP_5315_3_3_9.dita#AFFARS_MP_5315_3_3_9" outputclass="fm:TOC" class="- topic/xref " xtrc="3.9 Best Value Decision">3.9</xref>
                      </p>
                   </li>
                   <li id="ezmtKC" class="- topic/li ">
                      <p id="BcIiSN" class="- topic/p ">
-                        <xref href="MP_5315_3_3_10.dita#AFFARS_MP_5315_3_3_10"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.10 Source Selection Decision Document</xref>
+                        <xref href="MP_5315_3_3_10.dita#AFFARS_MP_5315_3_3_10" outputclass="fm:TOC" class="- topic/xref " xtrc="3.10 Source Selection Decision Document">3.10</xref>
                      </p>
                   </li>
                   <li id="WVlQXy" class="- topic/li ">
                      <p id="BpKlmQ" class="- topic/p ">
-                        <xref href="MP_5315_3_3_11.dita#AFFARS_MP_5315_3_3_11"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.11 Debriefings (No AF Text)</xref>
+                        <xref href="MP_5315_3_3_11.dita#AFFARS_MP_5315_3_3_11" outputclass="fm:TOC" class="- topic/xref " xtrc="3.11 Debriefings (No AF Text)">3.11</xref>
                      </p>
                   </li>
                   <li id="ZIhVle" class="- topic/li ">
                      <p id="OdKbIG" class="- topic/p ">
-                        <xref href="MP_5315_3_3_12.dita#AFFARS_MP_5315_3_3_12"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">3.12 Integrating Proposal into the Contract</xref>
+                        <xref href="MP_5315_3_3_12.dita#AFFARS_MP_5315_3_3_12" outputclass="fm:TOC" class="- topic/xref " xtrc="3.12 Integrating Proposal into the Contract">3.12</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li id="VsKeud" class="- topic/li ">
                <p id="lQLhVk" class="- topic/p ">
-                  <xref href="MP_5315_3_4.dita#AFFARS_MP_5315_3_4"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">4 DOCUMENTATION REQUIREMENTS</xref>
+                  <xref href="MP_5315_3_4.dita#AFFARS_MP_5315_3_4" outputclass="fm:TOC" class="- topic/xref ">4 DOCUMENTATION REQUIREMENTS</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="RmnzEn" class="- topic/li ">
                      <p id="IwEpZH" class="- topic/p ">
-                        <xref href="MP_5315_3_4_1.dita#AFFARS_MP_5315_3_4_1"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">4.1 Minimum Requirements</xref>
+                        <xref href="MP_5315_3_4_1.dita#AFFARS_MP_5315_3_4_1" outputclass="fm:TOC" class="- topic/xref " xtrc="4.1 Minimum Requirements">4.1</xref>
                      </p>
                   </li>
                   <li id="SfEfYB" class="- topic/li ">
                      <p id="jqVsSu" class="- topic/p ">
-                        <xref href="MP_5315_3_4_2.dita#AFFARS_MP_5315_3_4_2"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">4.2 Electronic Source Selection</xref>
+                        <xref href="MP_5315_3_4_2.dita#AFFARS_MP_5315_3_4_2" outputclass="fm:TOC" class="- topic/xref " xtrc="4.2 Electronic Source Selection">4.2</xref>
                      </p>
                   </li>
                   <li id="boALPX" class="- topic/li ">
                      <p id="GXHZYH" class="- topic/p ">
-                        <xref href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">4.3 Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates</xref>
+                        <xref href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3" outputclass="fm:TOC" class="- topic/xref " xtrc="4.3 Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates">4.3</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li id="FGOzId" class="- topic/li ">
                <p id="vjDhnf" class="- topic/p ">
-                  <xref href="MP_5315_3_5.dita#AFFARS_MP_5315_3_5"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">5 DEFINITIONS ( No AF text)</xref>
+                  <xref href="MP_5315_3_5.dita#AFFARS_MP_5315_3_5" outputclass="fm:TOC" class="- topic/xref " xtrc="5 DEFINITIONS ( No AF text)">5</xref>
                </p>
             </li>
             <li id="EnjXvY" class="- topic/li ">
                <p id="ZPhLZB" class="- topic/p ">
-                  <xref href="MP_5315_3_6.dita#AFFARS_MP_5315_3_6"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">6 MANDATORY AIR FORCE SOURCE SELECTION TRAINING</xref>
+                  <xref href="MP_5315_3_6.dita#AFFARS_MP_5315_3_6" outputclass="fm:TOC" class="- topic/xref ">6 MANDATORY AIR FORCE SOURCE SELECTION TRAINING</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="ACMkpk" class="- topic/li ">
                      <p id="rxcjAJ" class="- topic/p ">
-                        <xref href="MP_5315_3_6_1.dita#AFFARS_MP_5315_3_6_1"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.1 Purpose</xref>
+                        <xref href="MP_5315_3_6_1.dita#AFFARS_MP_5315_3_6_1" outputclass="fm:TOC" class="- topic/xref " xtrc="6.1 Purpose">6.1</xref>
                      </p>
                   </li>
                   <li id="MUrMcm" class="- topic/li ">
                      <p id="mExeRk" class="- topic/p ">
-                        <xref href="MP_5315_3_6_2.dita#AFFARS_MP_5315_3_6_2"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.2 Responsibilities of Senior Contracting Officials (SCO)</xref>
+                        <xref href="MP_5315_3_6_2.dita#AFFARS_MP_5315_3_6_2" outputclass="fm:TOC" class="- topic/xref " xtrc="6.2 Responsibilities of Senior Contracting Officials (SCO)">6.2</xref>
                      </p>
                   </li>
                   <li id="AFCvgV" class="- topic/li ">
                      <p id="UFiNSS" class="- topic/p ">
-                        <xref href="MP_5315_3_6_3.dita#AFFARS_MP_5315_3_6_3"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.3 Required Training for Designated Trainers</xref>
+                        <xref href="MP_5315_3_6_3.dita#AFFARS_MP_5315_3_6_3" outputclass="fm:TOC" class="- topic/xref " xtrc="6.3 Required Training for Designated Trainers">6.3</xref>
                      </p>
                   </li>
                   <li id="TNCOsD" class="- topic/li ">
                      <p id="OskJHs" class="- topic/p ">
-                        <xref href="MP_5315_3_6_4.dita#AFFARS_MP_5315_3_6_4"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.4 Acquisition/Source Selection Team Training</xref>
+                        <xref href="MP_5315_3_6_4.dita#AFFARS_MP_5315_3_6_4" outputclass="fm:TOC" class="- topic/xref " xtrc="6.4 Acquisition/Source Selection Team Training">6.4</xref>
                      </p>
                   </li>
                   <li id="LVfYPA" class="- topic/li ">
                      <p id="upeETZ" class="- topic/p ">
-                        <xref href="MP_5315_3_6_5.dita#AFFARS_MP_5315_3_6_5"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.5 Source Selection Training Material</xref>
+                        <xref href="MP_5315_3_6_5.dita#AFFARS_MP_5315_3_6_5" outputclass="fm:TOC" class="- topic/xref " xtrc="6.5 Source Selection Training Material">6.5</xref>
                      </p>
                   </li>
                   <li id="jTKujl" class="- topic/li ">
                      <p id="Avmozb" class="- topic/p ">
-                        <xref href="MP_5315_3_6_6.dita#AFFARS_MP_5315_3_6_6"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.6 Training Certificates.</xref>
+                        <xref href="MP_5315_3_6_6.dita#AFFARS_MP_5315_3_6_6" outputclass="fm:TOC" class="- topic/xref " xtrc="6.6 Training Certificates.">6.6</xref>
                      </p>
                   </li>
                   <li id="tErdPV" class="- topic/li ">
                      <p id="dqJaAf" class="- topic/p ">
-                        <xref href="MP_5315_3_6_7.dita#AFFARS_MP_5315_3_6_7"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.7 Source Selection Training Survey.</xref>
+                        <xref href="MP_5315_3_6_7.dita#AFFARS_MP_5315_3_6_7" outputclass="fm:TOC" class="- topic/xref " xtrc="6.7 Source Selection Training Survey.">6.7</xref>
                      </p>
                   </li>
                   <li id="KXHLSi" class="- topic/li ">
                      <p id="bVCaTB" class="- topic/p ">
-                        <xref href="MP_5315_3_6_8.dita#AFFARS_MP_5315_3_6_8"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">6.8 Continuous Learning Points (CLP).</xref>
+                        <xref href="MP_5315_3_6_8.dita#AFFARS_MP_5315_3_6_8" outputclass="fm:TOC" class="- topic/xref " xtrc="6.8 Continuous Learning Points (CLP).">6.8</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li id="VCqFgZ" class="- topic/li ">
                <p id="FmlcHC" class="- topic/p ">
-                  <xref href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">LIST OF TABLES AND FIGURES (No AF text)</xref>
+                  <xref href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES" outputclass="fm:TOC" class="- topic/xref " xtrc="LIST OF TABLES AND FIGURES (No AF text)">LIST OF TABLES AND FIGURES</xref>
                </p>
             </li>
             <li id="lMrWok" class="- topic/li ">
                <p id="dvUKHk" class="- topic/p ">
-                  <xref href="MP_5315_3_LIST_OF_APPENDICES.dita#AFFARS_MP_5315_3_LIST_OF_APPENDICES"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">List of Appendices</xref>
+                  <xref href="MP_5315_3_LIST_OF_APPENDICES.dita#AFFARS_MP_5315_3_LIST_OF_APPENDICES" outputclass="fm:TOC" class="- topic/xref ">List of Appendices</xref>
                </p>
                <ul outputclass="TOC" class="- topic/ul ">
                   <li id="qhUDAv" class="- topic/li ">
                      <p id="uBzCbO" class="- topic/p ">
-                        <xref href="MP_5315_3_APPENDIX_A.dita#AFFARS_MP_5315_3_APPENDIX_A"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">Appendix A. Debriefing Guide (No AF Text)</xref>
+                        <xref href="MP_5315_3_APPENDIX_A.dita#AFFARS_MP_5315_3_APPENDIX_A" outputclass="fm:TOC" class="- topic/xref " xtrc="Appendix A. Debriefing Guide (No AF Text)">Appendix A.</xref>
                      </p>
                   </li>
                   <li id="XgMdTs" class="- topic/li ">
                      <p id="PimjyD" class="- topic/p ">
-                        <xref href="MP_5315_3_APPENDIX_B.dita#AFFARS_MP_5315_3_APPENDIX_B"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )</xref>
+                        <xref href="MP_5315_3_APPENDIX_B.dita#AFFARS_MP_5315_3_APPENDIX_B" outputclass="fm:TOC" class="- topic/xref " xtrc="Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )">Appendix B.</xref>
                      </p>
                   </li>
                   <li id="dDkQPE" class="- topic/li ">
                      <p id="pfVFow" class="- topic/p ">
-                        <xref href="MP_5315_3_APPENDIX_C.dita#AFFARS_MP_5315_3_APPENDIX_C"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</xref>
+                        <xref href="MP_5315_3_APPENDIX_C.dita#AFFARS_MP_5315_3_APPENDIX_C" outputclass="fm:TOC" class="- topic/xref " xtrc="Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)">Appendix C.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li id="XQacGs" class="- topic/li "/>
+            <li id="XQacGs" class="- topic/li "></li>
          </ul>
       </body>
    </topic>

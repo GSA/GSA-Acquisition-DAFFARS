@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5304">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,32 +13,27 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5304_100_90.dita#AFFARS_AFMC_PGI_5304_100_90">AFMC PGI 5304.100-90 Contract Level Time Metrics</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5304_100_90.dita#AFFARS_AFMC_PGI_5304_100_90" xtrc="AFMC PGI 5304.100-90 Contract Level Time Metrics">AFMC PGI 5304.100-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5304_101_90.dita#AFFARS_AFMC_PGI_5304_101_90">AFMC PGI 5304.101-90 Early Effective Date</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5304_101_90.dita#AFFARS_AFMC_PGI_5304_101_90" xtrc="AFMC PGI 5304.101-90 Early Effective Date">AFMC PGI 5304.101-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5304_606.dita#AFFARS_AFMC_PGI_5304_606">AFMC PGI 5304.606 Reporting Data</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5304_606.dita#AFFARS_AFMC_PGI_5304_606" xtrc="AFMC PGI 5304.606 Reporting Data">AFMC PGI 5304.606</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5304_1602.dita#AFFARS_AFMC_PGI_5304_1602">AFMC PGI 5304.1602 Supplementary PII Numbers</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5304_1602.dita#AFFARS_AFMC_PGI_5304_1602" xtrc="AFMC PGI 5304.1602 Supplementary PII Numbers">AFMC PGI 5304.1602</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5304_7103_1_90.dita#AFFARS_AFMC_PGI_5304_7103_1_90">AFMC PGI 5304.7103-1-90 Criteria for Establishing</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5304_7103_1_90.dita#AFFARS_AFMC_PGI_5304_7103_1_90" xtrc="AFMC PGI 5304.7103-1-90 Criteria for Establishing">AFMC PGI 5304.7103-1-90</xref>
                      </p>
                   </li>
                </ul>
@@ -51,74 +45,62 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_101.dita#AFFARS_SMC_PGI_5304_101">SMC PGI 5304.101 Contracting Officer’s Signature</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_101.dita#AFFARS_SMC_PGI_5304_101" xtrc="SMC PGI 5304.101 Contracting Officer’s Signature">SMC PGI 5304.101</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_102.dita#AFFARS_SMC_PGI_5304_102">SMC PGI 5304.102 Contractor’s Signature</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_102.dita#AFFARS_SMC_PGI_5304_102" xtrc="SMC PGI 5304.102 Contractor’s Signature">SMC PGI 5304.102</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_201.dita#AFFARS_SMC_PGI_5304_201">SMC PGI 5304.201 Procedures</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_201.dita#AFFARS_SMC_PGI_5304_201" xtrc="SMC PGI 5304.201 Procedures">SMC PGI 5304.201</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_270_2.dita#AFFARS_SMC_PGI_5304_270_2">SMC PGI 5304.270-2 Procedures</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_270_2.dita#AFFARS_SMC_PGI_5304_270_2" xtrc="SMC PGI 5304.270-2 Procedures">SMC PGI 5304.270-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_402.dita#AFFARS_SMC_PGI_5304_402">SMC PGI 5304.402 General</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_402.dita#AFFARS_SMC_PGI_5304_402" xtrc="SMC PGI 5304.402 General">SMC PGI 5304.402</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_403.dita#AFFARS_SMC_PGI_5304_403">SMC PGI 5304.403 Responsibilities of Contracting Officers</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_403.dita#AFFARS_SMC_PGI_5304_403" xtrc="SMC PGI 5304.403 Responsibilities of Contracting Officers">SMC PGI 5304.403</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_606.dita#AFFARS_SMC_PGI_5304_606">SMC PGI 5304.606 Reporting Data  </xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_606.dita#AFFARS_SMC_PGI_5304_606" xtrc="SMC PGI 5304.606 Reporting Data">SMC PGI 5304.606</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_802.dita#AFFARS_SMC_PGI_5304_802">SMC PGI 5304.802 Contract Files  </xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_802.dita#AFFARS_SMC_PGI_5304_802" xtrc="SMC PGI 5304.802 Contract Files">SMC PGI 5304.802</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_803.dita#AFFARS_SMC_PGI_5304_803">SMC PGI 5304.803 Contents of Contract Files</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_803.dita#AFFARS_SMC_PGI_5304_803" xtrc="SMC PGI 5304.803 Contents of Contract Files">SMC PGI 5304.803</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_804.dita#AFFARS_SMC_PGI_5304_804">SMC PGI 5304.804 Closeout of Contract Files</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_804.dita#AFFARS_SMC_PGI_5304_804" xtrc="SMC PGI 5304.804 Closeout of Contract Files">SMC PGI 5304.804</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_1601.dita#AFFARS_SMC_PGI_5304_1601">SMC PGI 5304.1601 Policy</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_1601.dita#AFFARS_SMC_PGI_5304_1601" xtrc="SMC PGI 5304.1601 Policy">SMC PGI 5304.1601</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5304_7105.dita#AFFARS_SMC_PGI_5304_7105">SMC PGI 5304.7105  Contract Exhibits and Attachments </xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5304_7105.dita#AFFARS_SMC_PGI_5304_7105" xtrc="SMC PGI 5304.7105 Contract Exhibits and Attachments">SMC PGI 5304.7105</xref>
                      </p>
                   </li>
                </ul>

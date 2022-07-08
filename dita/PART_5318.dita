@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5318">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5318</ph> - Emergency Acquisitions</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5318.aspx"
-                  class="- topic/xref ">AFFARS PART 5318 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5318.aspx" class="- topic/xref ">AFFARS PART 5318 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -18,18 +14,17 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_000.dita#AFFARS_SUBPART_5318_000">SUBPART 5318.000 – SCOPE OF PART</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_000.dita#AFFARS_SUBPART_5318_000">SUBPART 5318.000 – SCOPE OF PART</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5318_001.dita#AFFARS_5318_001">5318.001 Definition</xref>
+                        <xref outputclass="fm:TOC" href="5318_001.dita#AFFARS_5318_001" xtrc="5318.001 Definition">5318.001</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5318_125.dita#AFFARS_5318_125"> 5318.125  Protest to GAO</xref>
+                        <xref outputclass="fm:TOC" href="5318_125.dita#AFFARS_5318_125" xtrc="5318.125 Protest to GAO">5318.125</xref>
                      </p>
                   </li>
                </ul>
@@ -41,17 +36,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5318_201.dita#AFFARS_5318_201"> 5318.201  Contingency Operation</xref>
+                        <xref outputclass="fm:TOC" href="5318_201.dita#AFFARS_5318_201" xtrc="5318.201 Contingency Operation">5318.201</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5318_202.dita#AFFARS_5318_202">5318.202 Defense or Recovery from Certain Attacks</xref>
+                        <xref outputclass="fm:TOC" href="5318_202.dita#AFFARS_5318_202" xtrc="5318.202 Defense or Recovery from Certain Attacks">5318.202</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5318_270.dita#AFFARS_5318_270"> 5318.270  Head of Contracting Activity Determinations</xref>
+                        <xref outputclass="fm:TOC" href="5318_270.dita#AFFARS_5318_270" xtrc="5318.270 Head of Contracting Activity Determinations">5318.270</xref>
                      </p>
                   </li>
                </ul>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5333">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,20 +13,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5333_102_90.dita#AFFARS_AFICC_PGI_5333_102_90"> AFICC PGI 5333.102-90  General</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5333_102_90.dita#AFFARS_AFICC_PGI_5333_102_90" xtrc="AFICC PGI 5333.102-90 General">AFICC PGI 5333.102-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5333_103.dita#AFFARS_AFICC_PGI_5333_103">AFICC PGI 5333.103 Protests to the Agency</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5333_103.dita#AFFARS_AFICC_PGI_5333_103" xtrc="AFICC PGI 5333.103 Protests to the Agency">AFICC PGI 5333.103</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5333_9000.dita#AFFARS_AFICC_PGI_5333_9000">AFICC PGI 5333.9000 Congressional Inquiries Process</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5333_9000.dita#AFFARS_AFICC_PGI_5333_9000" xtrc="AFICC PGI 5333.9000 Congressional Inquiries Process">AFICC PGI 5333.9000</xref>
                      </p>
                   </li>
                </ul>
@@ -39,14 +35,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5333_102_90.dita#AFFARS_AFMC_PGI_5333_102_90">AFMC PGI 5333.102-90 General</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5333_102_90.dita#AFFARS_AFMC_PGI_5333_102_90" xtrc="AFMC PGI 5333.102-90 General">AFMC PGI 5333.102-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5333_103.dita#AFFARS_AFMC_PGI_5333_103">AFMC PGI 5333.103 Protests to the Agency</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5333_103.dita#AFFARS_AFMC_PGI_5333_103" xtrc="AFMC PGI 5333.103 Protests to the Agency">AFMC PGI 5333.103</xref>
                      </p>
                   </li>
                </ul>

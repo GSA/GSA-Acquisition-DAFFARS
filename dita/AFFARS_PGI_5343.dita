@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5343">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,9 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5343_103_90.dita#AFFARS_AF_PGI_5343_103_90">AF PGI 5343.103-90 Types of Contract
-      Modifications</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5343_103_90.dita#AFFARS_AF_PGI_5343_103_90" xtrc="AF PGI 5343.103-90 Types of Contract Modifications">AF PGI 5343.103-90</xref>
                      </p>
                   </li>
                </ul>
@@ -28,8 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5343_102_90.dita#AFFARS_SMC_PGI_5343_102_90">SMC PGI 5343.102-90 General</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5343_102_90.dita#AFFARS_SMC_PGI_5343_102_90" xtrc="SMC PGI 5343.102-90 General">SMC PGI 5343.102-90</xref>
                      </p>
                   </li>
                </ul>

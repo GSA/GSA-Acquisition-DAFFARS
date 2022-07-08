@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5306">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -20,22 +19,22 @@ Competition Requirements</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1">1. Objectives.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1" xtrc="1. Objectives.">1.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"> 2.  Duties and Responsibilities.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2" xtrc="2. Duties and Responsibilities.">2.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3">3. Appointment of the Competition and Commercial Advocate.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3" xtrc="3. Appointment of the Competition and Commercial Advocate.">3.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4" xtrc="4. Annual Competition and Commercial Reporting Requirements.">4.</xref>
                            </p>
                         </li>
                      </ul>

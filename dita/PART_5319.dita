@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5319">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5319</ph> - Small Business Programs</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5319.aspx"
-                  class="- topic/xref ">AFFARS PART 5319 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5319.aspx" class="- topic/xref ">AFFARS PART 5319 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_201.dita#AFFARS_5319_201">5319.201 General Policy</xref>
+                        <xref outputclass="fm:TOC" href="5319_201.dita#AFFARS_5319_201" xtrc="5319.201 General Policy">5319.201</xref>
                      </p>
                   </li>
                </ul>
@@ -40,12 +36,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_502_3.dita#AFFARS_5319_502_3">5319.502-3 Partial Set-Asides</xref>
+                        <xref outputclass="fm:TOC" href="5319_502_3.dita#AFFARS_5319_502_3" xtrc="5319.502-3 Partial Set-Asides">5319.502-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_502_8.dita#AFFARS_5319_502_8">5319.502-8 Rejecting Small Business Administration Recommendations</xref>
+                        <xref outputclass="fm:TOC" href="5319_502_8.dita#AFFARS_5319_502_8" xtrc="5319.502-8 Rejecting Small Business Administration Recommendations">5319.502-8</xref>
                      </p>
                   </li>
                </ul>
@@ -57,7 +53,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_705_4.dita#AFFARS_5319_705_4">5319.705-4 Reviewing the Subcontracting Plan</xref>
+                        <xref outputclass="fm:TOC" href="5319_705_4.dita#AFFARS_5319_705_4" xtrc="5319.705-4 Reviewing the Subcontracting Plan">5319.705-4</xref>
                      </p>
                   </li>
                </ul>
@@ -69,7 +65,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_810_90.dita#AFFARS_5319_810_90">5319.810-90 SBA Appeals</xref>
+                        <xref outputclass="fm:TOC" href="5319_810_90.dita#AFFARS_5319_810_90" xtrc="5319.810-90 SBA Appeals">5319.810-90</xref>
                      </p>
                   </li>
                </ul>
@@ -81,7 +77,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_1305.dita#AFFARS_5319_1305">5319.1305 HUBZone Set-Aside Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5319_1305.dita#AFFARS_5319_1305" xtrc="5319.1305 HUBZone Set-Aside Procedures">5319.1305</xref>
                      </p>
                   </li>
                </ul>
@@ -93,7 +89,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_1405.dita#AFFARS_5319_1405">5319.1405 Service-disabled Veteran-owned Small Business Set-aside Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5319_1405.dita#AFFARS_5319_1405" xtrc="5319.1405 Service-disabled Veteran-owned Small Business Set-aside Procedures">5319.1405</xref>
                      </p>
                   </li>
                </ul>
@@ -105,7 +101,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5319_1505.dita#AFFARS_5319_1505">5319.1505 Set-aside Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5319_1505.dita#AFFARS_5319_1505" xtrc="5319.1505 Set-aside Procedures">5319.1505</xref>
                      </p>
                   </li>
                </ul>

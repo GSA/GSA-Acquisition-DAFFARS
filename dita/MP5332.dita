@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5332">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -21,8 +20,7 @@ Contract Financing</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="ADVANCE_PAYMENT_REQUESTS.dita#AFFARS_ADVANCE_PAYMENT_REQUESTS">Advance payment requests must be processed as follows:</xref>
+                              <xref outputclass="fm:TOC" href="ADVANCE_PAYMENT_REQUESTS.dita#AFFARS_ADVANCE_PAYMENT_REQUESTS" xtrc="Advance payment requests must be processed as follows:">Advance payment requests</xref>
                            </p>
                         </li>
                      </ul>
@@ -36,9 +34,7 @@ Contract Financing</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_RELEASE_OF_SOLICITATIONS">Release of Solicitations in Advance of Funding
-      Availability</xref>
+                        <xref outputclass="fm:TOC" href="RELEASE_OF_SOLICITATIONS.dita#AFFARS_RELEASE_OF_SOLICITATIONS" xtrc="Release of Solicitations in Advance of Funding Availability">Release of Solicitations</xref>
                      </p>
                   </li>
                </ul>

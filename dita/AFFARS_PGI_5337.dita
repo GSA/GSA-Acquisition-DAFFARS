@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5337">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,8 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5337_503_90.dita#AFFARS_AFICC_PGI_5337_503_90">AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5337_503_90.dita#AFFARS_AFICC_PGI_5337_503_90" xtrc="AFICC PGI 5337.503-90 Management and Oversight of the Acquisition of Services">AFICC PGI 5337.503-90</xref>
                      </p>
                   </li>
                </ul>
@@ -27,33 +25,27 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_90.dita#AFFARS_AFMC_PGI_5337_102_90"> AFMC PGI 5337.102-90  Suggested Contract Language for Maintenance, Overhaul, and Modification</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5337_102_90.dita#AFFARS_AFMC_PGI_5337_102_90" xtrc="AFMC PGI 5337.102-90 Suggested Contract Language for Maintenance, Overhaul, and Modification">AFMC PGI 5337.102-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_102_91.dita#AFFARS_AFMC_PGI_5337_102_91">AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5337_102_91.dita#AFFARS_AFMC_PGI_5337_102_91" xtrc="AFMC PGI 5337.102-91 Solicitation Evaluation Procedures for AFMC Maintenance, Overhaul, and Modification">AFMC PGI 5337.102-91</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_110_90.dita#AFFARS_AFMC_PGI_5337_110_90">AFMC PGI 5337.110-90 Solicitation Suggested Contract Language</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5337_110_90.dita#AFFARS_AFMC_PGI_5337_110_90" xtrc="AFMC PGI 5337.110-90 Solicitation Suggested Contract Language">AFMC PGI 5337.110-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_204.dita#AFFARS_AFMC_PGI_5337_204"> AFMC PGI 5337.204  Guidelines for Determining Availability of Personnel</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5337_204.dita#AFFARS_AFMC_PGI_5337_204" xtrc="AFMC PGI 5337.204 Guidelines for Determining Availability of Personnel">AFMC PGI 5337.204</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5337_503_90.dita#AFFARS_AFMC_PGI_5337_503_90">AFMC PGI 5337.503-90 Management and Oversight
-      of the Acquisition of Services</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5337_503_90.dita#AFFARS_AFMC_PGI_5337_503_90" xtrc="AFMC PGI 5337.503-90 Management and Oversight of the Acquisition of Services">AFMC PGI 5337.503-90</xref>
                      </p>
                   </li>
                </ul>
@@ -65,9 +57,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5337_503_90.dita#AFFARS_USAFA_PGI_5337_503_90">USAFA PGI 5337.503-90 Management and Oversight
-      of the Acquisition of Services</xref>
+                        <xref outputclass="fm:TOC" href="USAFA_PGI_5337_503_90.dita#AFFARS_USAFA_PGI_5337_503_90" xtrc="USAFA PGI 5337.503-90 Management and Oversight of the Acquisition of Services">USAFA PGI 5337.503-90</xref>
                      </p>
                   </li>
                </ul>
@@ -79,8 +69,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5337_204.dita#AFFARS_SMC_PGI_5337_204">SMC PGI 5337.204 Guidelines for Determining Availability of Personnel</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5337_204.dita#AFFARS_SMC_PGI_5337_204" xtrc="SMC PGI 5337.204 Guidelines for Determining Availability of Personnel">SMC PGI 5337.204</xref>
                      </p>
                   </li>
                </ul>

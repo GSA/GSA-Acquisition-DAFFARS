@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5342">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5342</ph> - Contract Administration and Audit Services</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5342.aspx"
-                  class="- topic/xref ">AFFARS PART 5342 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5342.aspx" class="- topic/xref ">AFFARS PART 5342 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_202.dita#AFFARS_5342_202">5342.202 Assignment of Contract Administration</xref>
+                        <xref outputclass="fm:TOC" href="5342_202.dita#AFFARS_5342_202" xtrc="5342.202 Assignment of Contract Administration">5342.202</xref>
                      </p>
                   </li>
                </ul>
@@ -40,12 +36,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_490_1.dita#AFFARS_5342_490_1"> 5342.490-1  Contract clause</xref>
+                        <xref outputclass="fm:TOC" href="5342_490_1.dita#AFFARS_5342_490_1" xtrc="5342.490-1 Contract clause">5342.490-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_490_2.dita#AFFARS_5342_490_2"> 5342.490-2  Contract clause</xref>
+                        <xref outputclass="fm:TOC" href="5342_490_2.dita#AFFARS_5342_490_2" xtrc="5342.490-2 Contract clause">5342.490-2</xref>
                      </p>
                   </li>
                </ul>
@@ -57,7 +53,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_902.dita#AFFARS_5342_902">5342.902 Bankruptcy Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5342_902.dita#AFFARS_5342_902" xtrc="5342.902 Bankruptcy Procedures">5342.902</xref>
                      </p>
                   </li>
                </ul>
@@ -69,7 +65,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_1503.dita#AFFARS_5342_1503"> 5342.1503  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5342_1503.dita#AFFARS_5342_1503" xtrc="5342.1503 Procedures">5342.1503</xref>
                      </p>
                   </li>
                </ul>
@@ -81,7 +77,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5342_7100.dita#AFFARS_5342_7100">5342.7100 General</xref>
+                        <xref outputclass="fm:TOC" href="5342_7100.dita#AFFARS_5342_7100" xtrc="5342.7100 General">5342.7100</xref>
                      </p>
                   </li>
                </ul>

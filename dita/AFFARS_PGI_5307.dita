@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5307">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,13 +13,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5307_104_92.dita#AFFARS_AF_PGI_5307_104_92">AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5307_104_92.dita#AFFARS_AF_PGI_5307_104_92" xtrc="AF PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)">AF PGI 5307.104-92</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5307_105.dita#AFFARS_AF_PGI_5307_105"> AF PGI 5307.105  Contents of Written Acquisition Plans</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5307_105.dita#AFFARS_AF_PGI_5307_105" xtrc="AF PGI 5307.105 Contents of Written Acquisition Plans">AF PGI 5307.105</xref>
                      </p>
                   </li>
                </ul>
@@ -32,14 +30,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104.dita#AFFARS_AFICC_PGI_5307_104">AFICC PGI 5307.104 General Procedures</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5307_104.dita#AFFARS_AFICC_PGI_5307_104" xtrc="AFICC PGI 5307.104 General Procedures">AFICC PGI 5307.104</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5307_104_92.dita#AFFARS_AFICC_PGI_5307_104_92">AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5307_104_92.dita#AFFARS_AFICC_PGI_5307_104_92" xtrc="AFICC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority">AFICC PGI 5307.104-92</xref>
                      </p>
                   </li>
                </ul>
@@ -51,28 +47,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104.dita#AFFARS_AFMC_PGI_5307_104">AFMC PGI 5307.104 General Procedures</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5307_104.dita#AFFARS_AFMC_PGI_5307_104" xtrc="AFMC PGI 5307.104 General Procedures">AFMC PGI 5307.104</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_104_92.dita#AFFARS_AFMC_PGI_5307_104_92">AFMC PGI 5307.104-92 Acquisition Strategy
-      Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy
-      Summary (SASS) Approval Authority</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5307_104_92.dita#AFFARS_AFMC_PGI_5307_104_92" xtrc="AFMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS) Approval Authority">AFMC PGI 5307.104-92</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_105.dita#AFFARS_AFMC_PGI_5307_105">AFMC PGI 5307.105 Contents of Written APs</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5307_105.dita#AFFARS_AFMC_PGI_5307_105" xtrc="AFMC PGI 5307.105 Contents of Written APs">AFMC PGI 5307.105</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5307_107_2.dita#AFFARS_AFMC_PGI_5307_107_2">AFMC PGI 5307.107-2 Consolidation</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5307_107_2.dita#AFFARS_AFMC_PGI_5307_107_2" xtrc="AFMC PGI 5307.107-2 Consolidation">AFMC PGI 5307.107-2</xref>
                      </p>
                   </li>
                </ul>
@@ -84,14 +74,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104.dita#AFFARS_SMC_PGI_5307_104"> SMC PGI 5307.104  General Procedures</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5307_104.dita#AFFARS_SMC_PGI_5307_104" xtrc="SMC PGI 5307.104 General Procedures">SMC PGI 5307.104</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5307_104_92.dita#AFFARS_SMC_PGI_5307_104_92">SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5307_104_92.dita#AFFARS_SMC_PGI_5307_104_92" xtrc="SMC PGI 5307.104-92 Acquisition Strategy Panels (ASP) and Acquisition Plan (AP) Approval Authority or Streamlined Acquisition Strategy Summary (SASS)">SMC PGI 5307.104-92</xref>
                      </p>
                   </li>
                </ul>
@@ -103,8 +91,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5307_104_92.dita#AFFARS_USAFA_PGI_5307_104_92">USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority</xref>
+                        <xref outputclass="fm:TOC" href="USAFA_PGI_5307_104_92.dita#AFFARS_USAFA_PGI_5307_104_92" xtrc="USAFA PGI 5307.104-92 Acquisition Strategy Panel (ASP) and Acquisition Plan (AP) Approval Authority">USAFA PGI 5307.104-92</xref>
                      </p>
                   </li>
                </ul>

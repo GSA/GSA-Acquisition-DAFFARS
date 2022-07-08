@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5336">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5336</ph> - Construction and Architect-Engineer Contracts</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx"
-                  class="- topic/xref ">AFFARS PART 5336 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx" class="- topic/xref ">AFFARS PART 5336 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -23,22 +19,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_208.dita#AFFARS_5336_208">5336.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5336_208.dita#AFFARS_5336_208" xtrc="5336.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts">5336.208</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_209.dita#AFFARS_5336_209">5336.209 Construction Contracts with Architect-Engineer Firms</xref>
+                        <xref outputclass="fm:TOC" href="5336_209.dita#AFFARS_5336_209" xtrc="5336.209 Construction Contracts with Architect-Engineer Firms">5336.209</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_213_2.dita#AFFARS_5336_213_2">5336.213-2 Presolicitation Notices</xref>
+                        <xref outputclass="fm:TOC" href="5336_213_2.dita#AFFARS_5336_213_2" xtrc="5336.213-2 Presolicitation Notices">5336.213-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_272.dita#AFFARS_5336_272">5336.272 Prequalification of Sources</xref>
+                        <xref outputclass="fm:TOC" href="5336_272.dita#AFFARS_5336_272" xtrc="5336.272 Prequalification of Sources">5336.272</xref>
                      </p>
                   </li>
                </ul>
@@ -50,12 +46,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_301.dita#AFFARS_5336_301">5336.301 Use of Two-Phase Design-Build Selection Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5336_301.dita#AFFARS_5336_301" xtrc="5336.301 Use of Two-Phase Design-Build Selection Procedures">5336.301</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_303_1.dita#AFFARS_5336_303_1">5336.303-1 Phase One</xref>
+                        <xref outputclass="fm:TOC" href="5336_303_1.dita#AFFARS_5336_303_1" xtrc="5336.303-1 Phase One">5336.303-1</xref>
                      </p>
                   </li>
                </ul>
@@ -67,12 +63,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_507.dita#AFFARS_5336_507">5336.507 Permits and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5336_507.dita#AFFARS_5336_507" xtrc="5336.507 Permits and Responsibilities">5336.507</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_570.dita#AFFARS_5336_570">5336.570 Additional Provisions and Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5336_570.dita#AFFARS_5336_570" xtrc="5336.570 Additional Provisions and Clauses">5336.570</xref>
                      </p>
                   </li>
                </ul>
@@ -84,19 +80,19 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_602_3.dita#AFFARS_5336_602_3">5336.602-3 Evaluation Board Functions</xref>
+                        <xref outputclass="fm:TOC" href="5336_602_3.dita#AFFARS_5336_602_3" xtrc="5336.602-3 Evaluation Board Functions">5336.602-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5336_609_1.dita#AFFARS_5336_609_1">5336.609-1 Design Within Funding Limitations</xref>
+                        <xref outputclass="fm:TOC" href="5336_609_1.dita#AFFARS_5336_609_1" xtrc="5336.609-1 Design Within Funding Limitations">5336.609-1</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_90.dita#AFFARS_SUBPART_5336_90"> SUBPART 5336.90  — CONSTRUCTION PROGRAM ADMINISTRATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5336_90.dita#AFFARS_SUBPART_5336_90" xtrc="SUBPART 5336.90 — CONSTRUCTION PROGRAM ADMINISTRATION">SUBPART 5336.90</xref>
                </p>
             </li>
          </ul>

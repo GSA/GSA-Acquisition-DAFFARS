@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5316">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,34 +13,32 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5316_101.dita#AFFARS_AF_PGI_5316_101">AF PGI 5316.101 General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_101.dita#AFFARS_AF_PGI_5316_101" xtrc="AF PGI 5316.101 General">AF PGI 5316.101</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5316_104.dita#AFFARS_AF_PGI_5316_104">AF PGI 5316.104 Factors In Selecting Contract Type</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_104.dita#AFFARS_AF_PGI_5316_104" xtrc="AF PGI 5316.104 Factors In Selecting Contract Type">AF PGI 5316.104</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_203_4.dita#AFFARS_AF_PGI_5316_203_4">AF PGI 5316.203-4 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_203_4.dita#AFFARS_AF_PGI_5316_203_4" xtrc="AF PGI 5316.203-4 Contract Clauses">AF PGI 5316.203-4</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5316_401_90.dita#AFFARS_AF_PGI_5316_401_90">AF PGI 5316.401-90 General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_401_90.dita#AFFARS_AF_PGI_5316_401_90" xtrc="AF PGI 5316.401-90 General">AF PGI 5316.401-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5316_505.dita#AFFARS_AF_PGI_5316_505">AF PGI 5316.505 Ordering</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_505.dita#AFFARS_AF_PGI_5316_505" xtrc="AF PGI 5316.505 Ordering">AF PGI 5316.505</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5316_506.dita#AFFARS_AF_PGI_5316_506">AF PGI 5316.506 Solicitation Provisions and Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5316_506.dita#AFFARS_AF_PGI_5316_506" xtrc="AF PGI 5316.506 Solicitation Provisions and Contract Clauses">AF PGI 5316.506</xref>
                      </p>
                   </li>
                </ul>
@@ -53,26 +50,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_401_90.dita#AFFARS_SMC_PGI_5316_401_90">SMC PGI 5316.401-90 General</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5316_401_90.dita#AFFARS_SMC_PGI_5316_401_90" xtrc="SMC PGI 5316.401-90 General">SMC PGI 5316.401-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_405_2_90.dita#AFFARS_SMC_PGI_5316_405_2_90">SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5316_405_2_90.dita#AFFARS_SMC_PGI_5316_405_2_90" xtrc="SMC PGI 5316.405-2-90 Cost-Plus-Award-Fee Contracts">SMC PGI 5316.405-2-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505.dita#AFFARS_SMC_PGI_5316_505">SMC PGI 5316.505 Ordering</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5316_505.dita#AFFARS_SMC_PGI_5316_505" xtrc="SMC PGI 5316.505 Ordering">SMC PGI 5316.505</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5316_505_90.dita#AFFARS_SMC_PGI_5316_505_90">SMC PGI 5316.505-90 Decentralized Ordering</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5316_505_90.dita#AFFARS_SMC_PGI_5316_505_90" xtrc="SMC PGI 5316.505-90 Decentralized Ordering">SMC PGI 5316.505-90</xref>
                      </p>
                   </li>
                </ul>

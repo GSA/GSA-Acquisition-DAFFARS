@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5314">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,14 +13,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5314_403_90.dita#AFFARS_AFMC_PGI_5314_403_90">AFMC PGI 5314.403-90 Recording of Bids</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5314_403_90.dita#AFFARS_AFMC_PGI_5314_403_90" xtrc="AFMC PGI 5314.403-90 Recording of Bids">AFMC PGI 5314.403-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5314_404_1.dita#AFFARS_AFMC_PGI_5314_404_1">AFMC PGI 5314.404-1 Cancellation of Invitations after Opening</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5314_404_1.dita#AFFARS_AFMC_PGI_5314_404_1" xtrc="AFMC PGI 5314.404-1 Cancellation of Invitations after Opening">AFMC PGI 5314.404-1</xref>
                      </p>
                   </li>
                </ul>

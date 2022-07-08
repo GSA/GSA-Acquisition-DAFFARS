@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5303">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5303</ph> - Improper Business Practices and Personal Conflicts of Interest</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5303.aspx"
-                  class="- topic/xref ">AFFARS PART 5303 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5303.aspx" class="- topic/xref ">AFFARS PART 5303 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,22 +24,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_104_3.dita#AFFARS_5303_104_3"> 5303.104-3  Statutory and Related Prohibitions, Restrictions, and Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5303_104_3.dita#AFFARS_5303_104_3" xtrc="5303.104-3 Statutory and Related Prohibitions, Restrictions, and Requirements">5303.104-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_104_4.dita#AFFARS_5303_104_4"> 5303.104-4 (a) Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information</xref>
+                        <xref outputclass="fm:TOC" href="5303_104_4.dita#AFFARS_5303_104_4" xtrc="5303.104-4 (a) Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information">5303.104-4</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_104_5.dita#AFFARS_5303_104_5">5303.104-5 Disqualification</xref>
+                        <xref outputclass="fm:TOC" href="5303_104_5.dita#AFFARS_5303_104_5" xtrc="5303.104-5 Disqualification">5303.104-5</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_104_9.dita#AFFARS_5303_104_9"> 5303.104-9  Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5303_104_9.dita#AFFARS_5303_104_9" xtrc="5303.104-9 Contract Clauses">5303.104-9</xref>
                      </p>
                   </li>
                </ul>
@@ -55,12 +51,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_202.dita#AFFARS_5303_202">5303.202 Contract Clause</xref>
+                        <xref outputclass="fm:TOC" href="5303_202.dita#AFFARS_5303_202" xtrc="5303.202 Contract Clause">5303.202</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_204.dita#AFFARS_5303_204">5303.204 Treatment of Violations</xref>
+                        <xref outputclass="fm:TOC" href="5303_204.dita#AFFARS_5303_204" xtrc="5303.204 Treatment of Violations">5303.204</xref>
                      </p>
                   </li>
                </ul>
@@ -72,7 +68,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_570_2.dita#AFFARS_5303_570_2">5303.570-2 Prohibition Period</xref>
+                        <xref outputclass="fm:TOC" href="5303_570_2.dita#AFFARS_5303_570_2" xtrc="5303.570-2 Prohibition Period">5303.570-2</xref>
                      </p>
                   </li>
                </ul>
@@ -84,7 +80,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_602.dita#AFFARS_5303_602">5303.602 Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5303_602.dita#AFFARS_5303_602" xtrc="5303.602 Exceptions">5303.602</xref>
                      </p>
                   </li>
                </ul>
@@ -96,12 +92,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_704.dita#AFFARS_5303_704">5303.704 Policy</xref>
+                        <xref outputclass="fm:TOC" href="5303_704.dita#AFFARS_5303_704" xtrc="5303.704 Policy">5303.704</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_705.dita#AFFARS_5303_705"> 5303.705  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5303_705.dita#AFFARS_5303_705" xtrc="5303.705 Procedures">5303.705</xref>
                      </p>
                   </li>
                </ul>
@@ -113,7 +109,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_906.dita#AFFARS_5303_906">5303.906 Remedies</xref>
+                        <xref outputclass="fm:TOC" href="5303_906.dita#AFFARS_5303_906" xtrc="5303.906 Remedies">5303.906</xref>
                      </p>
                   </li>
                </ul>
@@ -125,7 +121,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_1003.dita#AFFARS_5303_1003"> 5303.1003  Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5303_1003.dita#AFFARS_5303_1003" xtrc="5303.1003 Requirements">5303.1003</xref>
                      </p>
                   </li>
                </ul>
@@ -137,7 +133,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5303_1104.dita#AFFARS_5303_1104"> 5303.1104  Mitigation or Waiver</xref>
+                        <xref outputclass="fm:TOC" href="5303_1104.dita#AFFARS_5303_1104" xtrc="5303.1104 Mitigation or Waiver">5303.1104</xref>
                      </p>
                   </li>
                </ul>

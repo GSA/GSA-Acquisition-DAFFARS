@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5345">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,8 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5345_103_70_90.dita#AFFARS_AF_PGI_5345_103_70_90"> AF PGI 5345.103-70-90  Furnishing Government Property to Contractors</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5345_103_70_90.dita#AFFARS_AF_PGI_5345_103_70_90" xtrc="AF PGI 5345.103-70-90 Furnishing Government Property to Contractors">AF PGI 5345.103-70-90</xref>
                      </p>
                   </li>
                </ul>
@@ -27,20 +25,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5345_103_70_90.dita#AFFARS_AFMC_PGI_5345_103_70_90">AFMC PGI 5345.103-70-90 Furnishing Government Property to Contractors</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5345_103_70_90.dita#AFFARS_AFMC_PGI_5345_103_70_90" xtrc="AFMC PGI 5345.103-70-90 Furnishing Government Property to Contractors">AFMC PGI 5345.103-70-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5345_103_72.dita#AFFARS_AFMC_PGI_5345_103_72">AFMC PGI 5345.103-72 Government Furnished Property Attachments to Solicitations and Awards.</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5345_103_72.dita#AFFARS_AFMC_PGI_5345_103_72" xtrc="AFMC PGI 5345.103-72 Government Furnished Property Attachments to Solicitations and Awards.">AFMC PGI 5345.103-72</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5345_103_90.dita#AFFARS_AFMC_PGI_5345_103_90">AFMC PGI 5345.103-90 General</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5345_103_90.dita#AFFARS_AFMC_PGI_5345_103_90" xtrc="AFMC PGI 5345.103-90 General">AFMC PGI 5345.103-90</xref>
                      </p>
                   </li>
                </ul>
@@ -52,8 +47,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5345_103_90.dita#AFFARS_SMC_PGI_5345_103_90">SMC PGI 5345.103-90 General</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5345_103_90.dita#AFFARS_SMC_PGI_5345_103_90" xtrc="SMC PGI 5345.103-90 General">SMC PGI 5345.103-90</xref>
                      </p>
                   </li>
                </ul>

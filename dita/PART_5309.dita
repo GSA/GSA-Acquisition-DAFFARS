@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5309">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5309</ph> Contractor Qualifications</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx"
-                  class="- topic/xref ">AFFARS PART 5309 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx" class="- topic/xref ">AFFARS PART 5309 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,22 +24,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_103.dita#AFFARS_5309_103"> 5309.103  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_103.dita#AFFARS_5309_103" xtrc="5309.103 Policy">5309.103</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_104_1">5309.104-1 General Standards</xref>
+                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_104_1" xtrc="5309.104-1 General Standards">5309.104-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_105_1.dita#AFFARS_5309_105_1"> 5309.105-1  Obtaining Information</xref>
+                        <xref outputclass="fm:TOC" href="5309_105_1.dita#AFFARS_5309_105_1" xtrc="5309.105-1 Obtaining Information">5309.105-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_105_2.dita#AFFARS_5309_105_2"> 5309.105-2  Determination and Documentation</xref>
+                        <xref outputclass="fm:TOC" href="5309_105_2.dita#AFFARS_5309_105_2" xtrc="5309.105-2 Determination and Documentation">5309.105-2</xref>
                      </p>
                   </li>
                </ul>
@@ -55,17 +51,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_202"> 5309.202  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_202" xtrc="5309.202 Policy">5309.202</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_206_1"> 5309.206-1  General</xref>
+                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_206_1" xtrc="5309.206-1 General">5309.206-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_270_3"> 5309.270-3  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_270_3" xtrc="5309.270-3 Policy">5309.270-3</xref>
                      </p>
                   </li>
                </ul>
@@ -77,27 +73,27 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_405"> 5309.405  Effect of Listing</xref>
+                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_405" xtrc="5309.405 Effect of Listing">5309.405</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_405_1">5309.405-1 Continuation of Current Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_405_1" xtrc="5309.405-1 Continuation of Current Contracts">5309.405-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_405_2">5309.405-2 Restrictions on Subcontracting</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_405_2" xtrc="5309.405-2 Restrictions on Subcontracting">5309.405-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_406_3"> 5309.406-3  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_406_3" xtrc="5309.406-3 Procedures">5309.406-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_407_3"> 5309.407-3  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_407_3" xtrc="5309.407-3 Procedures">5309.407-3</xref>
                      </p>
                   </li>
                </ul>
@@ -109,22 +105,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_503"> 5309.503  Waiver</xref>
+                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_503" xtrc="5309.503 Waiver">5309.503</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_504"> 5309.504  Contracting Officer Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_504" xtrc="5309.504 Contracting Officer Responsibilities">5309.504</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_507_2"> 5309.507-2  Solicitation Provisions and Contract Clause</xref>
+                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_507_2" xtrc="5309.507-2 Solicitation Provisions and Contract Clause">5309.507-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_571_7"> 5309.571-7  Systems Engineering and Technical Assistance Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_571_7" xtrc="5309.571-7 Systems Engineering and Technical Assistance Contracts">5309.571-7</xref>
                      </p>
                   </li>
                </ul>

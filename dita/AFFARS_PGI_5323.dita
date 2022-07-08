@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5323">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,7 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5323_703.dita#AFFARS_AF_PGI_5323_703">AF PGI 5323.703 Policy</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5323_703.dita#AFFARS_AF_PGI_5323_703" xtrc="AF PGI 5323.703 Policy">AF PGI 5323.703</xref>
                      </p>
                   </li>
                </ul>

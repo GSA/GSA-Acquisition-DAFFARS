@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5344">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5344</ph> - Subcontracting Policies and Procedures</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5344.aspx"
-                  class="- topic/xref ">AFFARS PART 5344 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5344.aspx" class="- topic/xref ">AFFARS PART 5344 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,17 +24,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5344_201_1.dita#AFFARS_5344_201_1"> 5344.201-1  Consent requirements</xref>
+                        <xref outputclass="fm:TOC" href="5344_201_1.dita#AFFARS_5344_201_1" xtrc="5344.201-1 Consent requirements">5344.201-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5344_202_1.dita#AFFARS_5344_202_1"> 5344.202-1  Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5344_202_1.dita#AFFARS_5344_202_1" xtrc="5344.202-1 Responsibilities">5344.202-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5344_202_2.dita#AFFARS_5344_202_2"> 5344.202-2  Considerations</xref>
+                        <xref outputclass="fm:TOC" href="5344_202_2.dita#AFFARS_5344_202_2" xtrc="5344.202-2 Considerations">5344.202-2</xref>
                      </p>
                   </li>
                </ul>
@@ -50,7 +46,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5344_302.dita#AFFARS_5344_302">5344.302 Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5344_302.dita#AFFARS_5344_302" xtrc="5344.302 Requirements">5344.302</xref>
                      </p>
                   </li>
                </ul>

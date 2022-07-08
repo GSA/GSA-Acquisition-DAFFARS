@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5335">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,8 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFICC_PGI_5335_015_70.dita#AFFARS_AFICC_PGI_5335_015_70">AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+                        <xref outputclass="fm:TOC" href="AFICC_PGI_5335_015_70.dita#AFFARS_AFICC_PGI_5335_015_70" xtrc="AFICC PGI 5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions">AFICC PGI 5335.015-70</xref>
                      </p>
                   </li>
                </ul>
@@ -27,15 +25,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_006_90.dita#AFFARS_AFMC_PGI_5335_006_90">AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5335_006_90.dita#AFFARS_AFMC_PGI_5335_006_90" xtrc="AFMC PGI 5335.006-90 Small Business Innovation Research (SBIR)">AFMC PGI 5335.006-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5335_007_90.dita#AFFARS_AFMC_PGI_5335_007_90">AFMC PGI 5335.007-90 Suggested Contract
-      Language</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5335_007_90.dita#AFFARS_AFMC_PGI_5335_007_90" xtrc="AFMC PGI 5335.007-90 Suggested Contract Language">AFMC PGI 5335.007-90</xref>
                      </p>
                   </li>
                </ul>
@@ -47,14 +42,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_3.dita#AFFARS_SMC_PGI_5335_017_3">SMC PGI 5335.017-3  Using an FFRDC</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5335_017_3.dita#AFFARS_SMC_PGI_5335_017_3" xtrc="SMC PGI 5335.017-3 Using an FFRDC">SMC PGI 5335.017-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5335_017_90.dita#AFFARS_SMC_PGI_5335_017_90">SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5335_017_90.dita#AFFARS_SMC_PGI_5335_017_90" xtrc="SMC PGI 5335.017-90 Federally Funded Research and Development Centers (Aerospace Corporation)">SMC PGI 5335.017-90</xref>
                      </p>
                   </li>
                </ul>

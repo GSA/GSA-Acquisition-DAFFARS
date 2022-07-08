@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5306_502"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5306_502" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">MP5306.502</ph> Air Force Competition and Commercial Advocacy Program</title>
       <body class="- topic/body ">
@@ -20,94 +14,70 @@
             <i class="+ topic/ph hi-d/i ">Jul 21</i>
          </p>
          <p id="p__Toc38365624" outputclass="Normal" class="- topic/p ">This Mandatory Procedure (MP) implements, in part, AFPD 64-1, <i class="+ topic/ph hi-d/i ">The Contracting System,</i>
-            <i class="+ topic/ph hi-d/i "/>and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
+            <i class="+ topic/ph hi-d/i "></i>and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
          <ul otherprops="TOC" class="- topic/ul ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1"
-                        class="- topic/xref ">1. Objectives.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1" class="- topic/xref " xtrc="1. Objectives.">1.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"
-                        class="- topic/xref "> 2.  Duties and Responsibilities.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2" class="- topic/xref " xtrc="2. Duties and Responsibilities.">2.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3"
-                        class="- topic/xref ">3. Appointment of the Competition and Commercial Advocate.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3" class="- topic/xref " xtrc="3. Appointment of the Competition and Commercial Advocate.">3.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4"
-                        class="- topic/xref ">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4" class="- topic/xref " xtrc="4. Annual Competition and Commercial Reporting Requirements.">4.</xref>
                </p>
             </li>
          </ul>
          <ul otherprops="TOC" class="- topic/ul ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1"
-                        class="- topic/xref ">1. Objectives.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1" class="- topic/xref " xtrc="1. Objectives.">1.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"
-                        class="- topic/xref "> 2.  Duties and Responsibilities.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2" class="- topic/xref " xtrc="2. Duties and Responsibilities.">2.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3"
-                        class="- topic/xref ">3. Appointment of the Competition and Commercial Advocate.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3" class="- topic/xref " xtrc="3. Appointment of the Competition and Commercial Advocate.">3.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4"
-                        class="- topic/xref ">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4" class="- topic/xref " xtrc="4. Annual Competition and Commercial Reporting Requirements.">4.</xref>
                </p>
             </li>
          </ul>
          <ul otherprops="TOC" class="- topic/ul ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1"
-                        class="- topic/xref ">1. Objectives.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1" class="- topic/xref " xtrc="1. Objectives.">1.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2"
-                        class="- topic/xref "> 2.  Duties and Responsibilities.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2" class="- topic/xref " xtrc="2. Duties and Responsibilities.">2.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3"
-                        class="- topic/xref ">3. Appointment of the Competition and Commercial Advocate.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3" class="- topic/xref " xtrc="3. Appointment of the Competition and Commercial Advocate.">3.</xref>
                </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4"
-                        class="- topic/xref ">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                  <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4" class="- topic/xref " xtrc="4. Annual Competition and Commercial Reporting Requirements.">4.</xref>
                </p>
             </li>
          </ul>

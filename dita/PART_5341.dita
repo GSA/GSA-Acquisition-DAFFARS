@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5341">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5341</ph> - Acquisition of Utility Services</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5341.aspx"
-                  class="- topic/xref ">AFFARS PART 5341 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5341.aspx" class="- topic/xref ">AFFARS PART 5341 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -23,7 +19,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5341_102.dita#AFFARS_5341_102"> 5341.102  Applicability</xref>
+                        <xref outputclass="fm:TOC" href="5341_102.dita#AFFARS_5341_102" xtrc="5341.102 Applicability">5341.102</xref>
                      </p>
                   </li>
                </ul>
@@ -35,12 +31,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5341_202.dita#AFFARS_5341_202">5341.202 Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5341_202.dita#AFFARS_5341_202" xtrc="5341.202 Procedures">5341.202</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5341_204.dita#AFFARS_5341_204">5341.204 GSA Area-wide Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5341_204.dita#AFFARS_5341_204" xtrc="5341.204 GSA Area-wide Contracts">5341.204</xref>
                      </p>
                   </li>
                </ul>

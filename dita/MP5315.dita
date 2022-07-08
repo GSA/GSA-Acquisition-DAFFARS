@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5315">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -20,22 +19,22 @@ Contracting by Negotiation</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_1.dita#AFFARS_MP_5315_3_1_1">1.1 Purpose</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_1.dita#AFFARS_MP_5315_3_1_1" xtrc="1.1 Purpose">1.1</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2"> 1.2  Applicability and Waivers</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_2.dita#AFFARS_MP_5315_3_1_2" xtrc="1.2 Applicability and Waivers">1.2</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_3.dita#AFFARS_MP_5315_3_1_3">1.3 Best Value Continuum (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_3.dita#AFFARS_MP_5315_3_1_3" xtrc="1.3 Best Value Continuum (No AF Text)">1.3</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4"> 1.4  Source Selection Team Roles and Responsibilities</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_4.dita#AFFARS_MP_5315_3_1_4" xtrc="1.4 Source Selection Team Roles and Responsibilities">1.4</xref>
                            </p>
                         </li>
                      </ul>
@@ -47,22 +46,22 @@ Contracting by Negotiation</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_2_1.dita#AFFARS_MP_5315_3_2_1">2.1 Conduct Acquisition Planning</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_2_1.dita#AFFARS_MP_5315_3_2_1" xtrc="2.1 Conduct Acquisition Planning">2.1</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_2_2.dita#AFFARS_MP_5315_3_2_2"> 2.2  Develop a Source Selection Plan (SSP)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_2_2.dita#AFFARS_MP_5315_3_2_2" xtrc="2.2 Develop a Source Selection Plan (SSP)">2.2</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3"> 2.3  Develop the Request for Proposals</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_2_3.dita#AFFARS_MP_5315_3_2_3" xtrc="2.3 Develop the Request for Proposals">2.3</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_2_4.dita#AFFARS_MP_5315_3_2_4">2.4 Release the Request for Proposals (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_2_4.dita#AFFARS_MP_5315_3_2_4" xtrc="2.4 Release the Request for Proposals (No AF Text)">2.4</xref>
                            </p>
                         </li>
                      </ul>
@@ -74,62 +73,62 @@ Contracting by Negotiation</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_1.dita#AFFARS_MP_5315_3_3_1">3.1 Evaluation Activities</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_1.dita#AFFARS_MP_5315_3_3_1" xtrc="3.1 Evaluation Activities">3.1</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_2.dita#AFFARS_MP_5315_3_3_2">3.2 Documentation of Initial Evaluation Results</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_2.dita#AFFARS_MP_5315_3_3_2" xtrc="3.2 Documentation of Initial Evaluation Results">3.2</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3"> 3.3  Award without Discussions</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_3.dita#AFFARS_MP_5315_3_3_3" xtrc="3.3 Award without Discussions">3.3</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_4.dita#AFFARS_MP_5315_3_3_4">3.4 Competitive Range Decision Document</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_4.dita#AFFARS_MP_5315_3_3_4" xtrc="3.4 Competitive Range Decision Document">3.4</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_5.dita#AFFARS_MP_5315_3_3_5">3.5 Discussion Process</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_5.dita#AFFARS_MP_5315_3_3_5" xtrc="3.5 Discussion Process">3.5</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6"> 3.6  Final Proposal Revisions</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_6.dita#AFFARS_MP_5315_3_3_6" xtrc="3.6 Final Proposal Revisions">3.6</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_7.dita#AFFARS_MP_5315_3_3_7">3.7 Documentation of Final Evaluation Results</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_7.dita#AFFARS_MP_5315_3_3_7" xtrc="3.7 Documentation of Final Evaluation Results">3.7</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_8.dita#AFFARS_MP_5315_3_3_8">3.8 Conduct and Document the Comparative Analysis</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_8.dita#AFFARS_MP_5315_3_3_8" xtrc="3.8 Conduct and Document the Comparative Analysis">3.8</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_9.dita#AFFARS_MP_5315_3_3_9"> 3.9  Best Value Decision</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_9.dita#AFFARS_MP_5315_3_3_9" xtrc="3.9 Best Value Decision">3.9</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_10.dita#AFFARS_MP_5315_3_3_10">3.10 Source Selection Decision Document</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_10.dita#AFFARS_MP_5315_3_3_10" xtrc="3.10 Source Selection Decision Document">3.10</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_11.dita#AFFARS_MP_5315_3_3_11">3.11 Debriefings (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_11.dita#AFFARS_MP_5315_3_3_11" xtrc="3.11 Debriefings (No AF Text)">3.11</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_3_12.dita#AFFARS_MP_5315_3_3_12">3.12 Integrating Proposal into the Contract</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_3_12.dita#AFFARS_MP_5315_3_3_12" xtrc="3.12 Integrating Proposal into the Contract">3.12</xref>
                            </p>
                         </li>
                      </ul>
@@ -141,25 +140,24 @@ Contracting by Negotiation</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_4_1.dita#AFFARS_MP_5315_3_4_1">4.1 Minimum Requirements</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_4_1.dita#AFFARS_MP_5315_3_4_1" xtrc="4.1 Minimum Requirements">4.1</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_4_2.dita#AFFARS_MP_5315_3_4_2">4.2 Electronic Source Selection</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_4_2.dita#AFFARS_MP_5315_3_4_2" xtrc="4.2 Electronic Source Selection">4.2</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3">4.3 Tactics, Techniques and Procedures (TTP),
-      Samples, and Tailorable Templates</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_4_3.dita#AFFARS_MP_5315_3_4_3" xtrc="4.3 Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates">4.3</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP_5315_3_5.dita#AFFARS_MP_5315_3_5">5 DEFINITIONS ( No AF text)</xref>
+                        <xref outputclass="fm:TOC" href="MP_5315_3_5.dita#AFFARS_MP_5315_3_5" xtrc="5 DEFINITIONS ( No AF text)">5</xref>
                      </p>
                   </li>
                   <li>
@@ -169,75 +167,69 @@ Contracting by Negotiation</title>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_1.dita#AFFARS_MP_5315_3_6_1">6.1 Purpose</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_1.dita#AFFARS_MP_5315_3_6_1" xtrc="6.1 Purpose">6.1</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_2.dita#AFFARS_MP_5315_3_6_2">6.2 Responsibilities of Senior Contracting Officials (SCO)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_2.dita#AFFARS_MP_5315_3_6_2" xtrc="6.2 Responsibilities of Senior Contracting Officials (SCO)">6.2</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_3.dita#AFFARS_MP_5315_3_6_3">6.3 Required Training for Designated Trainers</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_3.dita#AFFARS_MP_5315_3_6_3" xtrc="6.3 Required Training for Designated Trainers">6.3</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_4.dita#AFFARS_MP_5315_3_6_4">6.4 Acquisition/Source Selection Team
-      Training</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_4.dita#AFFARS_MP_5315_3_6_4" xtrc="6.4 Acquisition/Source Selection Team Training">6.4</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_5.dita#AFFARS_MP_5315_3_6_5">6.5 Source Selection Training Material</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_5.dita#AFFARS_MP_5315_3_6_5" xtrc="6.5 Source Selection Training Material">6.5</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_6.dita#AFFARS_MP_5315_3_6_6">6.6 Training Certificates.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_6.dita#AFFARS_MP_5315_3_6_6" xtrc="6.6 Training Certificates.">6.6</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_7.dita#AFFARS_MP_5315_3_6_7">6.7 Source Selection Training Survey.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_7.dita#AFFARS_MP_5315_3_6_7" xtrc="6.7 Source Selection Training Survey.">6.7</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_6_8.dita#AFFARS_MP_5315_3_6_8">6.8 Continuous Learning Points (CLP).</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_6_8.dita#AFFARS_MP_5315_3_6_8" xtrc="6.8 Continuous Learning Points (CLP).">6.8</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES">LIST OF TABLES AND FIGURES (No AF text)</xref>
+                        <xref outputclass="fm:TOC" href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES" xtrc="LIST OF TABLES AND FIGURES (No AF text)">LIST OF TABLES AND FIGURES</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="MP_5315_3_LIST_OF_APPENDICES.dita#AFFARS_MP_5315_3_LIST_OF_APPENDICES">List of Appendices</xref>
+                        <xref outputclass="fm:TOC" href="MP_5315_3_LIST_OF_APPENDICES.dita#AFFARS_MP_5315_3_LIST_OF_APPENDICES">List of Appendices</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_A.dita#AFFARS_MP_5315_3_APPENDIX_A">Appendix A. Debriefing Guide (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_A.dita#AFFARS_MP_5315_3_APPENDIX_A" xtrc="Appendix A. Debriefing Guide (No AF Text)">Appendix A.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_B.dita#AFFARS_MP_5315_3_APPENDIX_B">Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_B.dita#AFFARS_MP_5315_3_APPENDIX_B" xtrc="Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )">Appendix B.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_C.dita#AFFARS_MP_5315_3_APPENDIX_C">Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_C.dita#AFFARS_MP_5315_3_APPENDIX_C" xtrc="Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)">Appendix C.</xref>
                            </p>
                         </li>
                      </ul>
@@ -251,17 +243,17 @@ Contracting by Negotiation</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5315_4_1.dita#AFFARS_MP5315_4_1">1. Proposal Instructions.</xref>
+                        <xref outputclass="fm:TOC" href="MP5315_4_1.dita#AFFARS_MP5315_4_1" xtrc="1. Proposal Instructions.">1.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5315_4_2.dita#AFFARS_MP5315_4_2">2. Requesting data/documentation after receipt of the proposal.</xref>
+                        <xref outputclass="fm:TOC" href="MP5315_4_2.dita#AFFARS_MP5315_4_2" xtrc="2. Requesting data/documentation after receipt of the proposal.">2.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5315_404_1_90.dita#AFFARS_MP5315_404_1_90">MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                        <xref outputclass="fm:TOC" href="MP5315_404_1_90.dita#AFFARS_MP5315_404_1_90" xtrc="MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver">MP5315.404-1-90</xref>
                      </p>
                   </li>
                   <li>

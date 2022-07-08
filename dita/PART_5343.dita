@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5343">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5343</ph> - Contract Modifications</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5343.aspx"
-                  class="- topic/xref ">AFFARS PART 5343 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5343.aspx" class="- topic/xref ">AFFARS PART 5343 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,12 +24,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_102.dita#AFFARS_5343_102"> 5343.102  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5343_102.dita#AFFARS_5343_102" xtrc="5343.102 Policy">5343.102</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_102_90.dita#AFFARS_5343_102_90"> 5343.102-90  Contract Scope Considerations</xref>
+                        <xref outputclass="fm:TOC" href="5343_102_90.dita#AFFARS_5343_102_90" xtrc="5343.102-90 Contract Scope Considerations">5343.102-90</xref>
                      </p>
                   </li>
                </ul>
@@ -45,22 +41,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_204_70_1.dita#AFFARS_5343_204_70_1">5343.204-70-1 Scope</xref>
+                        <xref outputclass="fm:TOC" href="5343_204_70_1.dita#AFFARS_5343_204_70_1" xtrc="5343.204-70-1 Scope">5343.204-70-1</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_204_70_3.dita#AFFARS_5343_204_70_3">5343.204-70-3 Definitization Schedule</xref>
+                        <xref outputclass="fm:TOC" href="5343_204_70_3.dita#AFFARS_5343_204_70_3" xtrc="5343.204-70-3 Definitization Schedule">5343.204-70-3</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_204_70_5.dita#AFFARS_5343_204_70_5">5343.204-70-5 Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5343_204_70_5.dita#AFFARS_5343_204_70_5" xtrc="5343.204-70-5 Exceptions">5343.204-70-5</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_204_70_7.dita#AFFARS_5343_204_70_7">5343.204-70-7 Plans and Reports</xref>
+                        <xref outputclass="fm:TOC" href="5343_204_70_7.dita#AFFARS_5343_204_70_7" xtrc="5343.204-70-7 Plans and Reports">5343.204-70-7</xref>
                      </p>
                   </li>
                </ul>

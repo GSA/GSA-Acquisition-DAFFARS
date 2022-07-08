@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5312">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5312</ph> - Acquisition of Commercial Items</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5312.aspx"
-                  class="- topic/xref ">AFFARS PART 5312 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5312.aspx" class="- topic/xref ">AFFARS PART 5312 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -32,7 +28,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_102.dita#AFFARS_5312_102"> 5312.102  Applicability</xref>
+                        <xref outputclass="fm:TOC" href="5312_102.dita#AFFARS_5312_102" xtrc="5312.102 Applicability">5312.102</xref>
                      </p>
                   </li>
                </ul>
@@ -44,12 +40,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_207.dita#AFFARS_5312_207">5312.207 Contract Type</xref>
+                        <xref outputclass="fm:TOC" href="5312_207.dita#AFFARS_5312_207" xtrc="5312.207 Contract Type">5312.207</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_272.dita#AFFARS_5312_272"> 5312.272  Preference for Certain Commercial Products and Services</xref>
+                        <xref outputclass="fm:TOC" href="5312_272.dita#AFFARS_5312_272" xtrc="5312.272 Preference for Certain Commercial Products and Services">5312.272</xref>
                      </p>
                   </li>
                </ul>
@@ -61,7 +57,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_302.dita#AFFARS_5312_302"> 5312.302  Tailoring of Provisions and Clauses for the Acquisition of Commercial Items</xref>
+                        <xref outputclass="fm:TOC" href="5312_302.dita#AFFARS_5312_302" xtrc="5312.302 Tailoring of Provisions and Clauses for the Acquisition of Commercial Items">5312.302</xref>
                      </p>
                   </li>
                </ul>
@@ -73,7 +69,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_403.dita#AFFARS_5312_403">5312.403 Termination</xref>
+                        <xref outputclass="fm:TOC" href="5312_403.dita#AFFARS_5312_403" xtrc="5312.403 Termination">5312.403</xref>
                      </p>
                   </li>
                </ul>
@@ -85,14 +81,14 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5312_7001.dita#AFFARS_5312_7001"> 5312.7001  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5312_7001.dita#AFFARS_5312_7001" xtrc="5312.7001 Procedures">5312.7001</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5312_90.dita#AFFARS_SUBPART_5312_90">SUBPART 5312.90 – PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5312_90.dita#AFFARS_SUBPART_5312_90" xtrc="SUBPART 5312.90 – PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING">SUBPART 5312.90</xref>
                </p>
             </li>
          </ul>

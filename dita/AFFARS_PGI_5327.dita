@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5327">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,14 +13,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5327_7102_2.dita#AFFARS_AFMC_PGI_5327_7102_2">AFMC PGI 5327.7102-2 Rights in Technical Data</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5327_7102_2.dita#AFFARS_AFMC_PGI_5327_7102_2" xtrc="AFMC PGI 5327.7102-2 Rights in Technical Data">AFMC PGI 5327.7102-2</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5327_9001.dita#AFFARS_AFMC_PGI_5327_9001">AFMC PGI 5327.9001 Foreign Disclosure Reviews</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5327_9001.dita#AFFARS_AFMC_PGI_5327_9001" xtrc="AFMC PGI 5327.9001 Foreign Disclosure Reviews">AFMC PGI 5327.9001</xref>
                      </p>
                   </li>
                </ul>
@@ -33,8 +30,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5327_304_90.dita#AFFARS_SMC_PGI_5327_304_90">SMC PGI 5327.304-90  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5327_304_90.dita#AFFARS_SMC_PGI_5327_304_90" xtrc="SMC PGI 5327.304-90 Procedures">SMC PGI 5327.304-90</xref>
                      </p>
                   </li>
                </ul>

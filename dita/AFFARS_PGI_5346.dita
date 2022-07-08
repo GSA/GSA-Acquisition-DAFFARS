@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5346">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,18 +13,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5346_202_4.dita#AFFARS_AF_PGI_5346_202_4">AF PGI 5346.202-4 Higher-level Contract Quality Requirements</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5346_202_4.dita#AFFARS_AF_PGI_5346_202_4" xtrc="AF PGI 5346.202-4 Higher-level Contract Quality Requirements">AF PGI 5346.202-4</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5346_401.dita#AFFARS_AF_PGI_5346_401">AF PGI 5346.401 General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5346_401.dita#AFFARS_AF_PGI_5346_401" xtrc="AF PGI 5346.401 General">AF PGI 5346.401</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="AF_PGI_5346_702.dita#AFFARS_AF_PGI_5346_702">AF PGI 5346.702 General</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5346_702.dita#AFFARS_AF_PGI_5346_702" xtrc="AF PGI 5346.702 General">AF PGI 5346.702</xref>
                      </p>
                   </li>
                </ul>

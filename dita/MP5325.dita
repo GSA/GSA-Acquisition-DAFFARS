@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5325">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -12,7 +11,7 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="MP5325_103.dita#AFFARS_MP5325_103"> MP5325.103  Exceptions</xref>
+                  <xref outputclass="fm:TOC" href="MP5325_103.dita#AFFARS_MP5325_103" xtrc="MP5325.103 Exceptions">MP5325.103</xref>
                </p>
             </li>
             <li>
@@ -22,12 +21,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5325_7002_2_1.dita#AFFARS_MP5325_7002_2_1">1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002</xref>
+                        <xref outputclass="fm:TOC" href="MP5325_7002_2_1.dita#AFFARS_MP5325_7002_2_1" xtrc="1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002">1.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5325_7002_2_2.dita#AFFARS_MP5325_7002_2_2">2. DNAD Exception</xref>
+                        <xref outputclass="fm:TOC" href="MP5325_7002_2_2.dita#AFFARS_MP5325_7002_2_2" xtrc="2. DNAD Exception">2.</xref>
                      </p>
                   </li>
                </ul>
@@ -39,17 +38,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5325_7003_3_1.dita#AFFARS_MP5325_7003_3_1">1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003</xref>
+                        <xref outputclass="fm:TOC" href="MP5325_7003_3_1.dita#AFFARS_MP5325_7003_3_1" xtrc="1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003">1.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5325_7003_3_2.dita#AFFARS_MP5325_7003_3_2">2. Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</xref>
+                        <xref outputclass="fm:TOC" href="MP5325_7003_3_2.dita#AFFARS_MP5325_7003_3_2" xtrc="2. Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals">2.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5325_7003_3_3.dita#AFFARS_MP5325_7003_3_3">3. DNAD Exception</xref>
+                        <xref outputclass="fm:TOC" href="MP5325_7003_3_3.dita#AFFARS_MP5325_7003_3_3" xtrc="3. DNAD Exception">3.</xref>
                      </p>
                   </li>
                </ul>

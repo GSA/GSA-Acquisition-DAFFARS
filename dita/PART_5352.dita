@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5352">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">PART 5352</ph> - Solicitation Provisions and Contract Clauses</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5352.aspx"
-                  class="- topic/xref ">AFFARS PART 5352 Knowledge Center</xref>
+            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5352.aspx" class="- topic/xref ">AFFARS PART 5352 Knowledge Center</xref>
          </p>
          <p outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
@@ -28,54 +24,52 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_201_9101.dita#AFFARS_5352_201_9101">5352.201-9101 Ombudsman</xref>
+                        <xref outputclass="fm:TOC" href="5352_201_9101.dita#AFFARS_5352_201_9101" xtrc="5352.201-9101 Ombudsman">5352.201-9101</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_204_9000.dita#AFFARS_5352_204_9000">5352.204-9000 Notification of Government Security Activities</xref>
+                        <xref outputclass="fm:TOC" href="5352_204_9000.dita#AFFARS_5352_204_9000" xtrc="5352.204-9000 Notification of Government Security Activities">5352.204-9000</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_209_9000.dita#AFFARS_5352_209_9000"> 5352.209-9000  Organizational Conflict of Interest</xref>
+                        <xref outputclass="fm:TOC" href="5352_209_9000.dita#AFFARS_5352_209_9000" xtrc="5352.209-9000 Organizational Conflict of Interest">5352.209-9000</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_209_9001.dita#AFFARS_5352_209_9001"> 5352.209-9001  Potential Organizational Conflict of Interest</xref>
+                        <xref outputclass="fm:TOC" href="5352_209_9001.dita#AFFARS_5352_209_9001" xtrc="5352.209-9001 Potential Organizational Conflict of Interest">5352.209-9001</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_217_9000.dita#AFFARS_5352_217_9000"> 5352.217-9000  Long Lead Limitation of Government Liability</xref>
+                        <xref outputclass="fm:TOC" href="5352_217_9000.dita#AFFARS_5352_217_9000" xtrc="5352.217-9000 Long Lead Limitation of Government Liability">5352.217-9000</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_223_9000.dita#AFFARS_5352_223_9000"> 5352.223-9000  Elimination of Use of Class I Ozone Depleting Substances (ODS)</xref>
+                        <xref outputclass="fm:TOC" href="5352_223_9000.dita#AFFARS_5352_223_9000" xtrc="5352.223-9000 Elimination of Use of Class I Ozone Depleting Substances (ODS)">5352.223-9000</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_223_9001.dita#AFFARS_5352_223_9001"> 5352.223-9001  Health and Safety on Government Installations</xref>
+                        <xref outputclass="fm:TOC" href="5352_223_9001.dita#AFFARS_5352_223_9001" xtrc="5352.223-9001 Health and Safety on Government Installations">5352.223-9001</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_228_9101.dita#AFFARS_5352_228_9101">5352.228-9101 Insurance Certificate
-      Requirement in Spain (USAFE)</xref>
+                        <xref outputclass="fm:TOC" href="5352_228_9101.dita#AFFARS_5352_228_9101" xtrc="5352.228-9101 Insurance Certificate Requirement in Spain (USAFE)">5352.228-9101</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_242_9000.dita#AFFARS_5352_242_9000"> 5352.242-9000  Contractor Access to Air Force
-      Installations</xref>
+                        <xref outputclass="fm:TOC" href="5352_242_9000.dita#AFFARS_5352_242_9000" xtrc="5352.242-9000 Contractor Access to Air Force Installations">5352.242-9000</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_242_9001.dita#AFFARS_5352_242_9001"> 5352.242-9001  Common Access Cards (CAC) for Contractor Personnel</xref>
+                        <xref outputclass="fm:TOC" href="5352_242_9001.dita#AFFARS_5352_242_9001" xtrc="5352.242-9001 Common Access Cards (CAC) for Contractor Personnel">5352.242-9001</xref>
                      </p>
                   </li>
                </ul>

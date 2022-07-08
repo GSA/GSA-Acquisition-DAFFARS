@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_AFFARS_PGI_5306">
       <title outputclass="Heading 1" class="- topic/title ">
@@ -14,8 +13,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AF_PGI_5306_302_4.dita#AFFARS_AF_PGI_5306_302_4">AF PGI 5306.302-4 International Agreement</xref>
+                        <xref outputclass="fm:TOC" href="AF_PGI_5306_302_4.dita#AFFARS_AF_PGI_5306_302_4" xtrc="AF PGI 5306.302-4 International Agreement">AF PGI 5306.302-4</xref>
                      </p>
                   </li>
                </ul>
@@ -27,21 +25,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_304.dita#AFFARS_AFMC_PGI_5306_304">AFMC PGI 5306.304 Approval of the
-      Justification</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5306_304.dita#AFFARS_AFMC_PGI_5306_304" xtrc="AFMC PGI 5306.304 Approval of the Justification">AFMC PGI 5306.304</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_501.dita#AFFARS_AFMC_PGI_5306_501">AFMC PGI 5306.501 Requirement</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5306_501.dita#AFFARS_AFMC_PGI_5306_501" xtrc="AFMC PGI 5306.501 Requirement">AFMC PGI 5306.501</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AFMC_PGI_5306_502.dita#AFFARS_AFMC_PGI_5306_502">AFMC PGI 5306.502 Duties and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="AFMC_PGI_5306_502.dita#AFFARS_AFMC_PGI_5306_502" xtrc="AFMC PGI 5306.502 Duties and Responsibilities">AFMC PGI 5306.502</xref>
                      </p>
                   </li>
                </ul>
@@ -53,20 +47,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_301_90.dita#AFFARS_SMC_PGI_5306_301_90"> SMC PGI 5306.301-90  Policy </xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5306_301_90.dita#AFFARS_SMC_PGI_5306_301_90" xtrc="SMC PGI 5306.301-90 Policy">SMC PGI 5306.301-90</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_304.dita#AFFARS_SMC_PGI_5306_304">SMC PGI 5306.304 Approval of the Justification</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5306_304.dita#AFFARS_SMC_PGI_5306_304" xtrc="SMC PGI 5306.304 Approval of the Justification">SMC PGI 5306.304</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="SMC_PGI_5306_502.dita#AFFARS_SMC_PGI_5306_502">SMC PGI 5306.502 Duties and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="SMC_PGI_5306_502.dita#AFFARS_SMC_PGI_5306_502" xtrc="SMC PGI 5306.502 Duties and Responsibilities">SMC PGI 5306.502</xref>
                      </p>
                   </li>
                </ul>
@@ -78,8 +69,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="USAFA_PGI_5306_502.dita#AFFARS_USAFA_PGI_5306_502">USAFA PGI 5306.502 Duties and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="USAFA_PGI_5306_502.dita#AFFARS_USAFA_PGI_5306_502" xtrc="USAFA PGI 5306.502 Duties and Responsibilities">USAFA PGI 5306.502</xref>
                      </p>
                   </li>
                </ul>
