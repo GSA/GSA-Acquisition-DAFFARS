@@ -1,20 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="AFFARS_5316_505">
-      <title id="US5TAA" outputclass="Heading 3">
-         <ph id="Ur1EEH" props="autonumber">5316.505</ph> Ordering</title>
-      <conbody id="UVHkKU">
-         <p id="eYPKqs" outputclass="List1">(b) <i id="yvHxCk">Orders under multiple award contracts</i>.</p>
-         <p id="FYBsJa" outputclass="List2">(1) <i id="knCE5R">Fair opportunity</i>.</p>
-         <p id="ZOopRE" outputclass="List3" xtrf="CheckMapping">(ii) The contracting officer must use streamlined ordering procedures. SCOs must justify the use of FAR Subpart 15.3 Source Selection Procedures for any contract or task/delivery order, regardless of dollar value made in accordance with FAR 16.505. The SCO must submit justifications to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" id="X9Oaw5" scope="external">
-               <u id="vJEj5v">SAF/AQC</u>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5316_505"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title id="US5TAA" outputclass="Heading 3" class="- topic/title ">
+         <ph id="Ur1EEH" props="autonumber" class="- topic/ph ">5316.505</ph> Ordering</title>
+      <conbody id="UVHkKU" class="- topic/body  concept/conbody ">
+         <p id="eYPKqs" outputclass="List1" class="- topic/p ">(b) <i id="yvHxCk" class="+ topic/ph hi-d/i ">Orders under multiple award contracts</i>.</p>
+         <p id="FYBsJa" outputclass="List2" class="- topic/p ">(1) <i id="knCE5R" class="+ topic/ph hi-d/i ">Fair opportunity</i>.</p>
+         <p id="ZOopRE"
+            outputclass="List3"
+            xtrf="CheckMapping"
+            class="- topic/p ">(ii) The contracting officer must use streamlined ordering procedures. SCOs must justify the use of FAR Subpart 15.3 Source Selection Procedures for any contract or task/delivery order, regardless of dollar value made in accordance with FAR 16.505. The SCO must submit justifications to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  id="X9Oaw5"
+                  scope="external"
+                  class="- topic/xref ">
+               <u id="vJEj5v" class="+ topic/ph hi-d/u ">SAF/AQC</u>
             </xref> before proceeding with the source selection and/or Clearance session.</p>
-         <p id="lAhzGD" outputclass="List2">(2) <i id="R2g0Fb">Exceptions to the fair opportunity process</i>. See <xref href="5306_304.dita" id="zQ38nP">5306.304</xref> for the approving officials for a proposed task or delivery order using the fair opportunity exceptions at FAR 16.505(b)(2). See the tailorable <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/fair_opportunity_exception_justification.pdf" id="5Gi30M" scope="external">
-               <u id="tc60Yr">Justification for an Exception to Fair Opportunity</u>
+         <p id="lAhzGD" outputclass="List2" class="- topic/p ">(2) <i id="R2g0Fb" class="+ topic/ph hi-d/i ">Exceptions to the fair opportunity process</i>. See <xref href="5306_304.dita" id="zQ38nP" class="- topic/xref "/> for the approving officials for a proposed task or delivery order using the fair opportunity exceptions at FAR 16.505(b)(2). See the tailorable <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/fair_opportunity_exception_justification.pdf"
+                  id="5Gi30M"
+                  scope="external"
+                  class="- topic/xref ">
+               <u id="tc60Yr" class="+ topic/ph hi-d/u ">Justification for an Exception to Fair Opportunity</u>
             </xref> template. For exceptions to fair opportunity that are intended for purposes of awarding a “Bridge Action” see 5306.303-90.</p>
-         <p id="p__Toc351650167" outputclass="List2">(8) <i id="Kl3vtm">Task-order and delivery-order ombudsman</i>. See 5301.91.</p>
+         <p id="p__Toc351650167" outputclass="List2" class="- topic/p ">(8) <i id="Kl3vtm" class="+ topic/ph hi-d/i ">Task-order and delivery-order ombudsman</i>. See 5301.91.</p>
       </conbody>
    </concept>
 </dita>

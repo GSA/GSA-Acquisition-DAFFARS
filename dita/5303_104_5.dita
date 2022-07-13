@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita>
-   <concept id="AFFARS_5303_104_5">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5303.104-5</ph> Disqualification</title>
-      <conbody>
-         <p id="wIAJvb" outputclass="Normal">(b) In addition to the parties identified at FAR 3.104-5(b), if the source selection authority is the MAJCOM/FOA/DRU/CC or CD, the disqualification notice must be coordinated through the MAJCOM/FOA/DRU JA and the SCO. The notice must include the items at FAR 3.104-5(b) and the following:</p>
-         <p id="OWbDFR" outputclass="List2">(1) Name of requestor</p>
-         <p id="faHfkW" outputclass="List2">(2) Current position/job title</p>
-         <p id="QXQppY" outputclass="List2">(3) Projected retirement date</p>
-         <p id="BWejvD" outputclass="List2">(4) Impact on program/unit mission if disqualification is granted</p>
-         <p id="BnSlfY" outputclass="List2">(5) Proposed replacement individual for official acquisition duties</p>
-         <p id="jIvUqB" outputclass="List2">(6) Commander/Director recommendation</p>
-         <p id="VxiBwk" outputclass="List1">(c) Resumption of participation in a procurement</p>
-         <p id="qRUZzt" outputclass="List1">The contracting officer, after consultation with the parties identified in paragraph (b), will notify the individual if he or she is disqualified. The individual will remain disqualified unless resumption of participation in the procurement is granted in accordance with paragraph (c) of <xref format="html" href="https://www.acquisition.gov/far/part-3#FAR_3_104_5" scope="external">FAR 3.104-5(b)</xref>.</p>
-         <p id="p__Toc38451317" outputclass="List2">(2) See MP5301.601(a)(i). In cases where the SCO is the individual disqualified from participation in a procurement, the DAS(C) must authorize the individual to resume participation in the procurement. The ASAF(A) and their civilian or military deputy have the authority to permit the DAS(C) or ADAS(C) to resume participation in a procurement following contact with an offeror regarding non-Federal employment. 5303.104-7 Violations or Possible Violations</p>
-         <p id="xGTWgJ" outputclass="List1">(a) The contracting officer must provide a copy of the information and documentation generated under FAR 3.104-7 to their cognizant legal counsel and to <xref format="mailto" href="mailto:SAF.GCR.Workflow@us.af.mil" scope="external">
-               <u>SAF/GCR</u>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5303_104_5"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title outputclass="Heading 3" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">5303.104-5</ph> Disqualification</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="wIAJvb" outputclass="Normal" class="- topic/p ">(b) In addition to the parties identified at FAR 3.104-5(b), if the source selection authority is the MAJCOM/FOA/DRU/CC or CD, the disqualification notice must be coordinated through the MAJCOM/FOA/DRU JA and the SCO. The notice must include the items at FAR 3.104-5(b) and the following:</p>
+         <p id="OWbDFR" outputclass="List2" class="- topic/p ">(1) Name of requestor</p>
+         <p id="faHfkW" outputclass="List2" class="- topic/p ">(2) Current position/job title</p>
+         <p id="QXQppY" outputclass="List2" class="- topic/p ">(3) Projected retirement date</p>
+         <p id="BWejvD" outputclass="List2" class="- topic/p ">(4) Impact on program/unit mission if disqualification is granted</p>
+         <p id="BnSlfY" outputclass="List2" class="- topic/p ">(5) Proposed replacement individual for official acquisition duties</p>
+         <p id="jIvUqB" outputclass="List2" class="- topic/p ">(6) Commander/Director recommendation</p>
+         <p id="VxiBwk" outputclass="List1" class="- topic/p ">(c) Resumption of participation in a procurement</p>
+         <p id="qRUZzt" outputclass="List1" class="- topic/p ">The contracting officer, after consultation with the parties identified in paragraph (b), will notify the individual if he or she is disqualified. The individual will remain disqualified unless resumption of participation in the procurement is granted in accordance with paragraph (c) of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-3#FAR_3_104_5"
+                  scope="external"
+                  class="- topic/xref ">FAR 3.104-5(b)</xref>.</p>
+         <p id="p__Toc38451317" outputclass="List2" class="- topic/p ">(2) See MP5301.601(a)(i). In cases where the SCO is the individual disqualified from participation in a procurement, the DAS(C) must authorize the individual to resume participation in the procurement. The ASAF(A) and their civilian or military deputy have the authority to permit the DAS(C) or ADAS(C) to resume participation in a procurement following contact with an offeror regarding non-Federal employment. 5303.104-7 Violations or Possible Violations</p>
+         <p id="xGTWgJ" outputclass="List1" class="- topic/p ">(a) The contracting officer must provide a copy of the information and documentation generated under FAR 3.104-7 to their cognizant legal counsel and to <xref format="mailto"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/GCR</u>
             </xref>.</p>
-         <p id="UEzQxp" outputclass="List2">(1) The contracting officer must forward the information and determination required by FAR 3.104-7(a)(1) to the clearance approval authority ( <xref href="5301_9001.dita">5301.9001</xref> ) of the affected procurement for review.</p>
-         <p id="p__Toc38284410" outputclass="List1">(f) See <xref href="MP5301_601.dita">MP5301.601(a)(i)</xref> for individuals who may authorize award.</p>
+         <p id="UEzQxp" outputclass="List2" class="- topic/p ">(1) The contracting officer must forward the information and determination required by FAR 3.104-7(a)(1) to the clearance approval authority ( <xref href="5301_9001.dita" class="- topic/xref "/> ) of the affected procurement for review.</p>
+         <p id="p__Toc38284410" outputclass="List1" class="- topic/p ">(f) See <xref href="MP5301_601.dita" class="- topic/xref "/> for individuals who may authorize award.</p>
       </conbody>
    </concept>
 </dita>

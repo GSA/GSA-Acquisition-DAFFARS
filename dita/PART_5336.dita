@@ -1,97 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5336">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">PART 5336</ph> - Construction and Architect-Engineer Contracts</title>
-      <body>
-         <p id="eKgxtq" outputclass="Normal">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5336"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5336</ph> - Construction and Architect-Engineer Contracts</title>
+      <body class="- topic/body ">
+         <p id="eKgxtq" outputclass="Normal" class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx"
-                  scope="external">AFFARS PART 5336 Knowledge Center</xref>
+                  scope="external"
+                  class="- topic/xref ">AFFARS PART 5336 Knowledge Center</xref>
          </p>
-         <p id="yqtbbe" outputclass="Normal">
-            <b>2019 Edition</b>
+         <p id="yqtbbe" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p id="6i1mcdps" outputclass="Normal">
-            <i>Revised: 2 May 2022</i>
+         <p id="6i1mcdps" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_2.dita#AFFARS_SUBPART_5336_2">SUBPART 5336.2 — SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5336_2.dita#AFFARS_SUBPART_5336_2"
+                        class="- topic/xref ">SUBPART 5336.2 — SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_208.dita#AFFARS_5336_208">5336.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_208.dita#AFFARS_5336_208"
+                              class="- topic/xref ">5336.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_209.dita#AFFARS_5336_209">5336.209 Construction Contracts with Architect-Engineer Firms</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_209.dita#AFFARS_5336_209"
+                              class="- topic/xref ">5336.209 Construction Contracts with Architect-Engineer Firms</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_213_2.dita#AFFARS_5336_213_2">5336.213-2 Presolicitation Notices</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_213_2.dita#AFFARS_5336_213_2"
+                              class="- topic/xref ">5336.213-2 Presolicitation Notices</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_272.dita#AFFARS_5336_272">5336.272 Prequalification of Sources</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_272.dita#AFFARS_5336_272"
+                              class="- topic/xref ">5336.272 Prequalification of Sources</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_3.dita#AFFARS_SUBPART_5336_3">SUBPART 5336.3 — TWO-PHASE DESIGN-BUILD SELECTION PROCEDURES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5336_3.dita#AFFARS_SUBPART_5336_3"
+                        class="- topic/xref ">SUBPART 5336.3 — TWO-PHASE DESIGN-BUILD SELECTION PROCEDURES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_301.dita#AFFARS_5336_301">5336.301 Use of Two-Phase Design-Build Selection Procedures</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_301.dita#AFFARS_5336_301"
+                              class="- topic/xref ">5336.301 Use of Two-Phase Design-Build Selection Procedures</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_303_1.dita#AFFARS_5336_303_1">5336.303-1 Phase One</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_303_1.dita#AFFARS_5336_303_1"
+                              class="- topic/xref ">5336.303-1 Phase One</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_5.dita#AFFARS_SUBPART_5336_5">SUBPART 5336.5 — CONTRACT CLAUSES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5336_5.dita#AFFARS_SUBPART_5336_5"
+                        class="- topic/xref ">SUBPART 5336.5 — CONTRACT CLAUSES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_507.dita#AFFARS_5336_507">5336.507 Permits and Responsibilities</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_507.dita#AFFARS_5336_507"
+                              class="- topic/xref ">5336.507 Permits and Responsibilities</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_570.dita#AFFARS_5336_570">5336.570 Additional Provisions and Clauses</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_570.dita#AFFARS_5336_570"
+                              class="- topic/xref ">5336.570 Additional Provisions and Clauses</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_6.dita#AFFARS_SUBPART_5336_6">SUBPART 5336.6 —ARCHITECT-ENGINEER SERVICES</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5336_6.dita#AFFARS_SUBPART_5336_6"
+                        class="- topic/xref ">SUBPART 5336.6 —ARCHITECT-ENGINEER SERVICES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_602_3.dita#AFFARS_5336_602_3">5336.602-3 Evaluation Board Functions</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_602_3.dita#AFFARS_5336_602_3"
+                              class="- topic/xref ">5336.602-3 Evaluation Board Functions</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5336_609_1.dita#AFFARS_5336_609_1">5336.609-1 Design Within Funding Limitations</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5336_609_1.dita#AFFARS_5336_609_1"
+                              class="- topic/xref ">5336.609-1 Design Within Funding Limitations</xref>
                      </p>
                   </li>
                </ul>

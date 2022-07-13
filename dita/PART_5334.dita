@@ -1,49 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5334">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">PART 5334</ph> - Major System Acquisition</title>
-      <body>
-         <p id="PvBwPr" outputclass="Normal">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5334"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 5334</ph> - Major System Acquisition</title>
+      <body class="- topic/body ">
+         <p id="PvBwPr" outputclass="Normal" class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5334.aspx"
-                  scope="external">AFFARS PART 5334 Knowledge Center</xref>
+                  scope="external"
+                  class="- topic/xref ">AFFARS PART 5334 Knowledge Center</xref>
          </p>
-         <p id="eZPnnr" outputclass="Normal">
-            <b>2019 Edition</b>
+         <p id="eZPnnr" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p id="LSvoJH" outputclass="Normal">
-            <i>Revised:</i>
-            <i>2 May 2022</i>
+         <p id="LSvoJH" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2 May 2022</i>
          </p>
-         <p id="nAWDCq" outputclass="Normal">INTERIM CHANGE: See Policy Memo <xref format="pdf"
+         <p id="nAWDCq" outputclass="Normal" class="- topic/p ">INTERIM CHANGE: See Policy Memo <xref format="pdf"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/18-C-07.pdf"
-                  scope="external">
-               <u>18-C-07</u>
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">18-C-07</u>
             </xref>.</p>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5334_2.dita#AFFARS_SUBPART_5334_2">SUBPART 5334.2 — EARNED VALUE MANAGEMENT SYSTEM</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5334_2.dita#AFFARS_SUBPART_5334_2"
+                        class="- topic/xref ">SUBPART 5334.2 — EARNED VALUE MANAGEMENT SYSTEM</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5334_203.dita#AFFARS_5334_203">5334.203 Solicitation provisions and contract clause</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5334_203.dita#AFFARS_5334_203"
+                              class="- topic/xref ">5334.203 Solicitation provisions and contract clause</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5334_70.dita#AFFARS_SUBPART_5334_70">SUBPART 5334.70 — ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5334_70.dita#AFFARS_SUBPART_5334_70"
+                        class="- topic/xref ">SUBPART 5334.70 — ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL ITEMS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5334_7002.dita#AFFARS_5334_7002"> 5334.7002  Policy</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5334_7002.dita#AFFARS_5334_7002"
+                              class="- topic/xref ">5334.7002 Policy</xref>
                      </p>
                   </li>
                </ul>

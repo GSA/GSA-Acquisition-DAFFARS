@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5352_223_9001" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept ">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5352_223_9001"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
       <title outputclass="Heading 3" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "> 5352.223-9001 </ph> Health and Safety on Government Installations</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">As prescribed in <xref href="5323_9001.dita" class="- topic/xref " xtrc="AFFARS 5323.9001">5323.9001</xref> , insert the following clause in solicitations and contracts:</p>
+         <p outputclass="Normal" class="- topic/p ">As prescribed in <xref href="5323_9001.dita" class="- topic/xref " xtrc="AFFARS 5323.9001"/> , insert the following clause in solicitations and contracts:</p>
          <p id="p__Toc76485396" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">HEALTH AND SAFETY ON GOVERNMENT INSTALLATIONS (OCT 2019)</b>
          </p>

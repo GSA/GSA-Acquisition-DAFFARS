@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_MP5305">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5305</ph> - Publicizing Contract Actions</title>
-      <body>
-         <p id="t96j2ryr">
-            <b>2019 Edition</b>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5305"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5305</ph> - Publicizing Contract Actions</title>
+      <body class="- topic/body ">
+         <p id="t96j2ryr" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p id="1pzkdk3r">
-            <i>Revised: 2 May 2022</i>
+         <p id="1pzkdk3r" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="MP5305_3.dita#AFFARS_MP5305_3">MP5305.3 — SYNOPSES OF CONTRACT AWARDS</xref>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="MP5305_3.dita#AFFARS_MP5305_3"
+                        class="- topic/xref ">MP5305.3 — SYNOPSES OF CONTRACT AWARDS</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="MP5305_303.dita#AFFARS_MP5305_303">MP5305.303 Announcement of Contract Awards</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="MP5305_303.dita#AFFARS_MP5305_303"
+                              class="- topic/xref ">MP5305.303 Announcement of Contract Awards</xref>
                      </p>
                   </li>
                </ul>
