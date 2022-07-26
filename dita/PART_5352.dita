@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5352">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5352</ph> - Solicitation Provisions and Contract Clauses</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5352</ph> - Solicitation Provisions and Contract Clauses</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
@@ -38,44 +38,42 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_209_9000.dita#AFFARS_5352_209_9000"> 5352.209-9000  Organizational Conflict of Interest</xref>
+                        <xref outputclass="fm:TOC" href="5352_209_9000.dita#AFFARS_5352_209_9000">5352.209-9000 Organizational Conflict of Interest</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_209_9001.dita#AFFARS_5352_209_9001"> 5352.209-9001  Potential Organizational Conflict of Interest</xref>
+                        <xref outputclass="fm:TOC" href="5352_209_9001.dita#AFFARS_5352_209_9001">5352.209-9001 Potential Organizational Conflict of Interest</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_217_9000.dita#AFFARS_5352_217_9000"> 5352.217-9000  Long Lead Limitation of Government Liability</xref>
+                        <xref outputclass="fm:TOC" href="5352_217_9000.dita#AFFARS_5352_217_9000">5352.217-9000 Long Lead Limitation of Government Liability</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_223_9000.dita#AFFARS_5352_223_9000"> 5352.223-9000  Elimination of Use of Class I Ozone Depleting Substances (ODS)</xref>
+                        <xref outputclass="fm:TOC" href="5352_223_9000.dita#AFFARS_5352_223_9000">5352.223-9000 Elimination of Use of Class I Ozone Depleting Substances (ODS)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_223_9001.dita#AFFARS_5352_223_9001"> 5352.223-9001  Health and Safety on Government Installations</xref>
+                        <xref outputclass="fm:TOC" href="5352_223_9001.dita#AFFARS_5352_223_9001">5352.223-9001 Health and Safety on Government Installations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_228_9101.dita#AFFARS_5352_228_9101">5352.228-9101 Insurance Certificate
-      Requirement in Spain (USAFE)</xref>
+                        <xref outputclass="fm:TOC" href="5352_228_9101.dita#AFFARS_5352_228_9101">5352.228-9101 Insurance Certificate Requirement in Spain (USAFE)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_242_9000.dita#AFFARS_5352_242_9000"> 5352.242-9000  Contractor Access to Air Force
-      Installations</xref>
+                        <xref outputclass="fm:TOC" href="5352_242_9000.dita#AFFARS_5352_242_9000">5352.242-9000 Contractor Access to Air Force Installations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5352_242_9001.dita#AFFARS_5352_242_9001"> 5352.242-9001  Common Access Cards (CAC) for Contractor Personnel</xref>
+                        <xref outputclass="fm:TOC" href="5352_242_9001.dita#AFFARS_5352_242_9001">5352.242-9001 Common Access Cards (CAC) for Contractor Personnel</xref>
                      </p>
                   </li>
                </ul>

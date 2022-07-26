@@ -5,22 +5,18 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5333_103"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5333.103 </ph> Protests to the Agency</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5333.103</ph> Protests to the Agency</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(d)(4) When an agency protest is denied, an offeror may request an independent review by the SCO. </p>
-         <p id="p__Toc351654224" outputclass="List1" class="- topic/p ">(h) The contracting officer must prepare the protest file following an agency protest (including a protest of a non-appropriated funds procurement) regardless of the level at which the protest is filed. The contracting officer must request guidance from <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+         <p id="SmDfEC" outputclass="List1" class="- topic/p ">(d)(4) When an agency protest is denied, an offeror may request an independent review by the SCO.</p>
+         <p id="p__Toc351654224" outputclass="List1" class="- topic/p ">(h) The contracting officer must prepare the protest file following an agency protest (including a protest of a non-appropriated funds procurement) regardless of the level at which the protest is filed. The contracting officer must request guidance from <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"
-                  format="mailto"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
             </xref> for any protest likely to generate significant Congressional interest. The decision to deny a protest must be made at a level no lower than that at which the protest was filed. Protests may be sustained at any level in the review process, with the concurrence of the cognizant legal office.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5333_103.dita" class="- topic/xref ">AFMC PGI 5333.103</xref>.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFICC_PGI_5333_103.dita" class="- topic/xref ">AFICC PGI 5333.103</xref> .</p>
       </conbody>
    </concept>
 </dita>

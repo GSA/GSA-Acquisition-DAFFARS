@@ -5,15 +5,12 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5309_270_3"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5309.270-3 </ph> Policy</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5309.270-3</ph> Policy</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p id="p__Toc38364740" outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5309_303_90.dita" class="- topic/xref ">AFMC PGI 5309.303-90</xref>.</p>
+         <p id="NZLrLp" outputclass="List1" class="- topic/p ">(a) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
       </conbody>
    </concept>
 </dita>

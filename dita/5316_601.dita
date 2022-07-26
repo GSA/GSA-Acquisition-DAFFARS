@@ -5,25 +5,39 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5316_601"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5316.601 </ph>(d) Limitations</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5316.601</ph> (d) Limitations</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i)(A)<i class="+ topic/ph hi-d/i ">(1)</i>
-            <i class="+ topic/ph hi-d/i ">(i) </i>For contracts (including indefinite-delivery contracts) and orders in which the portion of the requirement performed on a time-and-materials or labor-hour basis exceeds $10 million, the approval authority for the determination and findings shall be the senior contracting official within the contracting activity. This authority may not be delegated. </p>
-         <p outputclass="List3" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(ii) </i>For contracts (including indefinite-delivery contracts) and orders in which the portion of the requirement performed on a time-and-materials or labor-hour basis is less than or equal to $10 million, the determination and findings shall be approved one level above the contracting officer.</p>
-         <p outputclass="List3" class="- topic/p " xtrf="CheckMapping">(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i> The SCO approved D&amp;F and a copy of this class deviation shall be included in the contract file. Submit the D&amp;F required pursuant to DFARS 216.601(d)(i)(A)<i class="+ topic/ph hi-d/i ">(2)</i> through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+         <p id="HJSQXW"
+            outputclass="List3"
+            xtrf="CheckMapping"
+            class="- topic/p ">(i)(A)(1) Base period plus any option periods exceeds three years.</p>
+         <p id="630pfci1j"
+            outputclass="List6"
+            xtrf="CheckMapping"
+            class="- topic/p ">(<i class="+ topic/ph hi-d/i ">i</i>) For the Air Force, the threshold at <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601"
                   scope="external"
-                  format="mailto"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-            </xref> for approval. See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(3) </i>See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
+                  class="- topic/xref ">DFARS 216.601(d)(i)(A)(1)(i)</xref> is $10 million in lieu of $1 million.</p>
+         <p id="MbCgiN" outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">ii</i>) For the Air Force, the threshold at <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601"
+                  scope="external"
+                  class="- topic/xref ">DFARS 216.601(d)(i)(A)(1)(i)</xref> is $10 million in lieu of $1 million.</p>
+         <p id="WzBLdr"
+            outputclass="List3"
+            xtrf="CheckMapping"
+            class="- topic/p ">(i)(A)(2) Base period plus any option periods exceeds three yearsThe SCO is authorized to approve individual determinations. In addition to the D&amp;F requirements outlined in <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601"
+                  scope="external"
+                  class="- topic/xref ">DFARS 216.601(d)(i)(B)</xref>, the contracting officer shall address the plan to maintain appropriate government surveillance of contractor performance, including cost controls, and ensure that the contract clearly defines the supplies or services being acquired. The HCA retains the authority to approve class determinations when the contract length exceeds three years, regardless of dollar value. When HCA approval is required submit the D&amp;F through the SCO to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref> for approval. See <xref href="MP5301_601.dita#AFFARS_MP5301_601"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>.</p>
+         <p id="aCFLZo" outputclass="List3" class="- topic/p ">(i)(A)<i class="+ topic/ph hi-d/i ">(3)</i> See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
       </conbody>
    </concept>
 </dita>

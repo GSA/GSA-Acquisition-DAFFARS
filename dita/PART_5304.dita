@@ -3,22 +3,22 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5304">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5304</ph> - Administrative Matters</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5304</ph> - Administrative Matters</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="IfVJtl" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5304.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5304 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="jWMiav" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
          <p id="p__Toc76029447" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "> Jul 21</i>
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2</i>
+            <i class="+ topic/ph hi-d/i ">May 20022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -28,7 +28,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_101.dita#AFFARS_5304_101"> 5304.101  Contracting Officer’s Signature</xref>
+                        <xref outputclass="fm:TOC" href="5304_101.dita#AFFARS_5304_101">5304.101 Contracting Officer’s Signature</xref>
                      </p>
                   </li>
                </ul>
@@ -40,7 +40,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_402_90.dita#AFFARS_5304_402_90"> 5304.402-90  General</xref>
+                        <xref outputclass="fm:TOC" href="5304_402_90.dita#AFFARS_5304_402_90">5304.402-90 General</xref>
                      </p>
                   </li>
                   <li>
@@ -50,7 +50,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_404_90.dita#AFFARS_5304_404_90"> 5304.404-90  Additional Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5304_404_90.dita#AFFARS_5304_404_90">5304.404-90 Additional Contract Clauses</xref>
                      </p>
                   </li>
                </ul>
@@ -74,9 +74,14 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5304_8.dita#AFFARS_SUBPART_5304_8"> SUBPART 5304.8  – GOVERNMENT CONTRACT FILES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_8.dita#AFFARS_SUBPART_5304_8">SUBPART 5304.8 – GOVERNMENT CONTRACT FILES</xref>
                </p>
                <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5304_802f.dita#AFFARS_5304_802f">5304.802f Electronic Retention of Contract Files</xref>
+                     </p>
+                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5304_803.dita#AFFARS_5304_803">5304.803 Contents of Contract Files</xref>
@@ -98,7 +103,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5304_70.dita#AFFARS_SUBPART_5304_70"> SUBPART 5304.70  – UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5304_70.dita#AFFARS_SUBPART_5304_70">SUBPART 5304.70 – UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

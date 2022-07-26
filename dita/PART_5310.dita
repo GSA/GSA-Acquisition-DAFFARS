@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5310">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5310</ph> - Market Research</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5310</ph> - Market Research</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
@@ -18,7 +18,7 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="5310_002.dita#AFFARS_5310_002"> 5310.002  Procedures</xref>
+                  <xref outputclass="fm:TOC" href="5310_002.dita#AFFARS_5310_002">5310.002 Procedures</xref>
                </p>
             </li>
          </ul>

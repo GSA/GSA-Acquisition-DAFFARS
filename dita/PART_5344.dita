@@ -3,46 +3,24 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5344">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5344</ph> - Subcontracting Policies and Procedures</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5344</ph> - Subcontracting Policies and Procedures</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="XbqkgS" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5344.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5344 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="hTvgqa" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="TzuEjp" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2 May</i>
+            <i class="+ topic/ph hi-d/i ">22</i>
          </p>
          <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5344_2.dita#AFFARS_SUBPART_5344_2">SUBPART 5344.2 — CONSENT TO SUBCONTRACT</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_201_1.dita#AFFARS_5344_201_1"> 5344.201-1  Consent requirements</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_202_1.dita#AFFARS_5344_202_1"> 5344.202-1  Responsibilities</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5344_202_2.dita#AFFARS_5344_202_2"> 5344.202-2  Considerations</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5344_3.dita#AFFARS_SUBPART_5344_3">SUBPART 5344.3 — CONTRACTOR PURCHASING SYSTEM REVIEWS</xref>

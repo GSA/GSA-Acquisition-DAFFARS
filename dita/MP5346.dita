@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_MP5346">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5346</ph> -
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5346</ph> -
 Quality Assurance</title>
       <body>
          <ul otherprops="TOC">
@@ -15,7 +15,7 @@ Quality Assurance</title>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5346_103.dita#AFFARS_MP5346_103"> MP5346.103  - Contracting Office Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="MP5346_103.dita#AFFARS_MP5346_103">MP5346.103 - Contracting Office Responsibilities</xref>
                      </p>
                   </li>
                </ul>

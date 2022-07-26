@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5325">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5325</ph> - Foreign Acquisition</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5325</ph> - Foreign Acquisition</title>
       <body>
          <p outputclass="Normal" class="- topic/p ">
             <xref scope="external"
@@ -28,7 +28,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_103"> 5325.103  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_103">5325.103 Exceptions</xref>
                      </p>
                   </li>
                </ul>
@@ -40,7 +40,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_202"> 5325.202  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_202">5325.202 Exceptions</xref>
                      </p>
                   </li>
                   <li>
@@ -57,7 +57,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_403"> 5325.403  World Trade Organization Government Procurement Agreement and Free Trade Agreements</xref>
+                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_403">5325.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements</xref>
                      </p>
                   </li>
                </ul>
@@ -69,7 +69,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_603"> 5325.603  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_603">5325.603 Exceptions</xref>
                      </p>
                   </li>
                </ul>
@@ -93,17 +93,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_7002_2"> 5325.7002-2  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_7002_2">5325.7002-2 Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_7003_3"> 5325.7003-3  Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_7003_3">5325.7003-3 Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_7008"> 5325.7008  Waiver of Restrictions of 10 U.S.C. 2534</xref>
+                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_7008">5325.7008 Waiver of Restrictions of 10 U.S.C. 2534</xref>
                      </p>
                   </li>
                </ul>

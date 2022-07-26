@@ -5,60 +5,51 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP5301_9001A"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> MP5301.9001a </ph> (A) Business Clearance Approval for Non-Competitive Actions</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">MP5301.9001a</ph> (A) Business Clearance Approval for Non-Competitive Actions</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(1)</i>The contracting officer will submit notifications to
-          <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+         <p id="OpxjyT" outputclass="List5" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(1)</i>The contracting officer will submit notifications to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"
-                  format="mailto"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-            </xref> thirty days prior to the anticipated Business Clearance Session with the
-        DAS(C)/ADAS(C), and no later than 10 business days prior to the desired Business Clearance
-        Session, the contracting officer will forward the following documents through the SCO to
-          <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+            </xref> thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C).</p>
+         <p id="jvi5u6lm" outputclass="List5" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(2)</i> no later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"
-                  format="mailto"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
             </xref>:</p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(2)</i> Completed Request for Business Clearance (non-competitive);</p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(3)</i> Copies of the Commercial Item Determination(s) (DFARS 212.102(a)(i)) that are greater than or equal to $1M; </p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(4)</i>
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/preliminary_PNM.docx"
+         <p id="MXgGlz" outputclass="List6" class="- topic/p ">(a) Completed <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_bus_clear_charts_(non-comp).pptx"
                   scope="external"
-                  format="docx"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Preliminary Price Negotiation Memorandum</u>
-            </xref> and related attachments; </p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(5)</i> Request for Business Clearance (non-competitive) briefing charts; and</p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(6)</i> On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DoD Peer Review. </p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(7)</i> The designated CR will conduct the clearance review prior to submitting the required clearance documents to SAF/AQC. </p>
-         <p outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(8)</i> The Business Clearance Session to brief the DAS(C)/ADAS(C) occurs prior to the commencement of the DoD Phase 1 Peer Review. The Business Clearance Approval document may be signed by the DAS(C) or ADAS(C) prior to the DoD Phase 1 Pre-Award Peer Review, but commencement of negotiations are conditioned upon successful completion of the Peer Review in accordance with <xref href="AF_PGI_5301_170_2.dita" class="- topic/xref ">AF PGI 5301.170-2</xref> .</p>
-         <p id="p__Toc38365614" outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(9)</i> The contracting officer shall submit a revised Business Clearance Approval document for DAS(C)/ADAS(C) approval, prior to concluding negotiations, when changes to the original negotiation range or parameters that were set forth on the approved Business Clearance Approval document are required. Submit the documents through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  class="- topic/xref ">Request for Business Clearance</xref> (non-competitive);</p>
+         <p id="bqOcCa" outputclass="List6" class="- topic/p ">(b) Copies of the Commercial Item Determination(s) (DFARS 212.102(a)(i)) that are greater than or equal to $1M;</p>
+         <p id="ArSzST" outputclass="List6" class="- topic/p ">(c) <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/preliminary_PNM.docx"
                   scope="external"
-                  format="mailto"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
-            </xref>
-            <ph class="- topic/ph ">
-               <u class="+ topic/ph hi-d/u "> </u>
-               <u class="+ topic/ph hi-d/u ">for approval.</u>
-            </ph> Negotiation offers that exceed the approved negotiation range or parameters may not be made until a revised negotiation range or parameters are approved.</p>
+                  class="- topic/xref ">Preliminary Price Negotiation Memorandum</xref> and related attachments;</p>
+         <p id="WMiMQj" outputclass="List6" class="- topic/p ">(d) <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_bus_clear_charts_(non-comp).pptx"
+                  scope="external"
+                  class="- topic/xref ">Request for Business Clearance</xref> (non-competitive) briefing charts; and</p>
+         <p id="hVPYQl" outputclass="List6" class="- topic/p ">(e) On a case-by-case basis, additional documentation may be requested in support of the SAF/AQC and/or DPC Peer Review.</p>
+         <p id="PXZyHN" outputclass="List6" class="- topic/p ">(f) The designated CR will conduct the clearance review prior to submitting the required clearance documents to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref>.</p>
+         <p id="bCMkNb" outputclass="List6" class="- topic/p ">(g) If DPC Peer Review is required, the Business Clearance Session to brief the clearance approval official occurs prior to the commencement of the DPC Peer Review Phase 1. The Business Clearance Approval document may be signed by the clearance approval official prior to Phase 1, but commencement of negotiations are conditioned upon successful completion of the Peer Review. If DPC Peer Review is required, and the Business Clearance Session has been delegated to the SCO, follow the procedures above for notification and document submission to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref>.</p>
+         <p id="MRLzTt" outputclass="List6" class="- topic/p ">(h) The contracting officer shall submit a revised Business Clearance Approval document for DAS(C)/ADAS(C) approval, prior to concluding negotiations, when changes to the original negotiation range or parameters that were set forth on the approved Business Clearance Approval document are required. Submit the documents through the SCO to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref> for approval. Negotiation offers that exceed the approved negotiation range or parameters may not be made until a revised negotiation range or parameters are approved.</p>
       </conbody>
    </concept>
 </dita>

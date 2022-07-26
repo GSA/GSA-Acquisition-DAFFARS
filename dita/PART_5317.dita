@@ -3,29 +3,21 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5317">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5317</ph> - Special Contracting Methods</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5317</ph> - Special Contracting Methods</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="HZaIsn" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5317.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5317 Knowledge Center</xref>
          </p>
          <p id="p__Toc38365360" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="zDYxFc" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE: See Policy Memo <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/19-C-08.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">19-C-08</u>
-            </xref>.</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -34,7 +26,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_105_1.dita#AFFARS_5317_105_1"> 5317.105-1  Uses</xref>
+                        <xref outputclass="fm:TOC" href="5317_105_1.dita#AFFARS_5317_105_1">5317.105-1 Uses</xref>
                      </p>
                   </li>
                   <li>
@@ -44,12 +36,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_106_3.dita#AFFARS_5317_106_3"> 5317.106-3  Special Procedures Applicable to DoD, NASA, and the Coast Guard</xref>
+                        <xref outputclass="fm:TOC" href="5317_106_3.dita#AFFARS_5317_106_3">5317.106-3 Special Procedures Applicable to DoD, NASA, and the Coast Guard</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_170.dita#AFFARS_5317_170"> 5317.170  General</xref>
+                        <xref outputclass="fm:TOC" href="5317_170.dita#AFFARS_5317_170">5317.170 General</xref>
                      </p>
                   </li>
                   <li>
@@ -67,6 +59,11 @@
                         <xref outputclass="fm:TOC" href="5317_173.dita#AFFARS_5317_173">5317.173 Multiyear Contracts for Military Family Housing</xref>
                      </p>
                   </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5317_174.dita#iOptVA">5317.174 5317.174 Multiyear Contracts for Electricity from Renewable Energy Sources</xref>
+                     </p>
+                  </li>
                </ul>
             </li>
             <li>
@@ -76,7 +73,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_204.dita#AFFARS_5317_204"> 5317.204  Contracts</xref>
+                        <xref outputclass="fm:TOC" href="5317_204.dita#AFFARS_5317_204">5317.204 Contracts</xref>
                      </p>
                   </li>
                   <li>
@@ -86,7 +83,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_207.dita#AFFARS_5317_207"> 5317.207  Exercise of Options</xref>
+                        <xref outputclass="fm:TOC" href="5317_207.dita#AFFARS_5317_207">5317.207 Exercise of Options</xref>
                      </p>
                   </li>
                </ul>
@@ -98,7 +95,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5317_500.dita#AFFARS_5317_500"> 5317.500  Scope of Subpart</xref>
+                        <xref outputclass="fm:TOC" href="5317_500.dita#AFFARS_5317_500">5317.500 Scope of Subpart</xref>
                      </p>
                   </li>
                </ul>

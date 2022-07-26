@@ -3,29 +3,33 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5337">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5337</ph> - Service Contracting</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5337</ph> - Service Contracting</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="SqlJPY" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5337.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5337 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="zqpagH" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="QzKAKo" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5337_1.dita#AFFARS_SUBPART_5337_1"> SUBPART 5337.1  — SERVICE CONTRACTS (GENERAL)</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5337_1.dita#AFFARS_SUBPART_5337_1">SUBPART 5337.1 — SERVICE CONTRACTS (GENERAL)</xref>
                </p>
                <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_102_70.dita#BQtvrF">5337.102-70 Prohibition on Contracting for Firefighting or Security-Guard Functions</xref>
+                     </p>
+                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5337_104.dita#AFFARS_5337_104">5337.104 Personal Services Contracts</xref>
@@ -43,7 +47,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5337_170_2.dita#AFFARS_5337_170_2"> 5337.170-2  Approval Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5337_170_2.dita#AFFARS_5337_170_2">5337.170-2 Approval Requirements</xref>
                      </p>
                   </li>
                </ul>
@@ -67,7 +71,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5337_503.dita#AFFARS_5337_503"> 5337.503  Agency-head Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5337_503.dita#AFFARS_5337_503">5337.503 Agency-head Responsibilities</xref>
                      </p>
                   </li>
                </ul>

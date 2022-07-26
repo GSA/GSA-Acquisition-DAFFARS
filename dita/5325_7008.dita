@@ -5,16 +5,13 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5325_7008"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5325.7008 </ph> Waiver of Restrictions of 10 U.S.C. 2534</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5325.7008</ph> Waiver of Restrictions of 10 U.S.C. 2534</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)(2) See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p outputclass="List1" class="- topic/p ">(b)(2)(i)  See <xref href="MP5301_601.dita" class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5325_7901_3_90.dita" class="- topic/xref ">AFMC PGI 5325.7901-3-90</xref>.</p>
+         <p id="hPrTxA" outputclass="List1" class="- topic/p ">(a)(2) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
+         <p id="QPkiNB" outputclass="List1" class="- topic/p ">(b)(2)(i) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
       </conbody>
    </concept>
 </dita>

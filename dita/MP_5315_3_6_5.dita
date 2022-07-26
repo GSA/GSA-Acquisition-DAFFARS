@@ -5,21 +5,19 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP_5315_3_6_5"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">6.5</ph> Source Selection Training Material</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.5</ph> Source Selection Training Material</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The Source Selection Training Modules, Trainer’s Lesson Plans, and Resource/Reference Material are accessible by designated trainers and training managers on SharePoint at <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx"
+         <p id="LkiPLE" outputclass="Normal" class="- topic/p ">The Source Selection Training Modules, Trainer’s Lesson Plans, and Resource/Reference Material are accessible by designated trainers and training managers on SharePoint at <xref format="aspx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx"
                   scope="external"
-                  format="aspx"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx</u>
-            </xref>. Additional training materials for teams are available in the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
+            </xref>. Additional training materials for teams are available in the <xref format="aspx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
                   scope="external"
-                  format="aspx"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">AFFARS Library, Part 5315</u>
             </xref>.</p>

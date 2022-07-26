@@ -7,10 +7,9 @@
    <concept id="AFFARS_MP5325_7003_3_2"
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">2.</ph> Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals</ph> Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365663" outputclass="Normal" class="- topic/p ">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at DFARS 252.225-7009) and the prime contractor provides the certification required at DFARS 252.225-7010, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_01.pdf"
                   scope="external"

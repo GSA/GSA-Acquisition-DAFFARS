@@ -3,22 +3,20 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5311">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5311</ph> - Describing Agency Needs</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5311</ph> - Describing Agency Needs</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="cxmTfU" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5311.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5311 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="TKRPCp" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="Iwqxgn" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -40,12 +38,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_273_3.dita#AFFARS_5311_273_3">5311.273-3 Procedures</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5311_274_2.dita#AFFARS_5311_274_2"> 5311.274-2  Policy for unique item identification</xref>
+                        <xref outputclass="fm:TOC" href="5311_274_2.dita#AFFARS_5311_274_2">5311.274-2 Policy for unique item identification</xref>
                      </p>
                   </li>
                </ul>
@@ -69,7 +62,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5311_603.dita#AFFARS_5311_603"> 5311.603  Procedures</xref>
+                        <xref outputclass="fm:TOC" href="5311_603.dita#AFFARS_5311_603">5311.603 Procedures</xref>
                      </p>
                   </li>
                </ul>

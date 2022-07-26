@@ -6,23 +6,20 @@
       ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_MP5332_470"
           ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
           class="- topic/topic ">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5332.470</ph> Advance Payment Pool</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5332.470</ph> Advance Payment Pool</title>
       <body class="- topic/body ">
-         <p id="wKYwfk" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
-         </p>
-         <ul outputclass="TOC" class="- topic/ul ">
-            <li id="aIhtFj" class="- topic/li ">
-               <p id="eBjsqo" class="- topic/p ">
-                  <xref href="ADVANCE_PAYMENT_REQUESTS.dita#AFFARS_ADVANCE_PAYMENT_REQUESTS"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Advance payment requests must be processed as follows:</xref>
-               </p>
-            </li>
-         </ul>
+         <p id="sOxaGn" outputclass="List1" class="- topic/p ">Advance payment requests must be processed as follows:</p>
+         <p id="jjwaxzxw" outputclass="List2" class="- topic/p ">(1) The contracting officer must compile the advance payment request package in accordance with FAR 32.4 and DFARS 232.4 and submit it to the SCO for coordination. The SCO must submit the request through <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref> workflow. SAF/AQC forwards the package to <xref format="html"
+                  href="mailto:SAF.FMPRADAWorkflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/FMPA</xref> for review and approval. AFRCO and SpRCO will submit the request directly to the DAS(C)/ADAS(C), as appropriate.</p>
+         <p id="fEGKOv" outputclass="List2" class="- topic/p ">(2) SAF/FMPA will evaluate the request to determine if advance payments are justified. Assistance may be solicited from other sources such as contracting officers, auditors, disbursing officers, and, if necessary, field visits to the contractor or institution. For nonprofit educational or research institutions, SAF/FMPA will determine if approved advance payments will be disbursed from an advance payment pool in accordance with DFARS 232.470. When approved, SAF/FMPA will forward the findings, determinations, and authorization for advance payments and/or the advance payment pool agreement to the contracting officer. The contracting officer must ensure all applicable advance payment clauses are incorporated into each contract. The clause at DFARS 252.232-7000, Advance Payment Pool, must be incorporated into each contract that is covered by the agreement.</p>
+         <p id="YtAVUx" outputclass="List2" class="- topic/p ">(3) The Air Force accounting and finance office is responsible for the disbursing functions of the advance payment pool agreement.</p>
       </body>
    </topic>
 </dita>

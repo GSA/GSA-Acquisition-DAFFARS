@@ -5,17 +5,20 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP_5315_3_3_1"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">3.1</ph> Evaluation Activities</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">3.1</ph> Evaluation Activities</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List3" class="- topic/p ">3.1.1.5 When <ph class="- topic/ph ">
-               <u class="+ topic/ph hi-d/u ">FAR 52.222-46</u>
-            </ph>, Evaluation of Compensation for Professional Employees (Feb 1993), is included in the RFP, the Government shall evaluate whether all offerors considered for award understand the contract requirements and have proposed a compensation plan appropriate for those requirements. This evaluation may be accomplished through a technical subfactor to evaluate offerors’ proposed management approach and or/staffing plan, or including the evaluation under the cost/price factor or as a “Volume I” proposal submission and element of proposal compliance and offeror responsibility. </p>
-         <p outputclass="List4" class="- topic/p ">3.1.1.5.1 When including the professional employee compensation evaluation as a “Volume I” proposal submission and element of proposal compliance and offeror responsibility in a source selection with small business offerors, a finding of non-responsibility due to an inadequate professional employee compensation plan for an otherwise successful small business offeror requires the PCO to engage the Small Business Administration Certificate of Competency (CoC) process.</p>
+         <p id="GKQsLk" outputclass="List3" class="- topic/p ">3.1.1.5 When <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_222_46"
+                  scope="external"
+                  class="- topic/xref ">
+               <ph class="- topic/ph ">
+                  <u class="+ topic/ph hi-d/u ">FAR 52.222-46</u>
+               </ph>
+            </xref>, Evaluation of Compensation for Professional Employees (Feb 1993), is included in the RFP, the Government shall evaluate whether all offerors considered for award understand the contract requirements and have proposed a compensation plan appropriate for those requirements. This evaluation may be accomplished through a technical subfactor to evaluate offerors’ proposed management approach and or/staffing plan, or including the evaluation under the cost/price factor or as a “Volume I” proposal submission and element of proposal compliance and offeror responsibility.</p>
+         <p id="bVNgYg" outputclass="List4" class="- topic/p ">3.1.1.5.1 When including the professional employee compensation evaluation as a “Volume I” proposal submission and element of proposal compliance and offeror responsibility in a source selection with small business offerors, a finding of non-responsibility due to an inadequate professional employee compensation plan for an otherwise successful small business offeror requires the PCO to engage the Small Business Administration Certificate of Competency (CoC) process.</p>
       </conbody>
    </concept>
 </dita>

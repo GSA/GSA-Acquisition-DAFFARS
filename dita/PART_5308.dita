@@ -3,24 +3,19 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5308">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5308</ph> - Required Sources of Supplies and Services</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5308</ph> - Required Sources of Supplies and Services</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="lOphoI" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5308.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5308 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="dGCtsG" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26</i>
-            <i class="+ topic/ph hi-d/i "/>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
-         </p>
+         <p id="eiwRYN" outputclass="Normal" class="- topic/p ">Revised: 2 May 2022</p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -29,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5308_404.dita#AFFARS_5308_404"> 5308.404  Use of Federal Supply Schedules</xref>
+                        <xref outputclass="fm:TOC" href="5308_404.dita#AFFARS_5308_404">5308.404 Use of Federal Supply Schedules</xref>
                      </p>
                   </li>
                   <li>
@@ -39,7 +34,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5308_405_6.dita#AFFARS_5308_405_6"> 5308.405-6  Limited Sources</xref>
+                        <xref outputclass="fm:TOC" href="5308_405_6.dita#AFFARS_5308_405_6">5308.405-6 Limited Sources</xref>
                      </p>
                   </li>
                </ul>

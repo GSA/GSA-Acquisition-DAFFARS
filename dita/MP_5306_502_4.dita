@@ -5,35 +5,15 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP_5306_502_4"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">4.1.<b class="+ topic/ph hi-d/b "> </b>The Procuring activity Competition and Commercial Advocates must prepare a consolidated annual Competition and Commercial Report by providing the data elements required in the <xref href="https://www.afcontracting.hq.af.mil/competition_reporting/"
+         <p id="atqCuP" outputclass="List1" class="- topic/p ">4.1. SAF/AQCP is responsible for submitting the annual report required by <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_502"
                   scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Competition Reporting Tool</u>
-            </xref> by 6 January of each year, unless directed otherwise. Subordinate competition advocates and PEOs, submit the required data elements for their respective organizations via the <xref href="https://www.afcontracting.hq.af.mil/competition_reporting/"
-                  scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Competition Reporting Tool</u>
-            </xref> at least 45 days prior to the 6 January due date, unless directed otherwise.</p>
-         <p outputclass="List1" class="- topic/p ">4.2. The report must be based on the data obtained from the <xref href="https://www.fpds.gov/"
-                  scope="external"
-                  format="html"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Federal Procurement Data System-Next Generation (FPDS-NG)</u>
-            </xref> database. Instructions for pulling required reports from FPDS-NG are located in the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5306.aspx"
-                  scope="external"
-                  format="aspx"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFFARS Library, Part 5306</u>
-            </xref>, under Useful Links. </p>
+                  class="- topic/xref ">FAR 6.502(b)(2)</xref> to SAF/AQ. The Procuring activity Competition and Commercial Advocates must provide support as requested in the preparation of the annual report and provide supplementary information at any time in support of requests for information or other tasks regarding competition and the use of commercial practices.</p>
       </conbody>
    </concept>
 </dita>

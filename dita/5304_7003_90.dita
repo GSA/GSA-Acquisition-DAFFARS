@@ -5,36 +5,32 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5304_7003_90"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5304.7003-90</ph> Maintaining DoD Activity Address Codes (DoDAAC)</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5304.7003-90</ph> Maintaining DoD Activity Address Codes (DoDAAC)</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The contracting officer administering the contract must obtain a contractor DoDAAC (see <xref href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
+         <p id="RCgaDH" outputclass="Normal" class="- topic/p ">The contracting officer administering the contract must obtain a contractor DoDAAC (see <xref format="pdf"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
                   scope="external"
-                  format="pdf"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">AFMAN 23-230</u>
             </xref>,<i class="+ topic/ph hi-d/i ">Maintaining Air Force DoD Activity Address Codes</i>
-            <i class="+ topic/ph hi-d/i "> (DoDAAC)</i>) for contracts that furnish Government property or authorize requisition from a Government supply source. The contracting officer administering the contract must provide the DoDAAC to the program management office/requiring activity to facilitate the shipment of government furnished property. The Purpose Code Management module contained within <xref href="https://wawf.eb.mil/"
+            <i class="+ topic/ph hi-d/i ">(DoDAAC)</i>) for contracts that furnish Government property or authorize requisition from a Government supply source. The contracting officer administering the contract must provide the DoDAAC to the program management office/requiring activity to facilitate the shipment of government furnished property. The Purpose Code Management module contained within <xref format="html"
+                  href="https://wawf.eb.mil/"
                   scope="external"
-                  format="html"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">Procurement Integrated Enterprise Environment (PIEE)</u>
             </xref> must be used to:</p>
-         <p outputclass="List1" class="- topic/p ">(a)  Obtain the existing DoDAAC or submit a new DoDAAC request for all contracts awarded; </p>
-         <p outputclass="List1" class="- topic/p ">(b)  Initiate contractor DoDAAC account changes, including extensions of contract completion dates and contract terminations; </p>
-         <p outputclass="List1" class="- topic/p ">(c)  Initiate contractor DoDAAC deletion when the contract is physically complete, unless the DoDAAC covers other active contracts; and,</p>
-         <p outputclass="List1" class="- topic/p ">(d)  Validate contractor DoDAACs in accordance with <xref href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
+         <p id="ldyIWY" outputclass="List1" class="- topic/p ">(a) Obtain the existing DoDAAC or submit a new DoDAAC request for all contracts awarded;</p>
+         <p id="lgnYow" outputclass="List1" class="- topic/p ">(b) Initiate contractor DoDAAC account changes, including extensions of contract completion dates and contract terminations;</p>
+         <p id="WCAtPX" outputclass="List1" class="- topic/p ">(c) Initiate contractor DoDAAC deletion when the contract is physically complete, unless the DoDAAC covers other active contracts; and,</p>
+         <p id="EzyNzK" outputclass="List1" class="- topic/p ">(d) Validate contractor DoDAACs in accordance with <xref format="pdf"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
                   scope="external"
-                  format="pdf"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">AFMAN 23-230</u>
             </xref>, paragraph 4.2.</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="AFMC_PGI_5304_7103_1_90.dita" class="+ topic/ph hi-d/u ">AFMC PGI 5304.7103-1-90</xref> .</p>
-         <p outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5304_7105.dita" class="- topic/xref ">SMC PGI 5304.7105</xref> .</p>
       </conbody>
    </concept>
 </dita>

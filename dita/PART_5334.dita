@@ -3,26 +3,25 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5334">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5334</ph> - Major System Acquisition</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5334</ph> - Major System Acquisition</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="PvBwPr" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5334.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5334 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="eZPnnr" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="LSvoJH" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2 May 2022</i>
          </p>
-         <p outputclass="Normal" class="- topic/p ">INTERIM CHANGE: See Policy Memo <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/18-C-07.pdf"
+         <p id="nAWDCq" outputclass="Normal" class="- topic/p ">INTERIM CHANGE: See Policy Memo <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/18-C-07.pdf"
                   scope="external"
-                  format="pdf"
                   class="- topic/xref ">
                <u class="+ topic/ph hi-d/u ">18-C-07</u>
             </xref>.</p>
@@ -34,7 +33,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5334_203.dita#AFFARS_5334_203">5334.203 INTERIM CHANGE: See Air Force Class Deviation 2018-U0001 ( Policy Memo 18-C-07 ).</xref>
+                        <xref outputclass="fm:TOC" href="5334_203.dita#AFFARS_5334_203">5334.203 Solicitation provisions and contract clause</xref>
                      </p>
                   </li>
                </ul>
@@ -46,7 +45,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5334_7002.dita#AFFARS_5334_7002"> 5334.7002  Policy</xref>
+                        <xref outputclass="fm:TOC" href="5334_7002.dita#AFFARS_5334_7002">5334.7002 Policy</xref>
                      </p>
                   </li>
                </ul>

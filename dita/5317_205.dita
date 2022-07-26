@@ -5,19 +5,15 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5317_205"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5317.205</ph> Documentation</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.205</ph> Documentation</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="p__Toc38365370" outputclass="Normal" class="- topic/p ">See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/options_and_quantities.pdf"
+         <p id="p__Toc38365370" outputclass="Normal" class="- topic/p ">See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Forms/Grouped_by_FAR_Part.aspx"
                   scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">Determination and Findings -- Options and Quantities</u>
-            </xref> template.</p>
+                  class="- topic/xref ">Justification for the Inclusion of Option(s)</xref> template.</p>
       </conbody>
    </concept>
 </dita>

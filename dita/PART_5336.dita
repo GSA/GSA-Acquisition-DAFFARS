@@ -3,17 +3,20 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5336">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5336</ph> - Construction and Architect-Engineer Contracts</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5336</ph> - Construction and Architect-Engineer Contracts</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="eKgxtq" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5336 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="yqtbbe" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="6i1mcdps" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -93,11 +96,6 @@
                      </p>
                   </li>
                </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5336_90.dita#AFFARS_SUBPART_5336_90"> SUBPART 5336.90  — CONSTRUCTION PROGRAM ADMINISTRATION</xref>
-               </p>
             </li>
          </ul>
       </body>

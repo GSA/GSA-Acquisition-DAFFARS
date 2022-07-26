@@ -3,22 +3,22 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFFARS_PART_5349">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 5349</ph> - Termination of Contracts</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">PART 5349</ph> - Termination of Contracts</title>
       <body>
-         <p outputclass="Normal" class="- topic/p ">
-            <xref scope="external"
-                  format="html"
+         <p id="GQFTAV" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5349.aspx"
+                  scope="external"
                   class="- topic/xref ">AFFARS PART 5349 Knowledge Center</xref>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
+         <p id="VKyeXj" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
-         <p outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: </i>
-            <i class="+ topic/ph hi-d/i ">26 </i>
-            <i class="+ topic/ph hi-d/i ">Jul 21</i>
+         <p id="CFZINQ" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2 May</i>
+            <i class="+ topic/ph hi-d/i ">2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -28,7 +28,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5349_101.dita#AFFARS_5349_101"> 5349.101  Authorities and Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="5349_101.dita#AFFARS_5349_101">5349.101 Authorities and Responsibilities</xref>
                      </p>
                   </li>
                   <li>
@@ -74,12 +74,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5349_7001.dita#AFFARS_5349_7001"> 5349.7001  Congressional Notification on Significant Contract Terminations</xref>
+                        <xref outputclass="fm:TOC" href="5349_7001.dita#AFFARS_5349_7001">5349.7001 Congressional Notification on Significant Contract Terminations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5349_7003.dita#AFFARS_5349_7003"> 5349.7003  Notification of Anticipated Terminations or Reductions</xref>
+                        <xref outputclass="fm:TOC" href="5349_7003.dita#AFFARS_5349_7003">5349.7003 Notification of Anticipated Terminations or Reductions</xref>
                      </p>
                   </li>
                </ul>

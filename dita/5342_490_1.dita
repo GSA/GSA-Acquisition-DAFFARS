@@ -5,14 +5,12 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5342_490_1"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5342.490-1 </ph> Contract clause</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5342.490-1</ph> Contract clause</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="p__Toc38365508" outputclass="Normal" class="- topic/p ">The contracting officer shall insert the clause substantially the same as the clause at <xref href="5352_242_9000.dita" class="- topic/xref ">AFFARS 5352.242-9000</xref> in solicitations and contracts that require contractor personnel to make frequent visits to or perform work on Air Force installation(s).</p>
+         <p id="p__Toc38365508" outputclass="Normal" class="- topic/p ">The contracting officer shall insert the clause substantially the same as the clause at AFFARS <xref href="5352_242_9000.dita" class="- topic/xref "/> in solicitations and contracts that require contractor personnel to make frequent visits to or perform work on Air Force installation(s).</p>
       </conbody>
    </concept>
 </dita>

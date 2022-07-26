@@ -5,19 +5,15 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5323_803"
-            xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
-            domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5323.803</ph> Policy</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5323.803</ph> Policy</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a) Requiring activities must obtain approval in accordance with <xref href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi32-7086/afi32-7086.pdf"
+         <p id="lhWGvp" outputclass="List1" class="- topic/p ">(a) Requiring activities must obtain approval in accordance with <xref format="pdf"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman32-7002/afman32-7002.pdf"
                   scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 32-7086</u>
-            </xref>, <i class="+ topic/ph hi-d/i ">Hazardous Materials Management,</i> Chapter 3, before a specification or standard that requires the use of a class I ozone-depleting substance (ODS), or that can be met only through the use of an ODS, is authorized in any solicitation or contract/order.</p>
+                  class="- topic/xref ">AFMAN 32-7002</xref> Environmental Compliance and Pollution Prevention, paragraph 3.3.5.1.1.8 before a specification or standard that requires the use of a class I ozone-depleting substance (ODS), or that can be met only through the use of an ODS, is authorized in any solicitation or contract/order.</p>
       </conbody>
    </concept>
 </dita>
