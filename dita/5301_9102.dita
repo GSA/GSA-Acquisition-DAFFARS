@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_9102"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.9102</ph> Policy</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.9102</ph> Policy</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="mvwTbN" outputclass="List1" class="- topic/p ">(a) MAJCOM/DRU/AFRCO/SMC/SpRCO Commanders must appoint an experienced senior official who is independent of the contracting officer and program manager as the ombudsman at their organization. For AFMC Centers, an ombudsman is required at each Center, instead of at the MAJCOM. Centers may also have an ombudsman at each Operating Location/Geographically Separated Unit.</p>
          <p id="vBcZog" outputclass="List1" class="- topic/p ">(b) The ombudsman will have the authority to call upon other resources of the activity to assist in resolving acquisition issues or concerns (e.g., administrative support, independent review teams).</p>

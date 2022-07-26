@@ -7,8 +7,8 @@
    <concept id="AFFARS_5307_107_2"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5307.107-2</ph> Consolidation</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5307.107-2</ph> Consolidation</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="oIElTh" outputclass="" class="- topic/p ">(a) The SCO is the authority to make the consolidation determination for actions exceeding $2 million. This authority may not be re-delegated. Consolidation determinations are only required for contracts awarded and performed in the United States and Outlying Territories.</p>
          <p id="lMGbcH" class="- topic/p ">(b) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90"

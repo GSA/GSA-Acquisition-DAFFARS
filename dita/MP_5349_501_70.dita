@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP 5349.501-70</ph> Special Termination Costs</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">MP 5349.501-70</ph> Special Termination Costs</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) Contracting officers must refer to Volume 2A, Chapter 1, Section 010214, paragraph C.2.a of <xref href="http://comptroller.defense.gov/FMR.aspx"
                   scope="external"

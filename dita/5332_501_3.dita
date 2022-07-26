@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5332.501-3</ph> Contract Price</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5332.501-3</ph> Contract Price</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365449" outputclass="List1" class="- topic/p ">(a) When the estimated contract costs increase such that the estimate of the unusual progress payments increase $20 million or more over the approved unusual progress payment estimate, the contracting officer must notify <xref href="mailto:SAF.FMF.Workflow@us.af.mil"
                   scope="external"

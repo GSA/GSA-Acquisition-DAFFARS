@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP5315_4_2"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">2.</ph> Requesting data/documentation after receipt of the proposal.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">2.Requestingdatadocumentationafterreceiptoftheproposal.</ph> Requesting data/documentation after receipt of the proposal.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="TsSPqF" outputclass="List1" class="- topic/p ">a. A contracting officer request for supporting data/documentation from a contractor (whether verbally or in writing) after proposal receipt, must clearly state what data/documentation is needed and when it should be provided.</p>
          <p id="aELWNv" outputclass="List1" class="- topic/p ">b. If requested data/documentation is not readily available because of extenuating circumstances (e.g., data that did not form the basis of the contractor's proposal), the contracting officer and the contractor should agree in writing as to a reasonable time for submittal of data.</p>

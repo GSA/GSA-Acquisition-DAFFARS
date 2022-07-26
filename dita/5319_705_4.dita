@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5319.705-4</ph> Reviewing the Subcontracting Plan</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5319.705-4</ph> Reviewing the Subcontracting Plan</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38293719" outputclass="List1" class="- topic/p ">(d)(7) The contracting officer must obtain the written coordination of the small business specialist prior to contractually incorporating a subcontracting plan.</p>
       </conbody>

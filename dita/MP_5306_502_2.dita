@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP_5306_502_2"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">2.</ph> Duties and Responsibilities.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">2.DutiesandResponsibilities.</ph> Duties and Responsibilities.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="QEIlhG" outputclass="Normal" class="- topic/p ">In addition to the duties and responsibilities identified at FAR 6.502, AF Competition and Commercial Advocates are responsible for the following:</p>
          <p id="mFBhza" outputclass="List1" class="- topic/p ">2.1. Support the AF Competition Advocate General in formulating, managing, and providing oversight of the AF Competition and Commercial Advocacy Program.</p>

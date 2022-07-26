@@ -7,8 +7,8 @@
    <concept id="AFFARS_5313_500"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5313.500</ph> General</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5313.500</ph> General</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="PDcRdy" outputclass="List1" class="- topic/p ">(c)(1) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
          <p id="p__Toc38364664" outputclass="Normal" class="- topic/p "/>

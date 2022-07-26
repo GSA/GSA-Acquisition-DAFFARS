@@ -7,8 +7,8 @@
    <concept id="AFFARS_5315_406_1"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5315.406-1</ph> Prenegotiation Objectives</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5315.406-1</ph> Prenegotiation Objectives</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="PgjGUG" outputclass="List1" class="- topic/p ">(b)(ii) <i class="+ topic/ph hi-d/i ">Adjudication Procedures</i>
             <i class="+ topic/ph hi-d/i ">.</i>The contracting officer must forward DCAA requests for Air Force management review through their management chain, and provide the SCO name and contact information to the cognizant DCAA representative. If disagreements remain, the SCO must elevate the issue to <xref format="mailto"

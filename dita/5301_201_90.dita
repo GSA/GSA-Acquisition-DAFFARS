@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_201_90"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.201-90</ph> Maintenance of the AFFARS</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.201-90</ph> Maintenance of the AFFARS</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="PLrqBZ" outputclass="Normal" class="- topic/p ">The AFFARS is prepared and maintained by the Chief, Contract Policy &amp; Field Support Division, Deputy Assistant Secretary (Contracting) (SAF/AQCP).</p>
       </conbody>

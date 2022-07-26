@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_404"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.404</ph> Class Deviations</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.404</ph> Class Deviations</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="VLkQih" outputclass="List1" class="- topic/p ">(b)(i) USD(A&amp;S)/DPC is the approval authority for any class deviation described in DFARS 201.402(1), class deviations from DFARS 215.3, and class deviations that meet the criteria in DFARS 201.404(b)(II)(A-D).Submit requests through the SCO to <xref format="mailto"
                   href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"

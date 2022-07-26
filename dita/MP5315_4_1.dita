@@ -7,10 +7,10 @@
    <concept id="AFFARS_MP5315_4_1"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title id="title__Toc76720919"
-             outputclass="Heading 2"
-             class="- topic/title ">
-         <ph id="K1bosf" props="autonumber" class="- topic/ph ">1.</ph> Proposal Instructions.</title>
+      <title class="- topic/title "
+             id="title__Toc76720919"
+             outputclass="Heading 2">
+         <ph class="- topic/ph " id="K1bosf" props="autonumber">1.ProposalInstructions.</ph> Proposal Instructions.</title>
       <conbody id="4bsX3D" class="- topic/body  concept/conbody ">
          <p id="OckfCg" outputclass="List1" class="- topic/p ">To facilitate timely awards of sole source contract actions and definitization of Undefinitized Contract Actions (UCA) within 180-days after issuance of the UCA, contracting officers:</p>
          <p id="VoEiHz" outputclass="List1" class="- topic/p ">a. provide contractors with clear and concise proposal instructions, including a suspense date for proposal submission;</p>

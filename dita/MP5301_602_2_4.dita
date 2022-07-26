@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.0</ph> OGE 450 Determination and Processing</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">4.0</ph> OGE 450 Determination and Processing</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">4.1 A COR must file an <xref href="https://www.oge.gov/web/OGE.nsf/Confidential%20Financial%20Disclosure"
                   scope="external"

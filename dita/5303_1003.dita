@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5303.1003 </ph> Requirements</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5303.1003</ph> Requirements</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(2)(i) Upon receipt of the required disclosure or any notification, contracting officers, working with legal counsel, must ensure that appropriate steps are taken to preserve remedies available to the government. Contracting officers also must consider how the disclosed information may impact pending contract actions in terms of the contractor’s present responsibility and/or the contractor’s past performance. The contracting officer must promptly provide a copy of any disclosure or notification received to the SCO and to <xref href="mailto:SAF.GCR.Workflow@us.af.mil"
                   scope="external"

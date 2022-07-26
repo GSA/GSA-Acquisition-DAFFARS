@@ -7,8 +7,8 @@
    <concept id="AFFARS_5316_505"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title id="US5TAA" outputclass="Heading 3" class="- topic/title ">
-         <ph id="Ur1EEH" props="autonumber" class="- topic/ph ">5316.505</ph> Ordering</title>
+      <title class="- topic/title " id="US5TAA" outputclass="Heading 3">
+         <ph class="- topic/ph " id="Ur1EEH" props="autonumber">5316.505</ph> Ordering</title>
       <conbody id="UVHkKU" class="- topic/body  concept/conbody ">
          <p id="eYPKqs" outputclass="List1" class="- topic/p ">(b) <i id="yvHxCk" class="+ topic/ph hi-d/i ">Orders under multiple award contracts</i>.</p>
          <p id="FYBsJa" outputclass="List2" class="- topic/p ">(1) <i id="knCE5R" class="+ topic/ph hi-d/i ">Fair opportunity</i>.</p>

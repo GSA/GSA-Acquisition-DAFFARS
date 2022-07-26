@@ -1,129 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5301"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5301</ph> - Federal Acquisition Regulations System</title>
-      <body class="- topic/body ">
+<dita>
+   <topic id="AFFARS_MP5301">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5301</ph> - Federal Acquisition Regulations System</title>
+      <body>
          <p id="oqCfGn" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">2019 Edition</b>
          </p>
          <p id="YzMFBP" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
          </p>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5301_6.dita#AFFARS_MP5301_6"
-                        class="- topic/xref ">MP5301.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5301_6.dita#AFFARS_MP5301_6">MP5301.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="MP5301_601.dita#AFFARS_MP5301_601"
-                              class="- topic/xref ">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5301_601.dita#AFFARS_MP5301_601">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="MP5301_601_90.dita#AFFARS_MP5301_601_90"
-                              class="- topic/xref ">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5301_601_90.dita#AFFARS_MP5301_601_90">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="MP5301_602_2.dita#AFFARS_MP5301_602_2"
-                              class="- topic/xref ">MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officer’s Representative (COR)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5301_602_2.dita#AFFARS_MP5301_602_2">MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officer’s Representative (COR)</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1"
-                                    class="- topic/xref ">1.0 Contracting Officer Roles and Responsibilities</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1">1.0 Contracting Officer Roles and Responsibilities</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_2.dita#AFFARS_MP5301_602_2_2"
-                                    class="- topic/xref ">2.0 COR Roles and Responsibilities</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_2.dita#AFFARS_MP5301_602_2_2">2.0 COR Roles and Responsibilities</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_3.dita#AFFARS_MP5301_602_2_3"
-                                    class="- topic/xref ">3.0 COR Supervisor</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_3.dita#AFFARS_MP5301_602_2_3">3.0 COR Supervisor</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_4.dita#AFFARS_MP5301_602_2_4"
-                                    class="- topic/xref ">4.0 OGE 450 Determination and Processing</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_4.dita#AFFARS_MP5301_602_2_4">4.0 OGE 450 Determination and Processing</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_5.dita#AFFARS_MP5301_602_2_5"
-                                    class="- topic/xref ">5.0 Quality Assurance Program Coordinator (QAPC)</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_5.dita#AFFARS_MP5301_602_2_5">5.0 Quality Assurance Program Coordinator (QAPC)</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_602_2_6.dita#AFFARS_MP5301_602_2_6"
-                                    class="- topic/xref ">6.0 Memorandum Templates and Contract Training Syllabus</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_6.dita#AFFARS_MP5301_602_2_6">6.0 Memorandum Templates and Contract Training Syllabus</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="MP5301_603_90.dita#AFFARS_MP5301_603_90"
-                              class="- topic/xref ">MP5301.603-90 Selection, Appointment, and Termination of Appointment of Contracting Officers</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5301_603_90.dita#AFFARS_MP5301_603_90">MP5301.603-90 Selection, Appointment, and Termination of Appointment of Contracting Officers</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="MP5301_90.dita#AFFARS_MP5301_90"
-                        class="- topic/xref ">MP5301.90 – CLEARANCE</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5301_90.dita#AFFARS_MP5301_90">MP5301.90 – CLEARANCE</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="MP5301_9001.dita#AFFARS_MP5301_9001"
-                              class="- topic/xref ">MP5301.9001 (i)(1)(i)- Business Clearance Approval by the DAS(C)/ADAS(C)</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5301_9001.dita#AFFARS_MP5301_9001">MP5301.9001 (i)(1)(i)- Business Clearance Approval by the DAS(C)/ADAS(C)</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_9001A.dita#AFFARS_MP5301_9001A"
-                                    class="- topic/xref ">MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_9001A.dita#AFFARS_MP5301_9001A">MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="MP5301_9001B.dita#AFFARS_MP5301_9001B"
-                                    class="- topic/xref ">MP5301.9001b (B) Business Clearance Approval for Competitive Actions</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_9001B.dita#AFFARS_MP5301_9001B">MP5301.9001b (B) Business Clearance Approval for Competitive Actions</xref>
                            </p>
                         </li>
                      </ul>

@@ -7,8 +7,8 @@
    <concept id="AFFARS_5316_505_90"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5316.505-90</ph> Decentralized Ordering</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5316.505-90</ph> Decentralized Ordering</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="CoaWnQ" outputclass="Normal" class="- topic/p ">For contracts that authorize decentralized ordering (i.e., ordering by a contracting office at any other location), the contracting officer with overall responsibility for the contract must:</p>
          <p id="JfzpCh" outputclass="List1" class="- topic/p ">(a) Ensure that adequate control procedures are in place before any orders are authorized; and</p>

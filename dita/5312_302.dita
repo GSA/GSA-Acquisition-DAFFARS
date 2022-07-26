@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5312.302 </ph> Tailoring of Provisions and Clauses for the Acquisition of Commercial Items</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5312.302</ph> Tailoring of Provisions and Clauses for the Acquisition of Commercial Items</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38287162" outputclass="List1" class="- topic/p ">(c) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
       </conbody>

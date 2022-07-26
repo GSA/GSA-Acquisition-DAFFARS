@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5313.501 </ph> Special Documentation Requirements</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5313.501</ph> Special Documentation Requirements</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a)(1)(ii)<b class="+ topic/ph hi-d/b "> </b>
             <b class="+ topic/ph hi-d/b "> </b> See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sole_source_justification.pdf"

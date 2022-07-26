@@ -9,8 +9,8 @@
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic "
           base="NoTitle">
-      <title outputclass="Subpart subtopic" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">2.0</ph> COR Roles and Responsibilities</title>
+      <title class="- topic/title " outputclass="Subpart subtopic">
+         <ph class="- topic/ph " props="autonumber">2.0</ph> COR Roles and Responsibilities</title>
       <body class="- topic/body ">
          <p outputclass="List1" class="- topic/p ">2.1  Register for JAM and SPM access through the PIEE e-Business Suite at <xref href="https://wawf.eb.mil"
                   scope="external"

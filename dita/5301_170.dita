@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_170"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.170</ph> Peer Reviews</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.170</ph> Peer Reviews</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="pLfIuN" outputclass="List1" class="- topic/p ">(a) DPC Peer Reviews.</p>
          <p id="kTFzuj" outputclass="List2" class="- topic/p ">(2) To facilitate planning for and execution of DoD Peer Reviews (see <xref format="html"

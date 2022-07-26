@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5350.102-2</ph> Contract Adjustment Boards</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5350.102-2</ph> Contract Adjustment Boards</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc351656020" outputclass="Normal" class="- topic/p ">The Air Force Contract Adjustment Board is authorized to approve any request for contract adjustment that obligates more than $75,000. </p>
       </conbody>

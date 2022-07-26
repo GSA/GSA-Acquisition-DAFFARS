@@ -7,8 +7,8 @@
    <concept id="AFFARS_5315_403_3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5315.403-3</ph> Requiring Data Other Than Certified Cost or Pricing Data</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5315.403-3</ph> Requiring Data Other Than Certified Cost or Pricing Data</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38364935" outputclass="List1" class="- topic/p ">(a)(4) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
          <p id="BUEVPS" outputclass="List1" class="- topic/p ">(a)(6)(ii) See <xref href="MP5301_601.dita#AFFARS_MP5301_601"

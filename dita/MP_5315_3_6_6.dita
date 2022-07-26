@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">6.6</ph> Training Certificates.</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.6</ph> Training Certificates.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="Normal" class="- topic/p ">Any Trainer conducting “Train the Trainer” training will provide a Source Selection Training Certificate to the Training Managers/POCs and Trainers upon completion of the source selection training. Trainers must provide the Source Selection Training Certificate for <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Certificate_Phase_I_Training.pdf"
                   scope="external"

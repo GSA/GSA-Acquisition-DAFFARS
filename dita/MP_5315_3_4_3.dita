@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP_5315_3_4_3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.3</ph> Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">4.3</ph> Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="VCVXBT" outputclass="Normal" class="- topic/p ">Source Selection TTPs can be accessed at the <xref format="html"
                   href="https://dod.teams.microsoft.us/l/channel/19%3Adod%3A76888714f0cb40ed92e401c29324a647%40thread.skype/tab%3A%3Ac94edd53-7cc9-494f-b4ee-c56842387fc2?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4"

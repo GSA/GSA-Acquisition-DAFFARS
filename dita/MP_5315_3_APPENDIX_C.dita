@@ -8,7 +8,7 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Appendix C.</ph> Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">Appendix C.</ph> Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</title>
    </concept>
 </dita>

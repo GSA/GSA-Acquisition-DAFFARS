@@ -7,8 +7,8 @@
    <concept id="AFFARS_5307_105"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5307.105</ph> Contents of Written Acquisition Plans</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5307.105</ph> Contents of Written Acquisition Plans</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="LXQVBP" outputclass="Normal" class="- topic/p ">See the <xref format="pdf"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/acquisition_plan.pdf"

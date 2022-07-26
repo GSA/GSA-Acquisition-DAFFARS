@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5323.804-90</ph> Contract Clauses</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5323.804-90</ph> Contract Clauses</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="Normal" class="- topic/p ">Include AFFARS clause <xref href="5352_223_9000.dita" class="- topic/xref "/> in all solicitations and contracts/orders unless the requiring activity obtains the approval IAW paragraph 5323.803(a). If approval is obtained, the contracting officer must instead use FAR clause 52.223-11.</p>
       </conbody>

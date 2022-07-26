@@ -7,8 +7,8 @@
    <concept id="AFFARS_5313_301"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5313.301</ph> Governmentwide Commercial Purchase Card</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5313.301</ph> Governmentwide Commercial Purchase Card</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38364661" outputclass="Normal" class="- topic/p ">See <xref format="pdf"
                   href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-117/afi64-117.pdf"

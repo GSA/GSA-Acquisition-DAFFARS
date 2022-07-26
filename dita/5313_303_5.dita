@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5313.303-5 </ph> Purchases Under BPAs</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5313.303-5</ph> Purchases Under BPAs</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(1) Individual purchases under BPAs established in accordance with FAR 13.303-2(c)(3) may be made up to the purchase limitation identified in the BPA.</p>
          <p id="p__Toc38364662" outputclass="List2" class="- topic/p ">(2) Individual purchases of commercial items, other than BPAs established in accordance with FAR 13.303-2(c)(3), may be made up to the dollar limitation specified in FAR 13.500.</p>

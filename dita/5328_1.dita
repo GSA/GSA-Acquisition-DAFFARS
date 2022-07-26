@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5328.1</ph> Bonds</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5328.1</ph> Bonds</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365430" outputclass="Normal" class="- topic/p ">See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/contract_bonds_checklist.pdf"
                   scope="external"

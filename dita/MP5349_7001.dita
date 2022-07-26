@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5349.7001</ph> Congressional Notification on Significant Contract Terminations</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">MP5349.7001</ph> Congressional Notification on Significant Contract Terminations</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365681" outputclass="List2" class="- topic/p ">(3)(v) “Contract price of the items terminated” means the contract price of the supplies or services not yet accepted that are being terminated. The contracting officer must not adjust this amount downward for progress or advance payments, accepted vouchered costs, or less than full funding and should use estimates when un-priced contract actions are being terminated, or when otherwise necessary.</p>
       </conbody>

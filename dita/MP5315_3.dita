@@ -8,7 +8,7 @@
           id="AFFARS_MP5315_3"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-      <title id="PdVGHG" outputclass="Subpart" class="- topic/title ">
-         <ph id="PQzieP" props="autonumber" class="- topic/ph ">MP5315.3</ph> Source Selection</title>
+      <title class="- topic/title " id="PdVGHG" outputclass="Subpart">
+         <ph class="- topic/ph " id="PQzieP" props="autonumber">MP5315.3</ph> Source Selection</title>
    </topic>
 </dita>

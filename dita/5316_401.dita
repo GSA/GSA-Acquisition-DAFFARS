@@ -7,8 +7,8 @@
    <concept id="AFFARS_5316_401"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5316.401</ph> General</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5316.401</ph> General</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="aLklhl" outputclass="List1" class="- topic/p ">(d)(i) See <xref href="MP5301_601.dita" class="- topic/xref "/> Forward a copy of the award fee D&amp;F to SAF/AQC when the conditions at <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.401"

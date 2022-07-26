@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5319.810-90</ph> SBA Appeals</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5319.810-90</ph> SBA Appeals</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38293721" outputclass="List1" class="- topic/p ">(a) When notified by the SBA that it has filed an appeal with the Agency Head, the contracting officer should notify the local Small Business Office and follow the paragraph below to prepare an appeal file. Forward the appeal file through the SCO to <xref href="mailto:SAF.SB.Workflow@us.af.mil"
                   scope="external"

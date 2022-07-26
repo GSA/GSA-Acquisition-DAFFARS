@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5311.103</ph> Market Acceptance</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5311.103</ph> Market Acceptance</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38364715" outputclass="List1" class="- topic/p ">(a) The contracting officer is delegated this authority.</p>
       </conbody>

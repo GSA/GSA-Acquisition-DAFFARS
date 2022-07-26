@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5349.7003</ph> Notification of Anticipated Terminations or Reductions</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">MP5349.7003</ph> Notification of Anticipated Terminations or Reductions</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(b)(2)(i) Address the notification to:</p>
          <p outputclass="List2" class="- topic/p ">Administrator</p>

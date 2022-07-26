@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5317.106</ph> Procedures</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.106</ph> Procedures</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365363" outputclass="Normal" class="- topic/p ">See the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Other_Pubs/Other_Guides/multi_year_contracting_guide.docx"
                   scope="external"

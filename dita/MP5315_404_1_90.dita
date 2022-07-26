@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP5315_404_1_90"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">MP5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="luEBsH" outputclass="List1" class="- topic/p ">(b) Requesting Pricing Assistance.</p>
          <p id="zOlkvw" outputclass="List2" class="- topic/p ">(1)“Full Pricing Assistance” means the price analyst accomplishes the majority of the pricing effort (e.g. pricing case) for a specific contract action which meets or exceeds the thresholds identified in AFFARS <xref href="5315_404_1_90.dita#AFFARS_5315_404_1_90"

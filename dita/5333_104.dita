@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5333.104 </ph> Protests to GAO</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5333.104</ph> Protests to GAO</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) The Air Force Commercial Litigation Field Support Center (<xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
                   scope="external"

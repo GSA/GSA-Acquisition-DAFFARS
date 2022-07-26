@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5325.7301-2</ph> Solicitation Approval for Sole Source Contracts</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5325.7301-2</ph> Solicitation Approval for Sole Source Contracts</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="Normal" class="- topic/p ">Submit the solicitation to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"

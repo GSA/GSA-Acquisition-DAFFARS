@@ -8,7 +8,7 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5</ph> DEFINITIONS ( No AF text)</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">5</ph> DEFINITIONS ( No AF text)</title>
    </concept>
 </dita>

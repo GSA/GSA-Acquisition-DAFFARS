@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP_5306_502_4"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="atqCuP" outputclass="List1" class="- topic/p ">4.1. SAF/AQCP is responsible for submitting the annual report required by <xref format="html"
                   href="https://www.acquisition.gov/far/part-6#FAR_6_502"

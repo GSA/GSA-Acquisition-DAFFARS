@@ -7,8 +7,8 @@
    <concept id="AFFARS_5308_404"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5308.404</ph> Use of Federal Supply Schedules</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5308.404</ph> Use of Federal Supply Schedules</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="vhoIQX" outputclass="List1" class="- topic/p ">(h)(3)(ii)(C) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
          <p id="p__Toc38364598" outputclass="Normal" class="- topic/p "/>

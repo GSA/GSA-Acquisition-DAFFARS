@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5306.202</ph> Establishing or Maintaining Alternative Sources</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5306.202</ph> Establishing or Maintaining Alternative Sources</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38364615" outputclass="List1" class="- topic/p ">(b)(1) The Life Cycle Sustainment Plan (LCSP)/Acquisition Strategy approval authority is authorized to sign and approve the Determination and Findings (D&amp;F) required by <xref href="https://acquisition.gov/far/part-6"
                   scope="external"

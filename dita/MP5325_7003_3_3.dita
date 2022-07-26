@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">3.</ph> DNAD Exception</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">3.DNADException</ph> DNAD Exception</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p_add1" outputclass="Normal" class="- topic/p ">When a program office concludes that domestically melted or produced specialty metal cannot be procured (as described in DFARS 225.7003-3(b)(5)) to support the production of a particular end item or component, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_03.pdf"
                   scope="external"

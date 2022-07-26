@@ -7,8 +7,8 @@
    <concept id="AFFARS_MP5301_9001A"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 2" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">MP5301.9001a</ph> (A) Business Clearance Approval for Non-Competitive Actions</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">MP5301.9001a</ph> (A) Business Clearance Approval for Non-Competitive Actions</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="OpxjyT" outputclass="List5" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(1)</i>The contracting officer will submit notifications to <xref format="mailto"

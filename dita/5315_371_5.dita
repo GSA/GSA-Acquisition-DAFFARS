@@ -7,8 +7,8 @@
    <concept id="AFFARS_5315_371_5"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5315.371-5</ph> Waiver</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5315.371-5</ph> Waiver</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="UFvVUn" outputclass="List1" class="- topic/p ">(a) When a waiver to the requirement at <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-215-contracting-negotiation#DFARS-215.371-2"

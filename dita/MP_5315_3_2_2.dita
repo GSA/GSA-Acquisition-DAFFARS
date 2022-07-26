@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 2.2 </ph> Develop a Source Selection Plan (SSP)</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">2.2</ph> Develop a Source Selection Plan (SSP)</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="Normal" class="- topic/p ">The PCO and the SSEB chair, with assistance from SSEB members, as necessary, prepare the SSP. A <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_plan.docx"
                   scope="external"

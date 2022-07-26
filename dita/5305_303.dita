@@ -7,8 +7,8 @@
    <concept id="AFFARS_5305_303"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5305.303</ph> Announcement of Contract Awards</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5305.303</ph> Announcement of Contract Awards</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="SqYeOh" outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Public Announcement</i>. Information on awards must not be released and awards shall not be made until after the agency announces the award on <xref format="html"
                   href="https://www.defense.gov/News/Contracts/"

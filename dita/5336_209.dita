@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5336.209</ph> Construction Contracts with Architect-Engineer Firms</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5336.209</ph> Construction Contracts with Architect-Engineer Firms</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc38365475" outputclass="Normal" class="- topic/p ">Submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   scope="external"

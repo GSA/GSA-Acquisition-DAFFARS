@@ -7,8 +7,8 @@
    <concept id="AFFARS_5306_501"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title id="hidVRr" outputclass="Heading 3" class="- topic/title ">
-         <ph id="DdKuyp" props="autonumber" class="- topic/ph ">5306.501</ph> Requirement</title>
+      <title class="- topic/title " id="hidVRr" outputclass="Heading 3">
+         <ph class="- topic/ph " id="DdKuyp" props="autonumber">5306.501</ph> Requirement</title>
       <conbody id="jH3xmx" class="- topic/body  concept/conbody ">
          <p id="GXjuQp" outputclass="List1" class="- topic/p ">(a) The DAS(C) is the designated Air Force Competition Advocate General (CAG). The following organizations are designated as Air Force procuring activities:</p>
          <p id="zkllvq" class="- topic/p ">Air Combat Command (ACC)</p>

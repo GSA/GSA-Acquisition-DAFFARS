@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "> 5333.290 </ph> Claims and Terminations for Default</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5333.290</ph> Claims and Terminations for Default</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List1" class="- topic/p ">(a) If a contractor submits an uncertified claim exceeding $100,000, the contracting officer must notify the contractor, in writing, of its failure to certify as required by the Contract Disputes statute (<xref href="http://uscode.house.gov/view.xhtml?req=(title:41%20chapter:71%20edition:prelim)%20OR%20(granuleid:USC-prelim-title41-chapter71)&amp;f=treesort&amp;num=0&amp;edition=prelim"
                   scope="external"

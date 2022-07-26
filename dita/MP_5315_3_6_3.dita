@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">6.3</ph> Required Training for Designated Trainers</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.3</ph> Required Training for Designated Trainers</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List2" class="- topic/p ">6.3.1 Designated trainers must receive “Train-the-Trainer” training and be certified as source selection trainers. Periodic “Train-the-Trainer” sessions are conducted by <xref href="mailto:SAF.AQ.MLA.DF.SAF-AQCP.FIELD.SUPPORT@us.af.mil"
                   scope="external"

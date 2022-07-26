@@ -7,8 +7,8 @@
    <concept id="AFFARS_5302_101"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5302.101</ph> Definitions</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5302.101</ph> Definitions</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="LuBrZH" outputclass="Normal" class="- topic/p ">
             <b class="+ topic/ph hi-d/b ">"Acquisition Category (ACAT)"</b> means the category of a Defense acquisition program. See <xref format="pdf"

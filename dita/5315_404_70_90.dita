@@ -7,8 +7,8 @@
    <concept id="AFFARS_5315_404_70_90"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5315.404-70-90</ph> DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5315.404-70-90</ph> DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="HOrrYs" class="- topic/p ">HQ AFMC/PK is the designated Air Force focal point for weighted guidelines reporting. DD Form 1547s shall be prepared and reported using the web-based <xref format="html"
                   href="https://www.wgl.milcloud.mil/wgl/"

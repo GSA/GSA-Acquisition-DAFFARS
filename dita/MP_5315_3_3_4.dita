@@ -8,8 +8,8 @@
             xml:lang="en-US"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">3.4</ph> Competitive Range Decision Document</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">3.4</ph> Competitive Range Decision Document</title>
       <conbody class="- topic/body  concept/conbody ">
          <p outputclass="List2" class="- topic/p ">3.4.1 The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competitive_range_decision_document.docx"
                   scope="external"

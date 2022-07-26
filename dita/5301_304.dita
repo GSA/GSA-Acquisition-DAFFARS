@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_304"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.304</ph> Agency Control and Compliance Procedures</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.304</ph> Agency Control and Compliance Procedures</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p__Toc351646720" outputclass="List1" class="- topic/p ">(c)(4) MAJCOMs, DRUs, AFRCO, SpRCO and SMC must follow the approved <xref format="pdf"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5301/2010-02-02_dpap_memo.pdf"

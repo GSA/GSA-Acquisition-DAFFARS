@@ -7,8 +7,8 @@
    <concept id="AFFARS_5318_270"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5318.270</ph> Head of Contracting Activity Determinations</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5318.270</ph> Head of Contracting Activity Determinations</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="p_p5318271s90" outputclass="Normal" class="- topic/p ">See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
          <p id="ZRGSSJ" outputclass="List1" class="- topic/p ">(S-90) HQ AFICC is the HCA designee for all delegable HCA responsibilities during contingency operations when determined by the HCA and may become the Joint Theater Support Contracting Command (JTSCC) or Joint Task Force Contracting commanding general if designated in the Combatant Commander?s (CCDR) plan IAW <xref format="pdf"

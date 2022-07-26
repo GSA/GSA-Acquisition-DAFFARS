@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_603_3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5301.603-3</ph> Appointment</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.603-3</ph> Appointment</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="Spvgin" outputclass="List1" class="- topic/p ">(b) Issuing authorities identified in <xref href="5301_603_1.dita#AFFARS_5301_603_1"
                   outputclass="fm:ParaNumOnly"

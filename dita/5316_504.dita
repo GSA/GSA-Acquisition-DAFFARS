@@ -7,11 +7,14 @@
    <concept id="AFFARS_5316_504"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5316.504</ph> Indefinite-Quantity Contracts</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5316.504</ph> Indefinite-Quantity Contracts</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="gafJyr" outputclass="List1" class="- topic/p ">(a) Description.</p>
-         <p id="bGuYqG" outputclass="List2" class="- topic/p ">(2) Upon execution of the contract, an obligation shall be recorded based upon the issuance of a delivery or task order for the cost/price of the minimum quantity specified. The Government’s actual obligation must be recorded at the time of contract award. (See <xref format="pdf"
+         <p id="bGuYqG" outputclass="List2" class="- topic/p ">(2) Upon execution of the contract,
+            an obligation shall be recorded based upon the issuance of a delivery or task order for
+            the cost/price of the minimum quantity specified. The Government’s actual obligation
+            must be recorded at the time of contract award. (See <xref format="pdf"
                   href="http://comptroller.defense.gov/Portals/45/documents/fmr/current/03/03_08.pdf"
                   scope="external"
                   class="- topic/xref ">
@@ -21,13 +24,21 @@
                <u class="+ topic/ph hi-d/u ">,</u>
             </ph> Volume 3, Chapter 8, paragraph 080604)</p>
          <p id="gDeUVw" outputclass="List1" class="- topic/p ">(c)(1)(ii)(D) <i class="+ topic/ph hi-d/i ">Limitation on single award contracts</i>.</p>
-         <p id="jNfyfp" outputclass="List2" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(1)</i> The SCO has the authority to make the written determination required by FAR 16.504(c)(1)(ii)(D)(1). Provide a copy of the written determination to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+         <p class="- topic/p " outputclass="List6">
+            <i class="+ topic/ph hi-d/i ">(1)</i> The SCO has
+            the authority to make the written determination required by <xref href="https://www.acquisition.gov/far/part-16#FAR_16_504"
+                  format="html"
                   scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQCP</u>
-            </xref>.</p>
+                  class="- topic/xref ">FAR 16.504(c)(1)(ii)(D)(1)</xref>. When a
+            J&amp;A is required, a separate written determination is not required if the J&amp;A
+            addresses one of the circumstances at <xref href="https://www.acquisition.gov/far/part-16#FAR_16_504"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 16.504(c)(1)(ii)(D)(1)(i)-(iv)</xref>.
+            Provide a copy of the written determination to <xref href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                  format="AQ.SAF-AQCP.Workflow@us.af.mil.SAF-AQCP.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQCP</xref>.</p>
          <p id="xcAalu" outputclass="List1" class="- topic/p ">(c)(2)(i)(A) See MP5301.601-90.</p>
          <p id="EHVSNF" outputclass="List1" class="- topic/p ">(c)(2)(i)(B) See MP5301.601-90.</p>
          <p id="wqFgyp" outputclass="List1" class="- topic/p ">(c)(2)(ii) See MP5301.601-90.</p>

@@ -7,8 +7,8 @@
    <concept id="AFFARS_5309_405_1"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title outputclass="Heading 3" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">5309.405-1</ph> Continuation of Current Contracts</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5309.405-1</ph> Continuation of Current Contracts</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="rCGEri" outputclass="List1" class="- topic/p ">(a) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90"
                   outputclass="fm:ParaNumOnly"

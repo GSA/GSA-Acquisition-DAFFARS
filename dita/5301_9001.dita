@@ -7,8 +7,8 @@
    <concept id="AFFARS_5301_9001"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title id="yfZ17s" outputclass="Heading 3" class="- topic/title ">
-         <ph id="6ahhvv" props="autonumber" class="- topic/ph ">5301.9001</ph> Policy, Thresholds, and Approvals</title>
+      <title class="- topic/title " id="yfZ17s" outputclass="Heading 3">
+         <ph class="- topic/ph " id="6ahhvv" props="autonumber">5301.9001</ph> Policy, Thresholds, and Approvals</title>
       <conbody id="LdQmJ6" class="- topic/body  concept/conbody ">
          <p id="Gm0XsW" outputclass="List1" class="- topic/p ">(a) The objectives of the business and contract clearance process are to ensure that:</p>
          <p id="4LHca1" outputclass="List2" class="- topic/p ">(1) Contract actions effectively implement approved acquisition strategies;</p>
