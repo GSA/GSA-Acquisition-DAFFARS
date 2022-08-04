@@ -1,0 +1,2746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5301_601"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title "
+             id="title__Toc38365589"
+             outputclass="Heading 1">
+         <ph class="- topic/ph " id="7qx6b7" props="autonumber">MP5301.601</ph> (a)(i) Head of the Contracting Activity (HCA) Matrix</title>
+      <body class="- topic/body ">
+         <p id="S0xiKC" outputclass="Normal" class="- topic/p ">
+            <b id="ujCSbM" class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="v6c1v7" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         </p>
+         <p id="fY3KEy" outputclass="Normal" class="- topic/p ">
+            <b id="TqKwXh" class="+ topic/ph hi-d/b ">
+               <u class="+ topic/ph hi-d/u ">NOTE</u>
+            </b>
+            <b id="EBRoWZ" class="+ topic/ph hi-d/b ">:</b> Cells with a double asterisk (<b id="qfWOaj" class="+ topic/ph hi-d/b ">**</b>
+            <b id="MenNaA" class="+ topic/ph hi-d/b ">)</b> in the “<b id="dwhuiI" class="+ topic/ph hi-d/b ">Retained by HCA</b>” column indicate retained HCA responsibilities or those that are non-delegable per the regulation listed in the “<b id="vEhNaP" class="+ topic/ph hi-d/b ">Reference</b>” column.</p>
+         <table id="table_bk1_rww_5qb" class="- topic/table ">
+            <tgroup cols="6" class="- topic/tgroup ">
+               <thead class="- topic/thead ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="4tRWmL" class="- topic/p ">
+                           <b id="i9aKVG" class="+ topic/ph hi-d/b ">Item</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pU0bm8" class="- topic/p ">
+                           <b id="YWbjvi" class="+ topic/ph hi-d/b ">Reference</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wg9B81" class="- topic/p ">
+                           <b id="8uOhFA" class="+ topic/ph hi-d/b ">HCA Responsibilities / Designee</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="s9Qgog" class="- topic/p ">
+                           <b id="lfLMWo" class="+ topic/ph hi-d/b ">Retained by</b>
+                           <b id="UNBJde" class="+ topic/ph hi-d/b ">HCA</b>
+                        </p>
+                        <p id="OGDRfA" class="- topic/p ">
+                           <b id="sI9NfF" class="+ topic/ph hi-d/b ">(SAF/AQC)</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DvRyge" class="- topic/p ">
+                           <b id="hLxVre" class="+ topic/ph hi-d/b ">Delegated to SCOs</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NS5FzT" class="- topic/p ">
+                           <b id="Wq7dXA" class="+ topic/ph hi-d/b ">Delegable below SCO</b>
+                        </p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="9Cuz3g" class="- topic/p ">1</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fogszl" class="- topic/p ">FAR 1.602-3(b)(2) and (3)</p>
+                        <p id="8oMEfs" class="- topic/p ">AFFARS <xref href="5301_602_3.dita" class="- topic/xref "/>(b)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53016023b2" class="- topic/p ">Ratification of unauthorized commitments, subject to the limitations in FAR 1.602-3(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="d6TtR8" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Ex64XS" class="- topic/p ">Yes, for actions of $30K and above</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Wt3AAL" class="- topic/p ">Delegated to the COCO for actions less than $30K</p>
+                        <p id="TeSeLw" outputclass="List1" class="- topic/p ">(not redelegable)</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="7s8PjR" class="- topic/p ">2</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NzPURW" class="- topic/p ">AFFARS <xref href="5301_601.dita" class="- topic/xref "/>(a)(i)(A)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YbVZ2U" class="- topic/p ">Authority to enter into, approve, or terminate Grants, Cooperative Agreements, and Other Transactions—including the issuance of a warrant for such purposes.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oXeL6G" class="- topic/p ">See Table 2</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="j6jXJg" class="- topic/p ">See Table 2</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NS2dJ2" class="- topic/p ">Yes,</p>
+                        <p id="Wba5YH" class="- topic/p ">See Table 2</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Tj9gs7" class="- topic/p ">3</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Etw2gz" class="- topic/p ">AFFARS <xref href="5301_601.dita" class="- topic/xref "/>(a)(i)(A)</p>
+                        <p id="JHgf81" class="- topic/p ">AFFARS <xref href="5301_603_1.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vqW7sc" class="- topic/p ">Authority to enter into, approve, modify, and terminate contracts—including the issuance of a Contracting Officer warrant for such purposes.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CRCwJA" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dbBfka" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Hl1G5o" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="ZmhSom" class="- topic/p ">4</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="j0pSe9" class="- topic/p ">FAR 3.104-5(c)(2)</p>
+                        <p id="Wz3VjL" class="- topic/p ">AFFARS <xref href="5303_104_3.dita" class="- topic/xref "/>(c)(1)(ii)</p>
+                        <p id="rdYmp8" class="- topic/p ">AFFARS <xref href="5303_104_5.dita" class="- topic/xref "/>(c)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53031043" class="- topic/p ">Authorizes the disqualified official to resume participation in the procurement or determine that an additional disqualification period is necessary.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Wi8akY" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="bbcYU3" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1qt6Gh" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="d9pQDt" class="- topic/p ">5</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="F74SkM" class="- topic/p ">FAR 3.104-7</p>
+                        <p id="4HUVfO" class="- topic/p ">AFFARS 5303.104-7(f)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53031047f" class="- topic/p ">Reviews and takes appropriate action on information that a reported violation or possible violation of a present or former government official or someone advising that official knowingly disclosed contractor bid or proposal information or source selection information before award.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Syywnq" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TZn8rW" class="- topic/p ">Yes, only if SCO is GO or SES</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="cAWcdZ" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="mYd2Gc" class="- topic/p ">6</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zn6EYD" class="- topic/p ">FAR 3.602</p>
+                        <p id="hC4ijs" class="- topic/p ">AFFARS <xref href="5303_602.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5303602" class="- topic/p ">Authorizes contract award to a Government employee or to a business concern owned or controlled by a Government employee and only if there is a most compelling reason to do so per FAR 3.602.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="i0L0yB" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="GVLkhZ" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="eO97On" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Nw9qfy" class="- topic/p ">7</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Jd7FAm" class="- topic/p ">FAR 3.704(c)</p>
+                        <p id="pzdfsF" class="- topic/p ">AFFARS <xref href="5303_704.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5303704c" class="- topic/p ">Considers, in addition to any penalty prescribed by law or regulation--suspension or debarment proceedings, voiding and rescinding contracts for a contractor convicted of any offense relating to contracts with the agency.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="f5NXxS" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="jNgr6i" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Qbj6gv" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="PAbQvR" class="- topic/p ">8</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UeffeB" class="- topic/p ">FAR 3.1104(b)</p>
+                        <p id="YIzJio" class="- topic/p ">AFFARS <xref href="5303_1104.dita" class="- topic/xref "/>(b)</p>
+                        <p id="97X8Dw" class="- topic/p ">FAR 9.504(c)</p>
+                        <p id="BEgVJS" class="- topic/p ">AFFARS <xref href="5309_504.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5309504c" class="- topic/p ">Determines in writing that such action in FAR 3.1104(a) is in the best interest of the Government (HCA may impose conditions that provide mitigation of a personal conflict of interest or grant a waiver)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JttIa3" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Lf56tB" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rCH3YL" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="xYpub9" class="- topic/p ">9</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="8ndtV7" class="- topic/p ">DFARS 205.502(a)</p>
+                        <p id="7LkhJ9" class="- topic/p ">AFFARS <xref href="5305_502.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5305502a" class="- topic/p ">Approves the publication of paid advertisements in newspapers.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uNJhXX" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FDqK29" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="PEtHEX" class="- topic/p ">Yes, one level above CO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="N1OXj9" class="- topic/p ">10</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="9XEmIv" class="- topic/p ">DFARS 206.302-1(a)(2)(i)(1)</p>
+                        <p id="Nv0DtF" class="- topic/p ">AFFARS <xref href="5306_302_1.dita" class="- topic/xref "/>(a)(2)(i)(<i class="+ topic/ph hi-d/i ">1</i>)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53063021a2i1" class="- topic/p ">Determines if agency can enter into contracts for studies, analyses, or consulting services on the basis of an unsolicited proposal without providing for full and open competition.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1fANEF" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Q8xE3N" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="92FcZo" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="xFzqdh" class="- topic/p ">11</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="yL8Faa" class="- topic/p ">FAR 6.302-1(d)</p>
+                        <p id="eVRHkj" class="- topic/p ">DFARS 206.302-1(d)</p>
+                        <p id="Yq49nF" class="- topic/p ">DFARS PGI 206.302-1(d)</p>
+                        <p id="fUUjja" class="- topic/p ">AFFARS <xref href="5306_302_1.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TC8ELB" class="- topic/p ">Approves waiver to post request for information or sources sought notices when using J&amp;A authority FAR 6.302-1.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="St1F6s" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="t8SgL9" class="- topic/p ">Yes, if SCO is GO or SES. If SCO is not a GO or SES, may be approved by the MAJCOM SCO provided they are a GO or SES.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VyqAPc" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="jOpS50" class="- topic/p ">12</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TmRPrx" class="- topic/p ">DFARS 206.302-4(c)</p>
+                        <p id="GviCgC" class="- topic/p ">AFFARS <xref href="5306_302_4.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53063024c" class="- topic/p ">Approves a document (AFFARS prescribes use of International Agreement Competitive Restrictions (IACR)) that describes the terms of an agreement or treaty or written directions, such as a Letter of Offer and Acceptance, which have the effect of requiring the use of other than competitive procedures. J&amp;A is not required.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wBpyb2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rAE0xs" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AfBiTY" class="- topic/p ">Yes, CO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="rY7b2f" class="- topic/p ">13</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Qa1FSN" class="- topic/p ">DFARS 207.470(b)</p>
+                        <p id="H9Hn7y" class="- topic/p ">AFFARS <xref href="5307_470.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5307470b" class="- topic/p ">Approves acquisition for vessel/aircraft/vehicle through a lease/charter/similar agreement for 18 months or more.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CgaNL7" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6FNyAk" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0TZkeD" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="uslObg" class="- topic/p ">14</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="kYTUV2" class="- topic/p ">FAR 8.404(h)(3)(ii)(C)</p>
+                        <p id="StH8mK" class="- topic/p ">AFFARS <xref href="5308_404.dita" class="- topic/xref "/>(h)(3)(ii)(C)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5308404h3iiC" class="- topic/p ">Approves D&amp;F when the total performance period, including options, of a T&amp;M/LH order is more than three years.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="OLgL62" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="jBHM7G" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rUyGMu" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Cjl2ch" class="- topic/p ">15</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2e0Wo5" class="- topic/p ">FAR 9.202(a)</p>
+                        <p id="SDcq3n" class="- topic/p ">DFARS PGI 209.202(a)(1)</p>
+                        <p id="vihfvJ" class="- topic/p ">AFFARS <xref href="5309_202.dita" class="- topic/xref "/>(a)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5309202a1" class="- topic/p ">Is the designee referenced in FAR 9.202(a) (inclusion of other qualification requirements).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2S0gIb" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="eBG1TQ" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="9eGfk0" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="hj1dDJ" class="- topic/p ">16</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Zb30ug" class="- topic/p ">FAR 9.206-1(b)</p>
+                        <p id="ZQrsLZ" class="- topic/p ">AFFARS <xref href="5309_206_1.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53092061b" class="- topic/p ">Is the designee referenced in FAR 9.206-1(b) (enforcing qualification requirements).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iXM2J2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="j4yWaC" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="LseRgY" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="zJzUcR" class="- topic/p ">17</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JNZiTX" class="- topic/p ">DFARS 209.270-3(a)</p>
+                        <p id="8bxW5n" class="- topic/p ">AFFARS <xref href="5309_270_3.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53092703a" class="- topic/p ">Approves a contract for procurement, modification, repair, or overhaul of an aviation critical safety item with a source approved by the head of the design control activity.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FNWZxg" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3DsbG0" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rKlI65" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Otn1C1" class="- topic/p ">18</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="eVbjvU" class="- topic/p ">FAR 9.503<ph id="qYqov6" class="- topic/ph "> </ph>
+                           <b id="KfmYkQ" class="+ topic/ph hi-d/b ">/</b> 9.506(d)(3)</p>
+                        <p id="2rQihl" class="- topic/p ">AFFARS <xref href="5309_503.dita" class="- topic/xref "/>
+                        </p>
+                        <p id="V1ZQJJ" class="- topic/p ">AFFARS <xref href="5309_504.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5309503" class="- topic/p ">Waives FAR 9.5 requirements -- Organizational and Consultant Conflicts of Interest (OCI).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="yqmOD7" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dc14Ym" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rMbn3E" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="0xOVpf" class="- topic/p ">19</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nUzGPo" class="- topic/p ">DFARS 209.571-7(c)(1)</p>
+                        <p id="RgCXP2" class="- topic/p ">AFFARS <xref href="5309_571_7.dita" class="- topic/xref "/>(c)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53095717c1" class="- topic/p ">Determines an exception to Limitation on Future Contracting in systems engineering and technical assistance contracts is necessary.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ixc31I" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="plRItW" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3KA4Jf" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="sHSABu" class="- topic/p ">20</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xRuEs9" class="- topic/p ">
+                           <ph id="Gt7v4B" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">DFARS 211.274-2(b)(1)</u>
+                           </ph>
+                        </p>
+                        <p id="WqGyzz" class="- topic/p ">AFFARS <xref href="5311_274_2.dita" class="- topic/xref "/>(b)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wUo3q8" class="- topic/p ">Determines the items are to be used to support a contingency or humanitarian or peacekeeping operation; to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack; to facilitate the provision of international disaster assistance; or to support response to an emergency or major disaster and, therefore, contractor not required to provide DoD IUID.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qjwpFT" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="LxYWHl" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xb820t" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="o9Hnws" class="- topic/p ">21</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RGQOdy" class="- topic/p ">DFARS 211.274-2(b)(2)(i)((B)</p>
+                        <p id="k1D7n4" class="- topic/p ">AFFARS <xref href="5311_274_2.dita" class="- topic/xref "/>(b)(2)(i)(B)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53112742b2iB" class="- topic/p ">Determines it is more cost effective for the Government requiring activity to assign, mark, and register unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR Part 12 or Part 8 for an acquisition other than ACAT I program.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="5Dyoed" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qMtxob" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QXGfYi" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="0S37PG" class="- topic/p ">22</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="X7lulT" class="- topic/p ">DFARS 212.102(a)(ii)(B)</p>
+                        <p id="XgcH0V" class="- topic/p ">AFFARS <xref href="5312_102.dita" class="- topic/xref "/>(a)(ii)(B)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5312_102_a_ii_B" class="- topic/p ">Reviews an existing contracting officer commercial item determination to confirm the prior determination was appropriate and still applicable; or issues a determination that the prior use of FAR Part 12 procedures was improper, or no longer appropriate, with a written explanation for the basis of the determination.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tdCfMv" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YZJSWm" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="V3miph" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BXCn8A" class="- topic/p ">23</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="x96Emn" class="- topic/p ">DFARS 212.272(b)(2)(i)</p>
+                        <p id="ZdmEw6" class="- topic/p ">AFFARS <xref href="5312_272.dita" class="- topic/xref "/>(b)(2)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vQ59Pg" class="- topic/p ">For contracts above $10M, determines no commercial items are suitable to meet the agency’s needs for facilities related services, knowledge-based services (except engineering services), medical services, or transportation services.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uV0p0m" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="8jUryE" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xq6lk0" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="roqJ6l" class="- topic/p ">24</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ViI4k7" class="- topic/p ">DFARS 212.302(c)</p>
+                        <p id="WjFs5X" class="- topic/p ">AFFARS <xref href="5312_302.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5312302c" class="- topic/p ">Waiver authority for tailoring provisions and clauses for acquisition of commercial items under FAR 12.302(c).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AAYrDd" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="x54N4J" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="i1MHHd" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="XMfEiu" class="- topic/p ">25</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RvpSdi" class="- topic/p ">DFARS 212.7001(a)(1)</p>
+                        <p id="kweZ9m" class="- topic/p ">AFFARS 5312.7001(a)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Fq5mVC" class="- topic/p ">Makes Determination prior to converting the procurement from commercial to noncommercial procedures under FAR Part 15 (over $100M provide copy to USD(A&amp;S))</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZoLlwh" class="- topic/p ">** Yes, if value $100M or more</p>
+                        <p id="CdSCGE" class="- topic/p ">** No, if more than $1M, but less than $100M</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AveUKT" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UVOTSR" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="ZP8tam" class="- topic/p ">26</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="chWwz4" class="- topic/p ">FAR 14.201-7(b)(2) and (c)(2)</p>
+                        <p id="VKyC7y" class="- topic/p ">AFFARS <xref href="5314_201_7.dita" class="- topic/xref "/>(b)(2)</p>
+                        <p id="5yjKH3" class="- topic/p ">and (c)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53142017c2" class="- topic/p ">Waives the requirement for inclusion of FAR clauses 52.214-27 and 52.214-28 in a contract with a foreign government or agency of that government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="WSJ0e2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UVFaN2" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="u8AKAM" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Xtvx1q" class="- topic/p ">27</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="F25ajT" class="- topic/p ">DFARS 215.371-5</p>
+                        <p id="Ls5A7G" class="- topic/p ">AFFARS <xref href="5315_371_5.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53153715" class="- topic/p ">Waives the requirement at DFARS 215.371-2 to resolicit for an additional period of at least 30 days when only one offer is received as a result of a competitive solicitation allowing fewer than 30 days for receipt of proposals.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="km250d" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="E9AguX" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FHr1V6" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="qnIPZh" class="- topic/p ">28</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wiVYdM" class="- topic/p ">Class Deviation 2018-O00009</p>
+                        <p id="NJkaZW" class="- topic/p ">AFFARS <xref href="5315_403_1.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mJQ2MN" class="- topic/p ">Determines certified cost or pricing data should be required based on past performance or other information specific to the award.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="z89lYX" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="H0uhMV" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nRZAmW" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="mCL6wV" class="- topic/p ">29</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="hAhFND" class="- topic/p ">FAR 15.403-1(c)(4)</p>
+                        <p id="ZMGLVg" class="- topic/p ">DFARS 215.403-1(c)(4)(A)</p>
+                        <p id="rsujbp" class="- topic/p ">AFFARS <xref href="5315_403_1.dita" class="- topic/xref "/>(c)(4)(A)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154031c4A" class="- topic/p ">Waives requirement for submission of certified cost or pricing data in exceptional cases.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JlPIsj" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gDU1Cf" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iJRUHb" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="OMgX8Q" class="- topic/p ">30</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vfsxfB" class="- topic/p ">FAR 15.403-3(a)(4)</p>
+                        <p id="dRz3FD" class="- topic/p ">AFFARS <xref href="5315_403_3.dita" class="- topic/xref "/>(a)(4)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154033a4" class="- topic/p ">Approves determination to make award without offeror submission of data other than certified cost or pricing data.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="yt8KW9" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2cKUWe" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0xMalK" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="DKZkuH" class="- topic/p ">31</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vLKNAy" class="- topic/p ">DFARS PGI 215.403-3(a)(6)(ii)</p>
+                        <p id="l1ZpjJ" class="- topic/p ">AFFARS <xref href="5315_403_3.dita" class="- topic/xref "/>(a)(6)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6UGcu3" class="- topic/p ">Provides quarterly information within 25 days following the end of the quarter using<xref format="aspx"
+                                 href="https://usaf.dps.mil/sites/AFCC/afcc/aqcinternal/aqcp/lists/data_request_denials/allitems.aspx"
+                                 scope="external"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">Contractor Denials of Data Requests</u>
+                           </xref>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Wz1wyS" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZDAfdD" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="EloLBh" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Qw48VQ" class="- topic/p ">32</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1Rd4rU" class="- topic/p ">FAR 15.403-4(a)(2)</p>
+                        <p id="vSQeaM" class="- topic/p ">AFFARS <xref href="5315_403_4.dita" class="- topic/xref "/>(a)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154034a2" class="- topic/p ">Authorizes CO to obtain certified cost or pricing data for actions below the threshold in FAR 15.403-4(a)(1), provided the action exceeds the SAT.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="PzoEMq" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RV8CSV" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="t72QaJ" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="96KB3K" class="- topic/p ">33</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="XWXN8R" class="- topic/p ">
+                           <xref format="pdf"
+                                 href="https://www.acq.osd.mil/dpap/policy/policyvault/USA003941-17-DPAP.pdf"
+                                 scope="external"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">Class Deviation 2018-O00009</u>
+                           </xref>
+                        </p>
+                        <p id="TlOqKY" class="- topic/p ">AFFARS <xref href="5315_404_2.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1wtB3H" class="- topic/p ">Determines that auditing of records should be required based on past performance or other information specific to the award.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="MGk7kU" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rkbnTo" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mqGOwa" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="yJLNXI" class="- topic/p ">34</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CqHDDf" class="- topic/p ">DFARS 215.404-4(c)(2)(C)(<i class="+ topic/ph hi-d/i ">2</i>)</p>
+                        <p id="2NbheJ" class="- topic/p ">AFFARS <xref href="5315_404_4.dita" class="- topic/xref "/>(c)(2)(C)(<i class="+ topic/ph hi-d/i ">2</i>)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154044c2C290" class="- topic/p ">Approves the use of the alternate structured approach for Profit (see DFARS 215.404-73).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="SGVy09" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="LKgsuW" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="r2odvt" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BAbwnh" class="- topic/p ">35</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CWe0TU" class="- topic/p ">DFARS 215.407-3(b)(i)</p>
+                        <p id="sjWRCk" class="- topic/p ">AFFARS <xref href="5315_407_3.dita" class="- topic/xref "/>(b)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154073bi" class="- topic/p ">Waives on a case-by-case basis, the use of forward pricing rate agreement (FPRA) rates when such rates are available.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FA495S" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qK6e9A" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="WA95Hr" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="t7qiSx" class="- topic/p ">36</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="5wNRb5" class="- topic/p ">DFARS PGI 215.407-4(c)(2)(B)</p>
+                        <p id="Nuh4uN" class="- topic/p ">AFFARS <xref href="5315_407_4.dita" class="- topic/xref "/>(c)(2)(B)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154074c2B" class="- topic/p ">Requests an overhead should-cost review for a contractor business unit that does not meet the criteria found in DFARS PGI 215.407-4(c)(2)(A).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mi8CDG" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rRwzqg" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="phizUl" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="DGgHaO" class="- topic/p ">37</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QLTXht" class="- topic/p ">DFARS 215.408(2)(i)(A)<ph id="M0sRhx" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(2)</u>
+                           </ph>
+                        </p>
+                        <p id="O2VLql" class="- topic/p ">
+                           <ph id="a5iYtQ" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">DFARS 225.870-4(c)(2)(ii)</u>
+                           </ph>
+                        </p>
+                        <p id="g4lvJj" class="- topic/p ">AFFARS <xref href="5315_408.dita" class="- topic/xref "/>(2)(i)(A)<ph id="21erxa" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(2)</u>
+                           </ph>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154085iB" class="- topic/p ">Approve determination (when contracting with the Canadian Commercial Corporation) that data other than certified cost or pricing data are needed in order to determine that the price is fair and reasonable.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="LDDxVe" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="onBTtt" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vfQKbX" class="- topic/p ">Yes, no lower than two levels above the Contracting Officer</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="tR3QvX" class="- topic/p ">38</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DfOLoY" class="- topic/p ">DFARS 215.408(2)(ii)(A)(2)</p>
+                        <p id="ThVhDD" class="- topic/p ">DFARS 225.870-4(c)(2)(ii)</p>
+                        <p id="uaEvG5" class="- topic/p ">AFFARS <xref href="5315_408.dita" class="- topic/xref "/>(2)(ii)(A)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53154085iiA2" class="- topic/p ">Approve determination (when contracting with the Canadian Commercial Corporation) that it is reasonably certain that data other than certified cost or pricing data will be needed in order to determine that the price of modifications is fair and reasonable.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="F4e2n1" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rDEPg7" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ILEw2p" class="- topic/p ">Yes, no lower than two levels above the Contracting Officer</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="GlbI3Y" class="- topic/p ">39</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="voM8OE" class="- topic/p ">FAR 16.206-3(d)</p>
+                        <p id="Kqyid0" class="- topic/p ">AFFARS <xref href="5316_206_3.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53162063d" class="- topic/p ">Approves the use of a fixed-ceiling-price contract with retroactive price redetermination.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="e8z9ES" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rejBc4" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="T8b6pS" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Lqzpsk" class="- topic/p ">40</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="a63ZdR" class="- topic/p ">FAR 16.301-</p>
+                        <p id="wngsiR" class="- topic/p ">3(a)(2)</p>
+                        <p id="ZqhXJW" class="- topic/p ">DFARS 216.301-3(2)</p>
+                        <p id="zm2yRz" class="- topic/p ">AFFARS <xref href="5316_301_3.dita" class="- topic/xref "/>(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="P6EpZY" class="- topic/p ">Approves the use of a cost-reimbursement contract in excess of $25M</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gIX0Ch" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="BaGbv1" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="de87ZX" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="PhJia1" class="- topic/p ">41</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rEvlLA" class="- topic/p ">FAR 16.401(d)</p>
+                        <p id="rVnfxX" class="- topic/p ">DFARS 216.401(d)(i)</p>
+                        <p id="8F5e8h" class="- topic/p ">AFFARS <xref href="5316_401.dita" class="- topic/xref "/>(d)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5316401d" class="- topic/p ">Approves D&amp;F to justify that the use of an incentive or award-fee contract, other than a cost-reimbursement incentive- or award fee contract in excess of $25 million, is in the best interest of the government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="44mWHZ" class="- topic/p ">** No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="hmDvLT" class="- topic/p ">Yes, for incentive</p>
+                        <p id="aBs9lb" class="- topic/p ">Yes, for award fee -- not further delegable</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="prL9ut" class="- topic/p ">Yes, for incentive -- one level above the CO</p>
+                        <p id="WLt64D" class="- topic/p ">No, for award fee</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="2DfISz" class="- topic/p ">42</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="EwHWon" class="- topic/p ">FAR 16.401(d)</p>
+                        <p id="48Z92v" class="- topic/p ">DFARS 216.401(d)(ii)</p>
+                        <p id="uBkw4L" class="- topic/p ">AFFARS <xref href="5316_401.dita" class="- topic/xref "/>(d)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="IPZnSW" class="- topic/p ">Approves D&amp;F to justify that the use of a cost reimbursement incentive or award-fee contract</p>
+                        <p id="XZxbBf" class="- topic/p ">in excess of $25M is in the best interest of the government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QaNV1S" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FWZ5iy" class="- topic/p ">Yes, for cost-plus-incentive-fee</p>
+                        <p id="EygUcI" class="- topic/p ">Yes, for cost-plus-award-fee (not further delegable)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Bwg7sp" class="- topic/p ">Yes, for cost-plus-incentive-fee</p>
+                        <p id="1aVUD9" class="- topic/p ">--one level above the CO</p>
+                        <p id="phAEzy" class="- topic/p ">No, for cost-plus-award-fee</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="4oaPYZ" class="- topic/p ">43</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CHhnJu" class="- topic/p ">AFFARS <xref href="5316_401.dita" class="- topic/xref "/>(e)(3)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5316401e3i" class="- topic/p ">For Operational and Enterprise Contracting, the HCA will designate the Fee Determining Official. The PEO is the Fee Determining Official for the PEO’s assigned programs. The PEO or HCA for Operational and Enterprise Contracting may designate this responsibility on an individual contract or class basis. This designation may be made by name, position, or function, without limitation.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QOQyaO" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="plbUTR" class="- topic/p ">Yes, for Operational and Enterprise Contracting</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FYwPmy" class="- topic/p ">Yes, for Operational and Enterprise Contracting</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="swMSRT" class="- topic/p ">44</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UCwltv" class="- topic/p ">DFARS 216.405-2(1)</p>
+                        <p id="iwBUv9" class="- topic/p ">AFFARS <xref href="5316_405_2.dita" class="- topic/xref "/>(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p531640521" class="- topic/p ">Approves setting the percentage of award fee available for the final evaluation below 40 percent if the contracting officer determines that a lower percentage is appropriate.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iTPQwf" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uMdYmz" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6OHGzG" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="RDBnmr" class="- topic/p ">45</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="x4wTsR" class="- topic/p ">FAR 16.601(d)<ph id="Jiq8h3" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(1)(ii)</u>
+                           </ph>
+                        </p>
+                        <p id="mB4DHr" class="- topic/p ">DFARS 216.601(d)<ph id="zGGdvs" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(1)(A)(2)</u>
+                           </ph>
+                        </p>
+                        <p id="ZDdZ6Z" class="- topic/p ">AFFARS <xref href="5316_601.dita" class="- topic/xref "/>(d)(i)(A)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5316601d1A2" class="- topic/p ">Approves the D&amp;F for a T&amp;M/LH contract or order if the base period plus any option period exceeds three years.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZSRd0V" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wONESB" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NHQDMy" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="GxX2Sk" class="- topic/p ">46</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="B8w6we" class="- topic/p ">FAR 16.603-2(c)(3)</p>
+                        <p id="BBN0yt" class="- topic/p ">AFFARS <xref href="5316_603_2.dita" class="- topic/xref "/>(c)(3)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53166032c3" class="- topic/p ">Approves the determination of a reasonable price or fee if the CO &amp; contractor fail to reach agreement.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ObSPxm" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="19HpwW" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="bYJxje" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="1LNZIM" class="- topic/p ">47</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mnN2pr" class="- topic/p ">FAR 16.603-3</p>
+                        <p id="dPsBTU" class="- topic/p ">AFFARS <xref href="5316_603_3.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53166033" class="- topic/p ">Determines a letter contract may be used if no other contract type is suitable.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CkLn7U" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="U0EX9r" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="r4pkVx" class="- topic/p ">Yes, below $50M but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="EkKLtq" class="- topic/p ">48</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JoI4FO" class="- topic/p ">FAR 17.106-3(f)</p>
+                        <p id="YmKq0E" class="- topic/p ">AFFARS <xref href="5317_106_3.dita" class="- topic/xref "/>(f)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53171063f" class="- topic/p ">Authorizes the use of a solicitation requesting only multi-year prices, provided that dual proposals are not necessary to meet the objectives in FAR 17.105-2.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VzYes2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nFXmxt" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3gKc3K" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="4UhQ1z" class="- topic/p ">49</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DD9kMM" class="- topic/p ">FAR 17.106-3(g)</p>
+                        <p id="j1im3s" class="- topic/p ">AFFARS <xref href="5317_106_3.dita" class="- topic/xref "/>(g)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53171063g" class="- topic/p ">Approves the use of variable unit prices on multi-year contracts provided that, for competitive proposals, there is a valid method of evaluation.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="XXcE9j" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iCpUbd" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="I4TCpj" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="aFAF4S" class="- topic/p ">50</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="utKGQ6" class="- topic/p ">DFARS 217.172(f)(2)</p>
+                        <p id="Kv9JYk" class="- topic/p ">AFFARS <xref href="5317_172.dita" class="- topic/xref "/>(f)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5317172e2" class="- topic/p ">Determines the conditions required by DFARS 217.172(h)(2)(i)-(vii) will be met by a multi-year contract.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oXZYqW" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="5AAOr5" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CSwjai" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="WocQ9A" class="- topic/p ">51</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FA84Jn" class="- topic/p ">DFARS 217.174(b)</p>
+                        <p id="jsklEJ" class="- topic/p ">AFFARS 5317.174(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5317174b" class="- topic/p ">Determines, on the basis of a business case analysis, that the proposed purchase of electricity from sources of renewable energy under such contract is cost effective; and it would not be possible to purchase electricity from the source in an economical manner without the use of a contract for a period in excess of five years.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="bLimqS" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="cMeaVn" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="KrvKIX" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BECNgQ" class="- topic/p ">52</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="BarPuw" class="- topic/p ">FAR 17.703(e)</p>
+                        <p id="AoagzO" class="- topic/p ">AFFARS 5317.703(e)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mATHJr" class="- topic/p ">Determine in writing that it is necessary in the interest of DoD to acquire supplies and services through the nondefense agency during the fiscal year, absent certification required by 17.703(a).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="sDERXe" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NGbqss" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="WVDkOn" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="svc98K" class="- topic/p ">53</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3oqOK5" class="- topic/p ">DFARS 217.7404(a)(1)(iii)</p>
+                        <p id="oZhHSr" class="- topic/p ">DFARS 217.7404-1</p>
+                        <p id="TvPeUD" class="- topic/p ">AFFARS <xref href="5317_7404.dita" class="- topic/xref "/>(a)(1)(iii)</p>
+                        <p id="KnWzof" class="- topic/p ">AFFARS <xref href="5317_7404_1.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p531774041" class="- topic/p ">Approves Undefinitized Contract Actions (UCA), to include Foreign Military Sales.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iWTWSB" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="adKEwc" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pqi5ok" class="- topic/p ">Yes, below $50M but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="b8wTrh" class="- topic/p ">54</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QdpIzI" class="- topic/p ">DFARS 217.7404(b)(2)</p>
+                        <p id="Xd8PCw" class="- topic/p ">DFARS 252.217-7027(c)</p>
+                        <p id="Cq3Rhm" class="- topic/p ">AFFARS <xref href="5317_7404.dita" class="- topic/xref "/>(b)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rbRxjY" class="- topic/p ">Approves unilateral definitizations by the Contracting Officer (in writing).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="5j07c5" class="- topic/p ">Yes, for UCAs with a value greater than $50M</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="eze6t8" class="- topic/p ">Yes, for UCAs with a value of $50M or below</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VgUTDu" class="- topic/p ">Yes, for UCAs with a value of $50M or below but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="JtkxpG" class="- topic/p ">55</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AJMrsX" class="- topic/p ">DFARS 217.7404-3(a)(1)</p>
+                        <p id="i8PWpN" class="- topic/p ">AFFARS <xref href="5317_7404_3.dita" class="- topic/xref "/>(a)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="emMsS4" class="- topic/p ">Determines in writing that extending definitization beyond an additional 90 days is in the best interest of the Government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Aq0I7K" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZG8dkI" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6pVAFy" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="9Nt2u4" class="- topic/p ">56</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YZb5Nk" class="- topic/p ">DFARS PGI 217.7504(4)(ii)</p>
+                        <p id="9e1c59" class="- topic/p ">AFFARS <xref href="5317_7504.dita" class="- topic/xref "/>(4)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p531775044ii" class="- topic/p ">Authorizes reverse engineering.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fRuQ0I" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NftLBr" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AP2NjU" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="002Emm" class="- topic/p ">57</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="kwrNz4" class="- topic/p ">DFARS 217.7505(b)</p>
+                        <p id="2WatUt" class="- topic/p ">AFFARS 5317.7505(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ktxYCM" class="- topic/p ">Approves Contracting Officer certification for a replenishment part price increase that increased by 25 percent or more over the most recent 12-month period.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1kJxoo" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="4Hua8k" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="OGxicD" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BjCTyf" class="- topic/p ">58</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nHDBx8" class="- topic/p ">FAR 18.125</p>
+                        <p id="IeLBII" class="- topic/p ">AFFARS <xref href="5318_125.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5318125" class="- topic/p ">Determines that the contracting process may continue after GAO has received a protest (See FAR 33.104(b) and (c)).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="unKzAC" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gioPCd" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="SjL3qV" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="knvBWs" class="- topic/p ">59</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="l2qvBQ" class="- topic/p ">FAR 18.2</p>
+                        <p id="KDenTZ" class="- topic/p ">DFARS 218.271</p>
+                        <p id="mrpwjp" class="- topic/p ">AFFARS <xref href="5318_201.dita" class="- topic/xref "/>
+                           <ph id="igZjJH" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(b)</u>
+                           </ph>
+                        </p>
+                        <p id="LjoCV1" class="- topic/p ">FAR 13.201(g)(1)</p>
+                        <p id="5TIe8W" class="- topic/p ">AFFARS <xref href="5313_201.dita" class="- topic/xref "/>(g)(1)</p>
+                        <p id="SbXeNE" class="- topic/p ">FAR 12.102(f)<ph id="p2B4TV" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(1)</u>
+                           </ph>
+                        </p>
+                        <p id="U7lGEC" class="- topic/p ">FAR 2.101, paragraph (3)</p>
+                        <p id="bC4yQp" class="- topic/p ">FAR 2.101</p>
+                        <p id="XHAR3F" class="- topic/p ">FAR 18.201</p>
+                        <p id="KJrhAX" class="- topic/p ">DFARS 218.201 Class Deviation 2018-O0018</p>
+                        <p id="yNcaBE" class="- topic/p ">AFFARS <xref href="5318_201.dita" class="- topic/xref "/>(c)</p>
+                        <p id="rlZq6C" class="- topic/p ">FAR 13.500(c)(1)</p>
+                        <p id="rOoet7" class="- topic/p ">AFFARS <xref href="5313_500.dita" class="- topic/xref "/>(c)(1)</p>
+                        <p id="WpmKX9" class="- topic/p ">DFARS 211.274-2(b)(1)</p>
+                        <p id="Erh2Qi" class="- topic/p ">AFFARS <xref href="5311_274_2.dita" class="- topic/xref "/>(b)(1)</p>
+                        <p id="bVhWtO" class="- topic/p ">AFFARS <xref href="5312_102.dita" class="- topic/xref "/>(f)(1)</p>
+                        <p id="W3pJsB" class="- topic/p ">DFARS 215.371-4(a)(2)</p>
+                        <p id="DFbrHn" class="- topic/p ">AFFARS <xref href="5315_371_4.dita" class="- topic/xref "/>(a)(2)</p>
+                        <p id="jELUWa" class="- topic/p ">DFARS 216.601(d)(i)(A)(3)</p>
+                        <p id="OXON71" class="- topic/p ">AFFARS <xref href="5316_601.dita" class="- topic/xref "/>(d)(i)(A)(3)</p>
+                        <p id="285ZQQ" class="- topic/p ">
+                           <ph id="kDpbZJ" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">DFARS 218.201(2)</u>
+                           </ph>
+                        </p>
+                        <p id="J0A2hZ" class="- topic/p ">AFFARS <xref href="5318_201.dita" class="- topic/xref "/>(c)(2)</p>
+                        <p id="i0iwXk" class="- topic/p ">
+                           <ph id="jN3n35" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">DFARS 218.202</u>
+                           </ph>
+                        </p>
+                        <p id="EVGpKt" class="- topic/p ">AFFARS <xref href="5318_202.dita" class="- topic/xref "/>
+                        </p>
+                        <p id="pWZNmq" class="- topic/p ">AFFARS 5318.271</p>
+                        <p id="WbfRgW" class="- topic/p ">AFFARS 5318.271(S-90)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5313_500_c_1" class="- topic/p ">Determines that micro-purchases and simplified acquisitions of supplies or services (or the supplies or services themselves as applicable) are to be used in support of a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate the provision of international disaster assistance; or to support response to an emergency or major disaster.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2P1e4j" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0n8KTS" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Vd54ph" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BlsBRt" class="- topic/p ">60</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="KRhV3D" class="- topic/p ">FAR 19.201(b)</p>
+                        <p id="wcESOx" class="- topic/p ">AFFARS <xref href="5319_201.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5319201c" class="- topic/p ">Implements small business programs within their activities, achieve program goals, and ensure contracting personnel maintain knowledge of program requirements.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iVia2s" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="F0DGMl" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="5LXGrH" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="YDYq6L" class="- topic/p ">61</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oQ8xxS" class="- topic/p ">DFARS 219.201(c)(8)</p>
+                        <p id="6Okjqe" class="- topic/p ">AFFARS <xref href="5319_201.dita" class="- topic/xref "/>(c)(8)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5319201d8" class="- topic/p ">Assigns small business technical advisors to perform this function in accordance with DFARS 219.201(c)(8).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Wp3BLb" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="cL1Dly" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="IDgpro" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="jCwtC9" class="- topic/p ">62</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gfBRXz" class="- topic/p ">FAR 19.505(b), (c), and (d)</p>
+                        <p id="c3IABC" class="- topic/p ">DFARS 219.505(b)</p>
+                        <p id="ja2XEJ" class="- topic/p ">AFFARS 5319.505(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5319505b" class="- topic/p ">Renders a decision regarding the CO’s rejection of an SBA recommendation.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NqcwPw" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Fagffk" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZygwjR" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Jf9vUG" class="- topic/p ">63</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2gpPBg" class="- topic/p ">FAR 19.1305(d)</p>
+                        <p id="eWwiah" class="- topic/p ">AFFARS <xref href="5319_1305.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53191305d" class="- topic/p ">Determines not to suspend action on the acquisition because urgent and compelling circumstances exist.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xleZZA" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="MrmiRJ" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="f1p6Pk" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="XvcoOS" class="- topic/p ">64</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0kVpu6" class="- topic/p ">FAR 19.1405(d)</p>
+                        <p id="3UiJvT" class="- topic/p ">AFFARS <xref href="5319_1405.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53191405d" class="- topic/p ">Determines not to suspend action. Replies to SBA after receipt of a formal appeal from SBA concerning rejection of a set-aside for Service-disabled Veteran-owned Small Business.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gz82jD" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="jA5fZQ" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fCjnyY" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="LfrfmA" class="- topic/p ">65</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nOssHY" class="- topic/p ">FAR 19.1505(g)(3)</p>
+                        <p id="rhyjk0fo" class="- topic/p ">AFFARS <xref href="5319_1505.dita#AFFARS_5319_1505"
+                                 outputclass="fm:TEXT"
+                                 class="- topic/xref ">5319.1505 Set-aside Procedures</xref>(g)(3)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qUvAyo" class="- topic/p ">Determines not to suspend action on the acquisition because urgent and compelling circumstances exist.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mlHovA" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AFWvvm" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nLOfmA" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="zCLeUL" class="- topic/p ">66</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Hy4zOI" class="- topic/p ">FAR 22.101-1(e)</p>
+                        <p id="xkXdDK" class="- topic/p ">AFFARS <xref href="5322_101_1.dita" class="- topic/xref "/>(e)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53221011e" class="- topic/p ">Designates programs for contractors to notify Government of actual or potential labor disputes.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="H6VvJl" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vBBRBG" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2lEVSB" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="orFrto" class="- topic/p ">67</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VDY8OV" class="- topic/p ">DFARS 222.101-3-70<ph id="ZmSO6A" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">(b)</u>
+                           </ph>
+                        </p>
+                        <p id="Nme6C5" class="- topic/p ">PGI 222.101-3-70(b)(ii)</p>
+                        <p id="YZwIo4" class="- topic/p ">AFFARS <xref href="5322_101_3_70.dita" class="- topic/xref "/>(b)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5322101370bii" class="- topic/p ">Submits impact reports on labor disputes to agency head when sufficient urgency warrants the attention of the agency head or when specifically requested.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Mjipu6" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fyAdaL" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZtUqds" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="64nx7V" class="- topic/p ">68</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JpuAFJ" class="- topic/p ">FAR 22.406-13</p>
+                        <p id="M27I8m" class="- topic/p ">DFARS 222.406-13</p>
+                        <p id="KKMXLD" class="- topic/p ">AFFARS <xref href="5322_406_13.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p532240613" class="- topic/p ">For construction contracts, submits Semiannual Enforcement Reports to the labor advisor.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iF7Qop" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gKXmMR" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QH7XJP" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="jgibUC" class="- topic/p ">69</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zIJRMK" class="- topic/p ">FAR 22.805(a)(8)</p>
+                        <p id="5V477v" class="- topic/p ">AFFARS <xref href="5322_805.dita" class="- topic/xref "/>(a)(8)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5322805a8" class="- topic/p ">Approves an urgent or critical award, without pre-award clearance from the Office of Federal Contract Compliance Programs (OFCCP), if OFCCP cannot complete the evaluation by required date. Applies for contracts/subcontracts $10M or more excluding construction.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="yguMWc" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="BtCEfT" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tbbBgZ" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="VgKvF3" class="- topic/p ">70</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uztVLL" class="- topic/p ">FAR 22.1802(d)</p>
+                        <p id="GddMhq" class="- topic/p ">AFFARS <xref href="5322_1802.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53221802d" class="- topic/p ">Waives the E-Verify requirement for a contract or subcontract or a class of contracts or subcontracts, either temporarily or for the period of performance.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="8Co4w2" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UsapOi" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JEExKB" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="FVMbUT" class="- topic/p ">71</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ncx2xB" class="- topic/p ">DFARS PGI 223.370-4(1)(i)(A)(2)</p>
+                        <p id="Ikxxwz" class="- topic/p ">AFFARS <xref href="5323_370_4.dita" class="- topic/xref "/>(1)(i)(A)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p532337041iA2" class="- topic/p ">Waives the mandatory requirements for safety precautions for ammunition and explosives.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rHGd9S" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="llbJL0" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3YuSiL" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="dAtAsT" class="- topic/p ">72</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CreQJh" class="- topic/p ">FAR 25.103(b)(2)(i)</p>
+                        <p id="gj51mD" class="- topic/p ">DFARS 225.103</p>
+                        <p id="G4UtFS" class="- topic/p ">AFFARS <xref href="5325_103.dita" class="- topic/xref "/>(b)</p>
+                        <p id="dcdNWs" class="- topic/p ">AFFARS <xref href="MP5325.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_mp5325103a" class="- topic/p ">Approves determination that an article/material/supply is not mined, produced, or manufactured in the United States in sufficient quantities of satisfactory quality.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fVXIWA" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="78MEX4" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="t6V4IT" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="jPqW1j" class="- topic/p ">73</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="7eGkJT" class="- topic/p ">DFARS 225.103(a)(ii)(B)(2)</p>
+                        <p id="Ayfhl8" class="- topic/p ">AFFARS <xref href="5325_103.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oL9S8s" class="- topic/p ">Approves determination for a public interest exception, valued between the simplified acquisition threshold and $1.5M, for end products that are substantially transformed in the United States.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JmHgkY" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oWpibn" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1zOqMc" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="pbjKTd" class="- topic/p ">74</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3Acj6T" class="- topic/p ">DFARS 225.103(b)(ii)(C)</p>
+                        <p id="aQLPaq" class="- topic/p ">AFFARS <xref href="5325_103.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0MIYUN" class="- topic/p ">Approves determination for article/material/supply, for $1.5M or more, not domestically available and award is to be made on other than a qualifying country or eligible end product.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="LGmHIc" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zb6cdK" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YVz0R3" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="BLbJtQ" class="- topic/p ">75</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="L7WEbA" class="- topic/p ">FAR 25.202(a)(2)</p>
+                        <p id="Gx4PF5" class="- topic/p ">DFARS 225-202(a)(2)</p>
+                        <p id="5gSvuo" class="- topic/p ">AFFARS <xref href="5325_202.dita" class="- topic/xref "/>(a)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5325202a2" class="- topic/p ">Approves non-availability determination for domestic construction material.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2YuStG" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="BrgXfq" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="IlDeT2" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="bZ1Kud" class="- topic/p ">76</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wwgDvZ" class="- topic/p ">DFARS 225.403(c)(ii)(A)</p>
+                        <p id="ZCvVGH" class="- topic/p ">AFFARS <xref href="5325_403.dita" class="- topic/xref "/>(c)(ii)(A)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5325403ciiA" class="- topic/p ">Approves a national interest waiver for a purchase by an overseas purchasing activity if the product is critical for the support of U.S. forces stationed abroad.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="GoGbaL" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DTSwTi" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="GOKZ6G" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Ddhdx6" class="- topic/p ">77</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DoT8p1" class="- topic/p ">FAR 25.603(a)(1)(i)</p>
+                        <p id="RkpU9h" class="- topic/p ">AFFARS <xref href="5325_603.dita" class="- topic/xref "/>(a)(1)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5325603A1i" class="- topic/p ">Approves Non-availability Determination (American Recovery and Reinvestment Act – Buy American Act – Construction Materials).</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QFkJ0W" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zecGcV" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pn2PMo" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="XTYMea" class="- topic/p ">78</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="O6bmfr" class="- topic/p ">DFARS 225.7008(a)(2)</p>
+                        <p id="HHsmbX" class="- topic/p ">AFFARS <xref href="5325_7008.dita" class="- topic/xref "/>(a)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53257008a2" class="- topic/p ">Waives restrictions on certain foreign purchases under <xref format="html"
+                                 href="http://www4.law.cornell.edu/uscode/html/uscode10/usc_sec_10_00002534----000-.html"
+                                 scope="external"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">10 U.S.C. 2534(a)</u>
+                           </xref>.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vupE2s" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="SRbafM" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Qxs1ML" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="DQuM19" class="- topic/p ">79</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="OAVItF" class="- topic/p ">DFARS 225.7703-2(b)(2)(i)</p>
+                        <p id="gNFTAz" class="- topic/p ">AFFARS <xref href="5325_7703_2.dita" class="- topic/xref "/>(b)(2)(i)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TTg1HI" class="- topic/p ">Determination requirements for products or services not limited to use by the military forces, police, or other security personnel of Afghanistan (D&amp;F below $93M)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YKyOJg" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="7sOHSd" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vrfJLz" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="lsOYDs" class="- topic/p ">80</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FHbvtL" class="- topic/p ">FAR 28.105</p>
+                        <p id="dlUnFs" class="- topic/p ">AFFARS <xref href="5328_105.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5328105" class="- topic/p ">Approves using other types of bonds when acquiring particular supplies or services.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Qy9dCf" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="bCC7pq" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RmsjDn" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="IxHha9" class="- topic/p ">81</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="D2xRFn" class="- topic/p ">FAR 28.106-2(a)</p>
+                        <p id="6BFfXC" class="- topic/p ">AFFARS <xref href="5328_106_2.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53281062a" class="- topic/p ">Approves the use of a new surety bond during the performance of the contract.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Hzo2HQ" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="2298Vn" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="KMp5Ca" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="UvdA95" class="- topic/p ">82</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iM6XH7" class="- topic/p ">DFARS 228.311-1</p>
+                        <p id="ag4eFS" class="- topic/p ">AFFARS <xref href="5328_311_1.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53283111" class="- topic/p ">Waives the requirement for use of FAR clause 52.228-7, Insurance -- Liability to Third Persons.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="bIN0D2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Tf0vlO" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1pcdTn" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="PKHDDp" class="- topic/p ">83</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="3hqyH1" class="- topic/p ">DFARS 228.370(a)(2)</p>
+                        <p id="2FAKlr" class="- topic/p ">AFFARS <xref href="5328_370.dita" class="- topic/xref "/>(a)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5328370a2" class="- topic/p ">Disallows the contractor to buy insurance for war-hazard losses. If so, the CO shall insert the clause at DFARS 252.228-7000.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="HsvX4o" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FWGQfT" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ogl5y8" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="hLJA31" class="- topic/p ">84</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RiQAay" class="- topic/p ">
+                           <xref format="pdf"
+                                 href="http://www.acq.osd.mil/dpap/policy/policyvault/USA001350-11-DPAP.pdf"
+                                 scope="external"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">Class Deviation 2011-O0006</u>
+                           </xref>
+                        </p>
+                        <p id="fDaGRq" class="- topic/p ">AFFARS <xref href="PART_5331.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5331" class="- topic/p ">Waives the requirements of FAR 31.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0ZfOGp" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="FZCXtB" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YQZyzh" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="cTgrqr" class="- topic/p ">85</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="HZS5RG" class="- topic/p ">
+                           <xref format="pdf"
+                                 href="http://www.acq.osd.mil/dpap/policy/policyvault/USA001350-11-DPAP.pdf"
+                                 scope="external"
+                                 class="- topic/xref ">
+                              <u class="+ topic/ph hi-d/u ">Class Deviation 2011-O0006</u>
+                           </xref>
+                        </p>
+                        <p id="zORB9F" class="- topic/p ">AFFARS <xref href="PART_5331.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="e2jzgw" class="- topic/p ">Determine that incurrence of the Contribution in Aid of Construction (CIAC) tax is necessary to achieve the most beneficial business case for the Government and allowing the CIAC tax will result in significant benefits to the Government that outweigh the cost of allowing the tax.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="G2YFZ8" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="o0ejAm" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="irMXF2" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="r6HGxT" class="- topic/p ">86</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="jUDwyX" class="- topic/p ">FAR 32.202-1(d)</p>
+                        <p id="f1nmQV" class="- topic/p ">FAR 32.501-2(a)(3)</p>
+                        <p id="SIBjTE" class="- topic/p ">AFFARS <xref href="5332_202_1.dita" class="- topic/xref "/>(d)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53322021d" class="- topic/p ">Approves unusual contract financing.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6ZdxmZ" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="g7WsUI" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="69wcQo" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="mPtRsG" class="- topic/p ">87</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ERHzWx" class="- topic/p ">DFARS 232.901(1)(i)(C)(ii)</p>
+                        <p id="UDp7Wu" class="- topic/p ">AFFARS <xref href="5332_901.dita" class="- topic/xref "/>(1)(i)(C)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53329011icii" class="- topic/p ">Determines that conditions exist that limit normal business operations.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AzG7LA" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Y8jOph" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uzDwZY" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="4iEinU" class="- topic/p ">88</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iBtCL5" class="- topic/p ">FAR 33.102(b)(3)(ii)</p>
+                        <p id="B1CRZo" class="- topic/p ">AFFARS <xref href="5333_102.dita" class="- topic/xref "/>(b)(3)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5333102b3ii" class="- topic/p ">At the request of the contractor, reviews agency records associated with a request for reimbursement of protest costs by the Government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dOVhc3" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="J8ToZy" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TE5TDl" class="- topic/p ">Yes, but no lower than the COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="xxsBUW" class="- topic/p ">89</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DFXQig" class="- topic/p ">FAR 33.104(b)(1) or (c)(2)</p>
+                        <p id="NMiCFy" class="- topic/p ">AFFARS <xref href="5333_104.dita" class="- topic/xref "/>(b)(1) or (c)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5333104c2" class="- topic/p ">Authorizes contract award notwithstanding a GAO protest before award, or continued contract performance notwithstanding a GAO protest after award.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dwbZqk" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DK5ZAV" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fm8KsZ" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="c8FtrM" class="- topic/p ">90</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gDJVjr" class="- topic/p ">FAR 33.104(g)</p>
+                        <p id="5mErkP" class="- topic/p ">AFFARS <xref href="5333_104.dita" class="- topic/xref "/>(g)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5333104g" class="- topic/p ">Reports to the GAO why their recommendations have not been followed by the agency not later than 5 days after the expiration of the 60-day response period.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zZSaEt" class="- topic/p ">** Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Vp82C2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="npJTPh" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="zs3RS6" class="- topic/p ">91</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="EVJZvA" class="- topic/p ">DFARS 233.215(3)</p>
+                        <p id="Be28nA" class="- topic/p ">AFFARS <xref href="5333_215.dita" class="- topic/xref "/>(3)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53332153" class="- topic/p ">Determines that continued performance is necessary pending resolution of any claim that might arise under or be related to the contract.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="9FN28h" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JDz0cV" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tDUqQm" class="- topic/p ">Yes, at least one level above CO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="TEIwjU" class="- topic/p ">92</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ohXIB6" class="- topic/p ">DFARS 234.7002(d)(4)</p>
+                        <p id="QAHmH5" class="- topic/p ">AFFARS <xref href="5334_7002.dita" class="- topic/xref "/>(d)(4)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="S6OHw5" class="- topic/p ">Determines the information submitted is not sufficient to determine the reasonableness of price for items developed exclusively at private expense.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JfVd3t" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ud2eVN" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TGkKBs" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="Vr9TCk" class="- topic/p ">93</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RpUxJd" class="- topic/p ">DFARS 235.015-70(c) &amp; (d)(3)(ii)</p>
+                        <p id="nlnCtv" class="- topic/p ">AFFARS <xref href="5335_015_70.dita" class="- topic/xref "/>(c) &amp; (d)(3)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p533501570d3ii" class="- topic/p ">Approves special use allowance for research facility acquired by educational institutions.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="BNp52C" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tH3t8W" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="wePdMN" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="XvCLKa" class="- topic/p ">94</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="89TN2I" class="- topic/p ">FAR 36.208</p>
+                        <p id="x01QFJ" class="- topic/p ">AFFARS <xref href="5336_208.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5336208" class="- topic/p ">Approves concurrent performance of firm-fixed-price and other types of construction contracts at the same work site.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xI8IxX" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Dsvxlp" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UpWEPg" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="V1b22O" class="- topic/p ">95</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AwHYFo" class="- topic/p ">FAR 36.213-2(a)</p>
+                        <p id="ZGbm8a" class="- topic/p ">AFFARS <xref href="5336_213_2.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53362132a" class="- topic/p ">Waives the requirement for pre-solicitation notices for proposed construction contracts expected to exceed the SAT.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CtmoDO" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="iIgavV" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Dc9ct3" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="zEQn2c" class="- topic/p ">96</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dQrQwk" class="- topic/p ">DFARS 236.272(b)(1)</p>
+                        <p id="tY0p64" class="- topic/p ">AFFARS <xref href="5336_272.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5336272b" class="- topic/p ">Authorizes the use of prequalification for urgent or complex construction projects.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UYJRaE" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="QOhvrP" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="kX8AVJ" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="lzKIud" class="- topic/p ">97</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dAvsNf" class="- topic/p ">DFARS 236.272(b)(2)</p>
+                        <p id="zIbcZ4" class="- topic/p ">AFFARS <xref href="5336_272.dita" class="- topic/xref "/>(b)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="O7WFav" class="- topic/p ">Approves the prequalification procedures of construction sources.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="TxuO5K" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="F9umXu" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="sNqWTL" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="zaogMR" class="- topic/p ">98</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="eSSB5A" class="- topic/p ">FAR 36.301(b)(3)(vi)</p>
+                        <p id="eHf72O" class="- topic/p ">AFFARS <xref href="5336_301.dita" class="- topic/xref "/>(b)(3)(vi)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5336301b3vi" class="- topic/p ">Establishes other criteria for use of two-phase design-build selection procedures.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="l48De2" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="l45CEc" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="9MkXA8" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="4Tb6Yu" class="- topic/p ">99</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zJHH05" class="- topic/p ">DFARS 236.303-1(a)(4)(i)(B)</p>
+                        <p id="zuiQkZ" class="- topic/p ">AFFARS <xref href="5336_303_1.dita" class="- topic/xref "/>(a)(4)(i)(B)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="7MzVit" class="- topic/p ">Approves determination to allow more than five offerors to submit phase two design-build proposals for acquisitions &gt;$4M.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fRv3Mg" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="sIIYJi" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="xKNf2h" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="c1kkhx" class="- topic/p ">100</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6KGFz6" class="- topic/p ">DFARS 236.570(b)(2)</p>
+                        <p id="NNouhj" class="- topic/p ">AFFARS <xref href="5336_570.dita" class="- topic/xref "/>(b)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5336570b2" class="- topic/p ">Approves use of a separate bid item for mobilization and preparatory work.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VRHjZJ" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="6VBBPx" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="H30vzo" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="1MziJ6" class="- topic/p ">101</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="P2DcKp" class="- topic/p ">FAR 36.602-3</p>
+                        <p id="6Wlrsc" class="- topic/p ">AFFARS <xref href="5336_602_3.dita" class="- topic/xref "/>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53366023" class="- topic/p ">Oversees evaluation board functions for A&amp;E contracts.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="m4lO6w" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="zxjNuT" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="isQ61V" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="rXS9Y0" class="- topic/p ">102</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="k7iEjh" class="- topic/p ">FAR 36.609-1(c)(1)</p>
+                        <p id="FxrEcq" class="- topic/p ">AFFARS <xref href="5336_609_1.dita" class="- topic/xref "/>(c)(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53366091c1" class="- topic/p ">Determines that, in fixed-price A&amp;E contracts, cost limitations are secondary to performance considerations and additional project funding can be expected, if necessary.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="g7jbwf" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JeNVcM" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="PBo0V2" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="2hsDdz" class="- topic/p ">103</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gw4j2D" class="- topic/p ">DFARS 237.104(b)(iii)(A)<i class="+ topic/ph hi-d/i ">(2</i>)</p>
+                        <p id="nCDiCf" class="- topic/p ">AFFARS <xref href="5337_104.dita" class="- topic/xref "/>(b)(iii)(A)(<i class="+ topic/ph hi-d/i ">2</i>)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5337104biiiA2" class="- topic/p ">Approves a proposed personal services contract for services to be provided by individuals outside the U.S. and directly supports defense intelligence components or special operations command. Services must be urgent, cannot be obtained by other means, and are supporting DoD activities or programs outside the U.S.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="a8pyks" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ZomeZN" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="JrbJe5" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="C6DU2H" class="- topic/p ">104</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="fzhvgc" class="- topic/p ">DFARS 237.7401(c)</p>
+                        <p id="zLkGls" class="- topic/p ">AFFARS <xref href="5337_7401.dita" class="- topic/xref "/>(c)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53377401c" class="- topic/p ">Determines the services being acquired under contract with the local government are in DoD’s best interest.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1MA47R" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="b7v0V0" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ggV31B" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="cIc2GC" class="- topic/p ">105</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="vU2qVj" class="- topic/p ">DFARS 239.101(1)</p>
+                        <p id="3djddH" class="- topic/p ">AFFARS <xref href="5339_101.dita" class="- topic/xref "/>(1)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ox2eoO" class="- topic/p ">Determines no commercial items are suitable to meet the agency’s needs for information technology products or services.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pW6VWs" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="q6hag7" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rHFueG" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="VxbHRR" class="- topic/p ">106</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="7ugm1h" class="- topic/p ">
+                           <ph id="QEthEW" class="- topic/ph ">
+                              <u class="+ topic/ph hi-d/u ">FAR 41.202(c)(2)</u>
+                           </ph>
+                        </p>
+                        <p id="tlmT0Y" class="- topic/p ">AFFARS <xref href="5341_202.dita" class="- topic/xref "/>(c)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5341202c2" class="- topic/p ">Approves determination to pay the non-negotiated utility rates due to contract impasse.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="KMXk1J" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qYMaJB" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dF9aQx" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="SdjmlJ" class="- topic/p ">107</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dkEnnb" class="- topic/p ">FAR 41.204(c)(1)(ii)</p>
+                        <p id="3awJye" class="- topic/p ">AFFARS <xref href="5341_204.dita" class="- topic/xref "/>(c)(1)(ii)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5341204c1ii" class="- topic/p ">Determines use of the area-wide contract for utility services is not advantageous to the Government.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pC7TuN" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tYasdH" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="gE0j6I" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="VV3sAL" class="- topic/p ">108</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="DExkLa" class="- topic/p ">FAR 42.202(c)(2)</p>
+                        <p id="2dcrjE" class="- topic/p ">AFFARS <xref href="5342_202.dita" class="- topic/xref "/>(c)(2)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5342202c2" class="- topic/p ">Approves the delegation of additional functions to the CAO.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CoqICX" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Dsw4qY" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="cbNWlt" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="9N49mP" class="- topic/p ">109</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="l6r1yi" class="- topic/p ">DFARS PGI 242.7100(4)</p>
+                        <p id="8VPJPk" class="- topic/p ">AFFARS <xref href="5342_7100.dita" class="- topic/xref "/>(4)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p534271004" class="- topic/p ">Approves the solicitation of voluntary refunds from a contractor.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rYihVC" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="dZ0Ril" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="orEytM" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="lf2DKy" class="- topic/p ">110</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="PI92xj" class="- topic/p ">FAR 45.102(e)</p>
+                        <p id="CQLlKC" class="- topic/p ">AFFARS <xref href="5345_102.dita" class="- topic/xref "/>(e)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5345102e" class="- topic/p ">Determines installation or construction of Government property on contractor-owned real property in such a fashion as to become non-severable is necessary and in the Government’s interest.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="4pwYhR" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="z0L2ul" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="J0AGR8" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="TWmbax" class="- topic/p ">111</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="laG5Ya" class="- topic/p ">DFARS 245.102(4)(ii)(C)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">ii</i>)</p>
+                        <p id="vgvLN1" class="- topic/p ">AFFARS <xref href="5345_102.dita" class="- topic/xref "/>(4)(ii)(C)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">ii</i>)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53451024iiC1ii" class="- topic/p ">Approves a determination and findings concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR part 12 or part 8for an acquisition other than an ACAT I program.)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="UjYAPl" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="nYpHdR" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="AubhAH" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="CYbNFF" class="- topic/p ">112</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="mAloZO" class="- topic/p ">FAR 45.301(f)</p>
+                        <p id="XrR0Zt" class="- topic/p ">AFFARS <xref href="5345_301.dita" class="- topic/xref "/>(f)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p5345301f" class="- topic/p ">Approves use of Government property for commercial use expected to exceed 25 percent of the total use of Government and commercial work performed.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="0JzMFK" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="783aIj" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="lpf9rR" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="31iHJ7" class="- topic/p ">113</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="rjx46m" class="- topic/p ">FAR 48.104-3(a)</p>
+                        <p id="z0TRIk" class="- topic/p ">FAR 48.202</p>
+                        <p id="KspIFx" class="- topic/p ">AFFARS <xref href="5348_104_3.dita" class="- topic/xref "/>(a)</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="p_p53481043a" class="- topic/p ">Determines if the cost of calculating and tracking collateral savings will exceed the benefits to be derived.</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="CxDxIT" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="PC2Z8B" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="syGAs8" class="- topic/p ">Yes, but no lower than COCO</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p id="p_note1" outputclass="Ctr" class="- topic/p ">
+            <b id="NXDYge" class="+ topic/ph hi-d/b ">TABLE 1</b>
+         </p>
+         <p id="RG5Jtt" outputclass="Normal" class="- topic/p ">Authority to enter into, approve, or terminate Grants, Cooperative Agreements, and Other Transactions has been approved as shown below. This authority may be redelegated within the contracting functional chain of responsibility, in writing, under such terms, conditions, and limitations as may be deemed appropriate.</p>
+         <table id="table_bk1_rww_5qd" class="- topic/table ">
+            <tgroup cols="4" class="- topic/tgroup ">
+               <thead class="- topic/thead ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="QmNsuN" class="- topic/p ">
+                           <b id="psB0BD" class="+ topic/ph hi-d/b ">SCO</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="1r4kEJ" class="- topic/p ">
+                           <b id="zdc7Y5" class="+ topic/ph hi-d/b ">Grant Authority</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="w2bhWb" class="- topic/p ">
+                           <b id="0eUgTt" class="+ topic/ph hi-d/b ">Cooperative Agreement Authority</b>
+                        </p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="moeAFN" class="- topic/p ">
+                           <b id="NOTFej" class="+ topic/ph hi-d/b ">Other Transactions Authority</b>
+                        </p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="MmlidU" class="- topic/p ">HQ AFMC/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="VuTPDN" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="ozC1J6" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="oRAjuC" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="XRfUXo" class="- topic/p ">HQ AFRC/A7K</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="hyY9va" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Fit3Pv" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="yJnlvm" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="swHD9l" class="- topic/p ">SMC/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RYqeG4" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="88orW3" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="qgChM5" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="uZommG" class="- topic/p ">HQ AFDW/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YKzgWT" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="h1cQoB" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="XuRUed" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="5aus6j" class="- topic/p ">HQ USAFA/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="tntNdP" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="NgPD0l" class="- topic/p ">Yes</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Zk7tgt" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="TATheH" class="- topic/p ">AFOTEC/A7K</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="RaAGFH" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Dw0e7c" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="9yb282" class="- topic/p ">No</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="wx1d6Q" class="- topic/p ">AFRCO/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="H2ZtZC" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="Haa16U" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="uadLIT" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <p id="pSng5v" class="- topic/p ">SpRCO/PK</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="STLV2X" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="YEqI4n" class="- topic/p ">No</p>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <p id="pnxRiT" class="- topic/p ">Yes</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p id="Ka5QLt" outputclass="Ctr" class="- topic/p ">
+            <b id="1Wq7RR" class="+ topic/ph hi-d/b ">TABLE 2</b>
+         </p>
+      </body>
+   </topic>
+</dita>

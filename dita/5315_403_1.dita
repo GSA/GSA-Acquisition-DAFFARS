@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5315_403_1"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title "
+             id="title__Toc76043218"
+             outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5315.403-1</ph> Prohibition on Obtaining Certified Cost or Pricing Data ( 10 U.S.C. 2306a and 41 U.S.C. , Chapter 35 )</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="WHVdjk" outputclass="List1" class="- topic/p ">(b) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
+         <p id="uQsSgl" outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Standards for exceptions from certified cost or pricing data requirements.</i>
+         </p>
+         <p id="tSPsSz" outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Waivers.</i>
+         </p>
+         <p id="DSQOHI" outputclass="List4" class="- topic/p ">(A) Exceptional case TINA waiver. Submit the request for an exceptional case TINA waiver through the SCO to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC</xref> for HCA approval (see <xref href="MP5301_601.dita" class="- topic/xref "/> )). When the waiver is for a subcontractor who has refused to provide cost or pricing data to a prime contractor, the information required must cover both the prime contract and the subcontract. Contracting officers must submit a copy of all signed TINA waivers to HQ AFMC/PKQ via the <xref format="html"
+                  href="http://mailto:AFMC.PK.Workflow-02@us.af.mil"
+                  scope="external"
+                  class="- topic/xref ">HQ AFMC/PK workflow account</xref> within 30 days of signature by the HCA. Submit the request for OUSD(A&amp;S)/DPC approval to use the exceptional circumstances waiver pursuant to <xref format="pdf"
+                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000951-19-DPC.pdf"
+                  scope="external"
+                  class="- topic/xref ">Class Deviation 2019-O0008</xref>, Section 890 Pilot Program to Accelerate Contracting and Pricing Processes, to SAF/AQC with the Subject: "AFFARS 5315.403-1(c)(4)(A) ? Section 890 Pilot Program to Accelerate Contracting and Pricing Processes."</p>
+         <p id="QtoyIP" outputclass="Normal" class="- topic/p "/>
+      </conbody>
+   </concept>
+</dita>

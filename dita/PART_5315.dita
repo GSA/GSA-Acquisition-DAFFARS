@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5315"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5315</ph> - Contracting by Negotiation</title>
+      <body class="- topic/body ">
+         <p id="yKqgTv" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315.aspx"
+                  scope="external"
+                  class="- topic/xref ">AFFARS PART 5315 Knowledge Center</xref>
+         </p>
+         <p id="FYyQAm" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="rtrDVm" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:2 May 2022</i>
+         </p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5315_3.dita#AFFARS_SUBPART_5315_3"
+                        class="- topic/xref ">Subpart 5315.3 - SOURCE SELECTION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_300.dita#AFFARS_5315_300"
+                              class="- topic/xref ">5315.300 Scope of Subpart</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_371_4.dita#AFFARS_5315_371_4"
+                              class="- topic/xref ">5315.371-4 Exceptions</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_371_5.dita#AFFARS_5315_371_5"
+                              class="- topic/xref ">5315.371-5 Waiver</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5315_4.dita#AFFARS_SUBPART_5315_4"
+                        class="- topic/xref ">Subpart 5315.4 - CONTRACT PRICING</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_400.dita#AFFARS_5315_400"
+                              class="- topic/xref ">5315.400 (S-90)</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_403_1.dita#AFFARS_5315_403_1"
+                              class="- topic/xref ">5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data ( 10 U.S.C. 2306a and 41 U.S.C. , Chapter 35 )</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_403_3.dita#AFFARS_5315_403_3"
+                              class="- topic/xref ">5315.403-3 Requiring Data Other Than Certified Cost or Pricing Data</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_403_4.dita#AFFARS_5315_403_4"
+                              class="- topic/xref ">5315.403-4 Requiring Certified Cost or Pricing Data ( 10 U.S.C. 2306a and 41 U.S.C. , Chapter 35 )</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_404_1_90.dita#AFFARS_5315_404_1_90"
+                              class="- topic/xref ">5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_404_2.dita#AFFARS_5315_404_2"
+                              class="- topic/xref ">5315.404-2 Data to Support Proposal Analysis</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_404_4.dita#AFFARS_5315_404_4"
+                              class="- topic/xref ">5315.404-4 Profit</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_404_70_90.dita#AFFARS_5315_404_70_90"
+                              class="- topic/xref ">5315.404-70-90 DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_405.dita#VlMvrI"
+                              class="- topic/xref ">5315.405 5315.405 Price Negotiation</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_406_1.dita#AFFARS_5315_406_1"
+                              class="- topic/xref ">5315.406-1 Prenegotiation Objectives</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_406_3.dita#AFFARS_5315_406_3"
+                              class="- topic/xref ">5315.406-3 Documenting the Negotiation</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_407_3.dita#AFFARS_5315_407_3"
+                              class="- topic/xref ">5315.407-3 Forward Pricing Rate Agreements</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_407_4.dita#AFFARS_5315_407_4"
+                              class="- topic/xref ">5315.407-4 Should-cost Review</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_407_90.dita#AFFARS_5315_407_90"
+                              class="- topic/xref ">5315.407-90 Contract Audit Follow-Up (CAFU)</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_408.dita#AFFARS_5315_408"
+                              class="- topic/xref ">5315.408 Solicitation Provisions and Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5315_6.dita#AFFARS_SUBPART_5315_6"
+                        class="- topic/xref ">Subpart 5315.6 - UNSOLICITED PROPOSALS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5315_606.dita#AFFARS_5315_606"
+                              class="- topic/xref ">5315.606 Agency Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5325_7003_3_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">3.DNADException</ph> DNAD Exception</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p_add1" outputclass="Normal" class="- topic/p ">When a program office concludes that domestically melted or produced specialty metal cannot be procured (as described in DFARS 225.7003-3(b)(5)) to support the production of a particular end item or component, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_03.pdf"
+                  scope="external"
+                  format="pdf"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">DNAD D&amp;F</u>
+            </xref> for specialty metals. The contracting officer must coordinate the effort through the SCO and <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+            </xref> for submission to the SecAF for approval. The SecAF may grant a DNAD for an individual contract if a compliant specialty metal of satisfactory quality and sufficient quantity, and in the required form, cannot be procured as and when needed at a fair and reasonable price. This approval authority is not delegable. A Class DNAD requires the approval of the USD(AT&amp;L).</p>
+      </conbody>
+   </concept>
+</dita>

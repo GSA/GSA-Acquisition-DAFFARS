@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5301"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5301</ph> - Federal Acquisition Regulations System</title>
+      <body class="- topic/body ">
+         <p id="vjhpKV" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx"
+                  scope="external"
+                  class="- topic/xref ">AFFARS PART 5301 Knowledge Center</xref>
+         </p>
+         <p id="YzEXrA" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="gsDsGj" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised:</i>
+            <i class="+ topic/ph hi-d/i ">2</i>
+            <i class="+ topic/ph hi-d/i ">May 2022</i>
+         </p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_1.dita#AFFARS_SUBPART_5301_1"
+                        class="- topic/xref ">Subpart 5301.1 - PURPOSE, AUTHORITY, AND ISSUANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_101.dita#AFFARS_5301_101"
+                              class="- topic/xref ">5301.101 Purpose</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_105_1.dita#AFFARS_5301_105_1"
+                              class="- topic/xref ">5301.105-1 Publication and Code Arrangement</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_170.dita#AFFARS_5301_170"
+                              class="- topic/xref ">5301.170 Peer Reviews</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_2.dita#AFFARS_SUBPART_5301_2"
+                        class="- topic/xref ">Subpart 5301.2 - ADMINISTRATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_201_1.dita#AFFARS_5301_201_1"
+                              class="- topic/xref ">5301.201-1 The Two Councils</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_201_90.dita#AFFARS_5301_201_90"
+                              class="- topic/xref ">5301.201-90 Maintenance of the AFFARS</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_3.dita#AFFARS_SUBPART_5301_3"
+                        class="- topic/xref ">Subpart 5301.3 - AGENCY ACQUISITION REGULATIONS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_301.dita#AFFARS_5301_301"
+                              class="- topic/xref ">5301.301 Policy</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_304.dita#AFFARS_5301_304"
+                              class="- topic/xref ">5301.304 Agency Control and Compliance Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_4.dita#AFFARS_SUBPART_5301_4"
+                        class="- topic/xref ">Subpart 5301.4 - DEVIATIONS FROM THE FAR</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_402.dita#AFFARS_5301_402"
+                              class="- topic/xref ">5301.402 Policy</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_403.dita#AFFARS_5301_403"
+                              class="- topic/xref ">5301.403 Individual Deviations</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_404.dita#AFFARS_5301_404"
+                              class="- topic/xref ">5301.404 Class Deviations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_6.dita#AFFARS_SUBPART_5301_6"
+                        class="- topic/xref ">Subpart 5301.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_601.dita#AFFARS_5301_601"
+                              class="- topic/xref ">5301.601 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_601_90.dita#AFFARS_5301_601_90"
+                              class="- topic/xref ">5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_601_91.dita#AFFARS_5301_601_91"
+                              class="- topic/xref ">5301.601-91 Air Force Contracting Self-Inspection Program</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_602_1.dita#AFFARS_5301_602_1"
+                              class="- topic/xref ">5301.602-1 Authority</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_602_2.dita#AFFARS_5301_602_2"
+                              class="- topic/xref ">5301.602-2 Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_602_3.dita#AFFARS_5301_602_3"
+                              class="- topic/xref ">5301.602-3 Ratification of Unauthorized Commitments</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_603_1.dita#AFFARS_5301_603_1"
+                              class="- topic/xref ">5301.603-1 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_603_2_90.dita#AFFARS_5301_603_2_90"
+                              class="- topic/xref ">5301.603-2-90 Selection</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_603_3.dita#AFFARS_5301_603_3"
+                              class="- topic/xref ">5301.603-3 Appointment</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_670.dita#AFFARS_5301_670"
+                              class="- topic/xref ">5301.670 Appointment of Property Administrators and Plant Clearance Officers</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_7.dita#AFFARS_SUBPART_5301_7"
+                        class="- topic/xref ">Subpart 5301.7 - DETERMINATIONS AND FINDINGS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_707.dita#AFFARS_5301_707"
+                              class="- topic/xref ">5301.707 Signatory Authority</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_90.dita#AFFARS_SUBPART_5301_90"
+                        class="- topic/xref ">Subpart 5301.90 - CLEARANCE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_9000.dita#AFFARS_5301_9000"
+                              class="- topic/xref ">5301.9000 Scope and Definitions</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_9001.dita#AFFARS_5301_9001"
+                              class="- topic/xref ">5301.9001 Policy, Thresholds, and Approvals</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5301_91.dita#AFFARS_SUBPART_5301_91"
+                        class="- topic/xref ">Subpart 5301.91 - OMBUDSMAN PROGRAM</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_9101.dita#AFFARS_5301_9101"
+                              class="- topic/xref ">5301.9101 Purpose</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_9102.dita#AFFARS_5301_9102"
+                              class="- topic/xref ">5301.9102 Policy</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5301_9103.dita#AFFARS_5301_9103"
+                              class="- topic/xref ">5301.9103 Solicitation Provision and Contract Clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5322"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
+      <body class="- topic/body ">
+         <p id="MPfxZZ" outputclass="Normal" class="- topic/p ">
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5322.aspx"
+                  scope="external"
+                  class="- topic/xref ">AFFARS PART 5322 Knowledge Center</xref>
+         </p>
+         <p id="blSkjy" outputclass="Normal" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         </p>
+         <p id="yimYUH" outputclass="Normal" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         </p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_1.dita#AFFARS_SUBPART_5322_1"
+                        class="- topic/xref ">Subpart 5322.1 - BASIC LABOR POLICIES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_101_1.dita#AFFARS_5322_101_1"
+                              class="- topic/xref ">5322.101-1 General</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_101_3_70.dita#AFFARS_5322_101_3_70"
+                              class="- topic/xref ">5322.101-3-70 Impact of Labor Disputes on Defense Programs</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_103_4.dita#AFFARS_5322_103_4"
+                              class="- topic/xref ">5322.103-4 Approvals</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_3.dita#AFFARS_SUBPART_5322_3"
+                        class="- topic/xref ">Subpart 5322.3 - CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_302.dita#AFFARS_5322_302"
+                              class="- topic/xref ">5322.302 Liquidated Damages and Overtime Pay</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_4.dita#AFFARS_SUBPART_5322_4"
+                        class="- topic/xref ">Subpart 5322.4 - LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_406_13.dita#AFFARS_5322_406_13"
+                              class="- topic/xref ">5322.406-13 Semi-annual Enforcement Reports</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_8.dita#AFFARS_SUBPART_5322_8"
+                        class="- topic/xref ">Subpart 5322.8 - EQUAL EMPLOYMENT OPPORTUNITY</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_805.dita#AFFARS_5322_805"
+                              class="- topic/xref ">5322.805 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_18.dita#AFFARS_SUBPART_5322_18"
+                        class="- topic/xref ">Subpart 5322.18 - EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_1802.dita#AFFARS_5322_1802"
+                              class="- topic/xref ">5322.1802 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5322_70.dita#AFFARS_SUBPART_5322_70"
+                        class="- topic/xref ">Subpart 5322.70 - RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="5322_7003.dita#AFFARS_5322_7003"
+                              class="- topic/xref ">5322.7003 Waivers</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

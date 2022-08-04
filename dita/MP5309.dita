@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_MP5309">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">MP5309</ph> -
+Contractor Qualifications</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5309_1.dita#AFFARS_MP5309_1">MP5309.1 — RESPONSIBLE PROSPECTIVE
+      CONTRACTORS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5309_190.dita#AFFARS_MP5309_190">MP5309.190 Air Force Space Contractor Responsibility Watch List (CRWL)</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5309_190_1.dita#AFFARS_5309_190_1" xtrc="MP5309.190-1 CRWL SOLICITATION AND CONTRACT LANGUAGE">MP5309.190-1</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5309_190_2.dita#AFFARS_5309_190_2" xtrc="MP5309.190-2 Processes When a Contractor or Subcontractor is Listed on the CRWL">MP5309.190-2</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5309_190_3.dita#AFFARS_5309_190_3" xtrc="MP5309.190-3 Process for Adding a Contractor or Subcontractor to the CRWL">MP5309.190-3</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5309_190_4.dita#AFFARS_5309_190_4" xtrc="MP5309.190-4 Process for Removing a Contractor or Subcontractor from the CRWL">MP5309.190-4</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
