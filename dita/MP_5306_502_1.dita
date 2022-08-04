@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5306_502_1"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">1.Objectives.</ph> Objectives.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="Normal" class="- topic/p ">The objective of the Air Force (AF) Competition and Commercial Advocacy Program is to promote and support full and open competition and commercial practices to the maximum extent possible. In addition to the requirements at FAR 6.501, Competition and Commercial Advocate(s) must:</p>
-         <p outputclass="List1" class="- topic/p ">1.1. Have extensive qualifications and knowledge of the types of acquisitions of the activity.</p>
-         <p outputclass="List1" class="- topic/p ">1.2. Be in a contracting position, commensurate in grade or rank with the senior level program, product, or laboratory personnel with whom the Advocate interacts.</p>
-         <p id="p__Toc38365625" outputclass="List1" class="- topic/p ">1.3. Have direct access to the MAJCOM/DRU/AFRCO/SMC/SpRCO or Center/Installation commander, as applicable, on matters relating to competition, the acquisition of commercial items and services, and must not have duties or responsibilities inconsistent with Competition and Commercial Advocate duties and responsibilities.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP_5306_502_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">1.Objectives.</ph> Objectives.</title>
+      <conbody>
+         <p outputclass="Normal">The objective of the Air Force (AF) Competition and Commercial Advocacy Program is to promote and support full and open competition and commercial practices to the maximum extent possible. In addition to the requirements at FAR 6.501, Competition and Commercial Advocate(s) must:</p>
+         <p outputclass="List1">1.1. Have extensive qualifications and knowledge of the types of acquisitions of the activity.</p>
+         <p outputclass="List1">1.2. Be in a contracting position, commensurate in grade or rank with the senior level program, product, or laboratory personnel with whom the Advocate interacts.</p>
+         <p id="p__Toc38365625" outputclass="List1">1.3. Have direct access to the MAJCOM/DRU/AFRCO/SMC/SpRCO or Center/Installation commander, as applicable, on matters relating to competition, the acquisition of commercial items and services, and must not have duties or responsibilities inconsistent with Competition and Commercial Advocate duties and responsibilities.</p>
       </conbody>
    </concept>
 </dita>

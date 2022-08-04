@@ -1,37 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5319_201"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5319.201</ph> General Policy</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="xVvUZu" outputclass="List1" class="- topic/p ">(b) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
-         <p id="pCjRBj" outputclass="List1" class="- topic/p ">(c)(8) See <xref href="MP5301_601.dita" class="- topic/xref "/>.</p>
-         <p id="jfOjJk" outputclass="List1" class="- topic/p ">(c)(10)(A) SB specialists review all acquisitions IAW <xref format="html"
-                  href="https://www.acquisition.gov/dfars/part-219-small-business-programs#DFARS-219.201"
-                  scope="external"
-                  class="- topic/xref ">DFARS 219.201(c)(10)(A)</xref> to include task and delivery orders (excluding awards under Phase I and Phase II of the Small Business Innovation Research/Small Business Technology Transfer Programs). SB specialists shall review actions over $10,000, but under the simplified acquisition threshold, when required by the Director, SAF/SB or by written, joint agreement of the SCO and the MAJCOM/DRU/AFRCO/SMC Director of Small Business in accordance with <xref format="html"
-                  href="https://www.acquisition.gov/dfarspgi/pgi-part-219-small-business-programs#DFARS-PGI_PGI_219.201"
-                  scope="external"
-                  class="- topic/xref ">DFARS PGI 219.201(c)(10)(1)</xref>.</p>
-         <p id="whUiUO" outputclass="List4" class="- topic/p ">(B) Document review on the <xref format="pdf"
-                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2579.pdf"
-                  scope="external"
-                  class="- topic/xref ">DD Form 2579</xref>, Small Business Coordination Record. Except for AFMC and SMC, forward a copy of all completed DD Forms 2579 in excess of $1,000,000 to the applicable MAJCOM/DRU Director of Small Business prior to convening an Acquisition Strategy Panel or prior to finalizing the Acquisition Strategy if an ASP is not convened. In those instances where the SB specialist and the SBA/PCR are precluded from the review process due to security classification, the contracting officer must complete a <xref format="html"
-                  href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html"
-                  scope="external"
-                  class="- topic/xref ">DD Form 2579</xref>, and the COCO must review and coordinate on the form.</p>
-         <p id="JTaegR" outputclass="List1" class="- topic/p ">(d)(1) The contracting office shall coordinate with the SB specialist as early in the acquisition planning process as practicable to enable early engagement on Air Force Small Business Program requirements. Refer to <xref format="pdf"
-                  href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf"
-                  scope="external"
-                  class="- topic/xref ">AFI 90-1801</xref>, Small Business Programs.</p>
-         <p id="fFQObs" outputclass="List1" class="- topic/p ">(d)(2) The SB specialist shall coordinate with SAF/SB when an acquisition strategy or plan involves substantial bundling.</p>
-         <p id="wWQoKk" outputclass="List1" class="- topic/p ">(d)(3) The SB specialist shall coordinate with SAF/SB on all determinations and findings that involve substantial bundling.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5319_201" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5319.201</ph> General Policy</title>
+      <conbody>
+         <p id="xVvUZu" outputclass="List1">(b) See <xref href="MP5301_601.dita" />.</p>
+         <p id="pCjRBj" outputclass="List1">(c)(8) See <xref href="MP5301_601.dita" />.</p>
+         <p id="jfOjJk" outputclass="List1">(c)(10)(A) SB specialists review all acquisitions IAW <xref format="html" href="https://www.acquisition.gov/dfars/part-219-small-business-programs#DFARS-219.201" scope="external">DFARS 219.201(c)(10)(A)</xref> to include task and delivery orders (excluding awards under Phase I and Phase II of the Small Business Innovation Research/Small Business Technology Transfer Programs). SB specialists shall review actions over $10,000, but under the simplified acquisition threshold, when required by the Director, SAF/SB or by written, joint agreement of the SCO and the MAJCOM/DRU/AFRCO/SMC Director of Small Business in accordance with <xref format="html" href="https://www.acquisition.gov/dfarspgi/pgi-part-219-small-business-programs#DFARS-PGI_PGI_219.201" scope="external">DFARS PGI 219.201(c)(10)(1)</xref>.</p>
+         <p id="whUiUO" outputclass="List4">(B) Document review on the <xref format="pdf" href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2579.pdf" scope="external">DD Form 2579</xref>, Small Business Coordination Record. Except for AFMC and SMC, forward a copy of all completed DD Forms 2579 in excess of $1,000,000 to the applicable MAJCOM/DRU Director of Small Business prior to convening an Acquisition Strategy Panel or prior to finalizing the Acquisition Strategy if an ASP is not convened. In those instances where the SB specialist and the SBA/PCR are precluded from the review process due to security classification, the contracting officer must complete a <xref format="html" href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html" scope="external">DD Form 2579</xref>, and the COCO must review and coordinate on the form.</p>
+         <p id="JTaegR" outputclass="List1">(d)(1) The contracting office shall coordinate with the SB specialist as early in the acquisition planning process as practicable to enable early engagement on Air Force Small Business Program requirements. Refer to <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf" scope="external">AFI 90-1801</xref>, Small Business Programs.</p>
+         <p id="fFQObs" outputclass="List1">(d)(2) The SB specialist shall coordinate with SAF/SB when an acquisition strategy or plan involves substantial bundling.</p>
+         <p id="wWQoKk" outputclass="List1">(d)(3) The SB specialist shall coordinate with SAF/SB on all determinations and findings that involve substantial bundling.</p>
       </conbody>
    </concept>
 </dita>

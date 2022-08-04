@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5301_602_2_3"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">3.0</ph> COR Supervisor</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">3.1 Register for SPM access via the Procurement Integrated Enterprise Environment (PIEE) e-Business Suite at <xref href="https://wawf.eb.mil"
-                  scope="external"
-                  format="mil"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">https://wawf.eb.mil</u>
-            </xref>, and then complete training to effectively perform duties in the SPM.  Training includes a review of the JAM and SPM Tool Users Guide and FAQs, and if necessary, a request for additional training from a local DA.</p>
-         <p outputclass="List1" class="- topic/p ">3.2 Review and approve (certify) or reject COR nominations in the JAM, when submitted by an assigned COR in the JAM and notified by a system-generated email that a nomination is “Awaiting Approval”.</p>
-         <p outputclass="List1" class="- topic/p ">3.3 The COR Supervisor shall ensure that the COR completes and uploads COR Reports to SPM, as required, to enable the CO to review and approve/ reject reports in the SPM.</p>
-         <p outputclass="List1" class="- topic/p ">3.4  Conduct regular reviews of COR inputs into SPM, and follow-up as necessary, on the content, timeliness, and completeness of COR Reports, online files, and other COR-related documentation.</p>
-         <p id="p__Toc38365600" outputclass="List1" class="- topic/p ">3.5 If a Chief-Contracting Officer’s Representative (C-COR) is appointed for a service contract pursuant to <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 63-138</u>
-            </xref>, <i class="+ topic/ph hi-d/i ">Acquisition of Services, Chapter 2</i>, the C-COR must maintain the sole online COR file in SPM for the contract. When a CO appoints a C-COR and CORs on the same contract, the relationship shall be annotated on the COR Designation.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5301_602_2_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">3.0</ph> COR Supervisor</title>
+      <conbody>
+         <p outputclass="List1">3.1 Register for&#xa0;SPM access via the Procurement Integrated Enterprise Environment (PIEE) e-Business Suite at <xref href="https://wawf.eb.mil" scope="external" format="mil">
+               <u>https://wawf.eb.mil</u>
+            </xref>, and then complete training to effectively perform duties in the SPM. &#xa0;Training includes a&#xa0;review of the JAM and SPM Tool Users Guide and FAQs, and if necessary, a request for additional&#xa0;training from a local DA.</p>
+         <p outputclass="List1">3.2 Review and approve (certify)&#xa0;or reject COR nominations&#xa0;in the JAM, when submitted by&#xa0;an assigned COR in the JAM&#xa0;and notified by&#xa0;a&#xa0;system-generated email&#xa0;that a nomination is “Awaiting Approval”.</p>
+         <p outputclass="List1">3.3 The COR Supervisor shall&#xa0;ensure that the COR completes and uploads&#xa0;COR Reports&#xa0;to SPM, as required, to enable the CO&#xa0;to review and approve/ reject reports in the SPM.</p>
+         <p outputclass="List1">3.4&#xa0; Conduct regular reviews of COR inputs into SPM, and follow-up as necessary, on the content, timeliness, and completeness of&#xa0;COR Reports, online files, and other COR-related documentation.</p>
+         <p id="p__Toc38365600" outputclass="List1">3.5 If a Chief-Contracting Officer’s Representative (C-COR) is appointed for a service contract pursuant to <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf" scope="external" format="pdf">
+               <u>AFI 63-138</u>
+            </xref>, <i>Acquisition of Services, Chapter 2</i>, the C-COR must maintain the sole online COR file in SPM for the contract. When a CO appoints a C-COR and CORs on the same contract, the relationship shall be annotated on the COR Designation.</p>
       </conbody>
    </concept>
 </dita>

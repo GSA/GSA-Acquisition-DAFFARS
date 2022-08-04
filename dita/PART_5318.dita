@@ -1,77 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5318"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">Part 5318</ph> - Emergency Acquisitions</title>
-      <body class="- topic/body ">
-         <p id="BFQmGr" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5318.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5318 Knowledge Center</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5318" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5318</ph> - Emergency Acquisitions</title>
+      <body>
+         <p id="BFQmGr" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5318.aspx" scope="external">AFFARS PART 5318 Knowledge Center</xref>
          </p>
-         <p id="ihLBhY" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="ihLBhY" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="1vtok84e" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         <p id="1vtok84e" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_000.dita#AFFARS_SUBPART_5318_000"
-                        class="- topic/xref ">Subpart 5318.000 - SCOPE OF PART</xref>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_000.dita#AFFARS_SUBPART_5318_000">Subpart 5318.000 - SCOPE OF PART</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_001.dita#AFFARS_5318_001"
-                              class="- topic/xref ">5318.001 Definition</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_001.dita#AFFARS_5318_001">5318.001 Definition</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_125.dita#AFFARS_5318_125"
-                              class="- topic/xref ">5318.125 Protest to GAO</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_125.dita#AFFARS_5318_125">5318.125 Protest to GAO</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_2.dita#AFFARS_SUBPART_5318_2"
-                        class="- topic/xref ">Subpart 5318.2 - EMERGENCY ACQUISITION FLEXIBILITIES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_2.dita#AFFARS_SUBPART_5318_2">Subpart 5318.2 - EMERGENCY ACQUISITION FLEXIBILITIES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_201.dita#AFFARS_5318_201"
-                              class="- topic/xref ">5318.201 Contingency Operation</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_201.dita#AFFARS_5318_201">5318.201 Contingency Operation</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_202.dita#AFFARS_5318_202"
-                              class="- topic/xref ">5318.202 Defense or Recovery from Certain Attacks</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_202.dita#AFFARS_5318_202">5318.202 Defense or Recovery from Certain Attacks</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5318_270.dita#AFFARS_5318_270"
-                              class="- topic/xref ">5318.270 Head of Contracting Activity Determinations</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_270.dita#AFFARS_5318_270">5318.270 Head of Contracting Activity Determinations</xref>
                      </p>
                   </li>
                </ul>

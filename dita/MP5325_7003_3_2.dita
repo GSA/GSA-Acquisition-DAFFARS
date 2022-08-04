@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5325_7003_3_2"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals</ph> Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="p__Toc38365663" outputclass="Normal" class="- topic/p ">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at DFARS 252.225-7009) and the prime contractor provides the certification required at DFARS 252.225-7010, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_01.pdf"
-                  scope="external"
-                  format="pdf"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">CDMA </u>
-               <u class="+ topic/ph hi-d/u ">D&amp;F</u>
-            </xref> and coordinate the effort through the SCO and <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">SAF/AQC</u>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5325_7003_3_2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals</ph> Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</title>
+      <conbody>
+         <p id="p__Toc38365663" outputclass="Normal">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at DFARS 252.225-7009) and the prime contractor provides the certification required at DFARS 252.225-7010, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_01.pdf" scope="external" format="pdf">
+               <u>CDMA </u>
+               <u>D&amp;F</u>
+            </xref> and coordinate the effort through the SCO and <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
+               <u>SAF/AQC</u>
             </xref> for submission to the Secretary of the Air Force (SecAF) for approval. This approval authority is not delegable. </p>
       </conbody>
    </concept>

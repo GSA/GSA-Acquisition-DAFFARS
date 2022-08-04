@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5307_107_2"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5307.107-2</ph> Consolidation</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="oIElTh" outputclass="" class="- topic/p ">(a) The SCO is the authority to make the consolidation determination for actions exceeding $2 million. This authority may not be re-delegated. Consolidation determinations are only required for contracts awarded and performed in the United States and Outlying Territories.</p>
-         <p id="lMGbcH" class="- topic/p ">(b) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>.</p>
-         <p id="oFxauO" class="- topic/p ">(e) See MP5301.601-90.</p>
-         <p id="eQjgRV" class="- topic/p ">The determination must include the acquisition strategy information required in <xref format="html"
-                  href="https://www.acquisition.gov/far/part-7#FAR_7_107_2"
-                  scope="external"
-                  class="- topic/xref ">FAR 7.107-2</xref>. The determination may be included in an AP (or equivalent) when coordination of the consolidation determination approving official is accomplished as part of the</p>
-         <p id="DKwMFs" outputclass="Normal" class="- topic/p ">AP approval process. When preparing these documents clearly identify the consolidation determination.</p>
-         <p id="p__Toc38364756" outputclass="Normal" class="- topic/p "/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5307_107_2" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5307.107-2</ph> Consolidation</title>
+      <conbody>
+         <p id="oIElTh" outputclass="">(a) The SCO is the authority to make the consolidation determination for actions exceeding $2 million. This authority may not be re-delegated. Consolidation determinations are only required for contracts awarded and performed in the United States and Outlying Territories.</p>
+         <p id="lMGbcH">(b) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>.</p>
+         <p id="oFxauO">(e) See MP5301.601-90.</p>
+         <p id="eQjgRV">The determination must include the acquisition strategy information required in <xref format="html" href="https://www.acquisition.gov/far/part-7#FAR_7_107_2" scope="external">FAR 7.107-2</xref>. The determination may be included in an AP (or equivalent) when coordination of the consolidation determination approving official is accomplished as part of the</p>
+         <p id="DKwMFs" outputclass="Normal">AP approval process. When preparing these documents clearly identify the consolidation determination.</p>
+         <p id="p__Toc38364756" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

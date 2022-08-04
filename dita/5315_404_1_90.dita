@@ -1,75 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-   domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-   ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5315_404_1_90" ditaarch:DITAArchVersion="1.3"
-      class="- topic/topic concept/concept ">
-      <title class="- topic/title " id="EhSwS9" outputclass="Heading 3">
-         <ph class="- topic/ph " id="8vylhT" props="autonumber">5315.404-1-90</ph> Pricing
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5315_404_1_90" ditaarch:DITAArchVersion="1.3">
+      <title id="EhSwS9" outputclass="Heading 3">
+         <ph id="8vylhT" props="autonumber">5315.404-1-90</ph> Pricing
          Assistance or Pricing Assistance Waiver</title>
-      <conbody id="jZAzJ1" class="- topic/body  concept/conbody ">
-         <p id="MycoKk" outputclass="List1" class="- topic/p ">(a)Required thresholds for requesting
+      <conbody id="jZAzJ1">
+         <p id="MycoKk" outputclass="List1">(a)Required thresholds for requesting
             pricing assistance:</p>
-         <table colsep="1" id="kX7b68" rowsep="1" class="- topic/table ">
-            <title id="Fe9QWg" class="- topic/title "/>
-            <tgroup cols="3" colsep="1" id="UIxkHq" outputclass="fix" class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colsep="0" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colsep="0" class="- topic/colspec "/>
-               <colspec colnum="3" colname="3" colsep="0" class="- topic/colspec "/>
-               <tbody id="vQvyT5" class="- topic/tbody ">
-                  <row id="yjAPHL" rowsep="1" class="- topic/row ">
-                     <entry id="3qz6vf" nameend="2" namest="1" class="- topic/entry ">
-                        <p id="SzvTVS" class="- topic/p ">
-                           <b id="A0lJy8" class="+ topic/ph hi-d/b ">Sole Source</b>
+         <table colsep="1" id="kX7b68" rowsep="1">
+            <title id="Fe9QWg"></title>
+            <tgroup cols="3" colsep="1" id="UIxkHq" outputclass="fix">
+               <colspec colnum="1" colname="1" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colsep="0" rowheader="headers" />
+               <colspec colnum="3" colname="3" colsep="0" rowheader="headers" />
+               <tbody id="vQvyT5">
+                  <row id="yjAPHL" rowsep="1">
+                     <entry id="3qz6vf" nameend="2" namest="1">
+                        <p id="SzvTVS">
+                           <b id="A0lJy8">Sole Source</b>
                         </p>
                      </entry>
-                     <entry id="w6NCcK" class="- topic/entry ">
-                        <p id="fIseio" class="- topic/p ">
-                           <b id="sQyM04" class="+ topic/ph hi-d/b ">Competitive</b>
-                        </p>
-                     </entry>
-                  </row>
-                  <row id="eWexBu" rowsep="1" class="- topic/row ">
-                     <entry id="RQ8pV9" class="- topic/entry ">
-                        <p id="jQzOGZ" class="- topic/p ">
-                           <b id="10mgsW" class="+ topic/ph hi-d/b ">PEO (Systems)</b>
-                        </p>
-                     </entry>
-                     <entry id="fFJivw" class="- topic/entry ">
-                        <p id="jeCsQR" class="- topic/p ">
-                           <b id="ec87RM" class="+ topic/ph hi-d/b ">All Other</b>
-                        </p>
-                     </entry>
-                     <entry id="M3f2RR" class="- topic/entry ">
-                        <p id="lntxge" class="- topic/p ">
-                           <b id="gB6V47" class="+ topic/ph hi-d/b ">All</b>
+                     <entry id="w6NCcK">
+                        <p id="fIseio">
+                           <b id="sQyM04">Competitive</b>
                         </p>
                      </entry>
                   </row>
-                  <row id="QWIBkH" rowsep="1" class="- topic/row ">
-                     <entry id="Ng0qH6" class="- topic/entry ">
-                        <p id="OJjKPM" class="- topic/p ">$25M or more</p>
+                  <row id="eWexBu" rowsep="1">
+                     <entry id="RQ8pV9">
+                        <p id="jQzOGZ">
+                           <b id="10mgsW">PEO (Systems)</b>
+                        </p>
                      </entry>
-                     <entry id="Iq6Tcn" class="- topic/entry ">
-                        <p id="wmlqoA" class="- topic/p ">$10M or more</p>
+                     <entry id="fFJivw">
+                        <p id="jeCsQR">
+                           <b id="ec87RM">All Other</b>
+                        </p>
                      </entry>
-                     <entry id="5NJRaY" class="- topic/entry ">
-                        <p id="HMsuTC" class="- topic/p ">$100M or more</p>
+                     <entry id="M3f2RR">
+                        <p id="lntxge">
+                           <b id="gB6V47">All</b>
+                        </p>
+                     </entry>
+                  </row>
+                  <row id="QWIBkH" rowsep="1">
+                     <entry id="Ng0qH6">
+                        <p id="OJjKPM">$25M or more</p>
+                     </entry>
+                     <entry id="Iq6Tcn">
+                        <p id="wmlqoA">$10M or more</p>
+                     </entry>
+                     <entry id="5NJRaY">
+                        <p id="HMsuTC">$100M or more</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p id="TAPJFW" outputclass="List1" class="- topic/p ">(b) See <xref
-               href="MP5315_404_1_90.dita" id="pCF0EE" class="- topic/xref "/> for procedures for
+         <p id="TAPJFW" outputclass="List1">(b) See <xref href="MP5315_404_1_90.dita" id="pCF0EE" /> for procedures for
             requesting pricing assistance.</p>
-         <p id="RLQIUH" outputclass="List1" class="- topic/p ">(c) See <xref
-               href="MP5315_404_1_90.dita" id="hxhoRt" class="- topic/xref "/> for procedures for
+         <p id="RLQIUH" outputclass="List1">(c) See <xref href="MP5315_404_1_90.dita" id="hxhoRt" /> for procedures for
             requesting a pricing assistance waiver for actions that meet or exceed the required
             thresholds identified in 5315.404-1-90(a).</p>
-         <p id="qnfpOD" outputclass="Normal" class="- topic/p "/>
+         <p id="qnfpOD" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

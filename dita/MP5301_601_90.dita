@@ -1,1601 +1,1596 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5301_601_90"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " id="S9dVR8" outputclass="Heading 1">
-         <ph class="- topic/ph " id="nFm0SN" props="autonumber">MP5301.601-90</ph> Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</title>
-      <body class="- topic/body ">
-         <p id="ioQX5l" outputclass="Normal" class="- topic/p ">
-            <u class="+ topic/ph hi-d/u ">NOTE</u>
-            <b id="ygGzt9" class="+ topic/ph hi-d/b ">:</b> Yellow-shaded blocks indicate retained HoA-SPE-SAE responsibilities or those that are not delegable per the regulation listed in the Reference column.</p>
-         <table id="table_uh2_kxw_5qb" class="- topic/table ">
-            <tgroup cols="7" class="- topic/tgroup ">
-               <thead class="- topic/thead ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="LsQksH" class="- topic/p ">
-                           <b id="mOpROZ" class="+ topic/ph hi-d/b ">Item</b>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5301_601_90" ditaarch:DITAArchVersion="1.3">
+      <title id="S9dVR8" outputclass="Heading 1">
+         <ph id="nFm0SN" props="autonumber">MP5301.601-90</ph> Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</title>
+      <body>
+         <p id="ioQX5l" outputclass="Normal">
+            <u>NOTE</u>
+            <b id="ygGzt9">:</b> Yellow-shaded blocks indicate retained HoA-SPE-SAE responsibilities or those that are not delegable per the regulation listed in the Reference column.</p>
+         <table id="table_uh2_kxw_5qb">
+            <tgroup cols="7">
+               <thead>
+                  <row>
+                     <entry>
+                        <p id="LsQksH">
+                           <b id="mOpROZ">Item</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BRJJeo" class="- topic/p ">
-                           <b id="KE6cWW" class="+ topic/ph hi-d/b ">Reference</b>
+                     <entry>
+                        <p id="BRJJeo">
+                           <b id="KE6cWW">Reference</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Y2Q95F" class="- topic/p ">
-                           <b id="9B0Cn5" class="+ topic/ph hi-d/b ">Responsibilities</b>
+                     <entry>
+                        <p id="Y2Q95F">
+                           <b id="9B0Cn5">Responsibilities</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hMKFNV" class="- topic/p ">
-                           <b id="qvw9SW" class="+ topic/ph hi-d/b ">Retained by HoA, SPE, or SAE</b>
+                     <entry>
+                        <p id="hMKFNV">
+                           <b id="qvw9SW">Retained by HoA, SPE, or SAE</b>
                         </p>
-                        <p id="MMMjP5" class="- topic/p ">
-                           <b id="7ptgvu" class="+ topic/ph hi-d/b ">(SAF/AQ)</b>
-                        </p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="gzLwEA" class="- topic/p ">
-                           <b id="eJjhUB" class="+ topic/ph hi-d/b ">Delegated</b>
+                        <p id="MMMjP5">
+                           <b id="7ptgvu">(SAF/AQ)</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Pe28J6" class="- topic/p ">
-                           <b id="0FGZ13" class="+ topic/ph hi-d/b ">Delegated to SCO</b>
+                     <entry>
+                        <p id="gzLwEA">
+                           <b id="eJjhUB">Delegated</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SlcqjJ" class="- topic/p ">
-                           <b id="ob8sIh" class="+ topic/ph hi-d/b ">Delegable Below SCO</b>
+                     <entry>
+                        <p id="Pe28J6">
+                           <b id="0FGZ13">Delegated to SCO</b>
+                        </p>
+                     </entry>
+                     <entry>
+                        <p id="SlcqjJ">
+                           <b id="ob8sIh">Delegable Below SCO</b>
                         </p>
                      </entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="JNBRxy" class="- topic/p ">1</p>
+               <tbody>
+                  <row>
+                     <entry>
+                        <p id="JNBRxy">1</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RzY6Dv" class="- topic/p ">FAR 3.104-2(a)</p>
+                     <entry>
+                        <p id="RzY6Dv">FAR 3.104-2(a)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rkPMbv" class="- topic/p ">Approves agency supplementation of 3.104 including specific definitions to identify individuals who occupy positions specified in 3.104-3(d)(1)(ii), and any clauses required by 3.104</p>
+                     <entry>
+                        <p id="rkPMbv">Approves agency supplementation of 3.104 including specific definitions to identify individuals who occupy positions specified in 3.104-3(d)(1)(ii), and any clauses required by 3.104</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wYD7ms" class="- topic/p ">Yes - SPE</p>
+                     <entry>
+                        <p id="wYD7ms">Yes - SPE</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8cYIU2" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="8cYIU2">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bSfyBM" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="bSfyBM">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="35prow" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="PAGGUn" class="- topic/p ">2</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="K7fiKm" class="- topic/p ">FAR 52.203-3</p>
-                        <p id="3hJYAq" class="- topic/p ">AFFARS 5303.203-3</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="o2FYSY" class="- topic/p ">Determines, after notice and hearing, that contractor or representative offered or gave a gratuity to officer, official, or Government employee and intended, by the gratuity, to obtain a contract or favorable treatment under a contract; and determines amount of exemplary damages (between 3 and 10 times cost incurred by contractor in giving gratuities to person concerned)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="TZTf4a" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="zqdQqI" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SYR74c" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="a6Qre8" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="35prow">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="ZYnGJz" class="- topic/p ">3</p>
+                  <row>
+                     <entry>
+                        <p id="PAGGUn">2</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="6mJ6Tl" class="- topic/p ">DFARS 203.570-2(a)</p>
-                        <p id="WU7WBK" class="- topic/p ">AFFARS 5303.570-2(a)</p>
+                     <entry>
+                        <p id="K7fiKm">FAR 52.203-3</p>
+                        <p id="3hJYAq">AFFARS 5303.203-3</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vnEj5R" class="- topic/p ">Grants waiver in the interest of national security that the prohibition period described in Paragraph (b) of clause 252.203-7001 may be less than 5 years</p>
+                     <entry>
+                        <p id="o2FYSY">Determines, after notice and hearing, that contractor or representative offered or gave a gratuity to officer, official, or Government employee and intended, by the gratuity, to obtain a contract or favorable treatment under a contract; and determines amount of exemplary damages (between 3 and 10 times cost incurred by contractor in giving gratuities to person concerned)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="V5dMvc" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="TZTf4a">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="euwaTI" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="zqdQqI">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PORpDn" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="SYR74c">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="E5gf0T" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="wu1JOy" class="- topic/p ">4</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mCdWdD" class="- topic/p ">DFARS 203.570-2(b)</p>
-                        <p id="6j2Cwl" class="- topic/p ">AFFARS 5303.570-2(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="7qKybo" class="- topic/p ">Makes written determination that the prohibition period described in Paragraph (b) of clause 252.203-7001 may be more than 5 years</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rB642X" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XyWOFl" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="FRhdiW" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="iayDmr" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="a6Qre8">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="PrWdQj" class="- topic/p ">5</p>
+                  <row>
+                     <entry>
+                        <p id="ZYnGJz">3</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5cWQLh" class="- topic/p ">DFARS 203.906(c)(1)</p>
-                        <p id="RFB8PH" class="- topic/p ">AFFARS 5303.906(c)(1)</p>
+                     <entry>
+                        <p id="6mJ6Tl">DFARS 203.570-2(a)</p>
+                        <p id="WU7WBK">AFFARS 5303.570-2(a)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uHGhyi" class="- topic/p ">Takes required actions regarding reprisals as prohibited by 203.903 (10 USC 2409)</p>
+                     <entry>
+                        <p id="vnEj5R">Grants waiver in the interest of national security that the prohibition period described in Paragraph (b) of clause 252.203-7001 may be less than 5 years</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="zLtkFi" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="V5dMvc">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9T0lHW" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="euwaTI">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IIVQvB" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="PORpDn">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Jptip3" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="PuU6yy" class="- topic/p ">6</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="P0ugHL" class="- topic/p ">FAR 5.102(a)(5)(iii)</p>
-                        <p id="C98AZK" class="- topic/p ">AFFARS 5305.102(a)(5)(iii)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="qfJnkU" class="- topic/p ">Makes written determination that availability of a solicitation through the GPE is not in the Government's interest</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WSQkZz" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="be7OO5" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5F3dc1" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="LcyU80" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="E5gf0T">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="g5uEG6" class="- topic/p ">7</p>
+                  <row>
+                     <entry>
+                        <p id="wu1JOy">4</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="eZci1r" class="- topic/p ">FAR 5.202(b)</p>
-                        <p id="jBrECv" class="- topic/p ">AFFARS 5305.202(b)</p>
+                     <entry>
+                        <p id="mCdWdD">DFARS 203.570-2(b)</p>
+                        <p id="6j2Cwl">AFFARS 5303.570-2(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RAsLga" class="- topic/p ">Makes written determination after consult with Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration that advance notice of proposed contract action is not appropriate or reasonable</p>
+                     <entry>
+                        <p id="7qKybo">Makes written determination that the prohibition period described in Paragraph (b) of clause 252.203-7001 may be more than 5 years</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fnBMa6" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="rB642X">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="2iMH5a" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="XyWOFl">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Z8Bley" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="FRhdiW">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vlq2ZM" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="eqOnwc" class="- topic/p ">8</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VCc2nI" class="- topic/p ">FAR 6.304(a)(4)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8Qtyr0" class="- topic/p ">Approves in writing the justification for other than full and open competition for proposed contracts over $100 million</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="oKLzCo" class="- topic/p ">Yes - SPE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9r7Ijz" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="LsZlFF" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5qS4GZ" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="iayDmr">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="N2FbS4" class="- topic/p ">9</p>
+                  <row>
+                     <entry>
+                        <p id="PrWdQj">5</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="4wwAtn" class="- topic/p ">FAR 7.107-2(b)</p>
-                        <p id="WkCw31" class="- topic/p ">AFFARS 5307.107-2(b)</p>
+                     <entry>
+                        <p id="5cWQLh">DFARS 203.906(c)(1)</p>
+                        <p id="RFB8PH">AFFARS 5303.906(c)(1)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="g25StR" class="- topic/p ">Determines that consolidation is necessary and justified if the benefits of the acquisition would substantially exceed the benefits that would be derived from each of the alternative contracting approaches identified under paragraph (a)(2).</p>
+                     <entry>
+                        <p id="uHGhyi">Takes required actions regarding reprisals as prohibited by 203.903 (10 USC 2409)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="igQ2HP" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="zLtkFi">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9w87N2" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="9T0lHW">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="MiUwLu" class="- topic/p ">Yes</p>
+                     <entry>
+                        <p id="IIVQvB">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tKC34c" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="7fEeRS" class="- topic/p ">10</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="lD8Aw6" class="- topic/p ">FAR 7.107-2(e)</p>
-                        <p id="Pq9z3E" class="- topic/p ">AFFARS 5307.107-2(e)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="LaCYcd" class="- topic/p ">Determines that consolidation is necessary and justified when the expected benefits do not meet the thresholds for a substantial benefit at paragraph (d)(1) of this subsection but are critical to the agency's mission success; and the procurement strategy provides for maximum practicable participation by small business.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5Sbt2K" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wiGOp3" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rbJOcv" class="- topic/p ">Yes</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RZVoKC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="Jptip3">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="BFMGuh" class="- topic/p ">11</p>
+                  <row>
+                     <entry>
+                        <p id="PuU6yy">6</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="or7bPs" class="- topic/p ">FAR 7.107-3(a)</p>
+                     <entry>
+                        <p id="P0ugHL">FAR 5.102(a)(5)(iii)</p>
+                        <p id="C98AZK">AFFARS 5305.102(a)(5)(iii)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Xs64WP" class="- topic/p ">Makes written determination that the bundling is necessary and justified in accordance with 15 U.S.C. 644(e) after ensuring that conditions at (a)-(e) are met.</p>
+                     <entry>
+                        <p id="qfJnkU">Makes written determination that availability of a solicitation through the GPE is not in the Government's interest</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SuK09j" class="- topic/p ">Yes - HoA</p>
+                     <entry>
+                        <p id="WSQkZz">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RkASjm" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="be7OO5">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZFTI3e" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="5F3dc1">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mZrjpl" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="qfAldK" class="- topic/p ">12</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="s6iDWA" class="- topic/p ">FAR 7.107-3(f)(1)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ASqcR6" class="- topic/p ">Determines that bundling is necessary and justified when the expected benefits do not meet the thresholds for a substantial benefit but are critical to the agency's mission success; and the procurement strategy provides for maximum practicable participation by small business.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="lx3xcb" class="- topic/p ">Yes - SPE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="7i4qkt" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Di0HRy" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="7ehsyC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="LcyU80">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="kMjaPG" class="- topic/p ">13</p>
+                  <row>
+                     <entry>
+                        <p id="g5uEG6">7</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="B4U3VP" class="- topic/p ">FAR 8.405-3(a)(3)(ii)</p>
-                        <p id="R7M5ua" class="- topic/p ">AFFARS 5308.405-3(a)(3)(ii)</p>
+                     <entry>
+                        <p id="eZci1r">FAR 5.202(b)</p>
+                        <p id="jBrECv">AFFARS 5305.202(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NVqzWn" class="- topic/p ">Determination (in writing) to award single-award Blanket Purchase Agreement with an estimated value exceeding $112 million (including any options).</p>
+                     <entry>
+                        <p id="RAsLga">Makes written determination after consult with Administrator for Federal Procurement Policy and the Administrator of the Small Business Administration that advance notice of proposed contract action is not appropriate or reasonable</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3Tgmsp" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="fnBMa6">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="TYBK0q" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="2iMH5a">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pMYDuD" class="- topic/p ">Yes</p>
+                     <entry>
+                        <p id="Z8Bley">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="e6qUr3" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="oD1dB3" class="- topic/p ">14</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="2Ew1jT" class="- topic/p ">FAR 8.405-6(b)(3)(ii)(C)</p>
-                        <p id="bUi0KV" class="- topic/p ">AFFARS 5308.405-6(b)(3)(ii)(C)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="r7qnqa" class="- topic/p ">Makes written determination that access through e-Buy not in Government's interest</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Xm4zz0" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GQ6PCf" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="l4VlWS" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vPD5LM" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="vlq2ZM">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="dMcwXL" class="- topic/p ">15</p>
+                  <row>
+                     <entry>
+                        <p id="eqOnwc">8</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZRpFh0" class="- topic/p ">FAR 8.405-6(d)(4)</p>
+                     <entry>
+                        <p id="VCc2nI">FAR 6.304(a)(4)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="TmxRkF" class="- topic/p ">Approves the justification for limited sources under a BPA with an estimated value over $100 million</p>
+                     <entry>
+                        <p id="8Qtyr0">Approves in writing the justification for other than full and open competition for proposed contracts over $100 million</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SLMHqt" class="- topic/p ">Yes - SPE</p>
+                     <entry>
+                        <p id="oKLzCo">Yes - SPE</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rruHKx" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="9r7Ijz">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="2MezSc" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="LsZlFF">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vcjuQz" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="SSAuW4" class="- topic/p ">16</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JQfcSS" class="- topic/p ">FAR 9.405(a)</p>
-                        <p id="wK8gYi" class="- topic/p ">AFFARS 5309.405(a)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="EyYZce" class="- topic/p ">Determines compelling reason exists to solicit offers from, award contracts to, or consent to subcontracts with contractor debarred, suspended, or proposed for debarment</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="MEP8Fj" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JoIHdV" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="iABZfH" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="LHqPpE" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="5qS4GZ">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="ZKy8zh" class="- topic/p ">17</p>
+                  <row>
+                     <entry>
+                        <p id="N2FbS4">9</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RtmcU1" class="- topic/p ">DFARS 209.405(b)(ii)(A)</p>
-                        <p id="Hm078h" class="- topic/p ">AFFARS 5309.405(b)(ii)(A)</p>
+                     <entry>
+                        <p id="4wwAtn">FAR 7.107-2(b)</p>
+                        <p id="WkCw31">AFFARS 5307.107-2(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="QzjJyW" class="- topic/p ">Grants exemption permitting award to contractor that has violation of Clean Air or Clean Water Act</p>
+                     <entry>
+                        <p id="g25StR">Determines that consolidation is necessary and justified if the benefits of the acquisition would substantially exceed the benefits that would be derived from each of the alternative contracting approaches identified under paragraph (a)(2).</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="U2iQVd" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="igQ2HP">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="lUGF5i" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="9w87N2">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5bff5N" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="MiUwLu">Yes</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="OaMMiQ" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="7AiE4J" class="- topic/p ">18</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="nV7iuI" class="- topic/p ">FAR 9.405(e)(2)-(3)</p>
-                        <p id="KBDXJi" class="- topic/p ">AFFARS 5309.405(e)(2)-(3)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="c6catc" class="- topic/p ">Makes written determination of the compelling reason to consider bid received from, evaluate for award, include in competitive range or hold discussions with listed contractor</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xTqMuB" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dKMWlU" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fpJPTq" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="cQs1nc" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="tKC34c">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="XKQApP" class="- topic/p ">19</p>
+                  <row>
+                     <entry>
+                        <p id="7fEeRS">10</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Cbxjzl" class="- topic/p ">FAR 9.405-1(a)</p>
-                        <p id="oTREj8" class="- topic/p ">AFFARS 5309.405-1(a)</p>
+                     <entry>
+                        <p id="lD8Aw6">FAR 7.107-2(e)</p>
+                        <p id="Pq9z3E">AFFARS 5307.107-2(e)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="G8gtFi" class="- topic/p ">Directs discontinuance of contracts or subcontracts in existence at time contractor was debarred, suspended, or proposed for debarment</p>
+                     <entry>
+                        <p id="LaCYcd">Determines that consolidation is necessary and justified when the expected benefits do not meet the thresholds for a substantial benefit at paragraph (d)(1) of this subsection but are critical to the agency's mission success; and the procurement strategy provides for maximum practicable participation by small business.</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RP7fqP" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="5Sbt2K">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XZ0Tnh" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="wiGOp3">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZW3DVQ" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="rbJOcv">Yes</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Mr2j4Q" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="Eld3sT" class="- topic/p ">20</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dfxOlj" class="- topic/p ">FAR 9.405-1(b)</p>
-                        <p id="TpsmA4" class="- topic/p ">AFFARS 5309.405-1(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="kGLryO" class="- topic/p ">For contractors debarred, suspended, or proposed for debarment, makes written determination of the compelling reasons to place orders exceeding the guaranteed minimum; place orders under FSS, BPAs, or BOAs; or add new work, exercise options, or otherwise extend duration or current contracts or orders</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xUUP7n" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="p92qF9" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="51PKRp" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="OtPP8l" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="RZVoKC">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="tqvcFa" class="- topic/p ">21</p>
+                  <row>
+                     <entry>
+                        <p id="BFMGuh">11</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IQ38d6" class="- topic/p ">FAR 9.405-2(a)DFARS 209.405-2(a)</p>
-                        <p id="PUjsmk" class="- topic/p ">AFFARS 5309.405-2(a)</p>
+                     <entry>
+                        <p id="or7bPs">FAR 7.107-3(a)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="HI3x4M" class="- topic/p ">States in writing that compelling reason exists for CO to consent to proposed subcontracts with contractors debarred, suspended, or proposed for debarment</p>
+                     <entry>
+                        <p id="Xs64WP">Makes written determination that the bundling is necessary and justified in accordance with 15 U.S.C. 644(e) after ensuring that conditions at (a)-(e) are met.</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="R7iy6D" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="SuK09j">Yes - HoA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="W6IB1k" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="RkASjm">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="FCXq7F" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="ZFTI3e">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="yFK3jc" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="mZrjpl">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="mAwRR3" class="- topic/p ">22</p>
+                  <row>
+                     <entry>
+                        <p id="qfAldK">12</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="nztgnb" class="- topic/p ">DFARS 211.274-2(b)(2)(i)(A)</p>
-                        <p id="IUhCl9" class="- topic/p ">AFFARS 5311.274-2(b)(2)(i)(A)</p>
+                     <entry>
+                        <p id="s6iDWA">FAR 7.107-3(f)(1)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ybzP59" class="- topic/p ">Executes D&amp;F that it is more cost effective for the Government to assign, mark, and register the unique item identifier after delivery, &amp; item is from SB concern or is commercial acquired under FAR Part 12 or 8 <b id="jDEMhy" class="+ topic/ph hi-d/b ">for an ACAT I program</b>
+                     <entry>
+                        <p id="ASqcR6">Determines that bundling is necessary and justified when the expected benefits do not meet the thresholds for a substantial benefit but are critical to the agency's mission success; and the procurement strategy provides for maximum practicable participation by small business.</p>
+                     </entry>
+                     <entry>
+                        <p id="lx3xcb">Yes - SPE</p>
+                     </entry>
+                     <entry>
+                        <p id="7i4qkt">No</p>
+                     </entry>
+                     <entry>
+                        <p id="Di0HRy">No</p>
+                     </entry>
+                     <entry>
+                        <p id="7ehsyC">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="kMjaPG">13</p>
+                     </entry>
+                     <entry>
+                        <p id="B4U3VP">FAR 8.405-3(a)(3)(ii)</p>
+                        <p id="R7M5ua">AFFARS 5308.405-3(a)(3)(ii)</p>
+                     </entry>
+                     <entry>
+                        <p id="NVqzWn">Determination (in writing) to award single-award Blanket Purchase Agreement with an estimated value exceeding $112 million (including any options).</p>
+                     </entry>
+                     <entry>
+                        <p id="3Tgmsp">No</p>
+                     </entry>
+                     <entry>
+                        <p id="TYBK0q">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="pMYDuD">Yes</p>
+                     </entry>
+                     <entry>
+                        <p id="e6qUr3">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="oD1dB3">14</p>
+                     </entry>
+                     <entry>
+                        <p id="2Ew1jT">FAR 8.405-6(b)(3)(ii)(C)</p>
+                        <p id="bUi0KV">AFFARS 5308.405-6(b)(3)(ii)(C)</p>
+                     </entry>
+                     <entry>
+                        <p id="r7qnqa">Makes written determination that access through e-Buy not in Government's interest</p>
+                     </entry>
+                     <entry>
+                        <p id="Xm4zz0">No</p>
+                     </entry>
+                     <entry>
+                        <p id="GQ6PCf">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="l4VlWS">No</p>
+                     </entry>
+                     <entry>
+                        <p id="vPD5LM">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="dMcwXL">15</p>
+                     </entry>
+                     <entry>
+                        <p id="ZRpFh0">FAR 8.405-6(d)(4)</p>
+                     </entry>
+                     <entry>
+                        <p id="TmxRkF">Approves the justification for limited sources under a BPA with an estimated value over $100 million</p>
+                     </entry>
+                     <entry>
+                        <p id="SLMHqt">Yes - SPE</p>
+                     </entry>
+                     <entry>
+                        <p id="rruHKx">No</p>
+                     </entry>
+                     <entry>
+                        <p id="2MezSc">No</p>
+                     </entry>
+                     <entry>
+                        <p id="vcjuQz">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="SSAuW4">16</p>
+                     </entry>
+                     <entry>
+                        <p id="JQfcSS">FAR 9.405(a)</p>
+                        <p id="wK8gYi">AFFARS 5309.405(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="EyYZce">Determines compelling reason exists to solicit offers from, award contracts to, or consent to subcontracts with contractor debarred, suspended, or proposed for debarment</p>
+                     </entry>
+                     <entry>
+                        <p id="MEP8Fj">No</p>
+                     </entry>
+                     <entry>
+                        <p id="JoIHdV">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="iABZfH">No</p>
+                     </entry>
+                     <entry>
+                        <p id="LHqPpE">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="ZKy8zh">17</p>
+                     </entry>
+                     <entry>
+                        <p id="RtmcU1">DFARS 209.405(b)(ii)(A)</p>
+                        <p id="Hm078h">AFFARS 5309.405(b)(ii)(A)</p>
+                     </entry>
+                     <entry>
+                        <p id="QzjJyW">Grants exemption permitting award to contractor that has violation of Clean Air or Clean Water Act</p>
+                     </entry>
+                     <entry>
+                        <p id="U2iQVd">No</p>
+                     </entry>
+                     <entry>
+                        <p id="lUGF5i">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="5bff5N">No</p>
+                     </entry>
+                     <entry>
+                        <p id="OaMMiQ">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="7AiE4J">18</p>
+                     </entry>
+                     <entry>
+                        <p id="nV7iuI">FAR 9.405(e)(2)-(3)</p>
+                        <p id="KBDXJi">AFFARS 5309.405(e)(2)-(3)</p>
+                     </entry>
+                     <entry>
+                        <p id="c6catc">Makes written determination of the compelling reason to consider bid received from, evaluate for award, include in competitive range or hold discussions with listed contractor</p>
+                     </entry>
+                     <entry>
+                        <p id="xTqMuB">No</p>
+                     </entry>
+                     <entry>
+                        <p id="dKMWlU">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="fpJPTq">No</p>
+                     </entry>
+                     <entry>
+                        <p id="cQs1nc">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="XKQApP">19</p>
+                     </entry>
+                     <entry>
+                        <p id="Cbxjzl">FAR 9.405-1(a)</p>
+                        <p id="oTREj8">AFFARS 5309.405-1(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="G8gtFi">Directs discontinuance of contracts or subcontracts in existence at time contractor was debarred, suspended, or proposed for debarment</p>
+                     </entry>
+                     <entry>
+                        <p id="RP7fqP">No</p>
+                     </entry>
+                     <entry>
+                        <p id="XZ0Tnh">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="ZW3DVQ">No</p>
+                     </entry>
+                     <entry>
+                        <p id="Mr2j4Q">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="Eld3sT">20</p>
+                     </entry>
+                     <entry>
+                        <p id="dfxOlj">FAR 9.405-1(b)</p>
+                        <p id="TpsmA4">AFFARS 5309.405-1(b)</p>
+                     </entry>
+                     <entry>
+                        <p id="kGLryO">For contractors debarred, suspended, or proposed for debarment, makes written determination of the compelling reasons to place orders exceeding the guaranteed minimum; place orders under FSS, BPAs, or BOAs; or add new work, exercise options, or otherwise extend duration or current contracts or orders</p>
+                     </entry>
+                     <entry>
+                        <p id="xUUP7n">No</p>
+                     </entry>
+                     <entry>
+                        <p id="p92qF9">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="51PKRp">No</p>
+                     </entry>
+                     <entry>
+                        <p id="OtPP8l">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="tqvcFa">21</p>
+                     </entry>
+                     <entry>
+                        <p id="IQ38d6">FAR 9.405-2(a)DFARS 209.405-2(a)</p>
+                        <p id="PUjsmk">AFFARS 5309.405-2(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="HI3x4M">States in writing that compelling reason exists for CO to consent to proposed subcontracts with contractors debarred, suspended, or proposed for debarment</p>
+                     </entry>
+                     <entry>
+                        <p id="R7iy6D">No</p>
+                     </entry>
+                     <entry>
+                        <p id="W6IB1k">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="FCXq7F">No</p>
+                     </entry>
+                     <entry>
+                        <p id="yFK3jc">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="mAwRR3">22</p>
+                     </entry>
+                     <entry>
+                        <p id="nztgnb">DFARS 211.274-2(b)(2)(i)(A)</p>
+                        <p id="IUhCl9">AFFARS 5311.274-2(b)(2)(i)(A)</p>
+                     </entry>
+                     <entry>
+                        <p id="ybzP59">Executes D&amp;F that it is more cost effective for the Government to assign, mark, and register the unique item identifier after delivery, &amp; item is from SB concern or is commercial acquired under FAR Part 12 or 8 <b id="jDEMhy">for an ACAT I program</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fcAXv8" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="fcAXv8">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="yp05Uk" class="- topic/p ">PEO</p>
+                     <entry>
+                        <p id="yp05Uk">PEO</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="oKTg7a" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="oKTg7a">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9I9PRl" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="QGgIbf" class="- topic/p ">23</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VjieQm" class="- topic/p ">FAR 11.501(d)</p>
-                        <p id="YoJ4XB" class="- topic/p ">AFFARS 5311.501(d)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="OKBgt4" class="- topic/p ">Waives or reduces the amount of liquidated damages assessed under a contract if Commissioner, Financial Management Service, or designee approves (see Treasury Order 145-10).</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="6eTICX" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ahg8Ap" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NDgWTw" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="L1rBiA" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="9I9PRl">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="2b6op8" class="- topic/p ">24</p>
+                  <row>
+                     <entry>
+                        <p id="QGgIbf">23</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="d9Ass0" class="- topic/p ">DFARS 212.207(b)(iii)</p>
-                        <p id="t7q7kM" class="- topic/p ">AFFARS 5312.207(b)(iii)</p>
+                     <entry>
+                        <p id="VjieQm">FAR 11.501(d)</p>
+                        <p id="YoJ4XB">AFFARS 5311.501(d)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3k6axH" class="- topic/p ">Approves written determination by the contracting officer to use T&amp;M or LH for commercial services contracts expected to extend beyond three years</p>
+                     <entry>
+                        <p id="OKBgt4">Waives or reduces the amount of liquidated damages assessed under a contract if Commissioner, Financial Management Service, or designee approves (see Treasury Order 145-10).</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="P8oYfV" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="6eTICX">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GE1D8h" class="- topic/p ">HCA, if the base period plus any option period exceeds 3 years</p>
+                     <entry>
+                        <p id="ahg8Ap">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dccyNZ" class="- topic/p ">Yes, if the base period plus any option period is 3 years or less and T&amp;M or LH value exceeds $1M</p>
+                     <entry>
+                        <p id="NDgWTw">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="M8LV7j" class="- topic/p ">Yes, one level above the CO if the base period plus any option period is 3 years or less and the T&amp;M or LH value is less than or equal to $1M</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="1YitR4" class="- topic/p ">25</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="P9VMmr" class="- topic/p ">FAR 13.501(a)(2)(iv)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PIJGiX" class="- topic/p ">Approves the justification for sole source (including brand name) acquisitions conducted under subpart 13.5 for a proposed action exceeding $100 million</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0YOi4S" class="- topic/p ">Yes - SPE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NmKJeG" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="YGpjUC" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="sGl5aY" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="L1rBiA">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="l6znZB" class="- topic/p ">26</p>
+                  <row>
+                     <entry>
+                        <p id="2b6op8">24</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SXn8ql" class="- topic/p ">FAR 16.504(c)(2)(i)(A)</p>
-                        <p id="scLShv" class="- topic/p ">AFFARS 5316.504(c)(2)(i)(A)</p>
+                     <entry>
+                        <p id="d9Ass0">DFARS 212.207(b)(iii)</p>
+                        <p id="t7q7kM">AFFARS 5312.207(b)(iii)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="oK5Oyj" class="- topic/p ">Designates official other than contracting officer to make determination in writing, as part of acquisition planning, that multiple awards are not practicable (Contracts for A&amp;S)</p>
+                     <entry>
+                        <p id="3k6axH">Approves written determination by the contracting officer to use T&amp;M or LH for commercial services contracts expected to extend beyond three years</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JejpcZ" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="P8oYfV">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="k45aRf" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="x3TuNh" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="GE1D8h">HCA, if the base period plus any option period exceeds 3 years</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GKmsTt" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="dccyNZ">Yes, if the base period plus any option period is 3 years or less and T&amp;M or LH value exceeds $1M</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="O4R8Mg" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="GCR7lk" class="- topic/p ">27</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tL0vSq" class="- topic/p ">FAR 16.504(c)(2)(i)(B)</p>
-                        <p id="IyFEJn" class="- topic/p ">AFFARS 5316.504(c)(2)(i)(B)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bukOyE" class="- topic/p ">Designates official other than contracting officer to make determination in writing, after the evaluation of offers, that only one offeror is capable of providing the services required at the level of quality required (Contracts for A&amp;S)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="oq2wbe" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hdGr6g" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="EvZiCD" class="- topic/p ">HCA - For All Other Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tVXNS8" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pcPbNh" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="M8LV7j">Yes, one level above the CO if the base period plus any option period is 3 years or less and the T&amp;M or LH value is less than or equal to $1M</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="KMCRuV" class="- topic/p ">28</p>
+                  <row>
+                     <entry>
+                        <p id="1YitR4">25</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Dz5brO" class="- topic/p ">FAR 16.504(c)(2)(ii)</p>
-                        <p id="EKoKYj" class="- topic/p ">AFFARS 5316.504(c)(2)(ii)</p>
+                     <entry>
+                        <p id="P9VMmr">FAR 13.501(a)(2)(iv)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="eAtC98" class="- topic/p ">Designates official other than contracting officer to make determination whether advisory and assistance services are incidental and not a significant component of contract</p>
+                     <entry>
+                        <p id="PIJGiX">Approves the justification for sole source (including brand name) acquisitions conducted under subpart 13.5 for a proposed action exceeding $100 million</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="UuIxK8" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="0YOi4S">Yes - SPE</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="jo70Qo" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="3mWmr9" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="NmKJeG">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Ktwmcc" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="YGpjUC">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="a12q4D" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="sGl5aY">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="VOhY2z" class="- topic/p ">29</p>
+                  <row>
+                     <entry>
+                        <p id="l6znZB">26</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="aCAy3V" class="- topic/p ">FAR 16.505(b)(2)(ii)(C)(4)</p>
+                     <entry>
+                        <p id="SXn8ql">FAR 16.504(c)(2)(i)(A)</p>
+                        <p id="scLShv">AFFARS 5316.504(c)(2)(i)(A)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WreRaL" class="- topic/p ">Approves the justification for exceptions to fair opportunity for a proposed order over $100 million</p>
+                     <entry>
+                        <p id="oK5Oyj">Designates official other than contracting officer to make determination in writing, as part of acquisition planning, that multiple awards are not practicable (Contracts for A&amp;S)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="n2v9Gp" class="- topic/p ">Yes - SPE</p>
+                     <entry>
+                        <p id="JejpcZ">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NeY4We" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="k45aRf">PEO - For PEO designated programs</p>
+                        <p id="x3TuNh">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rv1drM" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="GKmsTt">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dKlbUe" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="dtKKNV" class="- topic/p ">30</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Rf6LHc" class="- topic/p ">FAR 17.105-1(b)</p>
-                        <p id="V3D0lo" class="- topic/p ">AFFARS 5317.105-1(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="S8ll8e" class="- topic/p ">Enters into a multi-year contract (MYC) for supplies (DoD) if conditions at (b)(1)-(5) are met</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="2CKNRH" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mj12OX" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="DqJ5KQ" class="- topic/p ">HCA - For All Other Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GVcpGd" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fnkXzA" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="O4R8Mg">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="97JWeX" class="- topic/p ">31</p>
+                  <row>
+                     <entry>
+                        <p id="GCR7lk">27</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="okccoO" class="- topic/p ">DFARS 217.170(a)</p>
-                        <p id="uLKrzq" class="- topic/p ">AFFARS 5317.170(a)</p>
+                     <entry>
+                        <p id="tL0vSq">FAR 16.504(c)(2)(i)(B)</p>
+                        <p id="IyFEJn">AFFARS 5316.504(c)(2)(i)(B)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fPoIYj" class="- topic/p ">Compares cost if MYC to cost of an annual procurement approach, using present value analysis; award only if MYC will result in the lower cost</p>
+                     <entry>
+                        <p id="bukOyE">Designates official other than contracting officer to make determination in writing, after the evaluation of offers, that only one offeror is capable of providing the services required at the level of quality required (Contracts for A&amp;S)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="js4E5V" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="oq2wbe">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="n3p0OA" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="W06Cfv" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="hdGr6g">PEO - For PEO designated programs</p>
+                        <p id="EvZiCD">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5xaUy3" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="tVXNS8">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="58LA81" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="uGDNJ4" class="- topic/p ">32</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WseUJl" class="- topic/p ">DFARS 217.170(b)</p>
-                        <p id="ZOhR07" class="- topic/p ">AFFARS 5317.170(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="77SHdG" class="- topic/p ">Provides written notice to the congressional defense committees at least 30 days before termination of any MYC</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XK5yxa" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="iB7oqH" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="HnnmTj" class="- topic/p ">HCA - For All Other Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hruQ88" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vy1XfG" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="pcPbNh">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="muNbGP" class="- topic/p ">33</p>
+                  <row>
+                     <entry>
+                        <p id="KMCRuV">28</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="paaV7y" class="- topic/p ">DFARS 217.171(c)</p>
-                        <p id="sToSzt" class="- topic/p ">AFFARS 5317.171(c)</p>
+                     <entry>
+                        <p id="Dz5brO">FAR 16.504(c)(2)(ii)</p>
+                        <p id="EKoKYj">AFFARS 5316.504(c)(2)(ii)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="d2elKt" class="- topic/p ">Makes written determination before entering into a MYC that the conditions at (c)(1)-(3) are met</p>
+                     <entry>
+                        <p id="eAtC98">Designates official other than contracting officer to make determination whether advisory and assistance services are incidental and not a significant component of contract</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5ECKmS" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="UuIxK8">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Cxt6Gs" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="62N2ov" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="jo70Qo">PEO - For PEO designated programs</p>
+                        <p id="3mWmr9">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PUqPL1" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="Ktwmcc">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="DvpqnR" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="BVDvK7" class="- topic/p ">34</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hMSEVr" class="- topic/p ">DFARS 217.172(h)</p>
-                        <p id="rMW0Fg" class="- topic/p ">AFFARS 5317.172(h)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="6lm1lL" class="- topic/p ">Ensures that the conditions at (h)(1)-(7) are satisfied before awarding a MYC for a defense acquisition program that has been specifically authorized by law to be carried out using MYC authority</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VEpuHg" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8inj6x" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="Qv9NEL" class="- topic/p ">HCA - For All Other Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NIJQv9" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="1CelG8" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="a12q4D">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="QbBeJT" class="- topic/p ">35</p>
+                  <row>
+                     <entry>
+                        <p id="VOhY2z">29</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="R6h3le" class="- topic/p ">DFARS 217.173</p>
-                        <p id="DxGk83" class="- topic/p ">AFFARS 5317.173</p>
+                     <entry>
+                        <p id="aCAy3V">FAR 16.505(b)(2)(ii)(C)(4)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="QTDrAe" class="- topic/p ">Enters into a MYC for up to 4 years (for supplies and services required for management, maintenance, and operation of military family housing) and pay for each year from annual appropriations</p>
+                     <entry>
+                        <p id="WreRaL">Approves the justification for exceptions to fair opportunity for a proposed order over $100 million</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="nTyWW8" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="n2v9Gp">Yes - SPE</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="1zSDyy" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="m7lLPg" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="NeY4We">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="u9dN3K" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="rv1drM">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="L7d24V" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="dKlbUe">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="QbteZD" class="- topic/p ">36</p>
+                  <row>
+                     <entry>
+                        <p id="dtKKNV">30</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="36GqJy" class="- topic/p ">DFARS 217.204(e)(i)(C)</p>
-                        <p id="xA5HeB" class="- topic/p ">AFFARS 5317.204(e)(i)(C)</p>
+                     <entry>
+                        <p id="Rf6LHc">FAR 17.105-1(b)</p>
+                        <p id="V3D0lo">AFFARS 5317.105-1(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="cRYsyP" class="- topic/p ">Determines in writing that exceptional circumstances require an ordering period that exceeds 10 years.</p>
+                     <entry>
+                        <p id="S8ll8e">Enters into a multi-year contract (MYC) for supplies (DoD) if conditions at (b)(1)-(5) are met</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9v9R6q" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="2CKNRH">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3QYRLU" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="qP0rES" class="- topic/p ">HCA - For All Other Programs</p>
+                     <entry>
+                        <p id="mj12OX">PEO - For PEO designated programs</p>
+                        <p id="DqJ5KQ">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0S08tK" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="GVcpGd">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bEav3z" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="HlPeTf" class="- topic/p ">37</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ivb9Xr" class="- topic/p ">DFARS 217.204(e)(iii)</p>
-                        <p id="gRbUjD" class="- topic/p ">AFFARS 5317.204(e)(iii)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IqB8a1" class="- topic/p ">Approves issuance of an order subject to 217.204(e)(i) if performance under the order is expected to extend more than 1 year beyond the 10-yr limit or extended limit described in (e)(i)(C)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tU7CdP" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="6NhCVx" class="- topic/p ">PEO - For PEO designated programs</p>
-                        <p id="BMz8SB" class="- topic/p ">HCA - For All Other Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uEDDkw" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="y0jTnC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="fnkXzA">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="oeVtAA" class="- topic/p ">38</p>
+                  <row>
+                     <entry>
+                        <p id="97JWeX">31</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="2bV1dS" class="- topic/p ">FAR 17.502-2(c)(2)</p>
+                     <entry>
+                        <p id="okccoO">DFARS 217.170(a)</p>
+                        <p id="uLKrzq">AFFARS 5317.170(a)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="M1Slwm" class="- topic/p ">Approves D&amp;F for an Economy Act order to obtain supplies or services by interagency acquisition when the servicing agency is not covered by the FAR</p>
+                     <entry>
+                        <p id="fPoIYj">Compares cost if MYC to cost of an annual procurement approach, using present value analysis; award only if MYC will result in the lower cost</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bOpb5E" class="- topic/p ">Yes - SPE</p>
+                     <entry>
+                        <p id="js4E5V">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="opkhV6" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="n3p0OA">PEO - For PEO designated programs</p>
+                        <p id="W06Cfv">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BWj3nA" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="5xaUy3">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="6Qm1mC" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="hJi74x" class="- topic/p ">39</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IC6TdJ" class="- topic/p ">DFARS 217.7404-5(b)</p>
-                        <p id="r83cvq" class="- topic/p ">AFARS 5317.7404-5(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="jQw3qi" class="- topic/p ">Waives limitations of 217.7404(a) Foreign military sales contracts; 217.7404-2 Price ceiling; 217.7404-3 Definitization schedule; and 217.7404-4 Limitations of obligations, if necessary to support cont. ops or humanitarian/peacekeeping op.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="MFKRKW" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BPvJ6p" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="27JLw0" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="eJkXy1" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="58LA81">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="0PRJiL" class="- topic/p ">40</p>
+                  <row>
+                     <entry>
+                        <p id="uGDNJ4">32</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="kSPM6e" class="- topic/p ">FAR 19.1505(g)(3)</p>
-                        <p id="sqvIuW" class="- topic/p ">AFFARS 5319.1505(g)(3)</p>
+                     <entry>
+                        <p id="WseUJl">DFARS 217.170(b)</p>
+                        <p id="ZOhR07">AFFARS 5317.170(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uQyGVM" class="- topic/p ">Issues a written decision on appeal of CO rejection of SBA recommendation or makes a written determination that urgent and compelling circumstances which significantly affect the interests of the United States compel award of the contract</p>
+                     <entry>
+                        <p id="77SHdG">Provides written notice to the congressional defense committees at least 30 days before termination of any MYC</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BNrKwY" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="XK5yxa">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="J7OabA" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="iB7oqH">PEO - For PEO designated programs</p>
+                        <p id="HnnmTj">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GNDG0z" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="hruQ88">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BWDyy3" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="DxgZl1" class="- topic/p ">41</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xjU03x" class="- topic/p ">FAR 19.1505(g)(5)</p>
-                        <p id="uZJbHc" class="- topic/p ">AFFARS 5319.1505(g)(5)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="F70OON" class="- topic/p ">Specifies in writing the reasons for a denial of an SBA formal appeal</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0Uaho5" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bTF55N" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="7AnIP7" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="QaTYBV" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="vy1XfG">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="s8l0LF" class="- topic/p ">42</p>
+                  <row>
+                     <entry>
+                        <p id="muNbGP">33</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JGqc64" class="- topic/p ">DFARS 222.7003</p>
-                        <p id="R3kZQc" class="- topic/p ">AFFARS 5322.7003</p>
+                     <entry>
+                        <p id="paaV7y">DFARS 217.171(c)</p>
+                        <p id="sToSzt">AFFARS 5317.171(c)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="yHnHNJ" class="- topic/p ">Waives the requirements of 222.7002 on case-by-case basis for national security</p>
+                     <entry>
+                        <p id="d2elKt">Makes written determination before entering into a MYC that the conditions at (c)(1)-(3) are met</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JWbJ9T" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="5ECKmS">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="4A9wa9" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="Cxt6Gs">PEO - For PEO designated programs</p>
+                        <p id="62N2ov">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fQVKvh" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="PUqPL1">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ao4VrK" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="FUPSCP" class="- topic/p ">43</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="EN1gsS" class="- topic/p ">FAR 25.103(a)DFARS 225.103(a)(ii)(B)(3)</p>
-                        <p id="Ij5WZr" class="- topic/p ">AFFARS 5325.103(a)(ii)(B)(3)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="21Xaie" class="- topic/p ">Determines that domestic preference for foreign end product would be inconsistent with the public interest for acquisitions valued at $1.5 million or more.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="1SJWUL" class="- topic/p ">Yes - HoA</p>
-                        <p id="qj8a27zf" class="- topic/p ">For ACAT I Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8UT1d5" class="- topic/p ">HCA - For other than ACAT I programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3dxc8M" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hA8Bjb" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="DvpqnR">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="GdrCRs" class="- topic/p ">44</p>
+                  <row>
+                     <entry>
+                        <p id="BVDvK7">34</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VBjb8J" class="- topic/p ">FAR 25.202(a)(1)</p>
-                        <p id="2QheTR" class="- topic/p ">AFFARS 5325.202(a)(1)</p>
+                     <entry>
+                        <p id="hMSEVr">DFARS 217.172(h)</p>
+                        <p id="rMW0Fg">AFFARS 5317.172(h)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Y6ldhw" class="- topic/p ">Determines that application of the restrictions of the Buy American statute to a particular construction material would be impracticable or would be inconsistent with the public interest.</p>
+                     <entry>
+                        <p id="6lm1lL">Ensures that the conditions at (h)(1)-(7) are satisfied before awarding a MYC for a defense acquisition program that has been specifically authorized by law to be carried out using MYC authority</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Hxurpk" class="- topic/p ">Yes - HoA</p>
-                        <p id="qzr0l61n" class="- topic/p ">For ACAT I Programs</p>
+                     <entry>
+                        <p id="VEpuHg">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5uMndZ" class="- topic/p ">HCA - For other than ACAT I programs</p>
+                     <entry>
+                        <p id="8inj6x">PEO - For PEO designated programs</p>
+                        <p id="Qv9NEL">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Hrx9CC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="NIJQv9">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9TeQTW" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="kizVlx" class="- topic/p ">45</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VrFMBF" class="- topic/p ">FAR 25.204(b)</p>
-                        <p id="kJPTFU" class="- topic/p ">AFFARS 5325.204(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WudgDp" class="- topic/p ">Specifies a higher percentage than 6 percent that the CO adds to the offered price of any foreign construction material proposed for exception from the requirements of the Buy American statute based on the unreasonable cost of domestic construction materials.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mGUdcc" class="- topic/p ">Yes - HoA</p>
-                        <p id="5yl4b27" class="- topic/p ">For ACAT I Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="z8DcBy" class="- topic/p ">HCA - For other than ACAT I programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PAOLkN" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dA4kY9" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="1CelG8">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="zsTPaW" class="- topic/p ">46</p>
+                  <row>
+                     <entry>
+                        <p id="QbBeJT">35</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="UNMCnM" class="- topic/p ">FAR 25.603(a)(1)(iii)</p>
-                        <p id="YBtCEZ" class="- topic/p ">AFFARS 5325.603(a)(1)(iii)</p>
+                     <entry>
+                        <p id="R6h3le">DFARS 217.173</p>
+                        <p id="DxGk83">AFFARS 5317.173</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="weRFFE" class="- topic/p ">Determines that application of the restrictions of section 1605 of the Recovery Act to a particular manufactured construction material, or the restrictions of the Buy American statute to a particular unmanufactured construction material would be inconsistent with the public interest</p>
+                     <entry>
+                        <p id="QTDrAe">Enters into a MYC for up to 4 years (for supplies and services required for management, maintenance, and operation of military family housing) and pay for each year from annual appropriations</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rSebSf" class="- topic/p ">Yes - HoA For ACAT I Programs</p>
+                     <entry>
+                        <p id="nTyWW8">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="32kMPv" class="- topic/p ">HCA - For other than ACAT I programs</p>
+                     <entry>
+                        <p id="1zSDyy">PEO - For PEO designated programs</p>
+                        <p id="m7lLPg">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WuEVGO" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="u9dN3K">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dyLO1p" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="iATSxz" class="- topic/p ">47</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="S5bei4" class="- topic/p ">FAR 25.603(a)(2)</p>
-                        <p id="IyI8Xb" class="- topic/p ">AFFARS 5325.603(a)(2)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="x8NRsH" class="- topic/p ">Determines that application of the Buy American statute to a particular unmanufactured construction material would be impracticable</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="9DsvWx" class="- topic/p ">Yes - HoA For ACAT I Programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZfahmR" class="- topic/p ">HCA - For other than ACAT I programs</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BVTiCB" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="KtJnjE" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="L7d24V">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="pivDjK" class="- topic/p ">48</p>
+                  <row>
+                     <entry>
+                        <p id="QbteZD">36</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bp6qSD" class="- topic/p ">FAR 25.603(b)(2)</p>
-                        <p id="cjOfGN" class="- topic/p ">AFFARS 5325.603(b)(2)</p>
+                     <entry>
+                        <p id="36GqJy">DFARS 217.204(e)(i)(C)</p>
+                        <p id="xA5HeB">AFFARS 5317.204(e)(i)(C)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="kSUd6B" class="- topic/p ">When a determination is made, for any of the reasons stated in this section, that certain foreign construction materials may be used, provides a notice to the Federal Register within three business days after the determination of the inapplicability of Section 1605 of the Recovery Act is made, with a copy to the Administrator for Federal Procurement Policy and to the Recovery Accountability and Transparency Board.</p>
+                     <entry>
+                        <p id="cRYsyP">Determines in writing that exceptional circumstances require an ordering period that exceeds 10 years.</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="WcCi7B" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="9v9R6q">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="7D7JPN" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="3QYRLU">PEO - For PEO designated programs</p>
+                        <p id="qP0rES">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VM8PEI" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="0S08tK">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="5RYBPX" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="kAqNxp" class="- topic/p ">49</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="X6z9ds" class="- topic/p ">FAR 25.1001(a)(2)(iii)</p>
-                        <p id="YPaCpw" class="- topic/p ">AFFARS 5325.1001(a)(2)(iii)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="YdXZrA" class="- topic/p ">Executes D&amp;F in accordance with 25.1001(b), that use of 52.215-2 w/ Alt III or 52.215-5 w/ Alt I will best serve interest of the United States</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="d9Xw0o" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mgZrAJ" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="70JEPh" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="m4IONM" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="bEav3z">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="felY0i" class="- topic/p ">50</p>
+                  <row>
+                     <entry>
+                        <p id="HlPeTf">37</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Rgz1xk" class="- topic/p ">DFARS 225.7501(c)</p>
-                        <p id="MHjvJX" class="- topic/p ">AFFARS 5325.7501(c)</p>
+                     <entry>
+                        <p id="ivb9Xr">DFARS 217.204(e)(iii)</p>
+                        <p id="gRbUjD">AFFARS 5317.204(e)(iii)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wSj7oj" class="- topic/p ">Any time during the acquisition process, determines that not in the public interest to apply the restrictions of the Balance of Payments Program to end product or construction material</p>
+                     <entry>
+                        <p id="IqB8a1">Approves issuance of an order subject to 217.204(e)(i) if performance under the order is expected to extend more than 1 year beyond the 10-yr limit or extended limit described in (e)(i)(C)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="MFIwwh" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="tU7CdP">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IC1cUF" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="6NhCVx">PEO - For PEO designated programs</p>
+                        <p id="BMz8SB">HCA - For All Other Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8e19Z7" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="uEDDkw">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ImfBsi" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="eqilOs" class="- topic/p ">51</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8uYOwa" class="- topic/p ">DFARS 225.7703-2</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pylNZ3" class="- topic/p ">Makes written determination that it is in the national security interest of the US to use procedures in 225.7703-1(a) for products or services not limited to use by the military forces, police, or other security personnel of Afghanistan</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0iyoxJ" class="- topic/p ">Yes - SAE</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="8q1hze" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="qvq4fX" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VEKIxt" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="y0jTnC">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="TuABbm" class="- topic/p ">52</p>
+                  <row>
+                     <entry>
+                        <p id="oeVtAA">38</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="FxcD61" class="- topic/p ">FARS 26.203(b)</p>
-                        <p id="GRAIJk" class="- topic/p ">AFFARS 5326.203(b)</p>
+                     <entry>
+                        <p id="2bV1dS">FAR 17.502-2(c)(2)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="zEJzix" class="- topic/p ">Determines in writing that transition to local firms is not feasible or practicable (individual or class basis)</p>
+                     <entry>
+                        <p id="M1Slwm">Approves D&amp;F for an Economy Act order to obtain supplies or services by interagency acquisition when the servicing agency is not covered by the FAR</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="cOlEO4" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="bOpb5E">Yes - SPE</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="KPHqdC" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="opkhV6">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hsX6pE" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="BWj3nA">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uU7X5L" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="56UDMH" class="- topic/p ">53</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="A4sIZk" class="- topic/p ">FAR 27.306(a)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="X5IwC4" class="- topic/p ">In contracts with small business concerns or nonprofits, approves and signs written justification allowing Government to require licensing to 3rd parties of inventions. May only authorize if (1) Use of the invention by others is necessary for the practice of a subject invention or for the use of a work object of the contract; and (2) Action is necessary to achieve the practical application of the subject invention or work object.</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="abquok" class="- topic/p ">Yes - HoA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pHWl6e" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="53zB5h" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xFSyrr" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="6Qm1mC">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="Y9Hcre" class="- topic/p ">54</p>
+                  <row>
+                     <entry>
+                        <p id="hJi74x">39</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RI03AY" class="- topic/p ">FAR 30.202-6(b)</p>
+                     <entry>
+                        <p id="IC6TdJ">DFARS 217.7404-5(b)</p>
+                        <p id="r83cvq">AFARS 5317.7404-5(b)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="CA55OF" class="- topic/p ">Authorizes award of a CAS-covered contract w/o obtaining submission of the required disclosure statement</p>
+                     <entry>
+                        <p id="jQw3qi">Waives limitations of 217.7404(a) Foreign military sales contracts; 217.7404-2 Price ceiling; 217.7404-3 Definitization schedule; and 217.7404-4 Limitations of obligations, if necessary to support cont. ops or humanitarian/peacekeeping op.</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="c39Gtn" class="- topic/p ">Yes - HoA</p>
+                     <entry>
+                        <p id="MFKRKW">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="JBvJ4N" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="BPvJ6p">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="DnjuQD" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="27JLw0">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ot7myF" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="sJI1ID" class="- topic/p ">55</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wby4Kn" class="- topic/p ">FAR 32.402(c)(1)(iii)</p>
-                        <p id="K9R9mS" class="- topic/p ">AFFARS 5332.402(c)(1)(iii)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xGaVEp" class="- topic/p ">Determines, based on written findings, that advance payment is in public interest or facilitates national defense</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="kJXhaN" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3EZdNC" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ROyIrW" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mPnoaX" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="eJkXy1">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="KGInlp" class="- topic/p ">56</p>
+                  <row>
+                     <entry>
+                        <p id="0PRJiL">40</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="j0oiw9" class="- topic/p ">FAR 32.906(a)</p>
-                        <p id="3v89mJ" class="- topic/p ">AFFARS 5332.906(a)</p>
+                     <entry>
+                        <p id="kSPM6e">FAR 19.1505(g)(3)</p>
+                        <p id="sqvIuW">AFFARS 5319.1505(g)(3)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="CD26x9" class="- topic/p ">Determines that (1) making invoice and contract financing payments earlier than 7 days prior to the dates specified in the contract is warranted in a specific case; or (2) use of accelerated payment methods described in 5 CFR §1315.5 is necessary</p>
+                     <entry>
+                        <p id="uQyGVM">Issues a written decision on appeal of CO rejection of SBA recommendation or makes a written determination that urgent and compelling circumstances which significantly affect the interests of the United States compel award of the contract</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xEAz9g" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="BNrKwY">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="gYF0pR" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="J7OabA">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pjTcLC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="GNDG0z">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fcEBhU" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="uMCuzm" class="- topic/p ">57</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="KMbIop" class="- topic/p ">FAR 32.1106(b)</p>
-                        <p id="RQfd2N" class="- topic/p ">AFFARS 5332.1106(b)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="qF39N3" class="- topic/p ">Authorizes electronic funds transfer (EFT) for a non-domestic transaction if (1) the political, financial, and communications infrastructure in the foreign country supports EFT payment; or (2) payments of other than United States currency may be made safely</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="3v3le1" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NZ4FBy" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="OeMeNW" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dExXR6" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="BWDyy3">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="hQC7oO" class="- topic/p ">58</p>
+                  <row>
+                     <entry>
+                        <p id="DxgZl1">41</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="aqYEJG" class="- topic/p ">DFARS 236.270(a)</p>
+                     <entry>
+                        <p id="xjU03x">FAR 19.1505(g)(5)</p>
+                        <p id="uZJbHc">AFFARS 5319.1505(g)(5)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bXcF4z" class="- topic/p ">Certifies that the additional expenditures are necessary to protect the National interest AND establishes a reasonable completion date for the project (Approval to expedite the completion date of a contract funded by a MILCON appropriations act, if additional costs are involved)</p>
+                     <entry>
+                        <p id="F70OON">Specifies in writing the reasons for a denial of an SBA formal appeal</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XmhFkC" class="- topic/p ">Yes - HoA</p>
+                     <entry>
+                        <p id="0Uaho5">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tLNx7k" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="bTF55N">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="l6kl2X" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="7AnIP7">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="P1Ao3y" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="4rdp6a" class="- topic/p ">59</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="dUhR6q" class="- topic/p ">FAR 37.113-1(a)</p>
-                        <p id="R0mBRc" class="- topic/p ">AFFARS 5337.113-1(a)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0vThZk" class="- topic/p ">May waive the 31.205-6(g)(6) cost allowability limitations on severance payments to foreign nationals that meet the conditions at 37.113-1(a)(1)-(2)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="0Wi17P" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="QRocHY" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tmB7U1" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wcUxeg" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="QaTYBV">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="i5uZiM" class="- topic/p ">60</p>
+                  <row>
+                     <entry>
+                        <p id="s8l0LF">42</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BOChW9" class="- topic/p ">DFARS 243.204-70-5(c)</p>
-                        <p id="7OKSjz" class="- topic/p ">AFFARS 5343.204-70-5(c)</p>
+                     <entry>
+                        <p id="JGqc64">DFARS 222.7003</p>
+                        <p id="R3kZQc">AFFARS 5322.7003</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="HT6JBs" class="- topic/p ">Waives limitations of 243.204-70-2 (price ceiling); 243.204-70-3 (definitization schedule); and 243.204-70-4 (limitations on obligations) if necessary to support cont. ops or humanitarian/peacekeeping op.</p>
+                     <entry>
+                        <p id="yHnHNJ">Waives the requirements of 222.7002 on case-by-case basis for national security</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PmAK7o" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="JWbJ9T">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Lk7ikP" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="4A9wa9">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="zlICyH" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="fQVKvh">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="lAeXAC" class="- topic/p ">No</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="udI2TR" class="- topic/p ">61</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="zSTZrD" class="- topic/p ">FAR 44.302(a)</p>
-                        <p id="3fRFaA" class="- topic/p ">AFFARS 5344.302(a)</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="k9m6QE" class="- topic/p ">Raises or lowers the $25 million contractor purchasing system review (CPSR) level if considered to be in the Government's best interest</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vJ8rVw" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hQ9eZh" class="- topic/p ">HCA</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rvvsX9" class="- topic/p ">No</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="PVCVnC" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="ao4VrK">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="2AjyV8" class="- topic/p ">62</p>
+                  <row>
+                     <entry>
+                        <p id="FUPSCP">43</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RH6kBh" class="- topic/p ">DFARS 245.102(4)(ii)(B)</p>
-                        <p id="WWoEKs" class="- topic/p ">AFFARS 5345.102(4)(ii)(B)</p>
+                     <entry>
+                        <p id="EN1gsS">FAR 25.103(a)DFARS 225.103(a)(ii)(B)(3)</p>
+                        <p id="Ij5WZr">AFFARS 5325.103(a)(ii)(B)(3)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="4vWIol" class="- topic/p ">Determines contractor will not be required to tag, label, or mark items that are to be in support of contingency operation or to facilitate defense against/recovery from NBCR attack</p>
+                     <entry>
+                        <p id="21Xaie">Determines that domestic preference for foreign end product would be inconsistent with the public interest for acquisitions valued at $1.5 million or more.</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="QKlFoh" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="1SJWUL">Yes - HoA</p>
+                        <p id="qj8a27zf">For ACAT I Programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="jBwElw" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="8UT1d5">HCA - For other than ACAT I programs</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="yoEanp" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="3dxc8M">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="aYf0f3" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="hA8Bjb">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="ENA5J7" class="- topic/p ">63</p>
+                  <row>
+                     <entry>
+                        <p id="GdrCRs">44</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vMhGXi" class="- topic/p ">DFARS 245.102(4)(ii)(C)(1)(i)</p>
-                        <p id="YikjOT" class="- topic/p ">AFFARS 5345.102(4(ii)(C)(1)(i)</p>
+                     <entry>
+                        <p id="VBjb8J">FAR 25.202(a)(1)</p>
+                        <p id="2QheTR">AFFARS 5325.202(a)(1)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="lx04Py" class="- topic/p ">Executes D&amp;F concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR part 12 or part 8 <b id="UKx5rP" class="+ topic/ph hi-d/b ">for ACAT I programs.</b>
+                     <entry>
+                        <p id="Y6ldhw">Determines that application of the restrictions of the Buy American statute to a particular construction material would be impracticable or would be inconsistent with the public interest.</p>
+                     </entry>
+                     <entry>
+                        <p id="Hxurpk">Yes - HoA</p>
+                        <p id="qzr0l61n">For ACAT I Programs</p>
+                     </entry>
+                     <entry>
+                        <p id="5uMndZ">HCA - For other than ACAT I programs</p>
+                     </entry>
+                     <entry>
+                        <p id="Hrx9CC">No</p>
+                     </entry>
+                     <entry>
+                        <p id="9TeQTW">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="kizVlx">45</p>
+                     </entry>
+                     <entry>
+                        <p id="VrFMBF">FAR 25.204(b)</p>
+                        <p id="kJPTFU">AFFARS 5325.204(b)</p>
+                     </entry>
+                     <entry>
+                        <p id="WudgDp">Specifies a higher percentage than 6 percent that the CO adds to the offered price of any foreign construction material proposed for exception from the requirements of the Buy American statute based on the unreasonable cost of domestic construction materials.</p>
+                     </entry>
+                     <entry>
+                        <p id="mGUdcc">Yes - HoA</p>
+                        <p id="5yl4b27">For ACAT I Programs</p>
+                     </entry>
+                     <entry>
+                        <p id="z8DcBy">HCA - For other than ACAT I programs</p>
+                     </entry>
+                     <entry>
+                        <p id="PAOLkN">No</p>
+                     </entry>
+                     <entry>
+                        <p id="dA4kY9">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="zsTPaW">46</p>
+                     </entry>
+                     <entry>
+                        <p id="UNMCnM">FAR 25.603(a)(1)(iii)</p>
+                        <p id="YBtCEZ">AFFARS 5325.603(a)(1)(iii)</p>
+                     </entry>
+                     <entry>
+                        <p id="weRFFE">Determines that application of the restrictions of section 1605 of the Recovery Act to a particular manufactured construction material, or the restrictions of the Buy American statute to a particular unmanufactured construction material would be inconsistent with the public interest</p>
+                     </entry>
+                     <entry>
+                        <p id="rSebSf">Yes - HoA For ACAT I Programs</p>
+                     </entry>
+                     <entry>
+                        <p id="32kMPv">HCA - For other than ACAT I programs</p>
+                     </entry>
+                     <entry>
+                        <p id="WuEVGO">No</p>
+                     </entry>
+                     <entry>
+                        <p id="dyLO1p">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="iATSxz">47</p>
+                     </entry>
+                     <entry>
+                        <p id="S5bei4">FAR 25.603(a)(2)</p>
+                        <p id="IyI8Xb">AFFARS 5325.603(a)(2)</p>
+                     </entry>
+                     <entry>
+                        <p id="x8NRsH">Determines that application of the Buy American statute to a particular unmanufactured construction material would be impracticable</p>
+                     </entry>
+                     <entry>
+                        <p id="9DsvWx">Yes - HoA For ACAT I Programs</p>
+                     </entry>
+                     <entry>
+                        <p id="ZfahmR">HCA - For other than ACAT I programs</p>
+                     </entry>
+                     <entry>
+                        <p id="BVTiCB">No</p>
+                     </entry>
+                     <entry>
+                        <p id="KtJnjE">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="pivDjK">48</p>
+                     </entry>
+                     <entry>
+                        <p id="bp6qSD">FAR 25.603(b)(2)</p>
+                        <p id="cjOfGN">AFFARS 5325.603(b)(2)</p>
+                     </entry>
+                     <entry>
+                        <p id="kSUd6B">When a determination is made, for any of the reasons stated in this section, that certain foreign construction materials may be used, provides a notice to the Federal Register within three business days after the determination of the inapplicability of Section 1605 of the Recovery Act is made, with a copy to the Administrator for Federal Procurement Policy and to the Recovery Accountability and Transparency Board.</p>
+                     </entry>
+                     <entry>
+                        <p id="WcCi7B">No</p>
+                     </entry>
+                     <entry>
+                        <p id="7D7JPN">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="VM8PEI">No</p>
+                     </entry>
+                     <entry>
+                        <p id="5RYBPX">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="kAqNxp">49</p>
+                     </entry>
+                     <entry>
+                        <p id="X6z9ds">FAR 25.1001(a)(2)(iii)</p>
+                        <p id="YPaCpw">AFFARS 5325.1001(a)(2)(iii)</p>
+                     </entry>
+                     <entry>
+                        <p id="YdXZrA">Executes D&amp;F in accordance with 25.1001(b), that use of 52.215-2 w/ Alt III or 52.215-5 w/ Alt I will best serve interest of the United States</p>
+                     </entry>
+                     <entry>
+                        <p id="d9Xw0o">No</p>
+                     </entry>
+                     <entry>
+                        <p id="mgZrAJ">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="70JEPh">No</p>
+                     </entry>
+                     <entry>
+                        <p id="m4IONM">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="felY0i">50</p>
+                     </entry>
+                     <entry>
+                        <p id="Rgz1xk">DFARS 225.7501(c)</p>
+                        <p id="MHjvJX">AFFARS 5325.7501(c)</p>
+                     </entry>
+                     <entry>
+                        <p id="wSj7oj">Any time during the acquisition process, determines that not in the public interest to apply the restrictions of the Balance of Payments Program to end product or construction material</p>
+                     </entry>
+                     <entry>
+                        <p id="MFIwwh">No</p>
+                     </entry>
+                     <entry>
+                        <p id="IC1cUF">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="8e19Z7">No</p>
+                     </entry>
+                     <entry>
+                        <p id="ImfBsi">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="eqilOs">51</p>
+                     </entry>
+                     <entry>
+                        <p id="8uYOwa">DFARS 225.7703-2</p>
+                     </entry>
+                     <entry>
+                        <p id="pylNZ3">Makes written determination that it is in the national security interest of the US to use procedures in 225.7703-1(a) for products or services not limited to use by the military forces, police, or other security personnel of Afghanistan</p>
+                     </entry>
+                     <entry>
+                        <p id="0iyoxJ">Yes - SAE</p>
+                     </entry>
+                     <entry>
+                        <p id="8q1hze">No</p>
+                     </entry>
+                     <entry>
+                        <p id="qvq4fX">No</p>
+                     </entry>
+                     <entry>
+                        <p id="VEKIxt">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="TuABbm">52</p>
+                     </entry>
+                     <entry>
+                        <p id="FxcD61">FARS 26.203(b)</p>
+                        <p id="GRAIJk">AFFARS 5326.203(b)</p>
+                     </entry>
+                     <entry>
+                        <p id="zEJzix">Determines in writing that transition to local firms is not feasible or practicable (individual or class basis)</p>
+                     </entry>
+                     <entry>
+                        <p id="cOlEO4">No</p>
+                     </entry>
+                     <entry>
+                        <p id="KPHqdC">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="hsX6pE">No</p>
+                     </entry>
+                     <entry>
+                        <p id="uU7X5L">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="56UDMH">53</p>
+                     </entry>
+                     <entry>
+                        <p id="A4sIZk">FAR 27.306(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="X5IwC4">In contracts with small business concerns or nonprofits, approves and signs written justification allowing Government to require licensing to 3rd parties of inventions. May only authorize if (1) Use of the invention by others is necessary for the practice of a subject invention or for the use of a work object of the contract; and (2) Action is necessary to achieve the practical application of the subject invention or work object.</p>
+                     </entry>
+                     <entry>
+                        <p id="abquok">Yes - HoA</p>
+                     </entry>
+                     <entry>
+                        <p id="pHWl6e">No</p>
+                     </entry>
+                     <entry>
+                        <p id="53zB5h">No</p>
+                     </entry>
+                     <entry>
+                        <p id="xFSyrr">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="Y9Hcre">54</p>
+                     </entry>
+                     <entry>
+                        <p id="RI03AY">FAR 30.202-6(b)</p>
+                     </entry>
+                     <entry>
+                        <p id="CA55OF">Authorizes award of a CAS-covered contract w/o obtaining submission of the required disclosure statement</p>
+                     </entry>
+                     <entry>
+                        <p id="c39Gtn">Yes - HoA</p>
+                     </entry>
+                     <entry>
+                        <p id="JBvJ4N">No</p>
+                     </entry>
+                     <entry>
+                        <p id="DnjuQD">No</p>
+                     </entry>
+                     <entry>
+                        <p id="ot7myF">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="sJI1ID">55</p>
+                     </entry>
+                     <entry>
+                        <p id="wby4Kn">FAR 32.402(c)(1)(iii)</p>
+                        <p id="K9R9mS">AFFARS 5332.402(c)(1)(iii)</p>
+                     </entry>
+                     <entry>
+                        <p id="xGaVEp">Determines, based on written findings, that advance payment is in public interest or facilitates national defense</p>
+                     </entry>
+                     <entry>
+                        <p id="kJXhaN">No</p>
+                     </entry>
+                     <entry>
+                        <p id="3EZdNC">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="ROyIrW">No</p>
+                     </entry>
+                     <entry>
+                        <p id="mPnoaX">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="KGInlp">56</p>
+                     </entry>
+                     <entry>
+                        <p id="j0oiw9">FAR 32.906(a)</p>
+                        <p id="3v89mJ">AFFARS 5332.906(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="CD26x9">Determines that (1) making invoice and contract financing payments earlier than 7 days prior to the dates specified in the contract is warranted in a specific case; or (2) use of accelerated payment methods described in 5 CFR §1315.5 is necessary</p>
+                     </entry>
+                     <entry>
+                        <p id="xEAz9g">No</p>
+                     </entry>
+                     <entry>
+                        <p id="gYF0pR">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="pjTcLC">No</p>
+                     </entry>
+                     <entry>
+                        <p id="fcEBhU">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="uMCuzm">57</p>
+                     </entry>
+                     <entry>
+                        <p id="KMbIop">FAR 32.1106(b)</p>
+                        <p id="RQfd2N">AFFARS 5332.1106(b)</p>
+                     </entry>
+                     <entry>
+                        <p id="qF39N3">Authorizes electronic funds transfer (EFT) for a non-domestic transaction if (1) the political, financial, and communications infrastructure in the foreign country supports EFT payment; or (2) payments of other than United States currency may be made safely</p>
+                     </entry>
+                     <entry>
+                        <p id="3v3le1">No</p>
+                     </entry>
+                     <entry>
+                        <p id="NZ4FBy">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="OeMeNW">No</p>
+                     </entry>
+                     <entry>
+                        <p id="dExXR6">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="hQC7oO">58</p>
+                     </entry>
+                     <entry>
+                        <p id="aqYEJG">DFARS 236.270(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="bXcF4z">Certifies that the additional expenditures are necessary to protect the National interest AND establishes a reasonable completion date for the project (Approval to expedite the completion date of a contract funded by a MILCON appropriations act, if additional costs are involved)</p>
+                     </entry>
+                     <entry>
+                        <p id="XmhFkC">Yes - HoA</p>
+                     </entry>
+                     <entry>
+                        <p id="tLNx7k">No</p>
+                     </entry>
+                     <entry>
+                        <p id="l6kl2X">No</p>
+                     </entry>
+                     <entry>
+                        <p id="P1Ao3y">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="4rdp6a">59</p>
+                     </entry>
+                     <entry>
+                        <p id="dUhR6q">FAR 37.113-1(a)</p>
+                        <p id="R0mBRc">AFFARS 5337.113-1(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="0vThZk">May waive the 31.205-6(g)(6) cost allowability limitations on severance payments to foreign nationals that meet the conditions at 37.113-1(a)(1)-(2)</p>
+                     </entry>
+                     <entry>
+                        <p id="0Wi17P">No</p>
+                     </entry>
+                     <entry>
+                        <p id="QRocHY">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="tmB7U1">No</p>
+                     </entry>
+                     <entry>
+                        <p id="wcUxeg">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="i5uZiM">60</p>
+                     </entry>
+                     <entry>
+                        <p id="BOChW9">DFARS 243.204-70-5(c)</p>
+                        <p id="7OKSjz">AFFARS 5343.204-70-5(c)</p>
+                     </entry>
+                     <entry>
+                        <p id="HT6JBs">Waives limitations of 243.204-70-2 (price ceiling); 243.204-70-3 (definitization schedule); and 243.204-70-4 (limitations on obligations) if necessary to support cont. ops or humanitarian/peacekeeping op.</p>
+                     </entry>
+                     <entry>
+                        <p id="PmAK7o">No</p>
+                     </entry>
+                     <entry>
+                        <p id="Lk7ikP">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="zlICyH">No</p>
+                     </entry>
+                     <entry>
+                        <p id="lAeXAC">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="udI2TR">61</p>
+                     </entry>
+                     <entry>
+                        <p id="zSTZrD">FAR 44.302(a)</p>
+                        <p id="3fRFaA">AFFARS 5344.302(a)</p>
+                     </entry>
+                     <entry>
+                        <p id="k9m6QE">Raises or lowers the $25 million contractor purchasing system review (CPSR) level if considered to be in the Government's best interest</p>
+                     </entry>
+                     <entry>
+                        <p id="vJ8rVw">No</p>
+                     </entry>
+                     <entry>
+                        <p id="hQ9eZh">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="rvvsX9">No</p>
+                     </entry>
+                     <entry>
+                        <p id="PVCVnC">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="2AjyV8">62</p>
+                     </entry>
+                     <entry>
+                        <p id="RH6kBh">DFARS 245.102(4)(ii)(B)</p>
+                        <p id="WWoEKs">AFFARS 5345.102(4)(ii)(B)</p>
+                     </entry>
+                     <entry>
+                        <p id="4vWIol">Determines contractor will not be required to tag, label, or mark items that are to be in support of contingency operation or to facilitate defense against/recovery from NBCR attack</p>
+                     </entry>
+                     <entry>
+                        <p id="QKlFoh">No</p>
+                     </entry>
+                     <entry>
+                        <p id="jBwElw">HCA</p>
+                     </entry>
+                     <entry>
+                        <p id="yoEanp">No</p>
+                     </entry>
+                     <entry>
+                        <p id="aYf0f3">No</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="ENA5J7">63</p>
+                     </entry>
+                     <entry>
+                        <p id="vMhGXi">DFARS 245.102(4)(ii)(C)(1)(i)</p>
+                        <p id="YikjOT">AFFARS 5345.102(4(ii)(C)(1)(i)</p>
+                     </entry>
+                     <entry>
+                        <p id="lx04Py">Executes D&amp;F concluding that it is more cost effective for the Government requiring activity to assign, mark, and register the unique item identification after delivery of an item acquired from a small business concern or a commercial item acquired under FAR part 12 or part 8 <b id="UKx5rP">for ACAT I programs.</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="brdVX1" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="brdVX1">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="HAiO0j" class="- topic/p ">PEO</p>
+                     <entry>
+                        <p id="HAiO0j">PEO</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="rU4dEX" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="rU4dEX">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GVgORW" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="GVgORW">No</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="MZmN8R" class="- topic/p ">64</p>
+                  <row>
+                     <entry>
+                        <p id="MZmN8R">64</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BZrfxw" class="- topic/p ">DFARS 249.501-70(a)</p>
-                        <p id="kL8nOF" class="- topic/p ">AFFARS 5349.501-70(a)</p>
+                     <entry>
+                        <p id="BZrfxw">DFARS 249.501-70(a)</p>
+                        <p id="kL8nOF">AFFARS 5349.501-70(a)</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mBIHov" class="- topic/p ">Approves the use of 252.249-7000, Special Termination Costs in incrementally funded contract</p>
+                     <entry>
+                        <p id="mBIHov">Approves the use of 252.249-7000, Special Termination Costs in incrementally funded contract</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="d5ACXL" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="d5ACXL">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="y0b5Ji" class="- topic/p ">HCA</p>
+                     <entry>
+                        <p id="y0b5Ji">HCA</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="pE5dIG" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="pE5dIG">No</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="YArTRo" class="- topic/p ">No</p>
+                     <entry>
+                        <p id="YArTRo">No</p>
                      </entry>
                   </row>
                </tbody>

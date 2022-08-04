@@ -20,12 +20,12 @@
              class="- map/topicref ">
       <topicref navtitle="Air Force Federal Acquisition Regulation Supplement"
                 href="Cover_1.dita"
-                outputclass="Volume"
+                outputclass="subtopic"
                 props="Cover"
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
-                xtrf="Volume"
+                xtrf="subtopic"
                 xtrc="Cover_1.html"
                 class="- map/topicref "/>
    </topicref>
@@ -41,12 +41,12 @@
              class="- map/topicref ">
       <topicref navtitle="Air Force Federal Acquisition Regulation       Supplement - MP"
                 href="Cover_3.dita"
-                outputclass="Volume"
+                outputclass="subtopic"
                 props="Cover"
                 audience="Cover_3"
                 otherprops="NoProp"
                 base="NoTitle"
-                xtrf="Volume"
+                xtrf="subtopic"
                 xtrc="Cover_3.html"
                 class="- map/topicref "/>
    </topicref>
