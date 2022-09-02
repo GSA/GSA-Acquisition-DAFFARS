@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_MP5306">
-      <title class="- topic/title " outputclass="Part">
-         <ph class="- topic/ph " props="autonumber">MP5306</ph> - Competition Requirements</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_MP5306" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Part">
+         <ph props="autonumber">MP5306</ph> - Competition Requirements</title>
       <body>
-         <p id="o0dm98rl" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="o0dm98rl">
+            <b>2019 Edition</b>
          </p>
-         <p id="ury8pylq" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         <p id="ury8pylq">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="MP5306_5.dita#AFFARS_MP5306_5">MP5306.5 — COMPETITION ADVOCATES</xref>
+                  <xref outputclass="fm:TOC" href="MP5306_5.dita#AFFARS_MP5306_5">MP5306.5 - COMPETITION ADVOCATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

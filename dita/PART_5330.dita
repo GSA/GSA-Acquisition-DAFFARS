@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5330">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">PART 5330</ph> - Cost Accounting Standards Administration</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5330" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5330</ph> - Cost Accounting Standards Administration</title>
       <body>
-         <p id="jMcLVZ" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5330.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5330 Knowledge Center</xref>
+         <p id="jMcLVZ" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5330.aspx" scope="external">AFFARS PART 5330 Knowledge Center</xref>
          </p>
-         <p id="SqLytj" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="SqLytj" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="tftcutwb" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         <p id="tftcutwb" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>

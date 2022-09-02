@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_603_1"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " id="pgvDGa" outputclass="Heading 3">
-         <ph class="- topic/ph " id="gptKQT" props="autonumber">5301.603-1</ph> General</title>
-      <conbody id="PxhaJA" class="- topic/body  concept/conbody ">
-         <p id="fPj1td" outputclass="Normal" class="- topic/p ">The HCA designees delegated contracting authority in accordance with MP5301.601(a)(i) must select and appoint contracting officers and terminate their appointments in accordance with this section and MP5301.603-90.</p>
-         <p id="cVFwiC" outputclass="List1" class="- topic/p ">(a) The SCO may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6. AFICC/CC SCCO may delegate authority to select and appoint contracting officers (and terminate their appointments in accordance with AFFARS 5301.603-1 and MP5301.603) to the AFICA/KO (OL-SOC) Director of Contracting.</p>
-         <p id="dcQp6u" outputclass="List1" class="- topic/p ">(b) Authority to issue limited contracting officer warrants of less than $5M and authority to terminate appointments of less than $5M may be delegated, but in no event will the designee be lower than the COCO.</p>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5301_603_1" ditaarch:DITAArchVersion="1.3">
+      <title id="pgvDGa" outputclass="Heading 3">
+         <ph id="gptKQT" props="autonumber">5301.603-1</ph> General</title>
+      <conbody id="PxhaJA">
+         <p id="fPj1td" outputclass="Normal">The HCA designees delegated contracting authority in accordance with MP5301.601(a)(i) must select and appoint contracting officers and terminate their appointments in accordance with this section and MP5301.603-90.</p>
+         <p id="cVFwiC" outputclass="List1">(a) The SCO may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6. AFICC/CC SCCO may delegate authority to select and appoint contracting officers (and terminate their appointments in accordance with AFFARS 5301.603-1 and MP5301.603) to the AFICA/KO (OL-SOC) Director of Contracting.</p>
+         <p id="dcQp6u" outputclass="List1">(b) Authority to issue limited contracting officer warrants of less than $5M and authority to terminate appointments of less than $5M may be delegated, but in no event will the designee be lower than the COCO.</p>
       </conbody>
    </concept>
 </dita>

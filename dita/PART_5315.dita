@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5315">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">PART 5315</ph> - Contracting by Negotiation</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5315" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5315</ph> - Contracting by Negotiation</title>
       <body>
-         <p id="yKqgTv" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5315 Knowledge Center</xref>
+         <p id="yKqgTv" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315.aspx" scope="external">AFFARS PART 5315 Knowledge Center</xref>
          </p>
-         <p id="FYyQAm" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="FYyQAm" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="rtrDVm" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised:2 May 2022</i>
+         <p id="rtrDVm" outputclass="Normal">
+            <i>Revised:2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5315_3.dita#AFFARS_SUBPART_5315_3">SUBPART 5315.3 — SOURCE SELECTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5315_3.dita#AFFARS_SUBPART_5315_3">Subpart 5315.3 - SOURCE SELECTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -43,7 +39,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5315_4.dita#AFFARS_SUBPART_5315_4">SUBPART 5315.4 — CONTRACT PRICING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5315_4.dita#AFFARS_SUBPART_5315_4">Subpart 5315.4 - CONTRACT PRICING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -125,7 +121,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5315_6.dita#AFFARS_SUBPART_5315_6">SUBPART 5315.6 — UNSOLICITED PROPOSALS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5315_6.dita#AFFARS_SUBPART_5315_6">Subpart 5315.6 - UNSOLICITED PROPOSALS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

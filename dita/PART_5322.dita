@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5322">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">PART 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5322" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
       <body>
-         <p id="MPfxZZ" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5322.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5322 Knowledge Center</xref>
+         <p id="MPfxZZ" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5322.aspx" scope="external">AFFARS PART 5322 Knowledge Center</xref>
          </p>
-         <p id="blSkjy" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="blSkjy" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="yimYUH" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         <p id="yimYUH" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_1.dita#AFFARS_SUBPART_5322_1">SUBPART 5322.1 — BASIC LABOR POLICIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_1.dita#AFFARS_SUBPART_5322_1">Subpart 5322.1 - BASIC LABOR POLICIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -43,7 +39,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_3.dita#AFFARS_SUBPART_5322_3">SUBPART 5322.3 — CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_3.dita#AFFARS_SUBPART_5322_3">Subpart 5322.3 - CONTRACT WORK HOURS AND SAFETY STANDARDS STATUTE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +51,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_4.dita#AFFARS_SUBPART_5322_4">SUBPART 5322.4 — LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_4.dita#AFFARS_SUBPART_5322_4">Subpart 5322.4 - LABOR STANDARDS FOR CONTRACTS INVOLVING CONSTRUCTION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -67,7 +63,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_8.dita#AFFARS_SUBPART_5322_8">SUBPART 5322.8 — EQUAL EMPLOYMENT OPPORTUNITY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_8.dita#AFFARS_SUBPART_5322_8">Subpart 5322.8 - EQUAL EMPLOYMENT OPPORTUNITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -79,7 +75,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_18.dita#AFFARS_SUBPART_5322_18">SUBPART 5322.18 — EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_18.dita#AFFARS_SUBPART_5322_18">Subpart 5322.18 - EMPLOYMENT ELIGIBILITY VERIFICATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -91,7 +87,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5322_70.dita#AFFARS_SUBPART_5322_70">SUBPART 5322.70 — RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5322_70.dita#AFFARS_SUBPART_5322_70">Subpart 5322.70 - RESTRICTIONS ON THE EMPLOYMENT OF PERSONNEL FOR WORK ON CONSTRUCTION AND SERVICE CONTRACTS IN NONCONTIGUOUS STATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

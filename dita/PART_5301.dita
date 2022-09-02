@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5301">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">PART 5301</ph> - Federal Acquisition Regulations System</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5301" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5301</ph> - Federal Acquisition Regulations System</title>
       <body>
-         <p id="vjhpKV" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5301 Knowledge Center</xref>
+         <p id="vjhpKV" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx" scope="external">AFFARS PART 5301 Knowledge Center</xref>
          </p>
-         <p id="YzEXrA" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="YzEXrA" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="gsDsGj" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised:</i>
-            <i class="+ topic/ph hi-d/i ">2</i>
-            <i class="+ topic/ph hi-d/i ">May 2022</i>
+         <p id="gsDsGj" outputclass="Normal">
+            <i>Revised:</i>
+            <i>2</i>
+            <i>May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_1.dita#AFFARS_SUBPART_5301_1">SUBPART 5301.1 – PURPOSE, AUTHORITY, AND ISSUANCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_1.dita#AFFARS_SUBPART_5301_1">Subpart 5301.1 - PURPOSE, AUTHORITY, AND ISSUANCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -45,7 +41,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_2.dita#AFFARS_SUBPART_5301_2">SUBPART 5301.2 – ADMINISTRATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_2.dita#AFFARS_SUBPART_5301_2">Subpart 5301.2 - ADMINISTRATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -62,7 +58,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_3.dita#AFFARS_SUBPART_5301_3">SUBPART 5301.3 – AGENCY ACQUISITION REGULATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_3.dita#AFFARS_SUBPART_5301_3">Subpart 5301.3 - AGENCY ACQUISITION REGULATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -79,7 +75,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_4.dita#AFFARS_SUBPART_5301_4">SUBPART 5301.4 – DEVIATIONS FROM THE FAR</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_4.dita#AFFARS_SUBPART_5301_4">Subpart 5301.4 - DEVIATIONS FROM THE FAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -101,7 +97,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_6.dita#AFFARS_SUBPART_5301_6">SUBPART 5301.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_6.dita#AFFARS_SUBPART_5301_6">Subpart 5301.6 - CAREER DEVELOPMENT, CONTRACTING AUTHORITY, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -158,7 +154,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_7.dita#AFFARS_SUBPART_5301_7">SUBPART 5301.7 – DETERMINATIONS AND FINDINGS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_7.dita#AFFARS_SUBPART_5301_7">Subpart 5301.7 - DETERMINATIONS AND FINDINGS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -170,7 +166,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_90.dita#AFFARS_SUBPART_5301_90">SUBPART 5301.90 – CLEARANCE</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_90.dita#AFFARS_SUBPART_5301_90">Subpart 5301.90 - CLEARANCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -187,7 +183,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5301_91.dita#AFFARS_SUBPART_5301_91">SUBPART 5301.91 – OMBUDSMAN PROGRAM</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5301_91.dita#AFFARS_SUBPART_5301_91">Subpart 5301.91 - OMBUDSMAN PROGRAM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5316">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">PART 5316</ph> - Types of Contracts</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5316" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5316</ph> - Types of Contracts</title>
       <body>
-         <p id="ZwsJzl" outputclass="Normal" class="- topic/p ">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5316.aspx"
-                  scope="external"
-                  class="- topic/xref ">AFFARS PART 5316 Knowledge Center</xref>
+         <p id="ZwsJzl" outputclass="Normal">
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5316.aspx" scope="external">AFFARS PART 5316 Knowledge Center</xref>
          </p>
-         <p id="GEhugl" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">2019 Edition</b>
+         <p id="GEhugl" outputclass="Normal">
+            <b>2019 Edition</b>
          </p>
-         <p id="sqCzCA" outputclass="Normal" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Revised: 2 May 2022</i>
+         <p id="sqCzCA" outputclass="Normal">
+            <i>Revised: 2 May 2022</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_1.dita#AFFARS_SUBPART_5316_1">SUBPART 5316.1 — SELECTING CONTRACT TYPES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_1.dita#AFFARS_SUBPART_5316_1">Subpart 5316.1 - SELECTING CONTRACT TYPES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -33,8 +29,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206">SUBPART 5316.206 — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206">Subpart 5316.206 - FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -46,7 +41,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_3.dita#AFFARS_SUBPART_5316_3">SUBPART 5316.3 — COST-REIMBURSEMENT CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_3.dita#AFFARS_SUBPART_5316_3">Subpart 5316.3 - COST-REIMBURSEMENT CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -58,7 +53,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_4.dita#AFFARS_SUBPART_5316_4">SUBPART 5316.4 — INCENTIVE CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_4.dita#AFFARS_SUBPART_5316_4">Subpart 5316.4 - INCENTIVE CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -80,7 +75,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_5.dita#AFFARS_SUBPART_5316_5">SUBPART 5316.5 — INDEFINITE-DELIVERY CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_5.dita#AFFARS_SUBPART_5316_5">Subpart 5316.5 - INDEFINITE-DELIVERY CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -107,7 +102,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_6.dita#AFFARS_SUBPART_5316_6">SUBPART 5316.6 — TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5316_6.dita#AFFARS_SUBPART_5316_6">Subpart 5316.6 - TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

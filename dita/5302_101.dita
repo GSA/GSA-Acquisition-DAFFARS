@@ -1,436 +1,395 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5302_101"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5302.101</ph> Definitions</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="LuBrZH" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Acquisition Category (ACAT)"</b> means the category of a Defense acquisition program. See <xref format="pdf"
-                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500085p.pdf?ver=2020-08-06-151441-153"
-                  scope="external"
-                  class="- topic/xref ">DoDI 5000.85, Appendix 3A</xref>
-            <xref format="pdf?ver=2017-08-11-170656-430"
-                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u "/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5302_101" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5302.101</ph> Definitions</title>
+      <conbody>
+         <p id="LuBrZH" outputclass="Normal">
+            <b>"Acquisition Category (ACAT)"</b> means the category of a Defense acquisition program. See <xref format="pdf" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500085p.pdf?ver=2020-08-06-151441-153" scope="external">DoDI 5000.85, Appendix 3A</xref>
+            <xref format="pdf?ver=2017-08-11-170656-430" href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430" scope="external">
+               <u></u>
             </xref>.</p>
-         <p id="MBsdAW" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“</b>
-            <b class="+ topic/ph hi-d/b ">AFICC</b>
-            <b class="+ topic/ph hi-d/b ">”</b> means the Air Force Installation Contracting Center which is a Primary Subordinate Unit aligned to the Air Force Installation and Mission Support Center (AFIMSC).</p>
-         <p id="TxEmyn" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Air Force Program Executive Office for Combat and Mission Support (AFPEO/CM) Contracts”</b> includes services acquisitions subject to <xref format="pdf"
-                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 63-138</u>
+         <p id="MBsdAW" outputclass="Normal">
+            <b>“</b>
+            <b>AFICC</b>
+            <b>”</b> means the Air Force Installation Contracting Center which is a Primary Subordinate Unit aligned to the Air Force Installation and Mission Support Center (AFIMSC).</p>
+         <p id="TxEmyn" outputclass="Normal">
+            <b>“Air Force Program Executive Office for Combat and Mission Support (AFPEO/CM) Contracts”</b> includes services acquisitions subject to <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf" scope="external">
+               <u>AFI 63-138</u>
             </xref>.</p>
-         <p id="wLmwSP" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“AFRCO”</b> means the Air Force Rapid Capabilities Office.</p>
-         <p id="KtqTTh" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Agency Head”</b> (see “Head of the Agency”)</p>
-         <p id="NlzPKO" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“ASAF(A)”</b> means the Assistant Secretary of the Air Force for Acquisition.</p>
-         <p id="QynYrK" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Bridge Action”</b> means a non-competitive action requiring a justification to include, but not limited to, a formal justification and approval (FAR 6.3 or 13.5), limited sources justification (FAR 8.4), and exception to fair opportunity (FAR 16.5), to retain the current or similar product or services as a result of delay in the negotiation and award of a follow-on contract. Extension of services executed in accordance with FAR 52.217-8, Option to Extend Services, is not considered a bridge action, regardless of whether or not it was negotiated and included in the original contract, unless or until the total six (6) month extension allowed is exceeded</p>
-         <p id="eorgsi" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Chief of the Contracting Office</b>
-            <b class="+ topic/ph hi-d/b ">(COCO)</b>
-            <b class="+ topic/ph hi-d/b ">"</b> means the contracting official one level below the Senior Contracting Official or their deputies, unless specifically prohibited, or as designated by the SCO.</p>
-         <p id="UzzSrN" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“DAS(C)”</b> means the Deputy Assistant Secretary (Contracting). The authority granted to DAS(C) may also be exercised by the Associate Deputy Assistant Secretary (Contracting) (ADAS(C)).</p>
-         <p id="PcHwcO" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Direct Reporting Unit (DRU)”</b> means a subdivision of the Air Force, directly subordinate to the Chief of Staff, US Air Force. A DRU performs a mission that does not fit into any of the MAJCOMs (see <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 38-101</u>
+         <p id="wLmwSP" outputclass="Normal">
+            <b>“AFRCO”</b> means the Air Force Rapid Capabilities Office.</p>
+         <p id="KtqTTh" outputclass="Normal">
+            <b>“Agency Head”</b> (see “Head of the Agency”)</p>
+         <p id="NlzPKO" outputclass="Normal">
+            <b>“ASAF(A)”</b> means the Assistant Secretary of the Air Force for Acquisition.</p>
+         <p id="QynYrK" outputclass="Normal">
+            <b>“Bridge Action”</b> means a non-competitive action requiring a justification to include, but not limited to, a formal justification and approval (FAR 6.3 or 13.5), limited sources justification (FAR 8.4), and exception to fair opportunity (FAR 16.5), to retain the current or similar product or services as a result of delay in the negotiation and award of a follow-on contract. Extension of services executed in accordance with FAR 52.217-8, Option to Extend Services, is not considered a bridge action, regardless of whether or not it was negotiated and included in the original contract, unless or until the total six (6) month extension allowed is exceeded</p>
+         <p id="eorgsi" outputclass="Normal">
+            <b>"Chief of the Contracting Office</b>
+            <b>(COCO)</b>
+            <b>"</b> means the contracting official one level below the Senior Contracting Official or their deputies, unless specifically prohibited, or as designated by the SCO.</p>
+         <p id="UzzSrN" outputclass="Normal">
+            <b>“DAS(C)”</b> means the Deputy Assistant Secretary (Contracting). The authority granted to DAS(C) may also be exercised by the Associate Deputy Assistant Secretary (Contracting) (ADAS(C)).</p>
+         <p id="PcHwcO" outputclass="Normal">
+            <b>“Direct Reporting Unit (DRU)”</b> means a subdivision of the Air Force, directly subordinate to the Chief of Staff, US Air Force. A DRU performs a mission that does not fit into any of the MAJCOMs (see <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">
+               <u>AFI 38-101</u>
             </xref>).</p>
-         <p id="pGLTvC" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Enterprise”</b> includes enterprise sourcing and services, research and development (R&amp;D), and AFSC Supply Chain Requirements.</p>
-         <p id="TGfLPa" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Field Operating Agency (FOA)”</b> means a subdivision of the Air Force, directly subordinate to a HQ USAF functional manager. A FOA performs field activities beyond the scope of any of the major commands (see <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 38-101</u>
+         <p id="pGLTvC" outputclass="Normal">
+            <b>“Enterprise”</b> includes enterprise sourcing and services, research and development (R&amp;D), and AFSC Supply Chain Requirements.</p>
+         <p id="TGfLPa" outputclass="Normal">
+            <b>“Field Operating Agency (FOA)”</b> means a subdivision of the Air Force, directly subordinate to a HQ USAF functional manager. A FOA performs field activities beyond the scope of any of the major commands (see <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">
+               <u>AFI 38-101</u>
             </xref>).</p>
-         <p id="MvkcOc" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Head of the Agency"</b> means, pursuant to <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">HAF MD 1-10</u>
+         <p id="MvkcOc" outputclass="Normal">
+            <b>"Head of the Agency"</b> means, pursuant to <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external">
+               <u>HAF MD 1-10</u>
             </xref>, the Assistant Secretary of the Air Force (Acquisition) (ASAF(A)), unless the terms of a statute or delegation indicate that an action must be done by the Secretary of the Air Force (SecAF) or the Under Secretary of the Air Force (USecAF).</p>
-         <p id="rGIhxQ" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“</b>
-            <b class="+ topic/ph hi-d/b ">Head of the Contracting Activity</b>
-            <b class="+ topic/ph hi-d/b ">(HCA)</b>
-            <b class="+ topic/ph hi-d/b ">”</b> means the DAS(C) and (ADAS)(C) for the Air Force. See delegations in <xref href="MP5301_601.dita" class="- topic/xref "/> .</p>
-         <p id="OSAUdb" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Installation Commander"</b> means an individual who functions in a command position and is responsible for a base or other Air Force installation having a base contracting office.</p>
-         <p id="ZqWIXc" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Mandatory Procedures (MP)"</b> means a companion resource to the AFFARS that—</p>
-         <p id="aYULfs" outputclass="List2" class="- topic/p ">(1) Contains mandatory internal AF procedures. The AFFARS will direct compliance with mandatory procedures using imperative language such as "Follow the procedures at..." or similar directive language;</p>
-         <p id="HwgLPe" outputclass="List2" class="- topic/p ">(2) Contains non-mandatory internal AF procedures and guidance and supplemental information to be used at the discretion of the contracting officer. The AFFARS will point to non-mandatory procedures, guidance, and information using permissive language such as "The contracting officer may use..." or "Additional information is available at..." or other similar language;</p>
-         <p id="mhbqtC" outputclass="List2" class="- topic/p ">(3) Is numbered similarly to the AFFARS, except that each MP numerical designation is preceded by the letters "MP"; and</p>
-         <p id="UPTcTG" outputclass="List2" class="- topic/p ">(4) Is available electronically as part of the AFFARS document set on Acquisition.gov.</p>
-         <p id="GxpYYJ" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Major Command (MAJCOM)”</b> means a major subdivision of the Air Force that is assigned a major part of the Air Force mission. A MAJCOM is directly subordinate to Headquarters US Air Force. (See <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 38-101</u>
+         <p id="rGIhxQ" outputclass="Normal">
+            <b>“</b>
+            <b>Head of the Contracting Activity</b>
+            <b>(HCA)</b>
+            <b>”</b> means the DAS(C) and (ADAS)(C) for the Air Force. See delegations in <xref href="MP5301_601.dita" /> .</p>
+         <p id="OSAUdb" outputclass="Normal">
+            <b>"Installation Commander"</b> means an individual who functions in a command position and is responsible for a base or other Air Force installation having a base contracting office.</p>
+         <p id="ZqWIXc">
+            <b>"Mandatory Procedures (MP)"</b> means a companion resource to the AFFARS that—</p>
+         <p id="aYULfs" outputclass="List2">(1) Contains mandatory internal AF procedures. The AFFARS will direct compliance with mandatory procedures using imperative language such as "Follow the procedures at..." or similar directive language;</p>
+         <p id="HwgLPe" outputclass="List2">(2) Contains non-mandatory internal AF procedures and guidance and supplemental information to be used at the discretion of the contracting officer. The AFFARS will point to non-mandatory procedures, guidance, and information using permissive language such as "The contracting officer may use..." or "Additional information is available at..." or other similar language;</p>
+         <p id="mhbqtC" outputclass="List2">(3) Is numbered similarly to the AFFARS, except that each MP numerical designation is preceded by the letters "MP"; and</p>
+         <p id="UPTcTG" outputclass="List2">(4) Is available electronically as part of the AFFARS document set on Acquisition.gov.</p>
+         <p id="GxpYYJ" outputclass="Normal">
+            <b>“Major Command (MAJCOM)”</b> means a major subdivision of the Air Force that is assigned a major part of the Air Force mission. A MAJCOM is directly subordinate to Headquarters US Air Force. (See <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">
+               <u>AFI 38-101</u>
             </xref>).</p>
-         <p id="ZqOmuG" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Operational”</b> means those contracting actions taken to meet the needs of installation commanders, DRUs, deployed commanders, and resident, tenant, and supported units. Operational contracting may be accomplished by contracting squadrons, operational contracting offices, contracting divisions, or another organization entity designed to meet local needs.</p>
-         <p id="VvmOFp" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Program Executive Officer (PEO)"</b>includes acquisitions within a Systems PEO’s portfolio. See <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 63-101/20-101</u>
-            </xref> and <xref format="pdf?ver=2017-08-11-170656-430"
-                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">DoDI 5000.02</u>
+         <p id="ZqOmuG" outputclass="Normal">
+            <b>“Operational”</b> means those contracting actions taken to meet the needs of installation commanders, DRUs, deployed commanders, and resident, tenant, and supported units. Operational contracting may be accomplished by contracting squadrons, operational contracting offices, contracting divisions, or another organization entity designed to meet local needs.</p>
+         <p id="VvmOFp">
+            <b>"Program Executive Officer (PEO)"</b>includes acquisitions within a Systems PEO’s portfolio. See <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf" scope="external">
+               <u>AFI 63-101/20-101</u>
+            </xref> and <xref format="pdf?ver=2017-08-11-170656-430" href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430" scope="external">
+               <u>DoDI 5000.02</u>
             </xref>.</p>
-         <p id="aBiHFl" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Quality Assurance Program Coordinator (QAPC)”</b> means the individual selected in accordance with local procedures to coordinate and manage the Quality Assurance Program.</p>
-         <p id="AIkuPi" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Quality Assurance Surveillance Plan (QASP)”</b> means the document government personnel use to assess contractor performance (see FAR 46.401, DFARS 246.401, and DFARS 237.172).</p>
-         <p id="MmcbKM" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Services Designated Official (SDO)”</b> means the individual designated to exercise responsibility for the management and oversight of the acquisition of contract services (see <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 63-138</u>
-            </xref>, <i class="+ topic/ph hi-d/i ">Acquisition of Services</i>).</p>
-         <p id="THkzvD" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“Senior Contracting Official (SCO)”</b> means the contracting official with overall functional responsibility for contracting for their organization and physically located at the following locations:</p>
-         <table id="tbl_5302_101" class="- topic/table ">
-            <tgroup cols="3" class="- topic/tgroup ">
-               <thead class="- topic/thead ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry "/>
-                     <entry class="- topic/entry ">
-                        <p id="YJrXxh" class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Position**</b>
+         <p id="aBiHFl" outputclass="Normal">
+            <b>“Quality Assurance Program Coordinator (QAPC)”</b> means the individual selected in accordance with local procedures to coordinate and manage the Quality Assurance Program.</p>
+         <p id="AIkuPi" outputclass="Normal">
+            <b>“Quality Assurance Surveillance Plan (QASP)”</b> means the document government personnel use to assess contractor performance (see FAR 46.401, DFARS 246.401, and DFARS 237.172).</p>
+         <p id="MmcbKM" outputclass="Normal">
+            <b>“Services Designated Official (SDO)”</b> means the individual designated to exercise responsibility for the management and oversight of the acquisition of contract services (see <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf" scope="external">
+               <u>AFI 63-138</u>
+            </xref>, <i>Acquisition of Services</i>).</p>
+         <p id="THkzvD">
+            <b>“Senior Contracting Official (SCO)”</b> means the contracting official with overall functional responsibility for contracting for their organization and physically located at the following locations:</p>
+         <table id="tbl_5302_101">
+            <tgroup cols="3">
+               <thead>
+                  <row>
+                     <entry />
+                     <entry>
+                        <p id="YJrXxh">
+                           <b>Position**</b>
                         </p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="aNoowx" class="- topic/p ">
-                           <b class="+ topic/ph hi-d/b ">Location</b>
+                     <entry>
+                        <p id="aNoowx">
+                           <b>Location</b>
                         </p>
                      </entry>
                   </row>
                </thead>
-               <tbody class="- topic/tbody ">
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="GATMvs" class="- topic/p ">1</p>
+               <tbody>
+                  <row>
+                     <entry>
+                        <p id="GATMvs">1</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="cyOjsZ" class="- topic/p ">AFMC/PK</p>
+                     <entry>
+                        <p id="cyOjsZ">AFMC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="yOwdOC" class="- topic/p ">Wright Patterson AFB, OH</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="wHVEce" class="- topic/p ">2</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="fIGOUt" class="- topic/p ">AFLCMC/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hLADXb" class="- topic/p ">Wright Patterson AFB, OH</p>
+                     <entry>
+                        <p id="yOwdOC">Wright Patterson AFB, OH</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="ameQbP" class="- topic/p ">3</p>
+                  <row>
+                     <entry>
+                        <p id="wHVEce">2</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="wzAEgq" class="- topic/p ">AFICC/CC</p>
+                     <entry>
+                        <p id="fIGOUt">AFLCMC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="sQYcvP" class="- topic/p ">Wright Patterson AFB, OH</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="QoZMzl" class="- topic/p ">4</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="oYXdOr" class="- topic/p ">SMC/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vFvowh" class="- topic/p ">Los Angeles AFB, CA</p>
+                     <entry>
+                        <p id="hLADXb">Wright Patterson AFB, OH</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="IiLKFa" class="- topic/p ">5</p>
+                  <row>
+                     <entry>
+                        <p id="ameQbP">3</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="iyqPlI" class="- topic/p ">AFSC/PK</p>
+                     <entry>
+                        <p id="wzAEgq">AFICC/CC</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="gHBaZZ" class="- topic/p ">Tinker AFB, OK</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="pemZiK" class="- topic/p ">6</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="mbtGWY" class="- topic/p ">AFRCO/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="aLIfJY" class="- topic/p ">Joint Base Anacostia - Bolling, Washington, DC</p>
+                     <entry>
+                        <p id="sQYcvP">Wright Patterson AFB, OH</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="jJyKYG" class="- topic/p ">7</p>
+                  <row>
+                     <entry>
+                        <p id="QoZMzl">4</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NLwAuD" class="- topic/p ">AFDW/PK</p>
+                     <entry>
+                        <p id="oYXdOr">SMC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="tgabQX" class="- topic/p ">Joint Base Andrews, MD</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="yqfJFW" class="- topic/p ">8</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="HZuyhv" class="- topic/p ">AFLCMC/PK Eglin OL</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="xKiOJz" class="- topic/p ">Eglin AFB, FL</p>
+                     <entry>
+                        <p id="vFvowh">Los Angeles AFB, CA</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="zGjjlC" class="- topic/p ">9</p>
+                  <row>
+                     <entry>
+                        <p id="IiLKFa">5</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="DCtALi" class="- topic/p ">AFLCMC/PK Hanscom OL</p>
+                     <entry>
+                        <p id="iyqPlI">AFSC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="nutpIH" class="- topic/p ">Hanscom AFB, MA</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="BvqRqI" class="- topic/p ">10</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZMGdAU" class="- topic/p ">AFNWC/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="VyoIcu" class="- topic/p ">Kirtland AFB, NM</p>
+                     <entry>
+                        <p id="gHBaZZ">Tinker AFB, OK</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="YPGEhM" class="- topic/p ">11</p>
+                  <row>
+                     <entry>
+                        <p id="pemZiK">6</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ivSGOZ" class="- topic/p ">AFRC/PK</p>
+                     <entry>
+                        <p id="mbtGWY">AFRCO/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="BGCQTq" class="- topic/p ">Robins AFB, GA</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="hTCAmY" class="- topic/p ">12</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="vacrQI" class="- topic/p ">AFRL/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uHEdCu" class="- topic/p ">Wright Patterson AFB, OH</p>
+                     <entry>
+                        <p id="aLIfJY">Joint Base Anacostia - Bolling, Washington, DC</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="DKonrd" class="- topic/p ">13</p>
+                  <row>
+                     <entry>
+                        <p id="jJyKYG">7</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="ZuDtdF" class="- topic/p ">AFSC/PK Hill OL</p>
+                     <entry>
+                        <p id="NLwAuD">AFDW/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="bLQdly" class="- topic/p ">Hill AFB, UT</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="NwlqvD" class="- topic/p ">14</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XGJEkp" class="- topic/p ">AFSC/PK Robins OL</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="XsYjYw" class="- topic/p ">Robins AFB, GA</p>
+                     <entry>
+                        <p id="tgabQX">Joint Base Andrews, MD</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="MAmxxN" class="- topic/p ">15</p>
+                  <row>
+                     <entry>
+                        <p id="yqfJFW">8</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="YtlzZM" class="- topic/p ">AFTC/PK*</p>
+                     <entry>
+                        <p id="HZuyhv">AFLCMC/PK Eglin OL</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="NURmCl" class="- topic/p ">Edwards AFB, CA</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="BWQZgs" class="- topic/p ">16</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="enCNEI" class="- topic/p ">SpRCO/PK</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="FPngOQ" class="- topic/p ">Kirtland AFB, NM</p>
+                     <entry>
+                        <p id="xKiOJz">Eglin AFB, FL</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="EDZRFF" class="- topic/p ">17</p>
+                  <row>
+                     <entry>
+                        <p id="zGjjlC">9</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="StprCa" class="- topic/p ">USAFA/PK</p>
+                     <entry>
+                        <p id="DCtALi">AFLCMC/PK Hanscom OL</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="clMgkQ" class="- topic/p ">U.S. Air Force Academy, CO</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="JzkYiZ" class="- topic/p ">18</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="cwacll" class="- topic/p ">AFICC/KC</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="FdPevA" class="- topic/p ">Joint Base Langley-Eustis, VA</p>
+                     <entry>
+                        <p id="nutpIH">Hanscom AFB, MA</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="NwCENE" class="- topic/p ">19</p>
+                  <row>
+                     <entry>
+                        <p id="BvqRqI">10</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="RsPqNe" class="- topic/p ">AFICC/KG</p>
+                     <entry>
+                        <p id="ZMGdAU">AFNWC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="achtil" class="- topic/p ">Barksdale AFB, LA</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="HJPKCN" class="- topic/p ">20</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uafqZI" class="- topic/p ">AFICC/KM</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="uFtGHI" class="- topic/p ">Scott AFB, IL</p>
+                     <entry>
+                        <p id="VyoIcu">Kirtland AFB, NM</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="RUBSha" class="- topic/p ">21</p>
+                  <row>
+                     <entry>
+                        <p id="YPGEhM">11</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="etHqSx" class="- topic/p ">AFICC/KO</p>
+                     <entry>
+                        <p id="ivSGOZ">AFRC/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="POCCvQ" class="- topic/p ">Hurlburt AFB, FL</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="irZxJM" class="- topic/p ">22</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="SiSXVj" class="- topic/p ">AFICC/KS</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Pgjsyl" class="- topic/p ">Peterson AFB, CO</p>
+                     <entry>
+                        <p id="BGCQTq">Robins AFB, GA</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="fakihA" class="- topic/p ">23</p>
+                  <row>
+                     <entry>
+                        <p id="hTCAmY">12</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="GtVGMd" class="- topic/p ">AFICC/KH</p>
+                     <entry>
+                        <p id="vacrQI">AFRL/PK</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="Xlottb" class="- topic/p ">Hickam AFB, HI</p>
-                     </entry>
-                  </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="MNkeIs" class="- topic/p ">24</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="hUoOyv" class="- topic/p ">AFICC/KT</p>
-                     </entry>
-                     <entry class="- topic/entry ">
-                        <p id="jlqEfu" class="- topic/p ">Randolph AFB, TX</p>
+                     <entry>
+                        <p id="uHEdCu">Wright Patterson AFB, OH</p>
                      </entry>
                   </row>
-                  <row class="- topic/row ">
-                     <entry class="- topic/entry ">
-                        <p id="oqKlIy" class="- topic/p ">25</p>
+                  <row>
+                     <entry>
+                        <p id="DKonrd">13</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="HzcDtj" class="- topic/p ">AFICC/KU</p>
+                     <entry>
+                        <p id="ZuDtdF">AFSC/PK Hill OL</p>
                      </entry>
-                     <entry class="- topic/entry ">
-                        <p id="IgVIOd" class="- topic/p ">Ramstein AB, Germany</p>
+                     <entry>
+                        <p id="bLQdly">Hill AFB, UT</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="NwlqvD">14</p>
+                     </entry>
+                     <entry>
+                        <p id="XGJEkp">AFSC/PK Robins OL</p>
+                     </entry>
+                     <entry>
+                        <p id="XsYjYw">Robins AFB, GA</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="MAmxxN">15</p>
+                     </entry>
+                     <entry>
+                        <p id="YtlzZM">AFTC/PK*</p>
+                     </entry>
+                     <entry>
+                        <p id="NURmCl">Edwards AFB, CA</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="BWQZgs">16</p>
+                     </entry>
+                     <entry>
+                        <p id="enCNEI">SpRCO/PK</p>
+                     </entry>
+                     <entry>
+                        <p id="FPngOQ">Kirtland AFB, NM</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="EDZRFF">17</p>
+                     </entry>
+                     <entry>
+                        <p id="StprCa">USAFA/PK</p>
+                     </entry>
+                     <entry>
+                        <p id="clMgkQ">U.S. Air Force Academy, CO</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="JzkYiZ">18</p>
+                     </entry>
+                     <entry>
+                        <p id="cwacll">AFICC/KC</p>
+                     </entry>
+                     <entry>
+                        <p id="FdPevA">Joint Base Langley-Eustis, VA</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="NwCENE">19</p>
+                     </entry>
+                     <entry>
+                        <p id="RsPqNe">AFICC/KG</p>
+                     </entry>
+                     <entry>
+                        <p id="achtil">Barksdale AFB, LA</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="HJPKCN">20</p>
+                     </entry>
+                     <entry>
+                        <p id="uafqZI">AFICC/KM</p>
+                     </entry>
+                     <entry>
+                        <p id="uFtGHI">Scott AFB, IL</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="RUBSha">21</p>
+                     </entry>
+                     <entry>
+                        <p id="etHqSx">AFICC/KO</p>
+                     </entry>
+                     <entry>
+                        <p id="POCCvQ">Hurlburt AFB, FL</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="irZxJM">22</p>
+                     </entry>
+                     <entry>
+                        <p id="SiSXVj">AFICC/KS</p>
+                     </entry>
+                     <entry>
+                        <p id="Pgjsyl">Peterson AFB, CO</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="fakihA">23</p>
+                     </entry>
+                     <entry>
+                        <p id="GtVGMd">AFICC/KH</p>
+                     </entry>
+                     <entry>
+                        <p id="Xlottb">Hickam AFB, HI</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="MNkeIs">24</p>
+                     </entry>
+                     <entry>
+                        <p id="hUoOyv">AFICC/KT</p>
+                     </entry>
+                     <entry>
+                        <p id="jlqEfu">Randolph AFB, TX</p>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p id="oqKlIy">25</p>
+                     </entry>
+                     <entry>
+                        <p id="HzcDtj">AFICC/KU</p>
+                     </entry>
+                     <entry>
+                        <p id="IgVIOd">Ramstein AB, Germany</p>
                      </entry>
                   </row>
                </tbody>
             </tgroup>
          </table>
-         <p id="IxmcWk" outputclass="Normal" class="- topic/p ">* SCO for AFOTEC at Kirtland, AFB, NM</p>
-         <p id="PAZWXu" outputclass="Normal" class="- topic/p ">** SCOs hold equivalent regulatory authority; this does not diminish or remove positional authority within the organization.</p>
-         <p id="IqZOWQ" outputclass="Normal" class="- topic/p ">The deputy or technical director to a SCO may exercise any SCO authority unless restricted in the FAR, as supplemented (e.g., individual authorized to execute a specific authority must be of a certain minimum grade/rank), or as specifically limited by the SCO. See <xref format="pdf"
-                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf"
-                  scope="external"
-                  class="- topic/xref ">
-               <u class="+ topic/ph hi-d/u ">AFI 64-105</u>
+         <p id="IxmcWk" outputclass="Normal">* SCO for AFOTEC at Kirtland, AFB, NM</p>
+         <p id="PAZWXu" outputclass="Normal">** SCOs hold equivalent regulatory authority; this does not diminish or remove positional authority within the organization.</p>
+         <p id="IqZOWQ" outputclass="Normal">The deputy or technical director to a SCO may exercise any SCO authority unless restricted in the FAR, as supplemented (e.g., individual authorized to execute a specific authority must be of a certain minimum grade/rank), or as specifically limited by the SCO. See <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf" scope="external">
+               <u>AFI 64-105</u>
             </xref> Contingency Contracting Support, to identify SCOs for contingency operations.</p>
-         <p id="PnzltJ" outputclass="Normal" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">“SpRCO”</b> means the Space Rapid Capabilities Office.</p>
-         <p id="hDhHun" class="- topic/p ">
-            <b class="+ topic/ph hi-d/b ">"Tactics, Techniques, and Procedures (TTP)"</b> means a companion resource to the AFFARS that —</p>
-         <p id="CQsHna" outputclass="List2" class="- topic/p ">(1) Implements fundamental contracting principles and other helpful tools in an informative, innovative, intuitive, user-friendly manner;</p>
-         <p id="xDjBCo" outputclass="List2" class="- topic/p ">(2) Contains non-mandatory internal procedures and guidance, and supplemental information to be used at the discretion of the contracting officer;</p>
-         <p id="xciTOK" outputclass="List2" class="- topic/p ">(3) Is not regulated by policy; rather is a living document shaped by acquisition community input; and</p>
-         <p id="XZqpmF" outputclass="List2" class="- topic/p ">(4) Is available electronically within the <xref format="html"
-                  href="https://dod.teams.microsoft.us/l/team/19%3adod%3a76888714f0cb40ed92e401c29324a647%40thread.skype/conversations?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4"
-                  scope="external"
-                  class="- topic/xref ">DAF Contracting TTP Team</xref>.</p>
+         <p id="PnzltJ" outputclass="Normal">
+            <b>“SpRCO”</b> means the Space Rapid Capabilities Office.</p>
+         <p id="hDhHun">
+            <b>"Tactics, Techniques, and Procedures (TTP)"</b> means a companion resource to the AFFARS that —</p>
+         <p id="CQsHna" outputclass="List2">(1) Implements fundamental contracting principles and other helpful tools in an informative, innovative, intuitive, user-friendly manner;</p>
+         <p id="xDjBCo" outputclass="List2">(2) Contains non-mandatory internal procedures and guidance, and supplemental information to be used at the discretion of the contracting officer;</p>
+         <p id="xciTOK" outputclass="List2">(3) Is not regulated by policy; rather is a living document shaped by acquisition community input; and</p>
+         <p id="XZqpmF" outputclass="List2">(4) Is available electronically within the <xref format="html" href="https://dod.teams.microsoft.us/l/team/19%3adod%3a76888714f0cb40ed92e401c29324a647%40thread.skype/conversations?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4" scope="external">DAF Contracting TTP Team</xref>.</p>
       </conbody>
    </concept>
 </dita>
