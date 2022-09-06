@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_403" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5301.403</ph> Individual Deviations</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5301_403"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.403</ph> Individual Deviations</title>
       <conbody>
          <p outputclass="List2">(1)(i) SCOs are authorized to approve individual deviations except as described in (ii) below or as described in DFARS 201.402(1) and DFARS 201.403(2).</p>
-         <p outputclass="List3" xtrf="CheckMapping">(ii) SAF/AQC is the approval authority for individual deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external" format="pdf">
+         <p outputclass="List3" xtrf="CheckMapping">(ii) SAF/AQC is the approval authority for individual deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf"
+                  scope="external"
+                  format="pdf">
                <u>Deviation Request</u>
             </xref> template. Deviation<ph>
                <u> requests</u>
-            </ph> must be submitted through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
+            </ph> must be submitted through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/AQC</u>
             </xref> for approval. This approval authority must not be further delegated. When a proposed deviation, as described herein, also requires a waiver from DFARS 215.3, DoD Source Selection Procedures, the waiver process in MP5315.3, para 1.2.4., must also be followed.</p>
       </conbody>

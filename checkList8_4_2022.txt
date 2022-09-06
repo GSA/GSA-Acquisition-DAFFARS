@@ -1,3 +1,0 @@
-Replace Uppercase PARTS, SUBPARTS and SUBCHAPTER to lower case
-Remove hidden non breaking space on titles
-Fixed the file with wrong table - 5315_404_1_90.dita

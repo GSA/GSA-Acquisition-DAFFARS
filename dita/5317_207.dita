@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5317_207" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.207</ph> Exercise of Options</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.207</ph> Exercise of Options</title>
       <conbody>
-         <p id="RwXGmy" outputclass="List1">(c) See the tailorable <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/exercising_an_option.pdf" scope="external">
+         <p id="RwXGmy" outputclass="List1">(c) See the tailorable <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/exercising_an_option.pdf"
+                  scope="external">
                <u>Determination and Findings -- Exercising an Option</u>
             </xref> template.</p>
       </conbody>

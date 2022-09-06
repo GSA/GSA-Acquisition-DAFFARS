@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5301_9103" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5301.9103</ph> Solicitation Provision and Contract Clause</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.9103</ph> Solicitation Provision and Contract Clause</title>
       <conbody>
-         <p id="cdLwuR" outputclass="Normal">Insert a clause substantially the same as the clause at <xref href="5352_201_9101.dita" />, Ombudsman, in all solicitations (including draft solicitations) and contracts.</p>
+         <p id="cdLwuR" outputclass="Normal">Insert a clause substantially the same as the clause at <xref href="5352_201_9101.dita"/>, Ombudsman, in all solicitations (including draft solicitations) and contracts.</p>
       </conbody>
    </concept>
 </dita>

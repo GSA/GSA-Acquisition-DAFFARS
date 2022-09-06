@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5301_9000" ditaarch:DITAArchVersion="1.3">
-      <title id="mzm2EF" outputclass="Heading 3">
-         <ph id="Jz53xB" props="autonumber">5301.9000</ph> Scope and Definitions</title>
+      <title class="- topic/title " id="mzm2EF" outputclass="Heading 3">
+         <ph class="- topic/ph " id="Jz53xB" props="autonumber">5301.9000</ph> Scope and Definitions</title>
       <conbody id="Nakpd2">
          <p id="DwoMTw" outputclass="List1">(a) This subpart establishes clearance requirements for the contract actions identified below:</p>
          <p id="FdNDSj" outputclass="List2">(1) An action intended to result in award of any contract or modification of any contract;</p>
@@ -25,7 +27,16 @@
          <p id="rapdAm" outputclass="List2">(3) Funding modifications;</p>
          <p id="SYmYJT" outputclass="List2">(4) Administrative modifications;</p>
          <p id="UfXnHC" outputclass="List2">(5) Modifications solely for changes as a result of Service Contract Labor Standards statute wage rates/fringe benefits or Fair Labor Standards Act minimum wages; and</p>
-         <p id="AdyMZb" outputclass="List2">(6) Competitive order solicitations and competitive orders issued in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4" id="cR2X8C" scope="external">FAR 8.4</xref>, <xref format="html" href="https://www.acquisition.gov/far/part-13" id="g2ASuD" scope="external">13</xref>, or <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5" id="Ntmw45" scope="external">16.5</xref> against existing MAC ID/IQ, GWACs, and FSS contracts if they do not require either one or both of the following:</p>
+         <p id="AdyMZb" outputclass="List2">(6) Competitive order solicitations and competitive orders issued in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4"
+                  id="cR2X8C"
+                  scope="external">FAR 8.4</xref>, <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13"
+                  id="g2ASuD"
+                  scope="external">13</xref>, or <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5"
+                  id="Ntmw45"
+                  scope="external">16.5</xref> against existing MAC ID/IQ, GWACs, and FSS contracts if they do not require either one or both of the following:</p>
          <p id="wwiqwY" outputclass="List3">i. Establishment of specific criteria for the evaluation of proposals and selection of the awardee for the order;</p>
          <p id="YefPDj" outputclass="List3">ii. Addition of any terms or conditions that are not included in the basic ID/IQ contract, and/or changes to the existing terms or conditions of the basic ID/IQ contract.</p>
          <p id="OqGXyx" outputclass="List1">(c) “Business Clearance” means:</p>
@@ -41,7 +52,7 @@
          <p id="YAOFlT" outputclass="List1">(f) “Clearance Reviewer (CR)” means the independent reviewer and the primary advisor to the CAA for clearance. The CR ensures the CAA has the information needed to make an informed decision. The CR identifies deficiencies, assists in resolution, and advises the CAA as appropriate. When the CR is not from the designated CR office or individual identified in the PGI and is selected by the CAA, the CR must be an experienced contracting professional, a Government employee, and must not review their own contract action.</p>
          <p id="aPUprl" outputclass="List1">(g) “Clearance Approval Authority (CAA)” means the individual identified at 5301.9001(i)(1).</p>
          <p id="PukBEy" outputclass="List1">(h) “Clearance Review” means the independent review performed by the designated CR office or individual identified in the PGI, or as otherwise selected by the CAA.</p>
-         <p id="FzpcqQ" outputclass="Normal"></p>
+         <p id="FzpcqQ" outputclass="Normal"/>
       </conbody>
    </concept>
 </dita>

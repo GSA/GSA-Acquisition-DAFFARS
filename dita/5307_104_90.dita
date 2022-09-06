@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5307_104_90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5307.104-90</ph> Solicitation Release</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5307_104_90"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5307.104-90</ph> Solicitation Release</title>
       <conbody>
-         <p outputclass="List1">(a) For ACAT programs, see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf" scope="external" format="pdf">
+         <p outputclass="List1">(a) For ACAT programs, see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                  scope="external"
+                  format="pdf">
                <u>AFI 63-101/20-101</u>
-            </xref> (paragraph 4.3.1) and <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430" scope="external" format="pdf?ver=2017-08-11-170656-430">
+            </xref> (paragraph 4.3.1) and <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002_dodi_2015.pdf?ver=2017-08-11-170656-430"
+                  scope="external"
+                  format="pdf?ver=2017-08-11-170656-430">
                <u>DoDI 5000.02</u>
             </xref>. </p>
          <p outputclass="List1">(b) For all other acquisitions, the contracting officer must not release the solicitation until the approval official has approved the Acquisition Plan (AP) unless the acquisition is being conducted pursuant to the authority of FAR 6.302-2, unusual and compelling urgency.</p>
-         <p id="p__Toc38364752" outputclass="List1"> (c) For acquisitions utilizing policies and procedures in accordance with FAR 15.3, see FAR 15.303 and the <xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf" scope="external" format="pdf">
+         <p id="p__Toc38364752" outputclass="List1"> (c) For acquisitions utilizing policies and procedures in accordance with FAR 15.3, see FAR 15.303 and the <xref href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf"
+                  scope="external"
+                  format="pdf">
                <u>DoD Source Selection Procedures</u>
             </xref>.</p>
       </conbody>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5350" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5350</ph> - Extraordinary Contractual Actions and the Safety Act</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5350">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5350</ph> - Extraordinary Contractual Actions and the Safety Act</title>
       <body>
          <p outputclass="Normal">
-            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5350.aspx">AFFARS PART 5350 Knowledge Center</xref>
+            <xref scope="external"
+                  format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5350.aspx">AFFARS PART 5350 Knowledge Center</xref>
          </p>
          <p outputclass="Normal">
             <b>2019 Edition</b>
@@ -31,7 +34,8 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5350_102.dita#AFFARS_SUBPART_5350_102">Subpart 5350.102 - DELEGATION OF AND LIMITATIONS ON EXERCISE OF AUTHORITY</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_102.dita#AFFARS_SUBPART_5350_102">Subpart 5350.102 - DELEGATION OF AND LIMITATIONS ON EXERCISE OF AUTHORITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -48,7 +52,8 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5350_103.dita#AFFARS_SUBPART_5350_103">Subpart 5350.103 - CONTRACT ADJUSTMENTS</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_103.dita#AFFARS_SUBPART_5350_103">Subpart 5350.103 - CONTRACT ADJUSTMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -60,7 +65,8 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5350_104.dita#AFFARS_SUBPART_5350_104">Subpart 5350.104 - RESIDUAL POWERS</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5350_104.dita#AFFARS_SUBPART_5350_104">Subpart 5350.104 - RESIDUAL POWERS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5346" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5346</ph> - Quality Assurance</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5346">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5346</ph> - Quality Assurance</title>
       <body>
          <p outputclass="Normal">
-            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5346.aspx">AFFARS PART 5346 Knowledge Center</xref>
+            <xref scope="external"
+                  format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5346.aspx">AFFARS PART 5346 Knowledge Center</xref>
          </p>
          <p outputclass="Normal">
             <b>2019 Edition</b>
