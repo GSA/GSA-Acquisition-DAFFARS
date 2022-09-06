@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5301_404" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5301.404</ph> Class Deviations</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5301.404</ph> Class Deviations</title>
       <conbody>
-         <p id="VLkQih" outputclass="List1">(b)(i) USD(A&amp;S)/DPC is the approval authority for any class deviation described in DFARS 201.402(1), class deviations from DFARS 215.3, and class deviations that meet the criteria in DFARS 201.404(b)(II)(A-D).Submit requests through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+         <p id="VLkQih" outputclass="List1">(b)(i) USD(A&amp;S)/DPC is the approval authority for any class deviation described in DFARS 201.402(1), class deviations from DFARS 215.3, and class deviations that meet the criteria in DFARS 201.404(b)(II)(A-D).Submit requests through the SCO to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref> for processing to USD(A&amp;S)/DPC for approval.</p>
-         <p id="ovSGgY" outputclass="List3" xtrf="CheckMapping">(ii) The DAS(C)/ADAS(C) is the approval authority for class deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external">
+         <p id="ovSGgY" outputclass="List3" xtrf="CheckMapping">(ii) The DAS(C)/ADAS(C) is the approval authority for class deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf"
+                  scope="external">
                <u>Deviation Request</u>
-            </xref> template. Requests must be submitted through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+            </xref> template. Requests must be submitted through the SCO to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref> for approval.</p>
          <p id="EeKalU" outputclass="List3" xtrf="CheckMapping">(iii) SCOs are authorized to approve class deviations except as restricted by paragraphs (i) and (ii) above. Class deviation approval authority is not delegable.</p>

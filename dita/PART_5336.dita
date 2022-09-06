@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5336" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5336</ph> - Construction and Architect-Engineer Contracts</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5336">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5336</ph> - Construction and Architect-Engineer Contracts</title>
       <body>
          <p id="eKgxtq" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx" scope="external">AFFARS PART 5336 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5336.aspx"
+                  scope="external">AFFARS PART 5336 Knowledge Center</xref>
          </p>
          <p id="yqtbbe" outputclass="Normal">
             <b>2019 Edition</b>

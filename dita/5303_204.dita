@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5303_204" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5303.204</ph> Treatment of Violations</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5303_204"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5303.204</ph> Treatment of Violations</title>
       <conbody>
          <p outputclass="List1">(a) SAF/GCR is authorized to conduct hearings and make findings of fact in accordance with FAR 3.204(a). If a hearing is held, SAF/GCR will provide recommendations to ASAF(A) or the Principal Civilian or Military Deputy.</p>
       </conbody>

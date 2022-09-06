@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_4_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">4.1</ph> Minimum Requirements</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP_5315_3_4_1"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">4.1</ph> Minimum Requirements</title>
       <conbody>
          <p outputclass="List2">4.1.15 All briefing charts presented to the SSA (including, but not limited to, competitive range briefing charts, pre-FPR request briefing charts, and decision briefing charts) must be included in the official (permanent) contract file. </p>
          <p outputclass="List2">4.1.16 Evaluation worksheets and summaries shall be included in the official (permanent) contract file.</p>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5337_204" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5337.204</ph> Guidelines for Determining Availability of Personnel</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5337.204</ph> Guidelines for Determining Availability of Personnel</title>
       <conbody>
          <p id="XaQffq" outputclass="Normal">This approval has been delegated to MAJCOM/DRU/AFRCO Commanders and, within AFMC and SMC, to the Center Commanders.</p>
       </conbody>

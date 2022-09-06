@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5327_9000" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5327.9000</ph> Foreign Disclosure Policy</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5327.9000</ph> Foreign Disclosure Policy</title>
       <conbody>
-         <p id="wiriTJ" outputclass="Normal">For Foreign Disclosure issues, Government personnel should refer to National Disclosure Policy (NDP-1), <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_ia/publication/afi16-201/afi16-201.pdf" scope="external">
+         <p id="wiriTJ" outputclass="Normal">For Foreign Disclosure issues, Government personnel should refer to National Disclosure Policy (NDP-1), <xref format="pdf"
+                  href="http://static.e-publishing.af.mil/production/1/saf_ia/publication/afi16-201/afi16-201.pdf"
+                  scope="external">
                <u>AFI 16-201</u>
-            </xref>, and <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_ia/publication/afpd16-2/afpd16-2.pdf" scope="external">
+            </xref>, and <xref format="pdf"
+                  href="http://static.e-publishing.af.mil/production/1/saf_ia/publication/afpd16-2/afpd16-2.pdf"
+                  scope="external">
                <u>AFPD 16-2</u>
             </xref>, Disclosure of Military Information to Foreign Governments and International Organizations and follow all procedures including foreign disclosure reviews.</p>
       </conbody>
