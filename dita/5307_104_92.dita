@@ -90,7 +90,15 @@
          <p id="VqhLkd" outputclass="List1">(b) Modifications within the scope of the contract;</p>
          <p id="pLNDtF" outputclass="List1">(c) Replenishment parts except for those replenishment buys that require design; development, verification testing, and approval before start of production and</p>
          <p id="ImthXm" outputclass="List1">(d) Basic research under funding category 6.1</p>
-         <p id="cqeBWK" outputclass="Normal"/>
+         <p id="cqeBWK" outputclass="Normal">
+            <p outputclass="List1">(e) The Small Business Innovation Research (SBIR) program,
+               including the Small Business Technology Transfer (STTR) program (e.g. DoD-wide
+               program planning/solicitation)</p>
+            <p outputclass="List1">(f) Acquisitions in accordance with <xref
+                  href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5" format="html"
+                  scope="external">FAR 13.5</xref>, <i>Simplified Procedures for Certain Commercial
+                  Items</i>.</p>
+         </p>
       </conbody>
    </concept>
 </dita>
