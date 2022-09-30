@@ -344,7 +344,7 @@
       </topicref>
    </topicref>
    <topicref navtitle="Part 5318 - Emergency Acquisitions" href="PART_5318.dita" outputclass="Part" props="Part 5318" base="NoTitle" audience="AFFARS_PART_5318" xtrf="Part" xtrc="AFFARS_PART_5318.html">
-      <topicref navtitle="Subpart 5318.000 - SCOPE OF PART" href="SUBPART_5318_000.dita" outputclass="SubPart" props="Subpart 5318.000" base="NoTitle" audience="AFFARS_SUBPART_5318_000" xtrf="SubPart" xtrc="AFFARS_SUBPART_5318_000.html">
+      <topicref navtitle="Subpart 5318.000 - SCOPE OF PART" href="SUBPART_5318_000.dita" outputclass="subtopic" props="Subpart 5318.000" base="NoTitle" audience="AFFARS_SUBPART_5318_000" xtrf="subtopic" xtrc="AFFARS_SUBPART_5318_000.html">
          <topicref navtitle="5318.001 Definition" href="5318_001.dita" outputclass="subtopic" props="5318.001" base="concept" audience="AFFARS_5318_001" xtrf="subtopic" xtrc="AFFARS_5318_001.html" />
          <topicref navtitle="5318.125 Protest to GAO" href="5318_125.dita" outputclass="subtopic" props="5318.125" base="concept" audience="AFFARS_5318_125" xtrf="subtopic" xtrc="AFFARS_5318_125.html" />
       </topicref>
