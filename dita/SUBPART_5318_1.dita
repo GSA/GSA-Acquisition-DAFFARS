@@ -3,10 +3,10 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_SUBPART_5318_000"
+   <topic id="AFFARS_SUBPART_5318_1"
           xml:lang="en-US"
           ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Subpart">
-         <ph class="- topic/ph " props="autonumber">Subpart 5318.000</ph> - SCOPE OF PART</title>
+      <title class="- topic/title " outputclass="Subpart"> 
+         <ph class="- topic/ph " props="autonumber">Subpart 5318.1</ph> - AVAILABLE ACQUISITION FLEXIBILITIES</title>
    </topic>
 </dita>
