@@ -2650,7 +2650,7 @@
              xtrc="AFFARS_PART_5318.html"
              tables="0"
              figures="0">
-      <topicref navtitle="5318.000 - SCOPE OF PART"
+      <topicref navtitle="5318.000 Scope of Part"
                 href="5318_000.dita"
                 outputclass="subtopic"
                 props="5318.000"
@@ -2676,7 +2676,7 @@
                 props="Subpart 5318.1"
                 audience="AFFARS_SUBPART_5318_1"
                 base="NoTitle"
-                xtrc="AFFARS_Subpart_18_1.html"
+                xtrc="AFFARS_SUBPART_5318_1.html"
                 xtrf="SubPart"
                 tables="0"
                 figures="0">

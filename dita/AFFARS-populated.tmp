@@ -2142,7 +2142,7 @@
              audience="AFFARS_PART_5318"
              xtrf="Part"
              xtrc="AFFARS_PART_5318.html">
-      <topicref navtitle="5318.000 - SCOPE OF PART"
+      <topicref navtitle="5318.000 Scope of Part"
                 href="5318_000.dita"
                 outputclass="subtopic"
                 props="5318.000"
@@ -2164,7 +2164,7 @@
                 props="Subpart 5318.1"
                 audience="AFFARS_SUBPART_5318_1"
                 base="NoTitle"
-                xtrc="AFFARS_Subpart_18_1.html"
+                xtrc="AFFARS_SUBPART_5318_1.html"
                 xtrf="SubPart">
          <topicref navtitle="5318.125 Protest to GAO"
                    href="5318_125.dita"
