@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-     title="AFFARS"
-     outputclass="affars"
-     ditaarch:DITAArchVersion="1.3"
-     domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
-     class="- map/map ">
-   <title class="- topic/title ">AFFARS</title>
+<map title="AFFARS" outputclass="affars">
+   <title>AFFARS</title>
    <topicref navtitle="Volume I - Parts 5301 to 5352"
              href="Volume_I.dita"
              outputclass="Volume"
@@ -16,8 +11,7 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_I.html"
-             class="- map/topicref ">
+             xtrc="Volume_I.html">
       <topicref navtitle="Air Force Federal Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="subtopic"
@@ -26,8 +20,7 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 xtrf="subtopic"
-                xtrc="Cover_1.html"
-                class="- map/topicref "/>
+                xtrc="Cover_1.html"/>
    </topicref>
    <topicref navtitle="Part 5301 - Federal Acquisition Regulations System"
              href="PART_5301.dita"
@@ -37,7 +30,6 @@
              audience="AFFARS_PART_5301"
              xtrf="Part"
              xtrc="AFFARS_PART_5301.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5301.1 - PURPOSE, AUTHORITY, AND      ISSUANCE"
@@ -48,7 +40,6 @@
                 audience="AFFARS_SUBPART_5301_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.101 Purpose"
@@ -59,7 +50,6 @@
                    audience="AFFARS_5301_101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_101.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.105-1 Publication and Code Arrangement"
@@ -70,7 +60,6 @@
                    audience="AFFARS_5301_105_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_105_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.170 Peer Reviews"
@@ -81,7 +70,6 @@
                    audience="AFFARS_5301_170"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_170.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -93,7 +81,6 @@
                 audience="AFFARS_SUBPART_5301_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.201-1 The Two Councils"
@@ -104,7 +91,6 @@
                    audience="AFFARS_5301_201_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_201_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.201-90 Maintenance of the AFFARS"
@@ -115,7 +101,6 @@
                    audience="AFFARS_5301_201_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_201_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -127,7 +112,6 @@
                 audience="AFFARS_SUBPART_5301_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.301 Policy"
@@ -138,7 +122,6 @@
                    audience="AFFARS_5301_301"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_301.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.304 Agency Control and Compliance Procedures"
@@ -149,7 +132,6 @@
                    audience="AFFARS_5301_304"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_304.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -161,7 +143,6 @@
                 audience="AFFARS_SUBPART_5301_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.402 Policy"
@@ -172,7 +153,6 @@
                    audience="AFFARS_5301_402"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_402.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.403 Individual Deviations"
@@ -183,7 +163,6 @@
                    audience="AFFARS_5301_403"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_403.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.404 Class Deviations"
@@ -194,7 +173,6 @@
                    audience="AFFARS_5301_404"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_404.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -206,7 +184,6 @@
                 audience="AFFARS_SUBPART_5301_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.601 General"
@@ -217,7 +194,6 @@
                    audience="AFFARS_5301_601"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_601.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities"
@@ -228,7 +204,6 @@
                    audience="AFFARS_5301_601_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_601_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.601-91 Air Force Contracting Self-Inspection Program"
@@ -239,7 +214,6 @@
                    audience="AFFARS_5301_601_91"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_601_91.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.602-1 Authority"
@@ -250,7 +224,6 @@
                    audience="AFFARS_5301_602_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_602_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.602-2 Responsibilities"
@@ -261,7 +234,6 @@
                    audience="AFFARS_5301_602_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_602_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.602-3 Ratification of Unauthorized Commitments"
@@ -272,7 +244,6 @@
                    audience="AFFARS_5301_602_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_602_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.603-1 General"
@@ -283,7 +254,6 @@
                    audience="AFFARS_5301_603_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_603_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.603-2-90 Selection"
@@ -294,7 +264,6 @@
                    audience="AFFARS_5301_603_2_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_603_2_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.603-3 Appointment"
@@ -305,7 +274,6 @@
                    audience="AFFARS_5301_603_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_603_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.670 Appointment of Property Administrators and Plant Clearance Officers"
@@ -316,7 +284,6 @@
                    audience="AFFARS_5301_670"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_670.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -328,7 +295,6 @@
                 audience="AFFARS_SUBPART_5301_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.707 Signatory Authority"
@@ -339,7 +305,6 @@
                    audience="AFFARS_5301_707"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_707.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -351,7 +316,6 @@
                 audience="AFFARS_SUBPART_5301_90"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.9000 Scope and Definitions"
@@ -362,7 +326,6 @@
                    audience="AFFARS_5301_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.9001 Policy, Thresholds, and Approvals"
@@ -373,7 +336,6 @@
                    audience="AFFARS_5301_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_9001.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -385,7 +347,6 @@
                 audience="AFFARS_SUBPART_5301_91"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5301_91.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5301.9101 Purpose"
@@ -396,7 +357,6 @@
                    audience="AFFARS_5301_9101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_9101.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.9102 Policy"
@@ -407,7 +367,6 @@
                    audience="AFFARS_5301_9102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_9102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5301.9103 Solicitation Provision and Contract Clause"
@@ -418,7 +377,6 @@
                    audience="AFFARS_5301_9103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5301_9103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -431,7 +389,6 @@
              audience="AFFARS_PART_5302"
              xtrf="Part"
              xtrc="AFFARS_PART_5302.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5302.1 - DEFINITIONS"
@@ -442,7 +399,6 @@
                 audience="AFFARS_SUBPART_5302_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5302_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5302.101 Definitions"
@@ -453,7 +409,6 @@
                    audience="AFFARS_5302_101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5302_101.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -466,7 +421,6 @@
              audience="AFFARS_PART_5303"
              xtrf="Part"
              xtrc="AFFARS_PART_5303.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5303.1 - SAFEGUARDS"
@@ -477,7 +431,6 @@
                 audience="AFFARS_SUBPART_5303_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.104-3 Statutory and Related Prohibitions, Restrictions, and Requirements"
@@ -488,7 +441,6 @@
                    audience="AFFARS_5303_104_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_104_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.104-4 (a) Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information"
@@ -499,7 +451,6 @@
                    audience="AFFARS_5303_104_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_104_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.104-5 Disqualification"
@@ -510,7 +461,6 @@
                    audience="AFFARS_5303_104_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_104_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.104-7 5303.104-7 Violations or Possible Violations"
@@ -522,7 +472,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="dSTANq.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.104-9 Contract Clauses"
@@ -533,7 +482,6 @@
                    audience="AFFARS_5303_104_9"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_104_9.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -545,7 +493,6 @@
                 audience="AFFARS_SUBPART_5303_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.202 Contract Clause"
@@ -556,7 +503,6 @@
                    audience="AFFARS_5303_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.204 Treatment of Violations"
@@ -567,7 +513,6 @@
                    audience="AFFARS_5303_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -579,7 +524,6 @@
                 audience="AFFARS_SUBPART_5303_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.570-2 Prohibition Period"
@@ -590,7 +534,6 @@
                    audience="AFFARS_5303_570_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_570_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -602,7 +545,6 @@
                 audience="AFFARS_SUBPART_5303_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.602 Exceptions"
@@ -613,7 +555,6 @@
                    audience="AFFARS_5303_602"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_602.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -625,7 +566,6 @@
                 audience="AFFARS_SUBPART_5303_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.704 Policy"
@@ -636,7 +576,6 @@
                    audience="AFFARS_5303_704"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_704.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5303.705 Procedures"
@@ -647,7 +586,6 @@
                    audience="AFFARS_5303_705"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_705.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -659,7 +597,6 @@
                 audience="AFFARS_SUBPART_5303_9"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_9.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.906 Remedies"
@@ -670,7 +607,6 @@
                    audience="AFFARS_5303_906"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_906.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -682,7 +618,6 @@
                 audience="AFFARS_SUBPART_5303_10"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_10.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.1003 Requirements"
@@ -693,7 +628,6 @@
                    audience="AFFARS_5303_1003"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_1003.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -705,7 +639,6 @@
                 audience="AFFARS_SUBPART_5303_11"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5303_11.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5303.1104 Mitigation or Waiver"
@@ -716,7 +649,6 @@
                    audience="AFFARS_5303_1104"
                    xtrf="subtopic"
                    xtrc="AFFARS_5303_1104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -729,7 +661,6 @@
              audience="AFFARS_PART_5304"
              xtrf="Part"
              xtrc="AFFARS_PART_5304.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5304.1 - CONTRACT EXECUTION"
@@ -740,7 +671,6 @@
                 audience="AFFARS_SUBPART_5304_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5304.101 Contracting Officers Signature"
@@ -751,7 +681,6 @@
                    audience="AFFARS_5304_101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_101.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -763,7 +692,6 @@
                 audience="AFFARS_SUBPART_5304_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5304.402-90 General"
@@ -774,7 +702,6 @@
                    audience="AFFARS_5304_402_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_402_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5304.403 Responsibilities of Contracting Officers"
@@ -785,7 +712,6 @@
                    audience="AFFARS_5304_403"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_403.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5304.404-90 Additional Contract Clauses"
@@ -796,7 +722,6 @@
                    audience="AFFARS_5304_404_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_404_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -808,7 +733,6 @@
                 audience="AFFARS_SUBPART_5304_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="COVID -19 and CARES Act Related Actions"
@@ -819,7 +743,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_COVID.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5304.604 (2) Responsibilities"
@@ -830,7 +753,6 @@
                    audience="AFFARS_5304_604"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_604.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -842,7 +764,6 @@
                 audience="AFFARS_SUBPART_5304_8"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_8.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5304.802 Electronic Retention of Contract Files"
@@ -853,7 +774,6 @@
                    audience="AFFARS_5304_802"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_802.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5304.803 Contents of Contract Files"
@@ -864,7 +784,6 @@
                    audience="AFFARS_5304_803"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_803.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -876,7 +795,6 @@
                 audience="AFFARS_SUBPART_5304_10"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_10.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5304.1001 Policy"
@@ -887,7 +805,6 @@
                    audience="AFFARS_5304_1001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_1001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -899,7 +816,6 @@
                 audience="AFFARS_SUBPART_5304_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5304_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5304.7003-90 Maintaining DoD Activity Address Codes (DoDAAC)"
@@ -910,7 +826,6 @@
                    audience="AFFARS_5304_7003_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5304_7003_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -923,7 +838,6 @@
              audience="AFFARS_PART_5305"
              xtrf="Part"
              xtrc="AFFARS_PART_5305.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5305.1 - DISSEMINATION OF INFORMATION"
@@ -934,7 +848,6 @@
                 audience="AFFARS_SUBPART_5305_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5305_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5305.102 Availability of Solicitations."
@@ -945,7 +858,6 @@
                    audience="AFFARS_5305_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -957,7 +869,6 @@
                 audience="AFFARS_SUBPART_5305_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5305_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5305.201 General"
@@ -968,7 +879,6 @@
                    audience="AFFARS_5305_201"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_201.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5305.202 Exceptions"
@@ -979,7 +889,6 @@
                    audience="AFFARS_5305_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5305.204 Presolicitation Notices"
@@ -990,7 +899,6 @@
                    audience="AFFARS_5305_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1002,7 +910,6 @@
                 audience="AFFARS_SUBPART_5305_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5305_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5305.303 Announcement of Contract Awards"
@@ -1013,7 +920,6 @@
                    audience="AFFARS_5305_303"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_303.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1025,7 +931,6 @@
                 audience="AFFARS_SUBPART_5305_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5305_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5305.502 Authority"
@@ -1036,7 +941,6 @@
                    audience="AFFARS_5305_502"
                    xtrf="subtopic"
                    xtrc="AFFARS_5305_502.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1049,7 +953,6 @@
              audience="AFFARS_PART_5306"
              xtrf="Part"
              xtrc="AFFARS_PART_5306.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5306.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
@@ -1060,7 +963,6 @@
                 audience="AFFARS_SUBPART_5306_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5306_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5306.202 Establishing or Maintaining Alternative Sources"
@@ -1071,7 +973,6 @@
                    audience="AFFARS_5306_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1083,7 +984,6 @@
                 audience="AFFARS_SUBPART_5306_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5306_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5306.302-1 Only One Responsible Source and No Other Supplies or Services Will Satisfy Agency Requirements"
@@ -1094,7 +994,6 @@
                    audience="AFFARS_5306_302_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_302_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.302-2 Unusual and Compelling Urgency"
@@ -1105,7 +1004,6 @@
                    audience="AFFARS_5306_302_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_302_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.302-4 International Agreement"
@@ -1116,7 +1014,6 @@
                    audience="AFFARS_5306_302_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_302_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.303-1 Requirements"
@@ -1127,7 +1024,6 @@
                    audience="AFFARS_5306_303_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_303_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.303-1-90 Bridge Actions for Service Contracts Only (See DoDI 5000.74)"
@@ -1138,7 +1034,6 @@
                    audience="AFFARS_5306_303_1_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_303_1_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.303-2 Content"
@@ -1149,7 +1044,6 @@
                    audience="AFFARS_5306_303_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_303_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.304 Approval of the Justification"
@@ -1160,7 +1054,6 @@
                    audience="AFFARS_5306_304"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_304.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -1172,7 +1065,6 @@
                 audience="AFFARS_SUBPART_5306_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5306_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5306.501 Requirement"
@@ -1183,7 +1075,6 @@
                    audience="AFFARS_5306_501"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_501.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5306.502 Duties and Responsibilities"
@@ -1194,7 +1085,6 @@
                    audience="AFFARS_5306_502"
                    xtrf="subtopic"
                    xtrc="AFFARS_5306_502.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1207,7 +1097,6 @@
              audience="AFFARS_PART_5307"
              xtrf="Part"
              xtrc="AFFARS_PART_5307.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5307.1 - ACQUISITION PLANS"
@@ -1218,7 +1107,6 @@
                 audience="AFFARS_SUBPART_5307_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5307_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5307.104 General Procedures"
@@ -1229,7 +1117,6 @@
                    audience="AFFARS_5307_104"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5307.104-90 Solicitation Release"
@@ -1240,7 +1127,6 @@
                    audience="AFFARS_5307_104_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_104_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5307.104-91 Changes"
@@ -1251,7 +1137,6 @@
                    audience="AFFARS_5307_104_91"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_104_91.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority"
@@ -1262,7 +1147,6 @@
                    audience="AFFARS_5307_104_92"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_104_92.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
          <topicref navtitle="5307.105 Contents of Written Acquisition Plans"
@@ -1273,7 +1157,6 @@
                    audience="AFFARS_5307_105"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_105.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5307.107-2 Consolidation"
@@ -1284,7 +1167,6 @@
                    audience="AFFARS_5307_107_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_107_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1296,7 +1178,6 @@
                 audience="AFFARS_SUBPART_5307_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5307_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5307.470 Statutory Requirements"
@@ -1307,7 +1188,6 @@
                    audience="AFFARS_5307_470"
                    xtrf="subtopic"
                    xtrc="AFFARS_5307_470.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1320,7 +1200,6 @@
              audience="AFFARS_PART_5308"
              xtrf="Part"
              xtrc="AFFARS_PART_5308.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5308.4 - FEDERAL SUPPLY SCHEDULES"
@@ -1331,7 +1210,6 @@
                 audience="AFFARS_SUBPART_5308_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5308_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5308.404 Use of Federal Supply Schedules"
@@ -1342,7 +1220,6 @@
                    audience="AFFARS_5308_404"
                    xtrf="subtopic"
                    xtrc="AFFARS_5308_404.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5308.405-3 Blanket Purchase Agreements (BPA)"
@@ -1353,7 +1230,6 @@
                    audience="AFFARS_5308_405_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5308_405_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5308.405-6 Limited Sources"
@@ -1364,7 +1240,6 @@
                    audience="AFFARS_5308_405_6"
                    xtrf="subtopic"
                    xtrc="AFFARS_5308_405_6.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1376,7 +1251,6 @@
                 audience="AFFARS_SUBPART_5308_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5308_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5308.705 Procedures"
@@ -1387,7 +1261,6 @@
                    audience="AFFARS_5308_705"
                    xtrf="subtopic"
                    xtrc="AFFARS_5308_705.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1400,7 +1273,6 @@
              audience="AFFARS_PART_5309"
              xtrf="Part"
              xtrc="AFFARS_PART_5309.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5309.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS"
@@ -1411,7 +1283,6 @@
                 audience="AFFARS_SUBPART_5309_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5309_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5309.104-1 General Standards"
@@ -1422,7 +1293,6 @@
                    audience="AFFARS_5309_104_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_104_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1434,7 +1304,6 @@
                 audience="AFFARS_SUBPART_5309_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5309_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5309.202 Policy"
@@ -1445,7 +1314,6 @@
                    audience="AFFARS_5309_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.206-1 General"
@@ -1456,7 +1324,6 @@
                    audience="AFFARS_5309_206_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_206_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.270-3 Policy"
@@ -1467,7 +1334,6 @@
                    audience="AFFARS_5309_270_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_270_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1479,7 +1345,6 @@
                 audience="AFFARS_SUBPART_5309_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5309_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5309.405 Effect of Listing"
@@ -1490,7 +1355,6 @@
                    audience="AFFARS_5309_405"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_405.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.405-1 Continuation of Current Contracts"
@@ -1501,7 +1365,6 @@
                    audience="AFFARS_5309_405_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_405_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.405-2 Restrictions on Subcontracting"
@@ -1512,7 +1375,6 @@
                    audience="AFFARS_5309_405_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_405_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.406-3 Procedures"
@@ -1523,7 +1385,6 @@
                    audience="AFFARS_5309_406_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_406_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.407-3 Procedures"
@@ -1534,7 +1395,6 @@
                    audience="AFFARS_5309_407_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_407_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1546,7 +1406,6 @@
                 audience="AFFARS_SUBPART_5309_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5309_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5309.503 Waiver"
@@ -1557,7 +1416,6 @@
                    audience="AFFARS_5309_503"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_503.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.504 Contracting Officer Responsibilities"
@@ -1568,7 +1426,6 @@
                    audience="AFFARS_5309_504"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_504.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.507-2 Solicitation Provisions and Contract Clause"
@@ -1579,7 +1436,6 @@
                    audience="AFFARS_5309_507_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_507_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.571-7 Systems Engineering and Technical Assistance Contracts"
@@ -1590,7 +1446,6 @@
                    audience="AFFARS_5309_571_7"
                    xtrf="subtopic"
                    xtrc="AFFARS_5309_571_7.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1603,7 +1458,6 @@
              audience="AFFARS_PART_5310"
              xtrf="Part"
              xtrc="AFFARS_PART_5310.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="5310.002 Procedures"
@@ -1614,7 +1468,6 @@
                 audience="AFFARS_5310_002"
                 xtrf="subtopic"
                 xtrc="AFFARS_5310_002.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -1626,7 +1479,6 @@
              audience="AFFARS_PART_5311"
              xtrf="Part"
              xtrc="AFFARS_PART_5311.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5311.1 - SELECTING AND DEVELOPING REQUIREMENT DOCUMENTS"
@@ -1637,7 +1489,6 @@
                 audience="AFFARS_SUBPART_5311_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5311_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5311.103 Market Acceptance"
@@ -1648,7 +1499,6 @@
                    audience="AFFARS_5311_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5311_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1660,7 +1510,6 @@
                 audience="AFFARS_SUBPART_5311_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5311_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5311.274-2 Policy for unique item identification"
@@ -1671,7 +1520,6 @@
                    audience="AFFARS_5311_274_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5311_274_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1683,7 +1531,6 @@
                 audience="AFFARS_SUBPART_5311_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5311_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5311.501 Policy"
@@ -1694,7 +1541,6 @@
                    audience="AFFARS_5311_501"
                    xtrf="subtopic"
                    xtrc="AFFARS_5311_501.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1706,7 +1552,6 @@
                 audience="AFFARS_SUBPART_5311_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5311_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5311.603 Procedures"
@@ -1717,7 +1562,6 @@
                    audience="AFFARS_5311_603"
                    xtrf="subtopic"
                    xtrc="AFFARS_5311_603.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1730,7 +1574,6 @@
              audience="AFFARS_PART_5312"
              xtrf="Part"
              xtrc="AFFARS_PART_5312.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5312.1 - ACQUISITION OF COMMERCIAL ITEMS - GENERAL"
@@ -1741,7 +1584,6 @@
                 audience="AFFARS_SUBPART_5312_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5312.102 Applicability"
@@ -1752,7 +1594,6 @@
                    audience="AFFARS_5312_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5312_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1764,7 +1605,6 @@
                 audience="AFFARS_SUBPART_5312_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5312.207 Contract Type"
@@ -1775,7 +1615,6 @@
                    audience="AFFARS_5312_207"
                    xtrf="subtopic"
                    xtrc="AFFARS_5312_207.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5312.272 Preference for Certain Commercial Products and Services"
@@ -1786,7 +1625,6 @@
                    audience="AFFARS_5312_272"
                    xtrf="subtopic"
                    xtrc="AFFARS_5312_272.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1798,7 +1636,6 @@
                 audience="AFFARS_SUBPART_5312_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5312.302 Tailoring of Provisions and Clauses for the Acquisition of Commercial Items"
@@ -1809,7 +1646,6 @@
                    audience="AFFARS_5312_302"
                    xtrf="subtopic"
                    xtrc="AFFARS_5312_302.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1821,7 +1657,6 @@
                 audience="AFFARS_SUBPART_5312_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5312.403 Termination"
@@ -1832,19 +1667,17 @@
                    audience="AFFARS_5312_403"
                    xtrf="subtopic"
                    xtrc="AFFARS_5312_403.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
       <topicref navtitle="Subpart 5312.90 - PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING"
                 href="SUBPART_5312_90.dita"
-                outputclass="SubPart"
+                outputclass="subtopic"
                 props="Subpart 5312.90"
                 base="concept"
                 audience="AFFARS_SUBPART_5312_90"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -1856,7 +1689,6 @@
              audience="AFFARS_PART_5313"
              xtrf="Part"
              xtrc="AFFARS_PART_5313.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5313.1 - PROCEDURES"
@@ -1867,7 +1699,6 @@
                 audience="AFFARS_SUBPART_5313_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5313_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5313.106-1 Soliciting from a Single Source"
@@ -1878,7 +1709,6 @@
                    audience="AFFARS_5313_106_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_106_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5313.106-3 Award and Documentation"
@@ -1889,7 +1719,6 @@
                    audience="AFFARS_5313_106_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_106_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1901,7 +1730,6 @@
                 audience="AFFARS_SUBPART_5313_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5313_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5313.201 General"
@@ -1912,7 +1740,6 @@
                    audience="AFFARS_5313_201"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_201.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1924,7 +1751,6 @@
                 audience="AFFARS_SUBPART_5313_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5313_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5313.301 Governmentwide Commercial Purchase Card"
@@ -1935,7 +1761,6 @@
                    audience="AFFARS_5313_301"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_301.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5313.303-5 Purchases Under BPAs"
@@ -1946,7 +1771,6 @@
                    audience="AFFARS_5313_303_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_303_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1958,7 +1782,6 @@
                 audience="AFFARS_SUBPART_5313_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5313_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5313.500 General"
@@ -1969,7 +1792,6 @@
                    audience="AFFARS_5313_500"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_500.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5313.501 Special Documentation Requirements"
@@ -1980,7 +1802,6 @@
                    audience="AFFARS_5313_501"
                    xtrf="subtopic"
                    xtrc="AFFARS_5313_501.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1993,7 +1814,6 @@
              audience="AFFARS_PART_5314"
              xtrf="Part"
              xtrc="AFFARS_PART_5314.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5314.2 - SOLICITATION OF BIDS"
@@ -2004,7 +1824,6 @@
                 audience="AFFARS_SUBPART_5314_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5314_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5314.201-7 Contract Clauses"
@@ -2015,7 +1834,6 @@
                    audience="AFFARS_5314_201_7"
                    xtrf="subtopic"
                    xtrc="AFFARS_5314_201_7.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2027,7 +1845,6 @@
                 audience="AFFARS_SUBPART_5314_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5314_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5314.407-3 Other Mistakes Disclosed Before Award"
@@ -2038,7 +1855,6 @@
                    audience="AFFARS_5314_407_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5314_407_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2051,7 +1867,6 @@
              audience="AFFARS_PART_5315"
              xtrf="Part"
              xtrc="AFFARS_PART_5315.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5315.3 - SOURCE SELECTION"
@@ -2062,7 +1877,6 @@
                 audience="AFFARS_SUBPART_5315_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5315_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5315.300 Scope of Subpart"
@@ -2073,7 +1887,6 @@
                    audience="AFFARS_5315_300"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_300.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.371-4 Exceptions"
@@ -2084,7 +1897,6 @@
                    audience="AFFARS_5315_371_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_371_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.371-5 Waiver"
@@ -2095,7 +1907,6 @@
                    audience="AFFARS_5315_371_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_371_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2107,7 +1918,6 @@
                 audience="AFFARS_SUBPART_5315_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5315_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5315.400 (S-90)"
@@ -2118,7 +1928,6 @@
                    audience="AFFARS_5315_400"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_400.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data ( 10 U.S.C. 2306a and 41 U.S.C. , Chapter 35 )"
@@ -2129,7 +1938,6 @@
                    audience="AFFARS_5315_403_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_403_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.403-3 Requiring Data Other Than Certified Cost or Pricing Data"
@@ -2140,7 +1948,6 @@
                    audience="AFFARS_5315_403_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_403_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.403-4 Requiring Certified Cost or Pricing      Data ( 10 U.S.C. 2306a and 41 U.S.C. , Chapter 35 )"
@@ -2151,7 +1958,6 @@
                    audience="AFFARS_5315_403_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_403_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.404-1-90 Pricing          Assistance or Pricing Assistance Waiver"
@@ -2162,7 +1968,6 @@
                    audience="AFFARS_5315_404_1_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_404_1_90.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
          <topicref navtitle="5315.404-2 Data to Support Proposal Analysis"
@@ -2173,7 +1978,6 @@
                    audience="AFFARS_5315_404_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_404_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.404-4 Profit"
@@ -2184,7 +1988,6 @@
                    audience="AFFARS_5315_404_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_404_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.404-70-90 DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751"
@@ -2195,7 +1998,6 @@
                    audience="AFFARS_5315_404_70_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_404_70_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.405 5315.405 Price Negotiation"
@@ -2207,7 +2009,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="VlMvrI.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.406-1 Prenegotiation Objectives"
@@ -2218,7 +2019,6 @@
                    audience="AFFARS_5315_406_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_406_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.406-3 Documenting the Negotiation"
@@ -2229,7 +2029,6 @@
                    audience="AFFARS_5315_406_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_406_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.407-3 Forward Pricing Rate Agreements"
@@ -2240,7 +2039,6 @@
                    audience="AFFARS_5315_407_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_407_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.407-4 Should-cost Review"
@@ -2251,7 +2049,6 @@
                    audience="AFFARS_5315_407_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_407_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.407-90 Contract Audit Follow-Up (CAFU)"
@@ -2262,7 +2059,6 @@
                    audience="AFFARS_5315_407_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_407_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5315.408 Solicitation Provisions and Contract Clauses"
@@ -2273,7 +2069,6 @@
                    audience="AFFARS_5315_408"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_408.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2285,7 +2080,6 @@
                 audience="AFFARS_SUBPART_5315_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5315_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5315.606 Agency Procedures"
@@ -2296,7 +2090,6 @@
                    audience="AFFARS_5315_606"
                    xtrf="subtopic"
                    xtrc="AFFARS_5315_606.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2309,7 +2102,6 @@
              audience="AFFARS_PART_5316"
              xtrf="Part"
              xtrc="AFFARS_PART_5316.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5316.1 - SELECTING CONTRACT TYPES"
@@ -2320,7 +2112,6 @@
                 audience="AFFARS_SUBPART_5316_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.103 Negotiating Contract Type"
@@ -2331,7 +2122,6 @@
                    audience="AFFARS_5316_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2343,7 +2133,6 @@
                 audience="AFFARS_SUBPART_5316_206"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_206.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.206-3 Limitations"
@@ -2354,7 +2143,6 @@
                    audience="AFFARS_5316_206_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_206_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2366,7 +2154,6 @@
                 audience="AFFARS_SUBPART_5316_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.301-3 Limitations"
@@ -2377,7 +2164,6 @@
                    audience="AFFARS_5316_301_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_301_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2389,7 +2175,6 @@
                 audience="AFFARS_SUBPART_5316_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.401 General"
@@ -2400,7 +2185,6 @@
                    audience="AFFARS_5316_401"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_401.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.404 Fixed-Price Contracts with Award Fees"
@@ -2411,7 +2195,6 @@
                    audience="AFFARS_5316_404"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_404.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.405-2 Cost-Plus-Award-Fee Contracts"
@@ -2422,7 +2205,6 @@
                    audience="AFFARS_5316_405_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_405_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2434,7 +2216,6 @@
                 audience="AFFARS_SUBPART_5316_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.503 Requirements Contracts"
@@ -2445,7 +2226,6 @@
                    audience="AFFARS_5316_503"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_503.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.504 Indefinite-Quantity Contracts"
@@ -2456,7 +2236,6 @@
                    audience="AFFARS_5316_504"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_504.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.505 Ordering"
@@ -2467,7 +2246,6 @@
                    audience="AFFARS_5316_505"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_505.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.505-90 Decentralized Ordering"
@@ -2478,7 +2256,6 @@
                    audience="AFFARS_5316_505_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_505_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2490,7 +2267,6 @@
                 audience="AFFARS_SUBPART_5316_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5316_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5316.601 (d) Limitations"
@@ -2501,7 +2277,6 @@
                    audience="AFFARS_5316_601"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_601.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.603-2 Application"
@@ -2512,7 +2287,6 @@
                    audience="AFFARS_5316_603_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_603_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5316.603-3 Limitations"
@@ -2523,7 +2297,6 @@
                    audience="AFFARS_5316_603_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5316_603_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2536,7 +2309,6 @@
              audience="AFFARS_PART_5317"
              xtrf="Part"
              xtrc="AFFARS_PART_5317.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5317.1 - MULTIYEAR CONTRACTING"
@@ -2547,7 +2319,6 @@
                 audience="AFFARS_SUBPART_5317_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.105-1 Uses"
@@ -2558,7 +2329,6 @@
                    audience="AFFARS_5317_105_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_105_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.106 Procedures"
@@ -2569,7 +2339,6 @@
                    audience="AFFARS_5317_106"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_106.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.106-3 Special Procedures Applicable to DoD, NASA, and the Coast Guard"
@@ -2580,7 +2349,6 @@
                    audience="AFFARS_5317_106_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_106_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.170 General"
@@ -2591,7 +2359,6 @@
                    audience="AFFARS_5317_170"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_170.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.171 Multiyear Contracts for Services"
@@ -2602,7 +2369,6 @@
                    audience="AFFARS_5317_171"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_171.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.172 Multiyear Contracts for Supplies"
@@ -2613,7 +2379,6 @@
                    audience="AFFARS_5317_172"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_172.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.173 Multiyear Contracts for Military Family Housing"
@@ -2624,7 +2389,6 @@
                    audience="AFFARS_5317_173"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_173.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.174 5317.174 Multiyear Contracts for Electricity from Renewable Energy Sources"
@@ -2636,7 +2400,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="iOptVA.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2648,7 +2411,6 @@
                 audience="AFFARS_SUBPART_5317_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.204 Contracts"
@@ -2659,7 +2421,6 @@
                    audience="AFFARS_5317_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.205 Documentation"
@@ -2670,7 +2431,6 @@
                    audience="AFFARS_5317_205"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_205.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.207 Exercise of Options"
@@ -2681,7 +2441,6 @@
                    audience="AFFARS_5317_207"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_207.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2693,7 +2452,6 @@
                 audience="AFFARS_SUBPART_5317_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.500 Scope of Subpart"
@@ -2704,7 +2462,6 @@
                    audience="AFFARS_5317_500"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_500.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2716,7 +2473,6 @@
                 audience="AFFARS_SUBPART_5317_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.703 Policy"
@@ -2727,7 +2483,6 @@
                    audience="AFFARS_5317_703"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_703.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.770 Procedures"
@@ -2738,7 +2493,6 @@
                    audience="AFFARS_5317_770"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_770.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2750,7 +2504,6 @@
                 audience="AFFARS_SUBPART_5317_74"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_74.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.7402 Exceptions"
@@ -2761,7 +2514,6 @@
                    audience="AFFARS_5317_7402"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7402.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7404 Limitations"
@@ -2772,7 +2524,6 @@
                    audience="AFFARS_5317_7404"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7404.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7404-1 Authorization"
@@ -2783,7 +2534,6 @@
                    audience="AFFARS_5317_7404_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7404_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7404-3 Definitization Schedule"
@@ -2794,7 +2544,6 @@
                    audience="AFFARS_5317_7404_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7404_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7404-5 Exceptions"
@@ -2805,7 +2554,6 @@
                    audience="AFFARS_5317_7404_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7404_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7405 Plans and Reports"
@@ -2816,7 +2564,6 @@
                    audience="AFFARS_5317_7405"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7405.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7406 Contract Clauses"
@@ -2827,7 +2574,6 @@
                    audience="AFFARS_5317_7406"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7406.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2839,7 +2585,6 @@
                 audience="AFFARS_SUBPART_5317_75"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_75.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.7502 General"
@@ -2850,7 +2595,6 @@
                    audience="AFFARS_5317_7502"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7502.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7504 Acquisition of Parts When Data is Not Available"
@@ -2861,7 +2605,6 @@
                    audience="AFFARS_5317_7504"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7504.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5317.7505 Limitations on Price Increases"
@@ -2872,7 +2615,6 @@
                    audience="AFFARS_5317_7505"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_7505.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2884,7 +2626,6 @@
                 audience="AFFARS_SUBPART_5317_90"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5317_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5317.9000 Associate Contractor Agreements"
@@ -2895,7 +2636,6 @@
                    audience="AFFARS_5317_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2908,31 +2648,38 @@
              audience="AFFARS_PART_5318"
              xtrf="Part"
              xtrc="AFFARS_PART_5318.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
-      <topicref navtitle="Subpart 5318.000 - SCOPE OF PART"
-                href="SUBPART_5318_000.dita"
-                outputclass="SubPart"
-                props="Subpart 5318.000"
+      <topicref navtitle="5318.000 - SCOPE OF PART"
+                href="5318_000.dita"
+                outputclass="subtopic"
+                props="5318.000"
                 base="NoTitle"
-                audience="AFFARS_SUBPART_5318_000"
+                audience="AFFARS_5318_000"
+                xtrf="subtopic"
+                xtrc="AFFARS_5318_000.html"
+                tables="0"
+                figures="0"/>
+      <topicref navtitle="5318.001 Definition"
+                href="5318_001.dita"
+                outputclass="subtopic"
+                props="5318.001"
+                base="concept"
+                audience="AFFARS_5318_001"
+                xtrf="subtopic"
+                xtrc="AFFARS_5318_001.html"
+                tables="0"
+                figures="0"/>
+      <topicref navtitle="Subpart 5318.1- AVAILABLE ACQUISITION FLEXIBILITIES"
+                href="SUBPART_5318_1.dita"
+                outputclass="SubPart"
+                props="Subpart 5318.1"
+                audience="AFFARS_SUBPART_5318_1"
+                base="NoTitle"
+                xtrc="AFFARS_Subpart_18_1.html"
                 xtrf="SubPart"
-                xtrc="AFFARS_SUBPART_5318_000.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
-         <topicref navtitle="5318.001 Definition"
-                   href="5318_001.dita"
-                   outputclass="subtopic"
-                   props="5318.001"
-                   base="concept"
-                   audience="AFFARS_5318_001"
-                   xtrf="subtopic"
-                   xtrc="AFFARS_5318_001.html"
-                   class="- map/topicref "
-                   tables="0"
-                   figures="0"/>
          <topicref navtitle="5318.125 Protest to GAO"
                    href="5318_125.dita"
                    outputclass="subtopic"
@@ -2941,7 +2688,6 @@
                    audience="AFFARS_5318_125"
                    xtrf="subtopic"
                    xtrc="AFFARS_5318_125.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2953,7 +2699,6 @@
                 audience="AFFARS_SUBPART_5318_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5318_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5318.201 Contingency Operation"
@@ -2964,7 +2709,6 @@
                    audience="AFFARS_5318_201"
                    xtrf="subtopic"
                    xtrc="AFFARS_5318_201.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5318.202 Defense or Recovery from Certain Attacks"
@@ -2975,7 +2719,6 @@
                    audience="AFFARS_5318_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5318_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5318.270 Head of Contracting Activity Determinations"
@@ -2986,7 +2729,6 @@
                    audience="AFFARS_5318_270"
                    xtrf="subtopic"
                    xtrc="AFFARS_5318_270.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2999,7 +2741,6 @@
              audience="AFFARS_PART_5319"
              xtrf="Part"
              xtrc="AFFARS_PART_5319.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5319.2 - POLICIES"
@@ -3010,7 +2751,6 @@
                 audience="AFFARS_SUBPART_5319_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.201 General Policy"
@@ -3021,7 +2761,6 @@
                    audience="AFFARS_5319_201"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_201.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5319.202 5319.202 Specific Policy"
@@ -3033,7 +2772,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="jQOZnI.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3045,7 +2783,6 @@
                 audience="AFFARS_SUBPART_5319_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.502-3 Partial Set-Asides"
@@ -3056,7 +2793,6 @@
                    audience="AFFARS_5319_502_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_502_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5319.502-8 Rejecting Small Business Administration Recommendations"
@@ -3067,7 +2803,6 @@
                    audience="AFFARS_5319_502_8"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_502_8.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3079,7 +2814,6 @@
                 audience="AFFARS_SUBPART_5319_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.705-4 Reviewing the Subcontracting Plan"
@@ -3090,7 +2824,6 @@
                    audience="AFFARS_5319_705_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_705_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3102,7 +2835,6 @@
                 audience="AFFARS_SUBPART_5319_8"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_8.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.810-90 SBA Appeals"
@@ -3113,7 +2845,6 @@
                    audience="AFFARS_5319_810_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_810_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3125,7 +2856,6 @@
                 audience="AFFARS_SUBPART_5319_13"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_13.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.1305 HUBZone Set-Aside Procedures"
@@ -3136,7 +2866,6 @@
                    audience="AFFARS_5319_1305"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_1305.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3148,7 +2877,6 @@
                 audience="AFFARS_SUBPART_5319_14"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_14.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.1405 Service-disabled Veteran-owned Small Business Set-aside Procedures"
@@ -3159,7 +2887,6 @@
                    audience="AFFARS_5319_1405"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_1405.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3171,7 +2898,6 @@
                 audience="AFFARS_SUBPART_5319_15"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_15.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5319.1505 Set-aside Procedures"
@@ -3182,7 +2908,6 @@
                    audience="AFFARS_5319_1505"
                    xtrf="subtopic"
                    xtrc="AFFARS_5319_1505.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3195,7 +2920,6 @@
              audience="AFFARS_PART_5320"
              xtrf="Part"
              xtrc="AFFARS_PART_5320.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5321 - Reserved"
@@ -3206,7 +2930,6 @@
              audience="AFFARS_PART_5321"
              xtrf="Part"
              xtrc="AFFARS_PART_5321.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5322 - Application of Labor Laws to Government Acquisitions"
@@ -3217,7 +2940,6 @@
              audience="AFFARS_PART_5322"
              xtrf="Part"
              xtrc="AFFARS_PART_5322.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5322.1 - BASIC LABOR POLICIES"
@@ -3228,7 +2950,6 @@
                 audience="AFFARS_SUBPART_5322_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.101-1 General"
@@ -3239,7 +2960,6 @@
                    audience="AFFARS_5322_101_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_101_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5322.101-3-70 Impact of Labor Disputes on Defense Programs"
@@ -3250,7 +2970,6 @@
                    audience="AFFARS_5322_101_3_70"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_101_3_70.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5322.103-4 Approvals"
@@ -3261,7 +2980,6 @@
                    audience="AFFARS_5322_103_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_103_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3273,7 +2991,6 @@
                 audience="AFFARS_SUBPART_5322_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.302 Liquidated Damages and Overtime Pay"
@@ -3284,7 +3001,6 @@
                    audience="AFFARS_5322_302"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_302.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3296,7 +3012,6 @@
                 audience="AFFARS_SUBPART_5322_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.406-13 Semi-annual Enforcement Reports"
@@ -3307,7 +3022,6 @@
                    audience="AFFARS_5322_406_13"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_406_13.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3319,7 +3033,6 @@
                 audience="AFFARS_SUBPART_5322_8"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_8.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.805 Procedures"
@@ -3330,7 +3043,6 @@
                    audience="AFFARS_5322_805"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_805.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3342,7 +3054,6 @@
                 audience="AFFARS_SUBPART_5322_18"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_18.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.1802 Policy"
@@ -3353,7 +3064,6 @@
                    audience="AFFARS_5322_1802"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_1802.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3365,7 +3075,6 @@
                 audience="AFFARS_SUBPART_5322_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5322_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5322.7003 Waivers"
@@ -3376,7 +3085,6 @@
                    audience="AFFARS_5322_7003"
                    xtrf="subtopic"
                    xtrc="AFFARS_5322_7003.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3389,7 +3097,6 @@
              audience="AFFARS_PART_5323"
              xtrf="Part"
              xtrc="AFFARS_PART_5323.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5323.3 - HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA"
@@ -3400,7 +3107,6 @@
                 audience="AFFARS_SUBPART_5323_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5323_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5323.370-4 Procedures"
@@ -3411,7 +3117,6 @@
                    audience="AFFARS_5323_370_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_5323_370_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3423,7 +3128,6 @@
                 audience="AFFARS_SUBPART_5323_8"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5323_8.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5323.803 Policy"
@@ -3434,7 +3138,6 @@
                    audience="AFFARS_5323_803"
                    xtrf="subtopic"
                    xtrc="AFFARS_5323_803.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5323.804-90 Contract Clauses"
@@ -3445,7 +3148,6 @@
                    audience="AFFARS_5323_804_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5323_804_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3457,7 +3159,6 @@
                 audience="AFFARS_SUBPART_5323_90"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5323_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5323.9001 Contract Clause"
@@ -3468,7 +3169,6 @@
                    audience="AFFARS_5323_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5323_9001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3481,7 +3181,6 @@
              audience="AFFARS_PART_5324"
              xtrf="Part"
              xtrc="AFFARS_PART_5324.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5325 - Foreign Acquisition"
@@ -3492,7 +3191,6 @@
              audience="AFFARS_PART_5325"
              xtrf="Part"
              xtrc="AFFARS_PART_5325.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5325.1 - BUY AMERICAN - SUPPLIES"
@@ -3503,7 +3201,6 @@
                 audience="AFFARS_SUBPART_5325_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.103 Exceptions"
@@ -3514,7 +3211,6 @@
                    audience="AFFARS_5325_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3526,7 +3222,6 @@
                 audience="AFFARS_SUBPART_5325_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.202 Exceptions"
@@ -3537,7 +3232,6 @@
                    audience="AFFARS_5325_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5325.204 Evaluation Offers of Foreign Construction Material"
@@ -3548,7 +3242,6 @@
                    audience="AFFARS_5325_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3560,7 +3253,6 @@
                 audience="AFFARS_SUBPART_5325_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements"
@@ -3571,7 +3263,6 @@
                    audience="AFFARS_5325_403"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_403.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3583,7 +3274,6 @@
                 audience="AFFARS_SUBPART_5325_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.603 Exceptions"
@@ -3594,7 +3284,6 @@
                    audience="AFFARS_5325_603"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_603.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3606,7 +3295,6 @@
                 audience="AFFARS_SUBPART_5325_10"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_10.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.1001 Waiver of Right to Examination of Records"
@@ -3617,7 +3305,6 @@
                    audience="AFFARS_5325_1001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_1001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3629,7 +3316,6 @@
                 audience="AFFARS_SUBPART_5325_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.7002-2 Exceptions"
@@ -3640,7 +3326,6 @@
                    audience="AFFARS_5325_7002_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7002_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5325.7003-3 Exceptions"
@@ -3651,7 +3336,6 @@
                    audience="AFFARS_5325_7003_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7003_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5325.7008 Waiver of Restrictions of 10 U.S.C. 2534"
@@ -3662,7 +3346,6 @@
                    audience="AFFARS_5325_7008"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7008.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3674,7 +3357,6 @@
                 audience="AFFARS_SUBPART_5325_73"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_73.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.7301-2 Solicitation Approval for Sole Source Contracts"
@@ -3685,7 +3367,6 @@
                    audience="AFFARS_5325_7301_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7301_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3697,7 +3378,6 @@
                 audience="AFFARS_SUBPART_5325_75"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_75.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.7501 Policy"
@@ -3708,7 +3388,6 @@
                    audience="AFFARS_5325_7501"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7501.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3720,7 +3399,6 @@
                 audience="AFFARS_SUBPART_5325_77"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5325_77.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5325.7703-2 Determination requirements."
@@ -3731,7 +3409,6 @@
                    audience="AFFARS_5325_7703_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5325_7703_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3744,7 +3421,6 @@
              audience="AFFARS_PART_5326"
              xtrf="Part"
              xtrc="AFFARS_PART_5326.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5326.2 - MAJOR DISASTER OF EMERGENCY ASSISTANCE ACTIVITIES"
@@ -3755,7 +3431,6 @@
                 audience="AFFARS_SUBPART_5326_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5326_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5326.203 TRANSITION OF WORK"
@@ -3766,7 +3441,6 @@
                    audience="AFFARS_5326_203"
                    xtrf="subtopic"
                    xtrc="AFFARS_5326_203.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3779,7 +3453,6 @@
              audience="AFFARS_PART_5327"
              xtrf="Part"
              xtrc="AFFARS_PART_5327.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5327.2 - PATENTS AND COPYRIGHTS"
@@ -3790,7 +3463,6 @@
                 audience="AFFARS_SUBPART_5327_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5327_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5327.201-2 Contract Clauses"
@@ -3801,7 +3473,6 @@
                    audience="AFFARS_5327_201_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5327_201_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5327.303 Contract Clauses"
@@ -3812,7 +3483,6 @@
                    audience="AFFARS_5327_303"
                    xtrf="subtopic"
                    xtrc="AFFARS_5327_303.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5327.90 - FOREIGN DISCLOSURE"
@@ -3823,7 +3493,6 @@
                    audience="AFFARS_5327_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5327_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5327.9000 Foreign Disclosure Policy"
@@ -3834,7 +3503,6 @@
                    audience="AFFARS_5327_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5327_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3847,7 +3515,6 @@
              audience="AFFARS_PART_5328"
              xtrf="Part"
              xtrc="AFFARS_PART_5328.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5328.1 - BONDS"
@@ -3858,7 +3525,6 @@
                 audience="AFFARS_SUBPART_5328_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5328_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5328.1 Bonds"
@@ -3869,7 +3535,6 @@
                    audience="AFFARS_5328_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.105 Other Types of Bonds"
@@ -3880,7 +3545,6 @@
                    audience="AFFARS_5328_105"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_105.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.106-2 Substitution of Surety Bonds"
@@ -3891,7 +3555,6 @@
                    audience="AFFARS_5328_106_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_106_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.106-6 Furnishing Information"
@@ -3902,7 +3565,6 @@
                    audience="AFFARS_5328_106_6"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_106_6.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3914,7 +3576,6 @@
                 audience="AFFARS_SUBPART_5328_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5328_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5328.305 Overseas Workers Compensation and War Hazard Insurance"
@@ -3925,7 +3586,6 @@
                    audience="AFFARS_5328_305"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_305.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.310 Insurance -- Work on a Government Installation"
@@ -3936,7 +3596,6 @@
                    audience="AFFARS_5328_310"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_310.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.310-90 Additional Contract Clause"
@@ -3947,7 +3606,6 @@
                    audience="AFFARS_5328_310_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_310_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.311-1 Contract Clause"
@@ -3958,7 +3616,6 @@
                    audience="AFFARS_5328_311_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_311_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5328.370 Additional Clauses"
@@ -3969,7 +3626,6 @@
                    audience="AFFARS_5328_370"
                    xtrf="subtopic"
                    xtrc="AFFARS_5328_370.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3982,7 +3638,6 @@
              audience="AFFARS_PART_5329"
              xtrf="Part"
              xtrc="AFFARS_PART_5329.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5330 - Cost Accounting Standards Administration"
@@ -3993,7 +3648,6 @@
              audience="AFFARS_PART_5330"
              xtrf="Part"
              xtrc="AFFARS_PART_5330.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="5330.201-5 Waivers"
@@ -4004,7 +3658,6 @@
                 audience="AFFARS_5330_201_5"
                 xtrf="subtopic"
                 xtrc="AFFARS_5330_201_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -4016,7 +3669,6 @@
              audience="AFFARS_PART_5331"
              xtrf="Part"
              xtrc="AFFARS_PART_5331.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5332 - Contract Financing"
@@ -4027,7 +3679,6 @@
              audience="AFFARS_PART_5332"
              xtrf="Part"
              xtrc="AFFARS_PART_5332.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5332.1 - NON-COMMERCIAL ITEM PURCHASE FINANCING"
@@ -4038,7 +3689,6 @@
                 audience="AFFARS_SUBPART_5332_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.104 Providing Contract Financing"
@@ -4049,7 +3699,6 @@
                    audience="AFFARS_5332_104"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4061,7 +3710,6 @@
                 audience="AFFARS_SUBPART_5332_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.202-1 Policy"
@@ -4072,7 +3720,6 @@
                    audience="AFFARS_5332_202_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_202_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4084,7 +3731,6 @@
                 audience="AFFARS_SUBPART_5332_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.402 General"
@@ -4095,7 +3741,6 @@
                    audience="AFFARS_5332_402"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_402.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4107,7 +3752,6 @@
                 audience="AFFARS_SUBPART_5332_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.501-2 Unusual Progress Payments"
@@ -4118,7 +3762,6 @@
                    audience="AFFARS_5332_501_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_501_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5332.501-3 Contract Price"
@@ -4129,7 +3772,6 @@
                    audience="AFFARS_5332_501_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_501_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4141,7 +3783,6 @@
                 audience="AFFARS_SUBPART_5332_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.604 Demand for Payment"
@@ -4152,7 +3793,6 @@
                    audience="AFFARS_5332_604"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_604.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5332.607 Installment Payments and Deferment of Collection"
@@ -4163,7 +3803,6 @@
                    audience="AFFARS_5332_607"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_607.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4175,7 +3814,6 @@
                 audience="AFFARS_SUBPART_5332_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.703-2 Contracts Conditioned Upon Availability of Funds"
@@ -4186,7 +3824,6 @@
                    audience="AFFARS_5332_703_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_703_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4198,7 +3835,6 @@
                 audience="AFFARS_SUBPART_5332_9"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_9.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.901 Applicability"
@@ -4209,7 +3845,6 @@
                    audience="AFFARS_5332_901"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_901.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5332.906 Making Payments"
@@ -4220,7 +3855,6 @@
                    audience="AFFARS_5332_906"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_906.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4232,7 +3866,6 @@
                 audience="AFFARS_SUBPART_5332_11"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5332_11.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5332.1106 EFT Mechanisms"
@@ -4243,7 +3876,6 @@
                    audience="AFFARS_5332_1106"
                    xtrf="subtopic"
                    xtrc="AFFARS_5332_1106.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4256,7 +3888,6 @@
              audience="AFFARS_PART_5333"
              xtrf="Part"
              xtrc="AFFARS_PART_5333.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5333.1 - PROTESTS"
@@ -4267,7 +3898,6 @@
                 audience="AFFARS_SUBPART_5333_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5333_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5333.102 General"
@@ -4278,7 +3908,6 @@
                    audience="AFFARS_5333_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.103 Protests to the Agency"
@@ -4289,7 +3918,6 @@
                    audience="AFFARS_5333_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.104 Protests to GAO"
@@ -4300,7 +3928,6 @@
                    audience="AFFARS_5333_104"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.105 Protests to the United States Court of Federal Claims (COFC)"
@@ -4311,7 +3938,6 @@
                    audience="AFFARS_5333_105"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_105.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.170 Briefing Requirement for Protested Acquisitions Valued at $1B or More"
@@ -4322,7 +3948,6 @@
                    audience="AFFARS_5333_170"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_170.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4334,7 +3959,6 @@
                 audience="AFFARS_SUBPART_5333_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5333_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5333.211 Contracting Officers Decision"
@@ -4345,7 +3969,6 @@
                    audience="AFFARS_5333_211"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_211.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.214 Alternate Dispute Resolution (ADR)"
@@ -4356,7 +3979,6 @@
                    audience="AFFARS_5333_214"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_214.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.215 Contract Clause"
@@ -4367,7 +3989,6 @@
                    audience="AFFARS_5333_215"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_215.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.290 Claims and Terminations for Default"
@@ -4378,7 +3999,6 @@
                    audience="AFFARS_5333_290"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_290.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.291 Appeals to the Armed Services Board of Contract Appeals (ASBCA)"
@@ -4389,7 +4009,6 @@
                    audience="AFFARS_5333_291"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_291.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5333.292 Appeals to the United States Court of Federal Claims (COFC)"
@@ -4400,7 +4019,6 @@
                    audience="AFFARS_5333_292"
                    xtrf="subtopic"
                    xtrc="AFFARS_5333_292.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4413,7 +4031,6 @@
              audience="AFFARS_PART_5334"
              xtrf="Part"
              xtrc="AFFARS_PART_5334.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5334.2 - EARNED VALUE MANAGEMENT SYSTEM"
@@ -4424,7 +4041,6 @@
                 audience="AFFARS_SUBPART_5334_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5334_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5334.203 Solicitation provisions and contract clause"
@@ -4435,7 +4051,6 @@
                    audience="AFFARS_5334_203"
                    xtrf="subtopic"
                    xtrc="AFFARS_5334_203.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4447,7 +4062,6 @@
                 audience="AFFARS_SUBPART_5334_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5334_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5334.7002 Policy"
@@ -4458,7 +4072,6 @@
                    audience="AFFARS_5334_7002"
                    xtrf="subtopic"
                    xtrc="AFFARS_5334_7002.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4471,7 +4084,6 @@
              audience="AFFARS_PART_5335"
              xtrf="Part"
              xtrc="AFFARS_PART_5335.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions"
@@ -4482,7 +4094,6 @@
                 audience="AFFARS_5335_015_70"
                 xtrf="subtopic"
                 xtrc="AFFARS_5335_015_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
       <topicref navtitle="5335.070-1 Indemnification Under Research and Development Contracts"
@@ -4493,7 +4104,6 @@
                 audience="AFFARS_5335_070_1"
                 xtrf="subtopic"
                 xtrc="AFFARS_5335_070_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -4505,7 +4115,6 @@
              audience="AFFARS_PART_5336"
              xtrf="Part"
              xtrc="AFFARS_PART_5336.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5336.2 - SPECIAL ASPECTS OF CONTRACTING FOR CONSTRUCTION"
@@ -4516,7 +4125,6 @@
                 audience="AFFARS_SUBPART_5336_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5336_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5336.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts"
@@ -4527,7 +4135,6 @@
                    audience="AFFARS_5336_208"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_208.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.209 Construction Contracts with Architect-Engineer Firms"
@@ -4538,7 +4145,6 @@
                    audience="AFFARS_5336_209"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_209.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.213-2 Presolicitation Notices"
@@ -4549,7 +4155,6 @@
                    audience="AFFARS_5336_213_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_213_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.272 Prequalification of Sources"
@@ -4560,7 +4165,6 @@
                    audience="AFFARS_5336_272"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_272.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4572,7 +4176,6 @@
                 audience="AFFARS_SUBPART_5336_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5336_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5336.301 Use of Two-Phase Design-Build Selection Procedures"
@@ -4583,7 +4186,6 @@
                    audience="AFFARS_5336_301"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_301.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.303-1 Phase One"
@@ -4594,7 +4196,6 @@
                    audience="AFFARS_5336_303_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_303_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4606,7 +4207,6 @@
                 audience="AFFARS_SUBPART_5336_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5336_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5336.507 Permits and Responsibilities"
@@ -4617,7 +4217,6 @@
                    audience="AFFARS_5336_507"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_507.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.570 Additional Provisions and Clauses"
@@ -4628,7 +4227,6 @@
                    audience="AFFARS_5336_570"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_570.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4640,7 +4238,6 @@
                 audience="AFFARS_SUBPART_5336_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5336_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5336.602-3 Evaluation Board Functions"
@@ -4651,7 +4248,6 @@
                    audience="AFFARS_5336_602_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_602_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5336.609-1 Design Within Funding Limitations"
@@ -4662,7 +4258,6 @@
                    audience="AFFARS_5336_609_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5336_609_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4675,7 +4270,6 @@
              audience="AFFARS_PART_5337"
              xtrf="Part"
              xtrc="AFFARS_PART_5337.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5337.1 - SERVICE CONTRACTS (GENERAL)"
@@ -4686,7 +4280,6 @@
                 audience="AFFARS_SUBPART_5337_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5337_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5337.102-70 Prohibition on Contracting for Firefighting or Security-Guard Functions"
@@ -4698,7 +4291,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="BQtvrF.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5337.104 Personal Services Contracts"
@@ -4709,7 +4301,6 @@
                    audience="AFFARS_5337_104"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5337.106 Funding and Term of Service Contracts"
@@ -4720,7 +4311,6 @@
                    audience="AFFARS_5337_106"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_106.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5337.113-1 Waiver of Cost Allowability Limitations"
@@ -4731,7 +4321,6 @@
                    audience="AFFARS_5337_113_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_113_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5337.170-2 Approval Requirements"
@@ -4742,7 +4331,6 @@
                    audience="AFFARS_5337_170_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_170_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4754,7 +4342,6 @@
                 audience="AFFARS_SUBPART_5337_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5337_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5337.204 Guidelines for Determining Availability of Personnel"
@@ -4765,7 +4352,6 @@
                    audience="AFFARS_5337_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4777,7 +4363,6 @@
                 audience="AFFARS_SUBPART_5337_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5337_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5337.503 Agency-head Responsibilities"
@@ -4788,7 +4373,6 @@
                    audience="AFFARS_5337_503"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_503.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4800,7 +4384,6 @@
                 audience="AFFARS_SUBPART_5337_74"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5337_74.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5337.7401 Policy"
@@ -4811,7 +4394,6 @@
                    audience="AFFARS_5337_7401"
                    xtrf="subtopic"
                    xtrc="AFFARS_5337_7401.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4824,7 +4406,6 @@
              audience="AFFARS_PART_5338"
              xtrf="Part"
              xtrc="AFFARS_PART_5338.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5339 - Acquisition of Information Technology"
@@ -4835,7 +4416,6 @@
              audience="AFFARS_PART_5339"
              xtrf="Part"
              xtrc="AFFARS_PART_5339.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="5339.101 Policy"
@@ -4846,7 +4426,6 @@
                 audience="AFFARS_5339_101"
                 xtrf="subtopic"
                 xtrc="AFFARS_5339_101.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
       <topicref navtitle="5339.7201-90 Data Servers/Centers Approval Process"
@@ -4857,7 +4436,6 @@
                 audience="AFFARS_5339_7201_90"
                 xtrf="subtopic"
                 xtrc="AFFARS_5339_7201_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -4869,7 +4447,6 @@
              audience="AFFARS_PART_5340"
              xtrf="Part"
              xtrc="AFFARS_PART_5340.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5341 - Acquisition of Utility Services"
@@ -4880,7 +4457,6 @@
              audience="AFFARS_PART_5341"
              xtrf="Part"
              xtrc="AFFARS_PART_5341.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5341. 1 - GENERAL"
@@ -4891,7 +4467,6 @@
                 audience="AFFARS_SUBPART_5341__1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5341__1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5341.102 Applicability"
@@ -4902,7 +4477,6 @@
                    audience="AFFARS_5341_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5341_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4914,7 +4488,6 @@
                 audience="AFFARS_SUBPART_5341_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5341_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5341.202 Procedures"
@@ -4925,7 +4498,6 @@
                    audience="AFFARS_5341_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5341_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5341.204 GSA Area-wide Contracts"
@@ -4936,7 +4508,6 @@
                    audience="AFFARS_5341_204"
                    xtrf="subtopic"
                    xtrc="AFFARS_5341_204.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4949,7 +4520,6 @@
              audience="AFFARS_PART_5342"
              xtrf="Part"
              xtrc="AFFARS_PART_5342.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5342.2 - CONTRACT ADMINISTRATION SERVICES"
@@ -4960,7 +4530,6 @@
                 audience="AFFARS_SUBPART_5342_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5342_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5342.202 Assignment of Contract Administration"
@@ -4971,7 +4540,6 @@
                    audience="AFFARS_5342_202"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_202.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4983,7 +4551,6 @@
                 audience="AFFARS_SUBPART_5342_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5342_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5342.490-1 Contract clause"
@@ -4994,7 +4561,6 @@
                    audience="AFFARS_5342_490_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_490_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5342.490-2 Contract clause"
@@ -5005,7 +4571,6 @@
                    audience="AFFARS_5342_490_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_490_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5017,7 +4582,6 @@
                 audience="AFFARS_SUBPART_5342_9"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5342_9.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5342.902 Bankruptcy Procedures"
@@ -5028,7 +4592,6 @@
                    audience="AFFARS_5342_902"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_902.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5040,7 +4603,6 @@
                 audience="AFFARS_SUBPART_5342_15"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5342_15.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5342.1503 Procedures"
@@ -5051,7 +4613,6 @@
                    audience="AFFARS_5342_1503"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_1503.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5063,7 +4624,6 @@
                 audience="AFFARS_SUBPART_5342_71"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5342_71.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5342.7100 General"
@@ -5074,7 +4634,6 @@
                    audience="AFFARS_5342_7100"
                    xtrf="subtopic"
                    xtrc="AFFARS_5342_7100.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5087,7 +4646,6 @@
              audience="AFFARS_PART_5343"
              xtrf="Part"
              xtrc="AFFARS_PART_5343.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5343.1 - GENERAL"
@@ -5098,7 +4656,6 @@
                 audience="AFFARS_SUBPART_5343_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5343_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5343.102-90 Contract Scope Considerations"
@@ -5109,7 +4666,6 @@
                    audience="AFFARS_5343_102_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_5343_102_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5121,7 +4677,6 @@
                 audience="AFFARS_SUBPART_5343_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5343_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5343.204-70-1 Scope"
@@ -5132,7 +4687,6 @@
                    audience="AFFARS_5343_204_70_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5343_204_70_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5343.204-70-3 Definitization Schedule"
@@ -5143,7 +4697,6 @@
                    audience="AFFARS_5343_204_70_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5343_204_70_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5343.204-70-5 Exceptions"
@@ -5154,7 +4707,6 @@
                    audience="AFFARS_5343_204_70_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5343_204_70_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5343.204-70-7 Plans and Reports"
@@ -5165,7 +4717,6 @@
                    audience="AFFARS_5343_204_70_7"
                    xtrf="subtopic"
                    xtrc="AFFARS_5343_204_70_7.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5178,7 +4729,6 @@
              audience="AFFARS_PART_5344"
              xtrf="Part"
              xtrc="AFFARS_PART_5344.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5344.3 - CONTRACTOR PURCHASING SYSTEM REVIEWS"
@@ -5189,7 +4739,6 @@
                 audience="AFFARS_SUBPART_5344_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5344_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5344.302 Requirements"
@@ -5200,7 +4749,6 @@
                    audience="AFFARS_5344_302"
                    xtrf="subtopic"
                    xtrc="AFFARS_5344_302.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5213,7 +4761,6 @@
              audience="AFFARS_PART_5345"
              xtrf="Part"
              xtrc="AFFARS_PART_5345.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5345.1 - GENERAL"
@@ -5224,7 +4771,6 @@
                 audience="AFFARS_SUBPART_5345_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5345_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5345.102 Policy"
@@ -5235,7 +4781,6 @@
                    audience="AFFARS_5345_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5345_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5345.103 General"
@@ -5246,7 +4791,6 @@
                    audience="AFFARS_5345_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5345_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5345.103-72 Government Furnished Property Attachments to Solicitations and Awards"
@@ -5257,7 +4801,6 @@
                    audience="AFFARS_5345_103_72"
                    xtrf="subtopic"
                    xtrc="AFFARS_5345_103_72.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5269,7 +4812,6 @@
                 audience="AFFARS_SUBPART_5345_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5345_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5345.301 Use and Rental"
@@ -5280,7 +4822,6 @@
                    audience="AFFARS_5345_301"
                    xtrf="subtopic"
                    xtrc="AFFARS_5345_301.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5345.302 Contracts with Foreign Governments or International Organizations"
@@ -5291,7 +4832,6 @@
                    audience="AFFARS_5345_302"
                    xtrf="subtopic"
                    xtrc="AFFARS_5345_302.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5304,7 +4844,6 @@
              audience="AFFARS_PART_5346"
              xtrf="Part"
              xtrc="AFFARS_PART_5346.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5346.1 - GENERAL"
@@ -5315,7 +4854,6 @@
                 audience="AFFARS_SUBPART_5346_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5346_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5346.103 Contracting Office Responsibilities"
@@ -5326,7 +4864,6 @@
                    audience="AFFARS_5346_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_5346_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5339,7 +4876,6 @@
              audience="AFFARS_PART_5347"
              xtrf="Part"
              xtrc="AFFARS_PART_5347.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5348 - Value Engineering"
@@ -5350,7 +4886,6 @@
              audience="AFFARS_PART_5348"
              xtrf="Part"
              xtrc="AFFARS_PART_5348.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5348.1 - POLICIES AND PROCEDURES"
@@ -5361,7 +4896,6 @@
                 audience="AFFARS_SUBPART_5348_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5348_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5348.104-3 Sharing Collateral Savings"
@@ -5372,7 +4906,6 @@
                    audience="AFFARS_5348_104_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5348_104_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5385,7 +4918,6 @@
              audience="AFFARS_PART_5349"
              xtrf="Part"
              xtrc="AFFARS_PART_5349.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5349.1 - GENERAL PRINCIPLES"
@@ -5396,7 +4928,6 @@
                 audience="AFFARS_SUBPART_5349_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5349_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5349.101 Authorities and Responsibilities"
@@ -5407,7 +4938,6 @@
                    audience="AFFARS_5349_101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_101.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5349.102 Notification of Termination"
@@ -5418,7 +4948,6 @@
                    audience="AFFARS_5349_102"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_102.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5430,7 +4959,6 @@
                 audience="AFFARS_SUBPART_5349_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5349_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5349.402-3 Procedure for Default"
@@ -5441,7 +4969,6 @@
                    audience="AFFARS_5349_402_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_402_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5349.402-6 Repurchase Against Contractors Account"
@@ -5452,7 +4979,6 @@
                    audience="AFFARS_5349_402_6"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_402_6.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5464,7 +4990,6 @@
                 audience="AFFARS_SUBPART_5349_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5349_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5349.501-70 Special Termination Costs"
@@ -5475,7 +5000,6 @@
                    audience="AFFARS_5349_501_70"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_501_70.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5487,7 +5011,6 @@
                 audience="AFFARS_SUBPART_5349_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5349_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5349.7001 Congressional Notification on Significant Contract Terminations"
@@ -5498,7 +5021,6 @@
                    audience="AFFARS_5349_7001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_7001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5349.7003 Notification of Anticipated Terminations or Reductions"
@@ -5509,7 +5031,6 @@
                    audience="AFFARS_5349_7003"
                    xtrf="subtopic"
                    xtrc="AFFARS_5349_7003.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5522,7 +5043,6 @@
              audience="AFFARS_PART_5350"
              xtrf="Part"
              xtrc="AFFARS_PART_5350.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5350.1 - GENERAL"
@@ -5533,7 +5053,6 @@
                 audience="AFFARS_SUBPART_5350_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5350_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5350.101-1 Authority"
@@ -5544,7 +5063,6 @@
                    audience="AFFARS_5350_101_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_5350_101_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5556,7 +5074,6 @@
                 audience="AFFARS_SUBPART_5350_102"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5350_102.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5350.102-1-70 Delegations"
@@ -5567,7 +5084,6 @@
                    audience="AFFARS_5350_102_1_70"
                    xtrf="subtopic"
                    xtrc="AFFARS_5350_102_1_70.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5350.102-2 Contract Adjustment Boards"
@@ -5578,7 +5094,6 @@
                    audience="AFFARS_5350_102_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_5350_102_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5590,7 +5105,6 @@
                 audience="AFFARS_SUBPART_5350_103"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5350_103.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5350.103-5 Processing Cases"
@@ -5601,7 +5115,6 @@
                    audience="AFFARS_5350_103_5"
                    xtrf="subtopic"
                    xtrc="AFFARS_5350_103_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5613,7 +5126,6 @@
                 audience="AFFARS_SUBPART_5350_104"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5350_104.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5350.104-3 (b)(1) Action on Indemnification Requests"
@@ -5624,7 +5136,6 @@
                    audience="AFFARS_5350_104_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_5350_104_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5637,7 +5148,6 @@
              audience="AFFARS_PART_5351"
              xtrf="Part"
              xtrc="AFFARS_PART_5351.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Part 5352 - Solicitation Provisions and Contract Clauses"
@@ -5648,7 +5158,6 @@
              audience="AFFARS_PART_5352"
              xtrf="Part"
              xtrc="AFFARS_PART_5352.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart 5352.2 - TEXT OF PROVISIONS AND CLAUSES"
@@ -5659,7 +5168,6 @@
                 audience="AFFARS_SUBPART_5352_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5352_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="5352.201-9101 Ombudsman"
@@ -5670,7 +5178,6 @@
                    audience="AFFARS_5352_201_9101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_201_9101.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.204-9000 Notification of Government Security Activities"
@@ -5681,7 +5188,6 @@
                    audience="AFFARS_5352_204_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_204_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.209-9000 Organizational Conflict of Interest"
@@ -5692,7 +5198,6 @@
                    audience="AFFARS_5352_209_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_209_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.209-9001 Potential Organizational Conflict of Interest"
@@ -5703,7 +5208,6 @@
                    audience="AFFARS_5352_209_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_209_9001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.217-9000 Long Lead Limitation of Government Liability"
@@ -5714,7 +5218,6 @@
                    audience="AFFARS_5352_217_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_217_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.223-9000 Elimination of Use of Class I Ozone Depleting Substances (ODS)"
@@ -5725,7 +5228,6 @@
                    audience="AFFARS_5352_223_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_223_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.223-9001 Health and Safety on Government Installations"
@@ -5736,7 +5238,6 @@
                    audience="AFFARS_5352_223_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_223_9001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.228-9101 Insurance Certificate      Requirement in Spain (USAFE)"
@@ -5747,7 +5248,6 @@
                    audience="AFFARS_5352_228_9101"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_228_9101.html"
-                   class="- map/topicref "
                    tables="2"
                    figures="0"/>
          <topicref navtitle="5352.242-9000 Contractor Access to Air Force      Installations"
@@ -5758,7 +5258,6 @@
                    audience="AFFARS_5352_242_9000"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_242_9000.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5352.242-9001 Common Access Cards (CAC) for Contractor Personnel"
@@ -5769,7 +5268,6 @@
                    audience="AFFARS_5352_242_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_5352_242_9001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5782,7 +5280,6 @@
              audience="AFFARS_PART_5353"
              xtrf="Part"
              xtrc="AFFARS_PART_5353.html"
-             class="- map/topicref "
              tables="0"
              figures="0"/>
    <topicref navtitle="Volume II - MP Parts 5301 to 5352"
@@ -5793,8 +5290,7 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_II.html"
-             class="- map/topicref ">
+             xtrc="Volume_II.html">
       <topicref navtitle="Air Force Federal Acquisition Regulation       Supplement - MP"
                 href="Cover_3.dita"
                 outputclass="subtopic"
@@ -5803,8 +5299,7 @@
                 otherprops="NoProp"
                 base="NoTitle"
                 xtrf="subtopic"
-                xtrc="Cover_3.html"
-                class="- map/topicref "/>
+                xtrc="Cover_3.html"/>
    </topicref>
    <topicref href="MP5301.dita"
              outputclass="Part"
@@ -5814,7 +5309,6 @@
              audience="AFFARS_MP5301"
              xtrf="Part"
              xtrc="AFFARS_MP5301.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5301_6.dita"
@@ -5825,7 +5319,6 @@
                 audience="AFFARS_MP5301_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5301_6.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix"
@@ -5836,7 +5329,6 @@
                    audience="AFFARS_MP5301_601"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5301_601.html"
-                   class="- map/topicref "
                    tables="2"
                    figures="0"/>
          <topicref href="MP5301_601_90.dita"
@@ -5847,7 +5339,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5301_601_90.html"
-                   class="- map/topicref "
                    tables="1"
                    figures="0"/>
          <topicref navtitle="MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officers Representative (COR)"
@@ -5858,7 +5349,6 @@
                    audience="AFFARS_MP5301_602_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5301_602_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="1.0 Contracting Officer Roles and Responsibilities"
@@ -5870,7 +5360,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="2.0 COR Roles and Responsibilities"
@@ -5878,11 +5367,10 @@
                       props="2.0"
                       otherprops="MP5301_602_2_2"
                       base="NoTitle"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="AFFARS_MP5301_602_2_2"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.0 COR Supervisor"
@@ -5894,7 +5382,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="4.0 OGE 450 Determination and Processing"
@@ -5906,7 +5393,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_4.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="5.0 Quality Assurance Program Coordinator (QAPC)"
@@ -5918,7 +5404,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_5.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.0 Memorandum Templates and Contract Training Syllabus"
@@ -5930,7 +5415,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_602_2_6.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -5942,7 +5426,6 @@
                    audience="AFFARS_MP5301_603_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5301_603_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5954,7 +5437,6 @@
                 audience="AFFARS_MP5301_90"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5301_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5301.9001 (i)(1)(i)- Business Clearance Approval by the DAS(C)/ADAS(C)"
@@ -5965,7 +5447,6 @@
                    audience="AFFARS_MP5301_9001"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5301_9001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions"
@@ -5976,7 +5457,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_9001A.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="MP5301.9001b (B) Business Clearance Approval for Competitive Actions"
@@ -5987,7 +5467,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP5301_9001B.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6001,7 +5480,6 @@
              audience="AFFARS_MP5305"
              xtrf="Part"
              xtrc="AFFARS_MP5305.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5305_3.dita"
@@ -6012,7 +5490,6 @@
                 audience="AFFARS_MP5305_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5305_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5305.303 Announcement of Contract Awards"
@@ -6023,7 +5500,6 @@
                    audience="AFFARS_MP5305_303"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5305_303.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6036,7 +5512,6 @@
              audience="AFFARS_MP5306"
              xtrf="Part"
              xtrc="AFFARS_MP5306.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5306_5.dita"
@@ -6047,7 +5522,6 @@
                 audience="AFFARS_MP5306_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5306_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5306.502 Air Force Competition and Commercial Advocacy Program"
@@ -6058,7 +5532,6 @@
                    audience="AFFARS_MP5306_502"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5306_502.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="1.Objectives. Objectives."
@@ -6070,7 +5543,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5306_502_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="2.DutiesandResponsibilities. Duties and Responsibilities."
@@ -6082,7 +5554,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5306_502_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.AppointmentoftheCompetitionandCommercialAdvocate. Appointment of the Competition and Commercial Advocate."
@@ -6094,7 +5565,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5306_502_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="4. Annual Competition and Commercial Reporting Requirements."
@@ -6106,7 +5576,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5306_502_4.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6120,7 +5589,6 @@
              audience="AFFARS_MP5315"
              xtrf="Part"
              xtrc="AFFARS_MP5315.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="MP5315.3 Source Selection"
@@ -6132,7 +5600,6 @@
                 xtrf="SubPart"
                 otherprops=""
                 xtrc="AFFARS_MP5315_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="1 PURPOSE, ROLES, AND RESPONSIBILITIES"
@@ -6144,7 +5611,6 @@
                    audience="AFFARS_MP_5315_3_1"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="1.1 Purpose"
@@ -6156,7 +5622,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="1.2 Applicability and Waivers"
@@ -6168,7 +5633,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="1.3 Best Value Continuum (No AF Text)"
@@ -6180,7 +5644,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="1.4 Source Selection Team Roles and Responsibilities"
@@ -6192,7 +5655,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_4.html"
-                      class="- map/topicref "
                       tables="1"
                       figures="0"/>
          </topicref>
@@ -6205,7 +5667,6 @@
                    audience="AFFARS_MP_5315_3_2"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="2.1 Conduct Acquisition Planning"
@@ -6217,7 +5678,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="2.2 Develop a Source Selection Plan (SSP)"
@@ -6229,7 +5689,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="2.3 Develop the Request for Proposals"
@@ -6241,7 +5700,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="2.4 Release the Request for Proposals (No AF Text)"
@@ -6253,7 +5711,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_4.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6266,7 +5723,6 @@
                    audience="AFFARS_MP_5315_3_3"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="3.1 Evaluation Activities"
@@ -6278,7 +5734,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.2 Documentation of Initial Evaluation Results"
@@ -6290,7 +5745,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.3 Award without Discussions"
@@ -6302,7 +5756,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.4 Competitive Range Decision Document"
@@ -6314,7 +5767,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_4.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.5 Discussion Process"
@@ -6326,7 +5778,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_5.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.6 Final Proposal Revisions"
@@ -6338,7 +5789,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_6.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.7 Documentation of Final Evaluation Results"
@@ -6350,7 +5800,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_7.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.8 Conduct and Document the Comparative Analysis"
@@ -6362,7 +5811,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_8.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.9 Best Value Decision"
@@ -6374,7 +5822,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_9.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.10 Source Selection Decision Document"
@@ -6386,7 +5833,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_10.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.11 Debriefings (No AF Text)"
@@ -6398,7 +5844,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_11.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="3.12 Integrating Proposal into the Contract"
@@ -6410,7 +5855,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_12.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6423,7 +5867,6 @@
                    audience="AFFARS_MP_5315_3_4"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_4.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="4.1 Minimum Requirements"
@@ -6435,7 +5878,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="4.2 Electronic Source Selection"
@@ -6447,7 +5889,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="4.3 Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates"
@@ -6459,7 +5900,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6472,7 +5912,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_5.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="6 MANDATORY AIR FORCE SOURCE SELECTION TRAINING"
@@ -6484,7 +5923,6 @@
                    audience="AFFARS_MP_5315_3_6"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_6.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="6.1 Purpose"
@@ -6496,7 +5934,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_1.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.2 Responsibilities of Senior Contracting Officials (SCO)"
@@ -6508,7 +5945,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_2.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.3 Required Training for Designated Trainers"
@@ -6520,7 +5956,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_3.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.4 Acquisition/Source Selection Team      Training"
@@ -6532,7 +5967,6 @@
                       audience="AFFARS_MP_5315_3_6_4"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_4.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.5 Source Selection Training Material"
@@ -6544,7 +5978,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_5.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.6 Training Certificates."
@@ -6556,7 +5989,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_6.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.7 Source Selection Training Survey."
@@ -6568,7 +6000,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_7.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="6.8 Continuous Learning Points (CLP)."
@@ -6580,7 +6011,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_8.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6593,7 +6023,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="List of Appendices"
@@ -6605,7 +6034,6 @@
                    audience="AFFARS_MP_5315_3_LIST_OF_APPENDICES"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5315_3_LIST_OF_APPENDICES.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0">
             <topicref navtitle="Appendix A. Debriefing Guide (No AF Text)"
@@ -6617,7 +6045,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_A.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )"
@@ -6629,7 +6056,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_B.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
             <topicref navtitle="Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)"
@@ -6641,7 +6067,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_C.html"
-                      class="- map/topicref "
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6655,7 +6080,6 @@
                 xtrf="SubPart"
                 otherprops=""
                 xtrc="AFFARS_MP5315_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="1.ProposalInstructions. Proposal Instructions."
@@ -6667,7 +6091,6 @@
                    audience="AFFARS_MP5315_4_1"
                    xtrf="task"
                    xtrc="AFFARS_MP5315_4_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="2.Requestingdatadocumentationafterreceiptoftheproposal. Requesting data/documentation after receipt of the proposal."
@@ -6679,7 +6102,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5315_4_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver"
@@ -6691,7 +6113,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5315_404_1_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="MP5315.407-90 Contract Audit Follow-up (CAFU)"
@@ -6702,7 +6123,6 @@
                    audience="AFFARS_MP5315_407_90"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5315_407_90.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6714,7 +6134,6 @@
                 audience="AFFARS_MP5315_606_90"
                 xtrf="subtopic"
                 xtrc="AFFARS_MP5315_606_90.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
    </topicref>
@@ -6726,7 +6145,6 @@
              audience="AFFARS_MP5325"
              xtrf="Part"
              xtrc="AFFARS_MP5325.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="MP5325.103 Exceptions"
@@ -6737,7 +6155,6 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 xtrc="AFFARS_MP5325_103.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0"/>
       <topicref navtitle="MP5325.7002-2 - Exceptions"
@@ -6748,7 +6165,6 @@
                 audience="AFFARS_MP5325_7002_2"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5325_7002_2.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
@@ -6760,7 +6176,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5325_7002_2_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="2.DNADException DNAD Exception"
@@ -6772,7 +6187,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5325_7002_2_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6784,7 +6198,6 @@
                 audience="AFFARS_MP5325_7003_3"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5325_7003_3.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7003 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
@@ -6796,7 +6209,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5325_7003_3_1.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
@@ -6808,7 +6220,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5325_7003_3_2.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="3.DNADException DNAD Exception"
@@ -6820,7 +6231,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5325_7003_3_3.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6833,7 +6243,6 @@
              audience="AFFARS_MP5332"
              xtrf="Part"
              xtrc="AFFARS_MP5332.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5332_4.dita"
@@ -6844,7 +6253,6 @@
                 audience="AFFARS_MP5332_4"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5332_4.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5332.470 Advance Payment Pool"
@@ -6855,7 +6263,6 @@
                    audience="AFFARS_MP5332_470"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5332_470.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6867,7 +6274,6 @@
                 audience="AFFARS_MP5332_7"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5332_7.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="Release of Solicitations in Advance of Funding      Availability"
@@ -6878,7 +6284,6 @@
                    audience="AFFARS_RELEASE_OF_SOLICITATIONS"
                    xtrf="subtopic"
                    xtrc="AFFARS_RELEASE_OF_SOLICITATIONS.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6891,7 +6296,6 @@
              audience="AFFARS_MP5333"
              xtrf="Part"
              xtrc="AFFARS_MP5333.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5333_1.dita"
@@ -6902,7 +6306,6 @@
                 audience="AFFARS_MP5333_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5333_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5333.104 Protests to GAO"
@@ -6913,7 +6316,6 @@
                    audience="AFFARS_MP5333_104"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5333_104.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6926,7 +6328,6 @@
              audience="AFFARS_MP5342"
              xtrf="Part"
              xtrc="AFFARS_MP5342.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5342_9.dita"
@@ -6937,7 +6338,6 @@
                 audience="AFFARS_MP5342_9"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5342_9.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5342.902 Bankruptcy Procedures"
@@ -6948,7 +6348,6 @@
                    audience="AFFARS_MP5342_902"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5342_902.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6961,7 +6360,6 @@
              audience="AFFARS_MP5346"
              xtrf="Part"
              xtrc="AFFARS_MP5346.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref href="MP5346_1.dita"
@@ -6972,7 +6370,6 @@
                 audience="AFFARS_MP5346_1"
                 xtrf="SubPart"
                 xtrc="AFFARS_MP5346_1.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5346.103 - Contracting Office Responsibilities"
@@ -6983,7 +6380,6 @@
                    audience="AFFARS_MP5346_103"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5346_103.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6996,7 +6392,6 @@
              audience="AFFARS_MP5349"
              xtrf="Part"
              xtrc="AFFARS_MP5349.html"
-             class="- map/topicref "
              tables="0"
              figures="0">
       <topicref navtitle="Subpart MP5349.5 - CONTRACT TERMINATION CLAUSES"
@@ -7007,7 +6402,6 @@
                 audience="AFFARS_SUBPART_MP5349_5"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_MP5349_5.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP 5349.501-70 Special Termination Costs"
@@ -7018,7 +6412,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP_5349_501_70.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7030,7 +6423,6 @@
                 audience="AFFARS_SUBPART_MP5349_70"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_MP5349_70.html"
-                class="- map/topicref "
                 tables="0"
                 figures="0">
          <topicref navtitle="MP5349.7001 Congressional Notification on Significant Contract Terminations"
@@ -7041,7 +6433,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5349_7001.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
          <topicref navtitle="MP5349.7003 Notification of Anticipated Terminations or Reductions"
@@ -7052,7 +6443,6 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFFARS_MP5349_7003.html"
-                   class="- map/topicref "
                    tables="0"
                    figures="0"/>
       </topicref>

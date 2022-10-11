@@ -20,15 +20,19 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_000.dita#AFFARS_SUBPART_5318_000">Subpart 5318.000 - SCOPE OF PART</xref>
+                  <xref outputclass="fm:TOC" href="5318_000.dita#AFFARS_5318_000">5318.000 - SCOPE OF PART</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5318_001.dita#AFFARS_5318_001">5318.001 Definition</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_1.dita#AFFARS_SUBPART_5318_1">Subpart 5318.1 - AVAILABLE ACQUISITION FLEXIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5318_001.dita#AFFARS_5318_001">5318.001 Definition</xref>
-                     </p>
-                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5318_125.dita#AFFARS_5318_125">5318.125 Protest to GAO</xref>
