@@ -1933,15 +1933,7 @@
                    audience="AFFARS_5317_173"
                    xtrf="subtopic"
                    xtrc="AFFARS_5317_173.html"/>
-         <topicref navtitle="5317.174 5317.174 Multiyear Contracts for Electricity from Renewable Energy Sources"
-                   href="5317_174.dita"
-                   audience="iOptVA"
-                   otherprops=""
-                   base="NoTitle"
-                   props="5317.174"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="iOptVA.html"/>
+         <topicref navtitle="5317.174 Multiyear Contracts for Electricity from Renewable Energy Sources" href="5317_174.dita" audience="AFFARS_5317_174" otherprops="" base="NoTitle" props="5317.174" outputclass="subtopic" xtrf="subtopic" xtrc="iOptVA.html"/>
       </topicref>
       <topicref navtitle="Subpart 5317.2 - OPTIONS"
                 href="SUBPART_5317_2.dita"
