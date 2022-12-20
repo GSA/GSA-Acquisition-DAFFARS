@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP_5315_3_1_2" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">1.2</ph> Applicability and Waivers</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">1.2</ph> Applicability and Waivers</title>
       <conbody>
          <p id="PCmQQe" outputclass="Normal">This MP must be used in conjunction with Federal Acquisition Regulation (FAR) Part 15, as supplemented, to include the DFARS Part 215 and its companion resource entitled Procedures, Guidance and Information (PGI), DoD Source Selection Procedures, and related laws, regulation, and policy. As guidance, this MP also provides hyperlinks to non-mandatory best practices, TTPs, sample RFP and contract language, tailorable templates and training materials, and links to PGI 5315.3 language.</p>
-         <p id="QdEcxx" outputclass="List3">1.2.1.1 Acquisitions with an estimated dollar value less than or equal to $50M may use price as the only evaluated factor and therefore be exempt from the <xref format="pdf"
-                  href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf"
-                  scope="external">DoD Source Selection Procedures</xref> dated 31 March 2016 and from this MP if all of the following conditions are met:</p>
+         <p id="QdEcxx" outputclass="List3">1.2.1.1 Acquisitions with an estimated dollar value less than or equal to $50M may use price as the only evaluated factor and therefore be exempt from the <xref format="pdf" href="http://www.acq.osd.mil/dpap/policy/policyvault/USA004370-14-DPAP.pdf" scope="external">DoD Source Selection Procedures</xref> dated 31 March 2016 and from this MP if all of the following conditions are met:</p>
          <p id="GESMyd">1) The requirement is non-complex and well-defined, such that consideration of non-cost/price evaluation factors (e.g., technical, past performance, etc.) would not provide any meaningful differentiation amongst proposals and would add no value to the selection of a successful offeror;</p>
          <p id="ceDlXN">2) Past performance record and history will be assessed as one of the multiple standards required for a successful offeror to be determined responsible as described in <ph>
                <u>FAR 9.104</u>
@@ -18,9 +14,7 @@
          <p id="bKIYOj">3) Use of price as the only evaluation factor is the most advantageous approach to the government; and</p>
          <p id="pNXVPd">4) The acquisition strategy approving official has determined that use of price as the only evaluated factor is the most appropriate source selection methodology for the requirement and the justification for this determination is included in the approved acquisition strategy/plan.</p>
          <p id="bBdyQr" outputclass="List3">1.2.1.2 A waiver allowing the use of price as the only evaluated factor for an acquisition with an estimated dollar value greater than $50M may be granted on an acquisition specific basis by the SCO upon the waiver authority’s determination that the conditions at 1.2.1.1 (1)-(4) are met.</p>
-         <p id="NcQXmb" outputclass="List2">1.2.4Waivers.Waivers for solicitations valued at $1B or more for approval by the Director, Defense Pricing and Contracting (DPC), must be forwarded through the SCO to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="NcQXmb" outputclass="List2">1.2.4Waivers.Waivers for solicitations valued at $1B or more for approval by the Director, Defense Pricing and Contracting (DPC), must be forwarded through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref> for review and processing. Waivers for solicitations above $10M but less than $1B must be approved by the SCO.</p>
          <p id="tcjKwa" outputclass="List3">1.2.4.1. Waiver procedures apply only to the DoD Source Selection Procedures (CAUTION: read paragraph 1.2 of the DoD Source Selection Procedures) and this MP. The requirements of <ph>

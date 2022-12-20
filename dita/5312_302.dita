@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5312_302"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5312.302</ph> Tailoring of Provisions and Clauses for the Acquisition of Commercial Items</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5312_302" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5312.302</ph> Tailoring of Provisions and Clauses for the Acquisition of Commercial Items</title>
       <conbody>
-         <p id="p__Toc38287162" outputclass="List1">(c) See <xref href="MP5301_601.dita"/>.</p>
+         <p id="p__Toc38287162" outputclass="List1">(c) See <xref href="MP5301_601.dita" />.</p>
       </conbody>
    </concept>
 </dita>

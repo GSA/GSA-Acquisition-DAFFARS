@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5314">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">Part 5314</ph> - Sealed Bidding</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5314" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5314</ph> - Sealed Bidding</title>
       <body>
          <p id="CVoimY" outputclass="Normal">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx"
-                  scope="external">AFFARS PART 5314 Knowledge Center</xref>
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5314.aspx" scope="external">AFFARS PART 5314 Knowledge Center</xref>
          </p>
          <p id="xcXNqd" outputclass="Normal">
             <b>2019 Edition</b>
@@ -25,7 +22,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_201_7">5314.201-7 Contract Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5314_201_7.dita#AFFARS_5314_201_7" xtrc="5314.201-7 Contract Clauses">5314.201-7</xref>
                      </p>
                   </li>
                </ul>
@@ -37,7 +34,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_407_3">5314.407-3 Other Mistakes Disclosed Before Award</xref>
+                        <xref outputclass="fm:TOC" href="5314_407_3.dita#AFFARS_5314_407_3" xtrc="5314.407-3 Other Mistakes Disclosed Before Award">5314.407-3</xref>
                      </p>
                   </li>
                </ul>

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5328_310_90"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5328.310-90</ph> Additional Contract Clause</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5328_310_90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5328.310-90</ph> Additional Contract Clause</title>
       <conbody>
-         <p id="p__Toc38365437">Contracts performed in Spain<b>.</b> The contracting officer must insert AFFARS clause <xref href="5352_228_9101.dita"/> , <i>Insurance Certificate</i>
+         <p id="p__Toc38365437">Contracts performed in Spain<b>.</b> The contracting officer must insert AFFARS clause <xref href="5352_228_9101.dita" xtrc="">5352.228-9101</xref> , <i>Insurance Certificate</i>
             <i> Requirement in Spain</i>
             <i> (USAFE)</i>, in all solicitations and contracts for services to be performed in Spain by other than U.S. or Spanish contractors (i.e., a Third Country National (TCN) contractor).</p>
       </conbody>

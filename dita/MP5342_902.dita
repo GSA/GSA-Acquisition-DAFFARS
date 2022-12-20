@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_MP5342_902" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">MP5342.902</ph> Bankruptcy Procedures</title>
+      <title outputclass="Heading 1">
+         <ph props="autonumber">MP5342.902</ph> Bankruptcy Procedures</title>
       <body>
          <p outputclass="Normal">
             <b>2019 Edition</b>
@@ -53,18 +51,14 @@
          <p outputclass="List4">(B) The current status and performance experience
             of each ongoing contract. The contractor may request the court’s permission to assume,
             sell, reject, or continue performing ongoing contracts. The contracting officer will
-            need to coordinate with <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            need to coordinate with <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref> to determine how best to pursue the most favorable course.</p>
          <p outputclass="List4">(C) If the debtor/contractor is in possession of
             any Government furnished equipment, Government furnished property, or work in progress
             for which title has passed to the Government.</p>
          <p outputclass="List2">(3) The contracting officer and legal office must
-            promptly advise <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            promptly advise <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref> regarding all Government property in the possession of, or under the control of,
             the debtor/contractor. Failure to address such property in a timely manner may result in
@@ -99,9 +93,7 @@
             claims which should be offset against those pre-petition amounts owed. Pre-petition
             debts are those amounts due for work performed or goods delivered before the bankruptcy
             petition was filed with the court. The contracting officer must not authorize
-            pre-petition payments without prior coordination with and approval from <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            pre-petition payments without prior coordination with and approval from <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref>.</p>
          <p outputclass="List4">(C) These payment provisions augment, rather than
@@ -115,9 +107,7 @@
             the contracting and legal offices.</p>
          <p outputclass="List4">(B) Not later than 15 days after receiving notice
             of a bankruptcy filing, the contracting officer must submit a report to DFAS-HGB and
-               <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+               <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref> detailing:</p>
          <p outputclass="List3" xtrf="CheckMapping">(i) Each contract (by debtor’s/contractor’s or
@@ -132,21 +122,15 @@
             debtor’s/contractor’s intent regarding the future of each contract and the contracting
             officers’ thoughts regarding the same.</p>
          <p outputclass="List4">(C) All correspondence relative to the bankruptcy
-            received from any source must be copied and forwarded to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            received from any source must be copied and forwarded to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref> within one business day of receipt.</p>
          <p outputclass="List4">(D) Any claims or requests for equitable
-            adjustment from the debtor/contractor or trustee must be copied and forwarded to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            adjustment from the debtor/contractor or trustee must be copied and forwarded to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref>. </p>
          <p outputclass="List1">(b) The contracting officer and supporting
-            attorney must consult <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            attorney must consult <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
             </xref> prior to taking any of the following actions regarding the
             debtor/contractor:</p>

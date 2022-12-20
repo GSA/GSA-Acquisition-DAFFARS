@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5315_404_70_90" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5315.404-70-90</ph> DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5315.404-70-90</ph> DD Form 1547, Record of Weighted Guidelines Method Application, Report Control Symbol: DD-AT&amp;L(Q)1751</title>
       <conbody>
-         <p id="HOrrYs">HQ AFMC/PK is the designated Air Force focal point for weighted guidelines reporting. DD Form 1547s shall be prepared and reported using the web-based <xref format="html"
-                  href="https://www.wgl.milcloud.mil/wgl/"
-                  scope="external">Weighted Guidelines (WGL) Application</xref>. The SCO shall appoint a WGL Administrator at each geographic location. The responsibilities of the WGL Administrator are outlined in the WGL Administrator's Guide. Refer to the web-enabled version of the <xref format="html"
-                  href="https://www.wgl.milcloud.mil/wgl/Application_Guides.asp"
-                  scope="external">Profit WGL Application and User Application Guides</xref> (Users and Administrators).</p>
-         <p id="p__Toc38364940" outputclass="Normal"/>
+         <p id="HOrrYs">HQ AFMC/PK is the designated Air Force focal point for weighted guidelines reporting. DD Form 1547s shall be prepared and reported using the web-based <xref format="html" href="https://www.wgl.milcloud.mil/wgl/" scope="external">Weighted Guidelines (WGL) Application</xref>. The SCO shall appoint a WGL Administrator at each geographic location. The responsibilities of the WGL Administrator are outlined in the WGL Administrator's Guide. Refer to the web-enabled version of the <xref format="html" href="https://www.wgl.milcloud.mil/wgl/Application_Guides.asp" scope="external">Profit WGL Application and User Application Guides</xref> (Users and Administrators).</p>
+         <p id="p__Toc38364940" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

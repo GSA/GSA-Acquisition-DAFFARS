@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP5315_404_1_90" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">MP5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
+      <title outputclass="Heading 2">
+         <ph props="autonumber">MP5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
       <conbody>
          <p id="luEBsH" outputclass="List1">(b) Requesting Pricing Assistance.</p>
-         <p id="zOlkvw" outputclass="List2">(1)“Full Pricing Assistance” means the price analyst accomplishes the majority of the pricing effort (e.g. pricing case) for a specific contract action which meets or exceeds the thresholds identified in AFFARS <xref href="5315_404_1_90.dita#AFFARS_5315_404_1_90"
-                  outputclass="fm:ParaNumOnly">5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>(a). Submit the request for pricing assistance to the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). The contracting officer may also request full pricing assistance for actions below the thresholds identified in AFFARS 5315.404-1-90(a) when additional pricing expertise is needed. The Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief) is the approval authority for those requests, on a case by case basis. See the tailorable <xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external">
+         <p id="zOlkvw" outputclass="List2">(1)“Full Pricing Assistance” means the price analyst accomplishes the majority of the pricing effort (e.g. pricing case) for a specific contract action which meets or exceeds the thresholds identified in AFFARS <xref href="5315_404_1_90.dita#AFFARS_5315_404_1_90" outputclass="fm:ParaNumOnly" xtrc="5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver">5315.404-1-90</xref>(a). Submit the request for pricing assistance to the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). The contracting officer may also request full pricing assistance for actions below the thresholds identified in AFFARS 5315.404-1-90(a) when additional pricing expertise is needed. The Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief) is the approval authority for those requests, on a case by case basis. See the tailorable <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx" scope="external">
                <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
             </xref>template.</p>
-         <p id="SXvNyB" outputclass="List2">(2)“Tailored Pricing Assistance” may also be requested for actions below the mandatory thresholds (or in conjunction with a Pricing Assistance Waiver Request) and will be provided at the discretion of the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external">
+         <p id="SXvNyB" outputclass="List2">(2)“Tailored Pricing Assistance” may also be requested for actions below the mandatory thresholds (or in conjunction with a Pricing Assistance Waiver Request) and will be provided at the discretion of the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx" scope="external">
                <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
             </xref>template. Examples of Tailored Pricing Assistance that may be available include:</p>
          <p id="Tkbwzc" outputclass="List3" xtrf="CheckMapping">(i) Assistance with completion of the Weighted Guidelines (DD Form 1547)</p>
@@ -33,9 +26,7 @@
          <p id="lFiswZ" outputclass="List3" xtrf="CheckMapping">(xii) Rate and factor reviews when DCMA assistance is not available</p>
          <p id="vyShmp" outputclass="List2">(3) Request pricing assistance as early as practicable in the acquisition process, but no later than receipt of the proposal. For large dollar sole source acquisitions, the contracting officer is expected to consult with the pricing office (or Clearance and Program Support office ) to determine which components of the <b>L-XXX</b>
             <b>Cost Proposal Adequacy and Structure</b> provision described in <xref href="MP5315_4.dita#AFFARS_MP5315_4" outputclass="fm:ParaNumOnly">MP5315.4 Contract Pricing</xref>-1.d, should be included in the RFP.</p>
-         <p id="SCslOt" outputclass="List1">(c) Requesting a Pricing Assistance Waiver. Contracting officers may request a Pricing Assistance Waiver for acquisitions which meet or exceed the required thresholds identified in <xref href="5315_404_1_90.dita"/> . Submit the waiver request to the CAA through the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx"
-                  scope="external">
+         <p id="SCslOt" outputclass="List1">(c) Requesting a Pricing Assistance Waiver. Contracting officers may request a Pricing Assistance Waiver for acquisitions which meet or exceed the required thresholds identified in <xref href="5315_404_1_90.dita" xtrc="">5315.404-1-90</xref> . Submit the waiver request to the CAA through the Pricing Chief (or Chief of the Clearance and Program Support office where there is no designated Pricing Chief). See the tailorable <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_pricing_assistance_or_waiver.docx" scope="external">
                <u>Request for Pricing Assistance or Pricing Assistance Waiver</u>
             </xref> template<b>
                <i>.</i>

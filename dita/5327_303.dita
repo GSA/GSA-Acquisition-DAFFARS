@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5327_303" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5327.303</ph> Contract Clauses</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5327.303</ph> Contract Clauses</title>
       <conbody>
          <p id="uiRgSY" outputclass="List1">(b)(1) When using clause 52.227-11, insert instructions substantially the same as the following in the fill-in of section (j):</p>
          <p id="NcCwZK" outputclass="List2">(1) “Interim or final Invention Reports shall be sent to both the Administrative Contracting Officer, <i>(insert “at the address located</i>
@@ -15,9 +13,7 @@
             <i>perform patent administration</i>
             <i>for this contract</i>
             <i>)</i> within the timeframes specified in the Patent Rights clause of this contract.</p>
-         <p id="oFmiGb" outputclass="List2">(2) The <xref format="pdf"
-                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0882.pdf"
-                  scope="external">
+         <p id="oFmiGb" outputclass="List2">(2) The <xref format="pdf" href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0882.pdf" scope="external">
                <u>DD Form 882</u>
             </xref>, <i>Report of Inventions</i>
             <i>and Subcontracts</i>, may be used to submit these reports. The DD Form 882 may be also be used for the notification of an award of any subcontract(s) for experimental, developmental or research work which contain a Patent Rights clause.</p>

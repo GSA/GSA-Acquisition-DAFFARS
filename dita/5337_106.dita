@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5337_106" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5337.106</ph> Funding and Term of Service Contracts</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5337.106</ph> Funding and Term of Service Contracts</title>
       <conbody>
          <p id="RmSlKZ" outputclass="Normal">See DFARS 204.7103-1 for guidance on considering severability when forming Service contracts.</p>
-         <p id="p__Toc38365490" outputclass="Normal"/>
+         <p id="p__Toc38365490" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

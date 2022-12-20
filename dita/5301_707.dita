@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5301_707" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5301.707</ph> Signatory Authority</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5301.707</ph> Signatory Authority</title>
       <conbody>
-         <p id="kUHAnj" outputclass="List1">(a) Determinations and Findings (D&amp;F) for actions requiring Senior Procurement Executive (SPE) or SAF/AQ approval must be coordinated with the DAS(C) or the ADAS(C). After coordination with the SCO, the contracting officer must submit determinations to <xref format="html"
-                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">SAF/AQC</xref> for processing to SAF/AQ for approval. Allow 18 days for staffing and approval after receipt by <xref format="html"
-                  href="http://mailto:SAF.AQ.Workflow@us.af.mil"
-                  scope="external">SAF/AQ</xref>. Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the D&amp;F package.</p>
-         <p id="RaGfVJ" outputclass="List1">(b) The contracting officer must submit D&amp;Fs for actions requiring DAS(C)/ADAS(C) approval to <xref format="html"
-                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">SAF/AQC</xref> after coordination by the SCO. Allow 7 days for staffing and approval after receipt by SAF/AQC unless otherwise specified.</p>
-         <p id="fcbiJj" outputclass="List1">(c) D&amp;Fs involving small business matters must be coordinated with local Small Business Professional and/or MAJCOM/FIELDCOM/DRU Center Small Business Director, as appropriate, and, at SAF level, with <xref format="html"
-                  href="http://mailto:SAF.SB.workflow@us.af.mil"
-                  scope="external">SAF/SB</xref>. Copy SAF/SB on D&amp;F packages sent to SAF/AQC.</p>
+         <p id="kUHAnj" outputclass="List1">(a) Determinations and Findings (D&amp;F) for actions requiring Senior Procurement Executive (SPE) or SAF/AQ approval must be coordinated with the DAS(C) or the ADAS(C). After coordination with the SCO, the contracting officer must submit determinations to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> for processing to SAF/AQ for approval. Allow 18 days for staffing and approval after receipt by <xref format="html" href="http://mailto:SAF.AQ.Workflow@us.af.mil" scope="external">SAF/AQ</xref>. Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the D&amp;F package.</p>
+         <p id="RaGfVJ" outputclass="List1">(b) The contracting officer must submit D&amp;Fs for actions requiring DAS(C)/ADAS(C) approval to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> after coordination by the SCO. Allow 7 days for staffing and approval after receipt by SAF/AQC unless otherwise specified.</p>
+         <p id="fcbiJj" outputclass="List1">(c) D&amp;Fs involving small business matters must be coordinated with local Small Business Professional and/or MAJCOM/FIELDCOM/DRU Center Small Business Director, as appropriate, and, at SAF level, with <xref format="html" href="http://mailto:SAF.SB.workflow@us.af.mil" scope="external">SAF/SB</xref>. Copy SAF/SB on D&amp;F packages sent to SAF/AQC.</p>
       </conbody>
    </concept>
 </dita>
