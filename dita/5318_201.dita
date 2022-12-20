@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5318_201"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5318.201</ph> Contingency Operation</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5318_201" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5318.201</ph> Contingency Operation</title>
       <conbody>
-         <p outputclass="List1">(b) <i>Micro-purchase threshold</i>. For delegation of HCA responsibility regarding micro-purchases of supplies or services to be used in support of a contingency operation, see <xref href="MP5301_601.dita"/>.</p>
-         <p outputclass="List1">(c) <i>Simplified acquisition threshold</i>. For delegation of HCA responsibility regarding an increase in simplified acquisition threshold, see <xref href="MP5301_601.dita"/>.</p>
-         <p outputclass="List2">(1) <i>Selection, appointment, and termination of appointment.</i> Requirements for the selection, appointment and termination of CCOs are described in <xref href="5301_603_2_90.dita" xtrc="5301.603-2-90(e)"/>.</p>
-         <p outputclass="List4">(S-90) For Air Force Contingency readiness policies, responsibilities, and implementing procedures, see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf"
-                  scope="external"
-                  format="pdf">
+         <p outputclass="List1">(b) <i>Micro-purchase threshold</i>. For delegation of HCA responsibility regarding micro-purchases of supplies or services to be used in support of a contingency operation, see <xref href="MP5301_601.dita" />.</p>
+         <p outputclass="List1">(c) <i>Simplified acquisition threshold</i>. For delegation of HCA responsibility regarding an increase in simplified acquisition threshold, see <xref href="MP5301_601.dita" />.</p>
+         <p outputclass="List2">(1) <i>Selection, appointment, and termination of appointment.</i> Requirements for the selection, appointment and termination of CCOs are described in <xref href="5301_603_2_90.dita" xtrc="">5301.603-2-90</xref>.</p>
+         <p outputclass="List4">(S-90) For Air Force Contingency readiness policies, responsibilities, and implementing procedures, see <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf" scope="external" format="pdf">
                <u>AFI 64-105</u>
             </xref>
             <ph>
@@ -26,7 +20,7 @@
             </ph>
          </p>
          <p outputclass="List4">(S-91) Assign and maintain DoD Activity Address Codes (DoDAAC) for deployed forces within the area of responsibility, as required. See AFFARS 5304.7003-90.</p>
-         <p id="p__Toc38364828" outputclass="List2">(2) See <xref href="MP5301_601.dita"/>.</p>
+         <p id="p__Toc38364828" outputclass="List2">(2) See <xref href="MP5301_601.dita" />.</p>
       </conbody>
    </concept>
 </dita>

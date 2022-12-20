@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5305_502" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5305.502</ph> Authority</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5305.502</ph> Authority</title>
       <conbody>
-         <p id="KNxGYx" outputclass="List1">(a) <i>Newspapers</i>. See <xref href="MP5301_601.dita"/>.</p>
+         <p id="KNxGYx" outputclass="List1">(a) <i>Newspapers</i>. See <xref href="MP5301_601.dita" />.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFFARS_PART_5305">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">Part 5305</ph> - Publicizing Contract Actions</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFFARS_PART_5305" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5305</ph> - Publicizing Contract Actions</title>
       <body>
          <p id="rQjXZP" outputclass="Normal">
-            <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5305.aspx"
-                  scope="external">AFFARS PART 5305 Knowledge Center</xref>
+            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5305.aspx" scope="external">AFFARS PART 5305 Knowledge Center</xref>
          </p>
          <p id="mftAFC" outputclass="Normal">
             <b>2019 Edition</b>
@@ -27,7 +24,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_102.dita#AFFARS_5305_102">5305.102 Availability of Solicitations.</xref>
+                        <xref outputclass="fm:TOC" href="5305_102.dita#AFFARS_5305_102" xtrc="5305.102 Availability of Solicitations.">5305.102</xref>
                      </p>
                   </li>
                </ul>
@@ -39,17 +36,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_201.dita#AFFARS_5305_201">5305.201 General</xref>
+                        <xref outputclass="fm:TOC" href="5305_201.dita#AFFARS_5305_201" xtrc="5305.201 General">5305.201</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_202.dita#AFFARS_5305_202">5305.202 Exceptions</xref>
+                        <xref outputclass="fm:TOC" href="5305_202.dita#AFFARS_5305_202" xtrc="5305.202 Exceptions">5305.202</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_204.dita#AFFARS_5305_204">5305.204 Presolicitation Notices</xref>
+                        <xref outputclass="fm:TOC" href="5305_204.dita#AFFARS_5305_204" xtrc="5305.204 Presolicitation Notices">5305.204</xref>
                      </p>
                   </li>
                </ul>
@@ -61,7 +58,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_303.dita#AFFARS_5305_303">5305.303 Announcement of Contract Awards</xref>
+                        <xref outputclass="fm:TOC" href="5305_303.dita#AFFARS_5305_303" xtrc="5305.303 Announcement of Contract Awards">5305.303</xref>
                      </p>
                   </li>
                </ul>
@@ -73,7 +70,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5305_502.dita#AFFARS_5305_502">5305.502 Authority</xref>
+                        <xref outputclass="fm:TOC" href="5305_502.dita#AFFARS_5305_502" xtrc="5305.502 Authority">5305.502</xref>
                      </p>
                   </li>
                </ul>

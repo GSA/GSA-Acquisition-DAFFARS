@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5350_101_1"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5350.101-1</ph> Authority</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5350_101_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5350.101-1</ph> Authority</title>
       <conbody>
-         <p id="p__Toc38365550" outputclass="List1">(b) The authorities, policies, and procedures established in this part are based on the authority of <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
-                  scope="external"
-                  format="pdf">
+         <p id="p__Toc38365550" outputclass="List1">(b) The authorities, policies, and procedures established in this part are based on the authority of <xref href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external" format="pdf">
                <u>HAF MD 1-10</u>
             </xref>
             <ph>

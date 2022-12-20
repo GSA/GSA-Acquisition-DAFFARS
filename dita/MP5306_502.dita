@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_MP5306_502" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " id="k74F2b" outputclass="Heading 1">
-         <ph class="- topic/ph " id="TlQQ49" props="autonumber">MP5306.502</ph> Air Force Competition and Commercial Advocacy Program</title>
+      <title id="k74F2b" outputclass="Heading 1">
+         <ph id="TlQQ49" props="autonumber">MP5306.502</ph> Air Force Competition and Commercial Advocacy Program</title>
       <body>
-         <p id="p__Toc38365624" outputclass="Normal">This Mandatory Procedure (MP) implements, in part, <xref format="pdf"
-                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afpd64-1/afpd64-1.pdf"
-                  scope="external">AFPD 64-1</xref>, The Contracting System, and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
+         <p id="p__Toc38365624" outputclass="Normal">This Mandatory Procedure (MP) implements, in part, <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afpd64-1/afpd64-1.pdf" scope="external">AFPD 64-1</xref>, The Contracting System, and 41 USC 1705. This MP provides guidance and procedures for personnel implementing the Air Force Competition and Commercial Advocacy Program.</p>
       </body>
    </topic>
 </dita>

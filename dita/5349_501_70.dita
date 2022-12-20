@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5349_501_70" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5349.501-70</ph> Special Termination Costs</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5349.501-70</ph> Special Termination Costs</title>
       <conbody>
-         <p id="YzYdqP" outputclass="List1">(a) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:TEXT">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. Submit requests through the SCO to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="YzYdqP" outputclass="List1">(a) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:TEXT">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. Submit requests through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref> for approval.</p>
-         <p id="p__Toc38365545" outputclass="List1">(c) The contracting officer must forward a request for SAF/FM approval through their SCO and <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="p__Toc38365545" outputclass="List1">(c) The contracting officer must forward a request for SAF/FM approval through their SCO and <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
-            </xref>prior to authorizing any increase in the Government's maximum liability under the clause. <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+            </xref>prior to authorizing any increase in the Government's maximum liability under the clause. <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
-            </xref> will forward the request to <xref format="mailto"
-                  href="mailto:SAF.FM.Workflow@us.af.mil"
-                  scope="external">
+            </xref> will forward the request to <xref format="mailto" href="mailto:SAF.FM.Workflow@us.af.mil" scope="external">
                <u>SAF/FM</u>
             </xref>.</p>
       </conbody>

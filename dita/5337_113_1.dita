@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5337_113_1" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5337.113-1</ph> Waiver of Cost Allowability Limitations</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5337.113-1</ph> Waiver of Cost Allowability Limitations</title>
       <conbody>
-         <p id="oJaemw" outputclass="List1">(a) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:TEXT">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. Submit requests for waivers through the SCO to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="oJaemw" outputclass="List1">(a) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:TEXT">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. Submit requests for waivers through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref> for approval.</p>
       </conbody>

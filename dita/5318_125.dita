@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5318_125"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5318.125</ph> Protest to GAO</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5318_125" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5318.125</ph> Protest to GAO</title>
       <conbody>
-         <p id="p__Toc38364826" outputclass="Normal">See <xref href="MP5301_601.dita"/> and <xref href="5333_104.dita"/> .</p>
+         <p id="p__Toc38364826" outputclass="Normal">See <xref href="MP5301_601.dita" /> and <xref href="5333_104.dita" xtrc="">5333.104</xref> .</p>
       </conbody>
    </concept>
 </dita>

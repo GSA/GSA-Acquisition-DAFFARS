@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_SUBPART_5316_206" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Subpart">
-         <ph class="- topic/ph " props="autonumber">Subpart 5316.206</ph> - FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</title>
+      <title outputclass="Subpart">
+         <ph props="autonumber">Subpart 5316.206</ph> - FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</title>
    </topic>
 </dita>

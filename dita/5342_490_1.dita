@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5342_490_1" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5342.490-1</ph> Contract clause</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5342.490-1</ph> Contract clause</title>
       <conbody>
-         <p id="p__Toc38365508" outputclass="Normal">The contracting officer shall insert the clause substantially the same as the clause at AFFARS <xref href="5352_242_9000.dita"/> in solicitations and contracts that require contractor personnel to make frequent visits to or perform work on Air Force installation(s).</p>
+         <p id="p__Toc38365508" outputclass="Normal">The contracting officer shall insert the clause substantially the same as the clause at AFFARS <xref href="5352_242_9000.dita" xtrc="">5352.242-9000</xref> in solicitations and contracts that require contractor personnel to make frequent visits to or perform work on Air Force installation(s).</p>
       </conbody>
    </concept>
 </dita>
