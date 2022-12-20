@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5316_503" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5316.503</ph> Requirements Contracts</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5316_503"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5316.503</ph> Requirements Contracts</title>
       <conbody>
-         <p outputclass="List1">(b)(2) Determinations for requirements contracts in an amount estimated to exceed $112M (including all options) must be approved in accordance with <xref href="5316_504.dita" xtrc="">5316.504</xref>.</p>
+         <p outputclass="List1">(b)(2) Determinations for requirements contracts in an amount estimated to exceed $112M (including all options) must be approved in accordance with <xref href="5316_504.dita" xtrc=""/>.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5349" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5349</ph> Termination of Contracts</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_MP5349">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5349</ph> Termination of Contracts</title>
       <body>
          <p id="aOiUvT" outputclass="Normal">
             <b>2019 Edition</b>
@@ -11,29 +12,31 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_MP5349_5.dita#AFFARS_SUBPART_MP5349_5">Subpart MP5349.5 - CONTRACT TERMINATION CLAUSES</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_MP5349_5.dita#AFFARS_SUBPART_MP5349_5">Subpart MP5349.5 - CONTRACT TERMINATION CLAUSES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP_5349_501_70.dita#AFFARS_MP_5349_501_70" xtrc="MP 5349.501-70 Special Termination Costs">MP 5349.501-70</xref>
+                        <xref outputclass="fm:TOC" href="MP_5349_501_70.dita#AFFARS_MP_5349_501_70">MP 5349.501-70 Special Termination Costs</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_MP5349_70.dita#AFFARS_SUBPART_MP5349_70">Subpart MP5349.70 - SPECIAL TERMINATION REQUIREMENTS</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_MP5349_70.dita#AFFARS_SUBPART_MP5349_70">Subpart MP5349.70 - SPECIAL TERMINATION REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5349_7001.dita#AFFARS_MP5349_7001" xtrc="MP5349.7001 Congressional Notification on Significant Contract Terminations">MP5349.7001</xref>
+                        <xref outputclass="fm:TOC" href="MP5349_7001.dita#AFFARS_MP5349_7001">MP5349.7001 Congressional Notification on Significant Contract Terminations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5349_7003.dita#AFFARS_MP5349_7003" xtrc="MP5349.7003 Notification of Anticipated Terminations or Reductions">MP5349.7003</xref>
+                        <xref outputclass="fm:TOC" href="MP5349_7003.dita#AFFARS_MP5349_7003">MP5349.7003 Notification of Anticipated Terminations or Reductions</xref>
                      </p>
                   </li>
                </ul>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_MP5346_103" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5346.103</ph> - Contracting Office Responsibilities</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5346.103</ph> - Contracting Office Responsibilities</title>
       <body>
          <p outputclass="Normal">
             <b>2019 Edition</b>
@@ -18,15 +20,19 @@
             assurance program, act as the liaison between the contracting and functional organizations, and
             provide training and record keeping in accordance with <u>MP5301.602-2(d)</u> .</p>
          <p outputclass="List1">b. The CO must:</p>
-         <p outputclass="List2">(1) Advise the acquisition team on <xref href="https://www.dau.edu/tools/Documents/SAM/steps/step_7_templates.html" scope="external" format="html">
+         <p outputclass="List2">(1) Advise the acquisition team on <xref href="https://www.dau.edu/tools/Documents/SAM/steps/step_7_templates.html"
+                  scope="external"
+                  format="html">
                <u>Quality Assurance Surveillance Plan</u>
             </xref> development. </p>
          <p outputclass="List2">(2) Designate Contracting Officer’s Representatives
-            (COR) in accordance with <xref href="MP5301_602_2.dita" /> . </p>
-         <p outputclass="List1">c.<b></b>
-            <b></b>
-            <b></b>The QAPC must:</p>
-         <p outputclass="List2">(1) Successfully complete the <xref href="https://www.my.af.mil/gcss-af/USAF/AFP40/d/s6925EC134B670FB5E044080020E329A9/Student%20Courses/Quality%20Assurance%20Program%20Coordinator%20QAPC.pdf" scope="external" format="pdf">
+            (COR) in accordance with <xref href="MP5301_602_2.dita"/> . </p>
+         <p outputclass="List1">c.<b/>
+            <b/>
+            <b/>The QAPC must:</p>
+         <p outputclass="List2">(1) Successfully complete the <xref href="https://www.my.af.mil/gcss-af/USAF/AFP40/d/s6925EC134B670FB5E044080020E329A9/Student%20Courses/Quality%20Assurance%20Program%20Coordinator%20QAPC.pdf"
+                  scope="external"
+                  format="pdf">
                <u>QAPC course</u>
             </xref> conducted by AETC prior to conducting any training.</p>
          <p outputclass="List2">(2) Support the acquisition team in the development of

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5304" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5304</ph> - Administrative Matters</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5304">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5304</ph> - Administrative Matters</title>
       <body>
          <p id="IfVJtl" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5304.aspx" scope="external">AFFARS PART 5304 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5304.aspx"
+                  scope="external">AFFARS PART 5304 Knowledge Center</xref>
          </p>
          <p id="jWMiav" outputclass="Normal">
             <b>2019 Edition</b>
@@ -24,7 +27,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_101.dita#AFFARS_5304_101" xtrc="5304.101 Contracting Officers Signature">5304.101</xref>
+                        <xref outputclass="fm:TOC" href="5304_101.dita#AFFARS_5304_101">5304.101 Contracting Officers Signature</xref>
                      </p>
                   </li>
                </ul>
@@ -36,17 +39,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_402_90.dita#AFFARS_5304_402_90" xtrc="5304.402-90 General">5304.402-90</xref>
+                        <xref outputclass="fm:TOC" href="5304_402_90.dita#AFFARS_5304_402_90">5304.402-90 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_403.dita#AFFARS_5304_403" xtrc="5304.403 Responsibilities of Contracting Officers">5304.403</xref>
+                        <xref outputclass="fm:TOC" href="5304_403.dita#AFFARS_5304_403">5304.403 Responsibilities of Contracting Officers</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_404_90.dita#AFFARS_5304_404_90" xtrc="5304.404-90 Additional Contract Clauses">5304.404-90</xref>
+                        <xref outputclass="fm:TOC" href="5304_404_90.dita#AFFARS_5304_404_90">5304.404-90 Additional Contract Clauses</xref>
                      </p>
                   </li>
                </ul>
@@ -58,12 +61,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="COVID.dita#AFFARS_COVID" xtrc="COVID -19 and CARES Act Related Actions">COVID</xref>
+                        <xref outputclass="fm:TOC" href="COVID.dita#AFFARS_COVID">COVID -19 and CARES Act Related Actions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_604.dita#AFFARS_5304_604" xtrc="5304.604 (2) Responsibilities">5304.604</xref>
+                        <xref outputclass="fm:TOC" href="5304_604.dita#AFFARS_5304_604">5304.604 (2) Responsibilities</xref>
                      </p>
                   </li>
                </ul>
@@ -75,12 +78,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_802.dita#AFFARS_5304_802" xtrc="5304.802 Electronic Retention of Contract Files">5304.802</xref>
+                        <xref outputclass="fm:TOC" href="5304_802.dita#AFFARS_5304_802">5304.802 Electronic Retention of Contract Files</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_803.dita#AFFARS_5304_803" xtrc="5304.803 Contents of Contract Files">5304.803</xref>
+                        <xref outputclass="fm:TOC" href="5304_803.dita#AFFARS_5304_803">5304.803 Contents of Contract Files</xref>
                      </p>
                   </li>
                </ul>
@@ -92,7 +95,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_1001.dita#AFFARS_5304_1001" xtrc="5304.1001 Policy">5304.1001</xref>
+                        <xref outputclass="fm:TOC" href="5304_1001.dita#AFFARS_5304_1001">5304.1001 Policy</xref>
                      </p>
                   </li>
                </ul>
@@ -104,7 +107,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5304_7003_90.dita#AFFARS_5304_7003_90" xtrc="5304.7003-90 Maintaining DoD Activity Address Codes (DoDAAC)">5304.7003-90</xref>
+                        <xref outputclass="fm:TOC" href="5304_7003_90.dita#AFFARS_5304_7003_90">5304.7003-90 Maintaining DoD Activity Address Codes (DoDAAC)</xref>
                      </p>
                   </li>
                </ul>

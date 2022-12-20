@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_6_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" outputclass="task">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">6.4</ph> Acquisition/Source Selection Team      Training</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP_5315_3_6_4"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            outputclass="task">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.4</ph> Acquisition/Source Selection Team      Training</title>
       <conbody>
          <p outputclass="List2">6.4.1 Conducting Source Selection Training
         Sessions.</p>
@@ -14,9 +19,13 @@
         requirement.</p>
          <ol>
             <li>Specialized executive level training modules are available for the
-            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSA_SS_Training_Charts.pptx" scope="external" format="pptx">
+            <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSA_SS_Training_Charts.pptx"
+                     scope="external"
+                     format="pptx">
                   <u>SSA</u>
-               </xref> and <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSAC_SS_Training_Charts.pptx" scope="external" format="pptx">
+               </xref> and <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSAC_SS_Training_Charts.pptx"
+                     scope="external"
+                     format="pptx">
                   <u>SSAC</u>
                </xref>. </li>
             <li>
@@ -44,17 +53,23 @@
          <p outputclass="List2">6.4.3 Advance Preparation.</p>
          <p outputclass="Normal">Effectiveness of the source selection training
         experience can be enhanced with advance preparation. The Defense Acquisition University
-        (DAU) offers <xref href="https://icatalog.dau.edu/onlinecatalog/tabnavcl.aspx" scope="external" format="aspx">
+        (DAU) offers <xref href="https://icatalog.dau.edu/onlinecatalog/tabnavcl.aspx"
+                  scope="external"
+                  format="aspx">
                <u>continuous learning modules</u>
             </xref> on source selection and related topics. Some suggested DAU courses include the
         following:</p>
          <p outputclass="Normal">
-            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=283" scope="external" format="aspx?crs_id=283">
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=283"
+                  scope="external"
+                  format="aspx?crs_id=283">
                <u>CLC 004</u>
             </xref> - <i>Market Research</i>
          </p>
          <p outputclass="Normal">
-            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=247" scope="external" format="aspx?crs_id=247">
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=247"
+                  scope="external"
+                  format="aspx?crs_id=247">
                <u>CLC 028</u>
             </xref> - <ph>
                <i>
@@ -63,12 +78,16 @@
             </ph>
          </p>
          <p outputclass="Normal">
-            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=423" scope="external" format="aspx?crs_id=423">
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=423"
+                  scope="external"
+                  format="aspx?crs_id=423">
                <u>CLC 132</u>
             </xref> - <i>Organizational Conflicts of Interest</i>
          </p>
          <p outputclass="Normal">
-            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1689" scope="external" format="aspx?crs_id=1689">
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1689"
+                  scope="external"
+                  format="aspx?crs_id=1689">
                <u>CLM 049</u>
             </xref> - <i>Procurement Fraud Indicators</i>
          </p>

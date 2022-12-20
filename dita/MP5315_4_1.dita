@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP5315_4_1" ditaarch:DITAArchVersion="1.3">
-      <title id="title__Toc76720919" outputclass="Heading 2">
-         <ph id="K1bosf" props="autonumber">1.ProposalInstructions.</ph> Proposal Instructions.</title>
+      <title class="- topic/title "
+             id="title__Toc76720919"
+             outputclass="Heading 2">
+         <ph class="- topic/ph " id="K1bosf" props="autonumber">1.ProposalInstructions.</ph> Proposal Instructions.</title>
       <conbody id="4bsX3D">
          <p id="OckfCg" outputclass="List1">To facilitate timely awards of sole source contract actions and definitization of Undefinitized Contract Actions (UCA) within 180-days after issuance of the UCA, contracting officers:</p>
          <p id="VoEiHz" outputclass="List1">a. provide contractors with clear and concise proposal instructions, including a suspense date for proposal submission;</p>
@@ -63,12 +67,27 @@
          <p id="tZxfjS" outputclass="List2">(9) Commercial item considerations:</p>
          <p id="xvxFBy" outputclass="List3">i. The offeror’s proposal shall provide support for any subcontractor Commercial Item Determinations (CID), addressing, at a minimum, the following:</p>
          <p id="YxfyDr" outputclass="List1">a. A description of the supplies or services;</p>
-         <p id="chkXER" outputclass="List1">b. Specific identification of the type of commercial item claim (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" id="mgcey9" scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (8)), and the basis on which the item meets the definition; and</p>
+         <p id="chkXER" outputclass="List1">b. Specific identification of the type of commercial item claim (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  id="mgcey9"
+                  scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (8)), and the basis on which the item meets the definition; and</p>
          <p id="IYTUns" outputclass="List1">c. For modified commercial items (commercial item sub-definition (3)), classification of the modification(s) with supporting rationale as either:</p>
-         <p id="yriXEP" outputclass="List2">1. Of a type customarily available in the commercial marketplace (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" id="fEZ2uH" scope="external">FAR 2.101</xref> commercial item sub-definition (3)(i)); or</p>
-         <p id="DUlIUh" outputclass="List2">2. A minor modification of a type not customarily available in the commercial marketplace made to meet Federal Government requirements (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" id="VKsA6J" scope="external">FAR 2.101</xref> commercial item sub-definition (3)(ii)).</p>
-         <p id="geqFru" outputclass="Normal">Note that per FAR 15.403-1(c)(3)(iii)(B), modifications that meet the definition of minor modifications of a type not customarily available in the commercial marketplace as defined in <xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" id="TbeQfb" scope="external">FAR 2.101</xref>, paragraph (3)(ii) of the commercial item definition, will require the submission of certified cost and pricing data when the total price of all such modifications exceeds the greater of the threshold for certified cost or pricing data (FAR 15.403-4) or 5% of the total price of the contract at the time of contract award.</p>
-         <p id="ZldrJG" outputclass="List3">ii. For proposed subcontract commercial items “of a type”, or “evolved” or modified (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" id="XxOFje" scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (3)), the offeror shall provide a technical description of the differences between the proposed item and the comparison item and thoroughly address the cost differences between the proposed item and the comparison item.</p>
+         <p id="yriXEP" outputclass="List2">1. Of a type customarily available in the commercial marketplace (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  id="fEZ2uH"
+                  scope="external">FAR 2.101</xref> commercial item sub-definition (3)(i)); or</p>
+         <p id="DUlIUh" outputclass="List2">2. A minor modification of a type not customarily available in the commercial marketplace made to meet Federal Government requirements (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  id="VKsA6J"
+                  scope="external">FAR 2.101</xref> commercial item sub-definition (3)(ii)).</p>
+         <p id="geqFru" outputclass="Normal">Note that per FAR 15.403-1(c)(3)(iii)(B), modifications that meet the definition of minor modifications of a type not customarily available in the commercial marketplace as defined in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  id="TbeQfb"
+                  scope="external">FAR 2.101</xref>, paragraph (3)(ii) of the commercial item definition, will require the submission of certified cost and pricing data when the total price of all such modifications exceeds the greater of the threshold for certified cost or pricing data (FAR 15.403-4) or 5% of the total price of the contract at the time of contract award.</p>
+         <p id="ZldrJG" outputclass="List3">ii. For proposed subcontract commercial items “of a type”, or “evolved” or modified (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  id="XxOFje"
+                  scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (3)), the offeror shall provide a technical description of the differences between the proposed item and the comparison item and thoroughly address the cost differences between the proposed item and the comparison item.</p>
          <p id="xGsHiO" outputclass="List3">iii. The proposal shall include, or the offeror shall make available, data other than certified cost or pricing data to establish price reasonableness of the proposed subcontract commercial item (to include any modifications not subject to the requirement to submit certified cost or pricing data) by supplying:</p>
          <p id="RdUjee" outputclass="List1">a. Information/data related to competition, if competition is the offeror’s basis for asserting the reasonableness of the proposed subcontract price.</p>
          <p id="vQsymw" outputclass="List1">b. Information/data related to prices (sales data, market price assessments, etc.). Note that subcontractors may submit sales data directly to the contracting officer if the subcontractor deems the data proprietary.</p>

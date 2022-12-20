@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5307" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5307</ph> - Acquisition Planning</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5307">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5307</ph> - Acquisition Planning</title>
       <body>
          <p id="UPsvWJ" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5307.aspx" scope="external">AFFARS PART 5307 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5307.aspx"
+                  scope="external">AFFARS PART 5307 Knowledge Center</xref>
          </p>
          <p id="nCdtgl" outputclass="Normal">
             <b>2019 Edition</b>
@@ -20,32 +23,32 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_104" xtrc="5307.104 General Procedures">5307.104</xref>
+                        <xref outputclass="fm:TOC" href="5307_104.dita#AFFARS_5307_104">5307.104 General Procedures</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_104_90.dita#AFFARS_5307_104_90" xtrc="5307.104-90 Solicitation Release">5307.104-90</xref>
+                        <xref outputclass="fm:TOC" href="5307_104_90.dita#AFFARS_5307_104_90">5307.104-90 Solicitation Release</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_104_91.dita#AFFARS_5307_104_91" xtrc="5307.104-91 Changes">5307.104-91</xref>
+                        <xref outputclass="fm:TOC" href="5307_104_91.dita#AFFARS_5307_104_91">5307.104-91 Changes</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_104_92.dita#AFFARS_5307_104_92" xtrc="5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority">5307.104-92</xref>
+                        <xref outputclass="fm:TOC" href="5307_104_92.dita#AFFARS_5307_104_92">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_105" xtrc="5307.105 Contents of Written Acquisition Plans">5307.105</xref>
+                        <xref outputclass="fm:TOC" href="5307_105.dita#AFFARS_5307_105">5307.105 Contents of Written Acquisition Plans</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_107_2.dita#AFFARS_5307_107_2" xtrc="5307.107-2 Consolidation">5307.107-2</xref>
+                        <xref outputclass="fm:TOC" href="5307_107_2.dita#AFFARS_5307_107_2">5307.107-2 Consolidation</xref>
                      </p>
                   </li>
                </ul>
@@ -57,7 +60,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_470" xtrc="5307.470 Statutory Requirements">5307.470</xref>
+                        <xref outputclass="fm:TOC" href="5307_470.dita#AFFARS_5307_470">5307.470 Statutory Requirements</xref>
                      </p>
                   </li>
                </ul>
