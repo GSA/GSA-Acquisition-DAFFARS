@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5325" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5325</ph> - Foreign Acquisition</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5325">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5325</ph> - Foreign Acquisition</title>
       <body>
          <p outputclass="Normal">
-            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5325.aspx">AFFARS PART 5325 Knowledge Center</xref>
+            <xref scope="external"
+                  format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5325.aspx">AFFARS PART 5325 Knowledge Center</xref>
          </p>
          <p outputclass="Normal">
             <b>2019 Edition</b>
@@ -24,7 +27,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_103" xtrc="5325.103 Exceptions">5325.103</xref>
+                        <xref outputclass="fm:TOC" href="5325_103.dita#AFFARS_5325_103">5325.103 Exceptions</xref>
                      </p>
                   </li>
                </ul>
@@ -36,12 +39,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_202" xtrc="5325.202 Exceptions">5325.202</xref>
+                        <xref outputclass="fm:TOC" href="5325_202.dita#AFFARS_5325_202">5325.202 Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_204.dita#AFFARS_5325_204" xtrc="5325.204 Evaluation Offers of Foreign Construction Material">5325.204</xref>
+                        <xref outputclass="fm:TOC" href="5325_204.dita#AFFARS_5325_204">5325.204 Evaluation Offers of Foreign Construction Material</xref>
                      </p>
                   </li>
                </ul>
@@ -53,7 +56,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_403" xtrc="5325.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements">5325.403</xref>
+                        <xref outputclass="fm:TOC" href="5325_403.dita#AFFARS_5325_403">5325.403 World Trade Organization Government Procurement Agreement and Free Trade Agreements</xref>
                      </p>
                   </li>
                </ul>
@@ -65,7 +68,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_603" xtrc="5325.603 Exceptions">5325.603</xref>
+                        <xref outputclass="fm:TOC" href="5325_603.dita#AFFARS_5325_603">5325.603 Exceptions</xref>
                      </p>
                   </li>
                </ul>
@@ -77,7 +80,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_1001.dita#AFFARS_5325_1001" xtrc="5325.1001 Waiver of Right to Examination of Records">5325.1001</xref>
+                        <xref outputclass="fm:TOC" href="5325_1001.dita#AFFARS_5325_1001">5325.1001 Waiver of Right to Examination of Records</xref>
                      </p>
                   </li>
                </ul>
@@ -89,17 +92,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_7002_2" xtrc="5325.7002-2 Exceptions">5325.7002-2</xref>
+                        <xref outputclass="fm:TOC" href="5325_7002_2.dita#AFFARS_5325_7002_2">5325.7002-2 Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_7003_3" xtrc="5325.7003-3 Exceptions">5325.7003-3</xref>
+                        <xref outputclass="fm:TOC" href="5325_7003_3.dita#AFFARS_5325_7003_3">5325.7003-3 Exceptions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_7008" xtrc="5325.7008 Waiver of Restrictions of 10 U.S.C. 2534">5325.7008</xref>
+                        <xref outputclass="fm:TOC" href="5325_7008.dita#AFFARS_5325_7008">5325.7008 Waiver of Restrictions of 10 U.S.C. 2534</xref>
                      </p>
                   </li>
                </ul>
@@ -111,7 +114,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7301_2.dita#AFFARS_5325_7301_2" xtrc="5325.7301-2 Solicitation Approval for Sole Source Contracts">5325.7301-2</xref>
+                        <xref outputclass="fm:TOC" href="5325_7301_2.dita#AFFARS_5325_7301_2">5325.7301-2 Solicitation Approval for Sole Source Contracts</xref>
                      </p>
                   </li>
                </ul>
@@ -123,7 +126,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7501.dita#AFFARS_5325_7501" xtrc="5325.7501 Policy">5325.7501</xref>
+                        <xref outputclass="fm:TOC" href="5325_7501.dita#AFFARS_5325_7501">5325.7501 Policy</xref>
                      </p>
                   </li>
                </ul>
@@ -135,7 +138,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5325_7703_2.dita#AFFARS_5325_7703_2" xtrc="5325.7703-2 Determination requirements.">5325.7703-2</xref>
+                        <xref outputclass="fm:TOC" href="5325_7703_2.dita#AFFARS_5325_7703_2">5325.7703-2 Determination requirements.</xref>
                      </p>
                   </li>
                </ul>

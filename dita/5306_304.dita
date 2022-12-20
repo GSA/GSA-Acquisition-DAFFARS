@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5306_304" ditaarch:DITAArchVersion="1.3">
-      <title id="NKZFVK" outputclass="Heading 3">
-         <ph id="79kxeS" props="autonumber">5306.304</ph> Approval of the Justification</title>
+      <title class="- topic/title " id="NKZFVK" outputclass="Heading 3">
+         <ph class="- topic/ph " id="79kxeS" props="autonumber">5306.304</ph> Approval of the Justification</title>
       <conbody id="0nLoWH">
          <p id="gHBSYK" outputclass="List1">(a)</p>
          <table id="tbl_5306_304">
@@ -43,7 +45,7 @@
                   <row id="lzv2lm">
                      <entry id="LKYpgc">
                         <p id="lSbixE">&gt; $750K <u id="yVCoVv">&lt;</u>
-                           <u id="UyRfPN"></u>$15M</p>
+                           <u id="UyRfPN"/>$15M</p>
                      </entry>
                      <entry id="X3sOWv">
                         <p id="oEiKSA">
@@ -81,27 +83,48 @@
             </tgroup>
          </table>
          <p id="CbsPtc">* For the Air Force, in accordance with FAR 2.101, procuring activity is synonymous with contracting activity.</p>
-         <p id="bkLKEd">**J&amp;As for actions exceeding $100M must be coordinated with the DAS(C) or the ADAS(C) and approved by the SPE. The contracting officer must submit justifications requiring approval by the SPE simultaneously to <xref format="mailto" href="mailto:SAF.AQ.Workflow@us.af.mil" id="NFqbx8" scope="external">
+         <p id="bkLKEd">**J&amp;As for actions exceeding $100M must be coordinated with the DAS(C) or the ADAS(C) and approved by the SPE. The contracting officer must submit justifications requiring approval by the SPE simultaneously to <xref format="mailto"
+                  href="mailto:SAF.AQ.Workflow@us.af.mil"
+                  id="NFqbx8"
+                  scope="external">
                <u id="P9AFnj">SAF/AQ</u>
-            </xref> and to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" id="9DqN7T" scope="external">
+            </xref> and to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  id="9DqN7T"
+                  scope="external">
                <u id="Q3Zfrv">SAF/AQC</u>
-            </xref> after coordination by the SCO. Allow 18 days for staffing and SPE approval after receipt by <xref format="mailto" href="mailto:SAF.AQ.Workflow@us.af.mil" id="T5ms4a" scope="external">
+            </xref> after coordination by the SCO. Allow 18 days for staffing and SPE approval after receipt by <xref format="mailto"
+                  href="mailto:SAF.AQ.Workflow@us.af.mil"
+                  id="T5ms4a"
+                  scope="external">
                <u id="0GfhJE">SAF/AQ</u>
             </xref>. J&amp;A packages submitted to SAF/AQ shall include an electronic Staff Summary Sheet (<ph id="qVGOzP">
                <u id="9XS6YR">eSSS</u>
             </ph>
-            <ph id="4izCC5"> </ph>) in the body of the email or as an attachment (Word document only). Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the J&amp;A package, and list each attachment under “Tabs” on the <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/eSSS.docx" id="4Xhr6V" scope="external">
+            <ph id="4izCC5"> </ph>) in the body of the email or as an attachment (Word document only). Include the approved acquisition strategy (or a draft acquisition strategy if the strategy document has not been approved) with the J&amp;A package, and list each attachment under “Tabs” on the <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/eSSS.docx"
+                  id="4Xhr6V"
+                  scope="external">
                <u id="e1tRd8">eSSS</u>
-            </xref> using the exact electronic file name (e.g., ACE Acquisition Strategy) of the corresponding attachment. The SCO may authorize solicitation release after the justification is reviewed for adequacy and forwarded to <xref format="mailto" href="mailto:SAF.AQ.Workflow@us.af.mil" id="SJ4U3P" scope="external">
+            </xref> using the exact electronic file name (e.g., ACE Acquisition Strategy) of the corresponding attachment. The SCO may authorize solicitation release after the justification is reviewed for adequacy and forwarded to <xref format="mailto"
+                  href="mailto:SAF.AQ.Workflow@us.af.mil"
+                  id="SJ4U3P"
+                  scope="external">
                <u id="h6P5Yz">SAF/AQ</u>
-            </xref> and <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" id="Cq398A" scope="external">
+            </xref> and <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  id="Cq398A"
+                  scope="external">
                <u id="0jMKhu">SAF/AQC</u>
-            </xref>. Submit questions or concerns regarding processing a J&amp;A for SPE approval to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" id="2wt811" scope="external">
+            </xref>. Submit questions or concerns regarding processing a J&amp;A for SPE approval to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  id="2wt811"
+                  scope="external">
                <u id="JflXMh">SAF/AQC</u>
             </xref>.</p>
          <p id="suRASv" outputclass="List2">(4) Changes recommended during the staffing process must be adjudicated by the contracting officer in coordination with SAF/AQC prior to submitting the J&amp;A to the SPE for approval.</p>
          <p id="PzHyDE" outputclass="List1">(e) Prior to contract award: After a J&amp;A has been approved, but prior to contract award, if new work is to be added or the dollar value of the contract is expected to exceed the original J&amp;A approval authority, the contracting officer must submit an amended J&amp;A to the appropriate approving authority for approval. The amended J&amp;A must identify the new work and/or dollar increase from the initial, approved J&amp;A.</p>
-         <p id="FMHKXI" outputclass="List1">(f) <u id="Wf7mZ2">After contract award:</u> When a proposed modification is for new work outside the scope of the original contract, the contracting officer must submit a new J&amp;A as a stand-alone document to the appropriate approving authority based on the dollar value of the contract action for the new work. New work should not commence until the new J&amp;A is approved unless authorized in accordance with FAR 6.302-2, Unusual and Compelling Urgency. See <xref href="5343_102_90.dita" id="Ux3iIJ" xtrc="">5343.102-90</xref> regarding contract scope considerations.</p>
+         <p id="FMHKXI" outputclass="List1">(f) <u id="Wf7mZ2">After contract award:</u> When a proposed modification is for new work outside the scope of the original contract, the contracting officer must submit a new J&amp;A as a stand-alone document to the appropriate approving authority based on the dollar value of the contract action for the new work. New work should not commence until the new J&amp;A is approved unless authorized in accordance with FAR 6.302-2, Unusual and Compelling Urgency. See <xref href="5343_102_90.dita" id="Ux3iIJ" xtrc=""/> regarding contract scope considerations.</p>
          <p id="fDNPtm" outputclass="List1">(g) A new J&amp;A is not required for:</p>
          <p id="RLMWXK" outputclass="List2">(1) a modification to decrease the dollar value or scope of the effort; or</p>
          <p id="MlDxRv" outputclass="List2">(2) a modification to increase the estimated dollar value of in-scope work.</p>

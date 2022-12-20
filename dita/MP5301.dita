@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5301" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5301</ph> - Federal Acquisition Regulations System</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_MP5301">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5301</ph> - Federal Acquisition Regulations System</title>
       <body>
          <p id="oqCfGn">
             <b>2019 Edition</b>
@@ -34,7 +35,7 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1" xtrc="1.0 Contracting Officer Roles and Responsibilities">1.0</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_1.dita#AFFARS_MP5301_602_2_1">1.0 Contracting Officer Roles and Responsibilities</xref>
                            </p>
                         </li>
                         <li>
@@ -44,22 +45,22 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_3.dita#AFFARS_MP5301_602_2_3" xtrc="3.0 COR Supervisor">3.0</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_3.dita#AFFARS_MP5301_602_2_3">3.0 COR Supervisor</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_4.dita#AFFARS_MP5301_602_2_4" xtrc="4.0 OGE 450 Determination and Processing">4.0</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_4.dita#AFFARS_MP5301_602_2_4">4.0 OGE 450 Determination and Processing</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_5.dita#AFFARS_MP5301_602_2_5" xtrc="5.0 Quality Assurance Program Coordinator (QAPC)">5.0</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_5.dita#AFFARS_MP5301_602_2_5">5.0 Quality Assurance Program Coordinator (QAPC)</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_602_2_6.dita#AFFARS_MP5301_602_2_6" xtrc="6.0 Memorandum Templates and Contract Training Syllabus">6.0</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_602_2_6.dita#AFFARS_MP5301_602_2_6">6.0 Memorandum Templates and Contract Training Syllabus</xref>
                            </p>
                         </li>
                      </ul>
@@ -83,12 +84,12 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_9001A.dita#AFFARS_MP5301_9001A" xtrc="MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions">MP5301.9001a</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_9001A.dita#AFFARS_MP5301_9001A">MP5301.9001a (A) Business Clearance Approval for Non-Competitive Actions</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP5301_9001B.dita#AFFARS_MP5301_9001B" xtrc="MP5301.9001b (B) Business Clearance Approval for Competitive Actions">MP5301.9001b</xref>
+                              <xref outputclass="fm:TOC" href="MP5301_9001B.dita#AFFARS_MP5301_9001B">MP5301.9001b (B) Business Clearance Approval for Competitive Actions</xref>
                            </p>
                         </li>
                      </ul>

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP_5306_502_4" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2">
-         <ph props="autonumber">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">4.</ph> Annual Competition and Commercial Reporting Requirements.</title>
       <conbody>
-         <p id="atqCuP" outputclass="List1">4.1. SAF/AQCP is responsible for submitting the annual report required by <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_502" scope="external">FAR 6.502(b)(2)</xref> to SAF/AQ. The Procuring activity Competition and Commercial Advocates must provide support as requested in the preparation of the annual report and provide supplementary information at any time in support of requests for information or other tasks regarding competition and the use of commercial practices.</p>
+         <p id="atqCuP" outputclass="List1">4.1. SAF/AQCP is responsible for submitting the annual report required by <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_502"
+                  scope="external">FAR 6.502(b)(2)</xref> to SAF/AQ. The Procuring activity Competition and Commercial Advocates must provide support as requested in the preparation of the annual report and provide supplementary information at any time in support of requests for information or other tasks regarding competition and the use of commercial practices.</p>
       </conbody>
    </concept>
 </dita>

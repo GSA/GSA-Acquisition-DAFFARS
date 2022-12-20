@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5304_802" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5304.802</ph> Electronic Retention of Contract Files</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5304.802</ph> Electronic Retention of Contract Files</title>
       <conbody>
          <p>(f) For contracting offices who have elected to use the KT Fileshare (KTFS) application,
             KTFS shall be used to store, access, and route documents necessary to manage the
@@ -14,8 +16,12 @@
             Procurement Data System-Next Generation (FPDS-NG)), then that system is the official
             system of record; contracting officers are not required to duplicate the document and
             file it in KTFS, unless the contracting office determines an exception applies to ensure
-            ready accessibility to principal users (e.g., clearance reviewers, auditors) per <xref href="https://www.acquisition.gov/far/part-4#FAR_4_802" format="html" scope="external">FAR 4.802(c)(2)</xref>. Examples of such documents include Contract
-            Action Reports (see <xref href="5304_604.dita#AFFARS_5304_604" outputclass="fm:ParaNumOnly" xtrc="5304.604 (2) Responsibilities">5304.604</xref>), evidence of
+            ready accessibility to principal users (e.g., clearance reviewers, auditors) per <xref href="https://www.acquisition.gov/far/part-4#FAR_4_802"
+                  format="html"
+                  scope="external">FAR 4.802(c)(2)</xref>. Examples of such documents include Contract
+            Action Reports (see <xref href="5304_604.dita#AFFARS_5304_604"
+                  outputclass="fm:ParaNumOnly"
+                  xtrc="5304.604 (2) Responsibilities">5304.604 (2) Responsibilities</xref>), evidence of
             inputs to the Joint Appointment Module (JAM) (e.g., screenshots), and copies of
             Government-Furnished Property (GFP) attachments."</p>
       </conbody>

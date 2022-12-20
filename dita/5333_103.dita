@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5333_103" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5333.103</ph> Protests to the Agency</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5333.103</ph> Protests to the Agency</title>
       <conbody>
          <p id="SmDfEC" outputclass="List1">(d)(4) When an agency protest is denied, an offeror may request an independent review by the SCO.</p>
-         <p id="p__Toc351654224" outputclass="List1">(h) The contracting officer must prepare the protest file following an agency protest (including a protest of a non-appropriated funds procurement) regardless of the level at which the protest is filed. The contracting officer must request guidance from <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+         <p id="p__Toc351654224" outputclass="List1">(h) The contracting officer must prepare the protest file following an agency protest (including a protest of a non-appropriated funds procurement) regardless of the level at which the protest is filed. The contracting officer must request guidance from <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref> for any protest likely to generate significant Congressional interest. The decision to deny a protest must be made at a level no lower than that at which the protest was filed. Protests may be sustained at any level in the review process, with the concurrence of the cognizant legal office.</p>
       </conbody>

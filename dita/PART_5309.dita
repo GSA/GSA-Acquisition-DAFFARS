@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5309" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5309</ph> - Contractor Qualifications</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5309">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5309</ph> - Contractor Qualifications</title>
       <body>
          <p id="UPiZQd" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx" scope="external">AFFARS PART 5309 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5309.aspx"
+                  scope="external">AFFARS PART 5309 Knowledge Center</xref>
          </p>
          <p id="RPfGzM" outputclass="Normal">
             <b>2019 Edition</b>
@@ -22,7 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_104_1" xtrc="5309.104-1 General Standards">5309.104-1</xref>
+                        <xref outputclass="fm:TOC" href="5309_104_1.dita#AFFARS_5309_104_1">5309.104-1 General Standards</xref>
                      </p>
                   </li>
                </ul>
@@ -34,17 +37,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_202" xtrc="5309.202 Policy">5309.202</xref>
+                        <xref outputclass="fm:TOC" href="5309_202.dita#AFFARS_5309_202">5309.202 Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_206_1" xtrc="5309.206-1 General">5309.206-1</xref>
+                        <xref outputclass="fm:TOC" href="5309_206_1.dita#AFFARS_5309_206_1">5309.206-1 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_270_3" xtrc="5309.270-3 Policy">5309.270-3</xref>
+                        <xref outputclass="fm:TOC" href="5309_270_3.dita#AFFARS_5309_270_3">5309.270-3 Policy</xref>
                      </p>
                   </li>
                </ul>
@@ -56,27 +59,27 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_405" xtrc="5309.405 Effect of Listing">5309.405</xref>
+                        <xref outputclass="fm:TOC" href="5309_405.dita#AFFARS_5309_405">5309.405 Effect of Listing</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_405_1" xtrc="5309.405-1 Continuation of Current Contracts">5309.405-1</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_1.dita#AFFARS_5309_405_1">5309.405-1 Continuation of Current Contracts</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_405_2" xtrc="5309.405-2 Restrictions on Subcontracting">5309.405-2</xref>
+                        <xref outputclass="fm:TOC" href="5309_405_2.dita#AFFARS_5309_405_2">5309.405-2 Restrictions on Subcontracting</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_406_3" xtrc="5309.406-3 Procedures">5309.406-3</xref>
+                        <xref outputclass="fm:TOC" href="5309_406_3.dita#AFFARS_5309_406_3">5309.406-3 Procedures</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_407_3" xtrc="5309.407-3 Procedures">5309.407-3</xref>
+                        <xref outputclass="fm:TOC" href="5309_407_3.dita#AFFARS_5309_407_3">5309.407-3 Procedures</xref>
                      </p>
                   </li>
                </ul>
@@ -88,22 +91,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_503" xtrc="5309.503 Waiver">5309.503</xref>
+                        <xref outputclass="fm:TOC" href="5309_503.dita#AFFARS_5309_503">5309.503 Waiver</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_504" xtrc="5309.504 Contracting Officer Responsibilities">5309.504</xref>
+                        <xref outputclass="fm:TOC" href="5309_504.dita#AFFARS_5309_504">5309.504 Contracting Officer Responsibilities</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_507_2" xtrc="5309.507-2 Solicitation Provisions and Contract Clause">5309.507-2</xref>
+                        <xref outputclass="fm:TOC" href="5309_507_2.dita#AFFARS_5309_507_2">5309.507-2 Solicitation Provisions and Contract Clause</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_571_7" xtrc="5309.571-7 Systems Engineering and Technical Assistance Contracts">5309.571-7</xref>
+                        <xref outputclass="fm:TOC" href="5309_571_7.dita#AFFARS_5309_571_7">5309.571-7 Systems Engineering and Technical Assistance Contracts</xref>
                      </p>
                   </li>
                </ul>

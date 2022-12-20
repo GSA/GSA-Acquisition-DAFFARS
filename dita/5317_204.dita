@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5317_204" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.204</ph> Contracts</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.204</ph> Contracts</title>
       <conbody>
-         <p id="cnMqgN" outputclass="List1">(e) Unless otherwise restricted by statute or <xref format="html" href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204" scope="external">DFARS 217.204(e)(i)-(iii)</xref>, the written Acquisition Plan (AP), Acquisition Strategy Panel (ASP), or Life Cycle Sustainment Plan (LCSP) approval authority has the authority to approve contract periods in excess of the limitations specified in <xref format="html" href="https://www.acquisition.gov/far/part-17#FAR_17_204" scope="external">FAR 17.204(e)</xref>. If an AP/ASP/LCSP is not required, the contracting officer has the authority to approve such extended contract periods. This approval is not required if the total contract period, including options and modifications, exceeds the limitations specified in <xref format="html" href="https://www.acquisition.gov/far/part-17#FAR_17_204" scope="external">FAR 17.204(e)</xref> solely due to the inclusion of <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_217_8" scope="external">FAR Clause 52.217-8</xref>, "Option to Extend Services", at an amount specified in or reasonably determinable from the terms of the contract.</p>
-         <p id="TloygJ" outputclass="List1">(e)(i)(B) Unless otherwise restricted by statute, the written AP, ASP, or LCSP approval authority has the authority to approve extensions of the ordering period of a task order or delivery order contract (including a contract for information technology) awarded pursuant to 10 U.S.C. 2304a for one or more successive periods as provided in <xref format="html" href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204" scope="external">DFARS 217.204(e)(i)(B)</xref>. If an AP/ASP/LCSP is not required, the contracting officer has the authority to approve such extensions.</p>
-         <p id="lXuhaZ" outputclass="List1">(e)(i)(C) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. For PEO designated programs, submit determinations through the PEO for approval. For non-PEO designated programs, submit determinations through the SCO to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> for approval.</p>
-         <p id="p__Toc38365369" outputclass="List1">(e)(iii) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. For PEO designated programs, submit requests through the PEO for approval. For non-PEO designated programs, submit requests through the SCO to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> for approval.</p>
+         <p id="cnMqgN" outputclass="List1">(e) Unless otherwise restricted by statute or <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204"
+                  scope="external">DFARS 217.204(e)(i)-(iii)</xref>, the written Acquisition Plan (AP), Acquisition Strategy Panel (ASP), or Life Cycle Sustainment Plan (LCSP) approval authority has the authority to approve contract periods in excess of the limitations specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-17#FAR_17_204"
+                  scope="external">FAR 17.204(e)</xref>. If an AP/ASP/LCSP is not required, the contracting officer has the authority to approve such extended contract periods. This approval is not required if the total contract period, including options and modifications, exceeds the limitations specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-17#FAR_17_204"
+                  scope="external">FAR 17.204(e)</xref> solely due to the inclusion of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_217_8"
+                  scope="external">FAR Clause 52.217-8</xref>, "Option to Extend Services", at an amount specified in or reasonably determinable from the terms of the contract.</p>
+         <p id="TloygJ" outputclass="List1">(e)(i)(B) Unless otherwise restricted by statute, the written AP, ASP, or LCSP approval authority has the authority to approve extensions of the ordering period of a task order or delivery order contract (including a contract for information technology) awarded pursuant to 10 U.S.C. 2304a for one or more successive periods as provided in <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204"
+                  scope="external">DFARS 217.204(e)(i)(B)</xref>. If an AP/ASP/LCSP is not required, the contracting officer has the authority to approve such extensions.</p>
+         <p id="lXuhaZ" outputclass="List1">(e)(i)(C) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90"
+                  outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. For PEO designated programs, submit determinations through the PEO for approval. For non-PEO designated programs, submit determinations through the SCO to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">SAF/AQC</xref> for approval.</p>
+         <p id="p__Toc38365369" outputclass="List1">(e)(iii) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90"
+                  outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. For PEO designated programs, submit requests through the PEO for approval. For non-PEO designated programs, submit requests through the SCO to <xref format="html"
+                  href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">SAF/AQC</xref> for approval.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5322_103_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5322.103-4</ph> Approvals</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5322_103_4"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5322.103-4</ph> Approvals</title>
       <conbody>
          <p id="p__Toc38365392" outputclass="List1">(a) The contracting officer is designated the agency approving official.</p>
       </conbody>

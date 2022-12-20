@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5322" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5322">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5322</ph> - Application of Labor Laws to Government Acquisitions</title>
       <body>
          <p id="MPfxZZ" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5322.aspx" scope="external">AFFARS PART 5322 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5322.aspx"
+                  scope="external">AFFARS PART 5322 Knowledge Center</xref>
          </p>
          <p id="blSkjy" outputclass="Normal">
             <b>2019 Edition</b>
@@ -22,17 +25,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_101_1.dita#AFFARS_5322_101_1" xtrc="5322.101-1 General">5322.101-1</xref>
+                        <xref outputclass="fm:TOC" href="5322_101_1.dita#AFFARS_5322_101_1">5322.101-1 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_101_3_70.dita#AFFARS_5322_101_3_70" xtrc="5322.101-3-70 Impact of Labor Disputes on Defense Programs">5322.101-3-70</xref>
+                        <xref outputclass="fm:TOC" href="5322_101_3_70.dita#AFFARS_5322_101_3_70">5322.101-3-70 Impact of Labor Disputes on Defense Programs</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_103_4.dita#AFFARS_5322_103_4" xtrc="5322.103-4 Approvals">5322.103-4</xref>
+                        <xref outputclass="fm:TOC" href="5322_103_4.dita#AFFARS_5322_103_4">5322.103-4 Approvals</xref>
                      </p>
                   </li>
                </ul>
@@ -44,7 +47,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_302.dita#AFFARS_5322_302" xtrc="5322.302 Liquidated Damages and Overtime Pay">5322.302</xref>
+                        <xref outputclass="fm:TOC" href="5322_302.dita#AFFARS_5322_302">5322.302 Liquidated Damages and Overtime Pay</xref>
                      </p>
                   </li>
                </ul>
@@ -56,7 +59,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_406_13.dita#AFFARS_5322_406_13" xtrc="5322.406-13 Semi-annual Enforcement Reports">5322.406-13</xref>
+                        <xref outputclass="fm:TOC" href="5322_406_13.dita#AFFARS_5322_406_13">5322.406-13 Semi-annual Enforcement Reports</xref>
                      </p>
                   </li>
                </ul>
@@ -68,7 +71,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_805.dita#AFFARS_5322_805" xtrc="5322.805 Procedures">5322.805</xref>
+                        <xref outputclass="fm:TOC" href="5322_805.dita#AFFARS_5322_805">5322.805 Procedures</xref>
                      </p>
                   </li>
                </ul>
@@ -80,7 +83,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_1802.dita#AFFARS_5322_1802" xtrc="5322.1802 Policy">5322.1802</xref>
+                        <xref outputclass="fm:TOC" href="5322_1802.dita#AFFARS_5322_1802">5322.1802 Policy</xref>
                      </p>
                   </li>
                </ul>
@@ -92,7 +95,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5322_7003.dita#AFFARS_5322_7003" xtrc="5322.7003 Waivers">5322.7003</xref>
+                        <xref outputclass="fm:TOC" href="5322_7003.dita#AFFARS_5322_7003">5322.7003 Waivers</xref>
                      </p>
                   </li>
                </ul>

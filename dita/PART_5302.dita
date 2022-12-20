@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5302" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5302</ph> - Definitions of Words and Terms</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5302">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5302</ph> - Definitions of Words and Terms</title>
       <body>
          <p id="dsEyUb" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5302.aspx" scope="external">AFFARS PART 5302 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5302.aspx"
+                  scope="external">AFFARS PART 5302 Knowledge Center</xref>
          </p>
          <p id="iSGRhC" outputclass="Normal">
             <b>2019 Edition</b>
@@ -22,7 +25,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5302_101.dita#AFFARS_5302_101" xtrc="5302.101 Definitions">5302.101</xref>
+                        <xref outputclass="fm:TOC" href="5302_101.dita#AFFARS_5302_101">5302.101 Definitions</xref>
                      </p>
                   </li>
                </ul>

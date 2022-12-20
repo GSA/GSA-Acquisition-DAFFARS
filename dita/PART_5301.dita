@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5301" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5301</ph> - Federal Acquisition Regulations System</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5301">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5301</ph> - Federal Acquisition Regulations System</title>
       <body>
          <p id="vjhpKV" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx" scope="external">AFFARS PART 5301 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5301.aspx"
+                  scope="external">AFFARS PART 5301 Knowledge Center</xref>
          </p>
          <p id="YzEXrA" outputclass="Normal">
             <b>2019 Edition</b>
@@ -24,17 +27,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_101.dita#AFFARS_5301_101" xtrc="5301.101 Purpose">5301.101</xref>
+                        <xref outputclass="fm:TOC" href="5301_101.dita#AFFARS_5301_101">5301.101 Purpose</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_105_1.dita#AFFARS_5301_105_1" xtrc="5301.105-1 Publication and Code Arrangement">5301.105-1</xref>
+                        <xref outputclass="fm:TOC" href="5301_105_1.dita#AFFARS_5301_105_1">5301.105-1 Publication and Code Arrangement</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_170.dita#AFFARS_5301_170" xtrc="5301.170 Peer Reviews">5301.170</xref>
+                        <xref outputclass="fm:TOC" href="5301_170.dita#AFFARS_5301_170">5301.170 Peer Reviews</xref>
                      </p>
                   </li>
                </ul>
@@ -46,12 +49,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_201_1.dita#AFFARS_5301_201_1" xtrc="5301.201-1 The Two Councils">5301.201-1</xref>
+                        <xref outputclass="fm:TOC" href="5301_201_1.dita#AFFARS_5301_201_1">5301.201-1 The Two Councils</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_201_90.dita#AFFARS_5301_201_90" xtrc="5301.201-90 Maintenance of the AFFARS">5301.201-90</xref>
+                        <xref outputclass="fm:TOC" href="5301_201_90.dita#AFFARS_5301_201_90">5301.201-90 Maintenance of the AFFARS</xref>
                      </p>
                   </li>
                </ul>
@@ -63,12 +66,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_301.dita#AFFARS_5301_301" xtrc="5301.301 Policy">5301.301</xref>
+                        <xref outputclass="fm:TOC" href="5301_301.dita#AFFARS_5301_301">5301.301 Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_304.dita#AFFARS_5301_304" xtrc="5301.304 Agency Control and Compliance Procedures">5301.304</xref>
+                        <xref outputclass="fm:TOC" href="5301_304.dita#AFFARS_5301_304">5301.304 Agency Control and Compliance Procedures</xref>
                      </p>
                   </li>
                </ul>
@@ -80,17 +83,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_402.dita#AFFARS_5301_402" xtrc="5301.402 Policy">5301.402</xref>
+                        <xref outputclass="fm:TOC" href="5301_402.dita#AFFARS_5301_402">5301.402 Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_403.dita#AFFARS_5301_403" xtrc="5301.403 Individual Deviations">5301.403</xref>
+                        <xref outputclass="fm:TOC" href="5301_403.dita#AFFARS_5301_403">5301.403 Individual Deviations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_404.dita#AFFARS_5301_404" xtrc="5301.404 Class Deviations">5301.404</xref>
+                        <xref outputclass="fm:TOC" href="5301_404.dita#AFFARS_5301_404">5301.404 Class Deviations</xref>
                      </p>
                   </li>
                </ul>
@@ -102,52 +105,52 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_601.dita#AFFARS_5301_601" xtrc="5301.601 General">5301.601</xref>
+                        <xref outputclass="fm:TOC" href="5301_601.dita#AFFARS_5301_601">5301.601 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_601_90.dita#AFFARS_5301_601_90" xtrc="5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities">5301.601-90</xref>
+                        <xref outputclass="fm:TOC" href="5301_601_90.dita#AFFARS_5301_601_90">5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), and Service Acquisition Executive (SAE) Responsibilities</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_601_91.dita#AFFARS_5301_601_91" xtrc="5301.601-91 Air Force Contracting Self-Inspection Program">5301.601-91</xref>
+                        <xref outputclass="fm:TOC" href="5301_601_91.dita#AFFARS_5301_601_91">5301.601-91 Air Force Contracting Self-Inspection Program</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_602_1.dita#AFFARS_5301_602_1" xtrc="5301.602-1 Authority">5301.602-1</xref>
+                        <xref outputclass="fm:TOC" href="5301_602_1.dita#AFFARS_5301_602_1">5301.602-1 Authority</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_602_2.dita#AFFARS_5301_602_2" xtrc="5301.602-2 Responsibilities">5301.602-2</xref>
+                        <xref outputclass="fm:TOC" href="5301_602_2.dita#AFFARS_5301_602_2">5301.602-2 Responsibilities</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_602_3.dita#AFFARS_5301_602_3" xtrc="5301.602-3 Ratification of Unauthorized Commitments">5301.602-3</xref>
+                        <xref outputclass="fm:TOC" href="5301_602_3.dita#AFFARS_5301_602_3">5301.602-3 Ratification of Unauthorized Commitments</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_603_1.dita#AFFARS_5301_603_1" xtrc="5301.603-1 General">5301.603-1</xref>
+                        <xref outputclass="fm:TOC" href="5301_603_1.dita#AFFARS_5301_603_1">5301.603-1 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_603_2_90.dita#AFFARS_5301_603_2_90" xtrc="5301.603-2-90 Selection">5301.603-2-90</xref>
+                        <xref outputclass="fm:TOC" href="5301_603_2_90.dita#AFFARS_5301_603_2_90">5301.603-2-90 Selection</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_603_3.dita#AFFARS_5301_603_3" xtrc="5301.603-3 Appointment">5301.603-3</xref>
+                        <xref outputclass="fm:TOC" href="5301_603_3.dita#AFFARS_5301_603_3">5301.603-3 Appointment</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_670.dita#AFFARS_5301_670" xtrc="5301.670 Appointment of Property Administrators and Plant Clearance Officers">5301.670</xref>
+                        <xref outputclass="fm:TOC" href="5301_670.dita#AFFARS_5301_670">5301.670 Appointment of Property Administrators and Plant Clearance Officers</xref>
                      </p>
                   </li>
                </ul>
@@ -159,7 +162,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_707.dita#AFFARS_5301_707" xtrc="5301.707 Signatory Authority">5301.707</xref>
+                        <xref outputclass="fm:TOC" href="5301_707.dita#AFFARS_5301_707">5301.707 Signatory Authority</xref>
                      </p>
                   </li>
                </ul>
@@ -171,12 +174,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9000.dita#AFFARS_5301_9000" xtrc="5301.9000 Scope and Definitions">5301.9000</xref>
+                        <xref outputclass="fm:TOC" href="5301_9000.dita#AFFARS_5301_9000">5301.9000 Scope and Definitions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9001.dita#AFFARS_5301_9001" xtrc="5301.9001 Policy, Thresholds, and Approvals">5301.9001</xref>
+                        <xref outputclass="fm:TOC" href="5301_9001.dita#AFFARS_5301_9001">5301.9001 Policy, Thresholds, and Approvals</xref>
                      </p>
                   </li>
                </ul>
@@ -188,17 +191,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9101.dita#AFFARS_5301_9101" xtrc="5301.9101 Purpose">5301.9101</xref>
+                        <xref outputclass="fm:TOC" href="5301_9101.dita#AFFARS_5301_9101">5301.9101 Purpose</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9102.dita#AFFARS_5301_9102" xtrc="5301.9102 Policy">5301.9102</xref>
+                        <xref outputclass="fm:TOC" href="5301_9102.dita#AFFARS_5301_9102">5301.9102 Policy</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9103.dita#AFFARS_5301_9103" xtrc="5301.9103 Solicitation Provision and Contract Clause">5301.9103</xref>
+                        <xref outputclass="fm:TOC" href="5301_9103.dita#AFFARS_5301_9103">5301.9103 Solicitation Provision and Contract Clause</xref>
                      </p>
                   </li>
                </ul>

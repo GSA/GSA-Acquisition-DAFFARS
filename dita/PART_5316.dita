@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5316" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5316</ph> - Types of Contracts</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5316">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5316</ph> - Types of Contracts</title>
       <body>
          <p id="ZwsJzl" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5316.aspx" scope="external">AFFARS PART 5316 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5316.aspx"
+                  scope="external">AFFARS PART 5316 Knowledge Center</xref>
          </p>
          <p id="GEhugl" outputclass="Normal">
             <b>2019 Edition</b>
@@ -22,19 +25,20 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_103.dita#AFFARS_5316_103" xtrc="5316.103 Negotiating Contract Type">5316.103</xref>
+                        <xref outputclass="fm:TOC" href="5316_103.dita#AFFARS_5316_103">5316.103 Negotiating Contract Type</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206">Subpart 5316.206 - FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5316_206.dita#AFFARS_SUBPART_5316_206">Subpart 5316.206 - FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE PRICE REDETERMINATION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_206_3.dita#AFFARS_5316_206_3" xtrc="5316.206-3 Limitations">5316.206-3</xref>
+                        <xref outputclass="fm:TOC" href="5316_206_3.dita#AFFARS_5316_206_3">5316.206-3 Limitations</xref>
                      </p>
                   </li>
                </ul>
@@ -46,7 +50,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_301_3.dita#AFFARS_5316_301_3" xtrc="5316.301-3 Limitations">5316.301-3</xref>
+                        <xref outputclass="fm:TOC" href="5316_301_3.dita#AFFARS_5316_301_3">5316.301-3 Limitations</xref>
                      </p>
                   </li>
                </ul>
@@ -58,17 +62,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_401.dita#AFFARS_5316_401" xtrc="5316.401 General">5316.401</xref>
+                        <xref outputclass="fm:TOC" href="5316_401.dita#AFFARS_5316_401">5316.401 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_404.dita#AFFARS_5316_404" xtrc="5316.404 Fixed-Price Contracts with Award Fees">5316.404</xref>
+                        <xref outputclass="fm:TOC" href="5316_404.dita#AFFARS_5316_404">5316.404 Fixed-Price Contracts with Award Fees</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_405_2.dita#AFFARS_5316_405_2" xtrc="5316.405-2 Cost-Plus-Award-Fee Contracts">5316.405-2</xref>
+                        <xref outputclass="fm:TOC" href="5316_405_2.dita#AFFARS_5316_405_2">5316.405-2 Cost-Plus-Award-Fee Contracts</xref>
                      </p>
                   </li>
                </ul>
@@ -80,22 +84,22 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_503.dita#AFFARS_5316_503" xtrc="5316.503 Requirements Contracts">5316.503</xref>
+                        <xref outputclass="fm:TOC" href="5316_503.dita#AFFARS_5316_503">5316.503 Requirements Contracts</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_504.dita#AFFARS_5316_504" xtrc="5316.504 Indefinite-Quantity Contracts">5316.504</xref>
+                        <xref outputclass="fm:TOC" href="5316_504.dita#AFFARS_5316_504">5316.504 Indefinite-Quantity Contracts</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_505.dita#AFFARS_5316_505" xtrc="5316.505 Ordering">5316.505</xref>
+                        <xref outputclass="fm:TOC" href="5316_505.dita#AFFARS_5316_505">5316.505 Ordering</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_505_90.dita#AFFARS_5316_505_90" xtrc="5316.505-90 Decentralized Ordering">5316.505-90</xref>
+                        <xref outputclass="fm:TOC" href="5316_505_90.dita#AFFARS_5316_505_90">5316.505-90 Decentralized Ordering</xref>
                      </p>
                   </li>
                </ul>
@@ -107,17 +111,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_601.dita#AFFARS_5316_601" xtrc="5316.601 (d) Limitations">5316.601</xref>
+                        <xref outputclass="fm:TOC" href="5316_601.dita#AFFARS_5316_601">5316.601 (d) Limitations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_603_2.dita#AFFARS_5316_603_2" xtrc="5316.603-2 Application">5316.603-2</xref>
+                        <xref outputclass="fm:TOC" href="5316_603_2.dita#AFFARS_5316_603_2">5316.603-2 Application</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5316_603_3.dita#AFFARS_5316_603_3" xtrc="5316.603-3 Limitations">5316.603-3</xref>
+                        <xref outputclass="fm:TOC" href="5316_603_3.dita#AFFARS_5316_603_3">5316.603-3 Limitations</xref>
                      </p>
                   </li>
                </ul>

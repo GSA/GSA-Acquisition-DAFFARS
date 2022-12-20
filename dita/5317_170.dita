@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5317_170" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.170</ph> General</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5317_170"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.170</ph> General</title>
       <conbody>
-         <p outputclass="List1">(a) See MP5301.601-90. For non-PEO designated programs, submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
+         <p outputclass="List1">(a) See MP5301.601-90. For non-PEO designated programs, submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/AQC</u>
             </xref> for approval.</p>
-         <p outputclass="List1">(b) See MP5301.601-90. For non-PEO designated programs, submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
+         <p outputclass="List1">(b) See MP5301.601-90. For non-PEO designated programs, submit requests through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/AQC</u>
             </xref> for approval.</p>
          <p id="p__Toc38365365" outputclass="List1">(d)(4) The contracting officer must provide the congressional notification described in DFARS 217.170(d)(1), using the 1279 format in <xref href="MP5305_303.dita">
                <u>MP5305.303</u>
-            </xref>, to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
+            </xref>, to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/AQC</u>
-            </xref> 40 days before the planned contract award date, with an information copy to <xref href="mailto:SAF.FMBL.Budget-Appropriations.Liaison@us.af.mil" scope="external" format="mailto">
+            </xref> 40 days before the planned contract award date, with an information copy to <xref href="mailto:SAF.FMBL.Budget-Appropriations.Liaison@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/FMBL</u>
-            </xref>, <xref href="mailto:SAF.LLP.Workflow@us.af.mil" scope="external" format="mailto">
+            </xref>, <xref href="mailto:SAF.LLP.Workflow@us.af.mil"
+                  scope="external"
+                  format="mailto">
                <u>SAF/LLP</u>
             </xref>
             <ph>

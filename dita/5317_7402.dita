@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5317_7402" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.7402</ph> Exceptions</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">5317.7402</ph> Exceptions</title>
       <conbody>
-         <p id="EMdDti" outputclass="List1">(a)(4) See <xref href="5317_7402.dita" xtrc="">5317.7402</xref> when contracting for long-lead items initiated with advance procurement funds. Follow DFARS 217.74 when contracting for long-lead items procured with other than advance procurement funds. When procurement funds must be added to an undefinitized long-lead procurement contract issued with advance procurement funds prior to definitization, follow the procedures at DFARS 217.74<ph>
+         <p id="EMdDti" outputclass="List1">(a)(4) See <xref href="5317_7402.dita" xtrc=""/> when contracting for long-lead items initiated with advance procurement funds. Follow DFARS 217.74 when contracting for long-lead items procured with other than advance procurement funds. When procurement funds must be added to an undefinitized long-lead procurement contract issued with advance procurement funds prior to definitization, follow the procedures at DFARS 217.74<ph>
                <u>.</u>
             </ph>
          </p>
-         <p id="p__Toc351649495" outputclass="List1">(b) When complying with the requirements described in DFARS 217.7402(b), SCOs must provide a courtesy copy to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+         <p id="p__Toc351649495" outputclass="List1">(b) When complying with the requirements described in DFARS 217.7402(b), SCOs must provide a courtesy copy to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref>. Maintain proof of submission in the contract file.</p>
-         <p id="dvlEei" outputclass="Normal"></p>
+         <p id="dvlEei" outputclass="Normal"/>
       </conbody>
    </concept>
 </dita>

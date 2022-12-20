@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5331" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5331</ph> - Contract Cost Principles and Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFFARS_PART_5331">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5331</ph> - Contract Cost Principles and Procedures</title>
       <body>
          <p id="OVYEMR" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5331.aspx" scope="external">AFFARS PART 5331 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5331.aspx"
+                  scope="external">AFFARS PART 5331 Knowledge Center</xref>
          </p>
          <p id="tYiwwE" outputclass="Normal">
             <b>2019 Edition</b>
@@ -15,10 +18,12 @@
             <i>Revised: 2 May 2022</i>
          </p>
          <p id="crRQuW" outputclass="Normal">
-            <xref format="pdf" href="http://www.acq.osd.mil/dpap/policy/policyvault/USA001350-11-DPAP.pdf" scope="external">
+            <xref format="pdf"
+                  href="http://www.acq.osd.mil/dpap/policy/policyvault/USA001350-11-DPAP.pdf"
+                  scope="external">
                <u>FAR Class Deviation 2011-O0006</u>
             </xref>.</p>
-         <p id="m6kqxnat" outputclass="Normal">See <xref href="MP5301_601.dita" />.</p>
+         <p id="m6kqxnat" outputclass="Normal">See <xref href="MP5301_601.dita"/>.</p>
       </body>
    </topic>
 </dita>
