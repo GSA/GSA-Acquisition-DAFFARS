@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5349_402_3"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5349.402-3</ph> Procedure for Default</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5349_402_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5349.402-3</ph> Procedure for Default</title>
       <conbody>
-         <p id="p__Toc38365543" outputclass="List1">(f) Prior to making a final decision concerning termination for default, the contracting officer must forward the termination notice and the complete contract file to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external"
-                  format="mailto">
+         <p id="p__Toc38365543" outputclass="List1">(f) Prior to making a final decision concerning termination for default, the contracting officer must forward the termination notice and the complete contract file to <xref href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external" format="mailto">
                <u>AF/JACQ</u>
-            </xref> with a copy of the termination notice to <xref href="mailto:SAF.GCR.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            </xref> with a copy of the termination notice to <xref href="mailto:SAF.GCR.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/GCR</u>
-            </xref> and follow the procedures in <xref href="5333_291.dita" xtrc=""/> .</p>
+            </xref> and follow the procedures in <xref href="5333_291.dita" xtrc="" /> .</p>
       </conbody>
    </concept>
 </dita>

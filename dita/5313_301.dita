@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5313_301" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5313.301</ph> Governmentwide Commercial Purchase Card</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5313.301</ph> Governmentwide Commercial Purchase Card</title>
       <conbody>
-         <p id="p__Toc38364661" outputclass="Normal">See <xref format="pdf"
-                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-117/afi64-117.pdf"
-                  scope="external">DAFI 64-117</xref>, <i>Air Force Governmentwide Purchase Card (GPC)</i>
+         <p id="p__Toc38364661" outputclass="Normal">See <xref format="pdf" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-117/afi64-117.pdf" scope="external">DAFI 64-117</xref>, <i>Air Force Governmentwide Purchase Card (GPC)</i>
             <i>Program.</i>
          </p>
       </conbody>

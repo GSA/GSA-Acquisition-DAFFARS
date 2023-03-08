@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5313_501"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5313.501</ph> Special Documentation Requirements</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5313_501" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5313.501</ph> Special Documentation Requirements</title>
       <conbody>
          <p outputclass="List1">(a)(1)(ii)<b> </b>
-            <b> </b> See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sole_source_justification.pdf"
-                  scope="external"
-                  format="pdf">
+            <b> </b> See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sole_source_justification.pdf" scope="external" format="pdf">
                <u>Sole Source (Including Brand Name) Justification - Simplified Procedures for Certain Commercial Items</u>
             </xref> template.</p>
-         <p outputclass="List1">(a)(2) See <xref href="5306_304.dita" xtrc=""/> for the approving officials for acquisitions using the limited or sole source justification at FAR 13.501(a)(2).</p>
+         <p outputclass="List1">(a)(2) See <xref href="5306_304.dita" xtrc="" /> for the approving officials for acquisitions using the limited or sole source justification at FAR 13.501(a)(2).</p>
       </conbody>
    </concept>
 </dita>

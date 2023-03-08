@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5315_407_4"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5315.407-4</ph> Should-cost Review</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5315_407_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5315.407-4</ph> Should-cost Review</title>
       <conbody>
          <p outputclass="List1">(b) <i>Program should-cost review</i>.</p>
          <p outputclass="List2">(4) The contracting office organizes and manages the program should-cost review. The team chief is responsible for the completion of the should-cost review team report.</p>
-         <p id="p__Toc38364944" outputclass="List1">(c)(2)(B) See <xref href="MP5301_601.dita"/>.<b> </b>
+         <p id="p__Toc38364944" outputclass="List1">(c)(2)(B) See <xref href="MP5301_601.dita" />.<b> </b>
          </p>
       </conbody>
    </concept>

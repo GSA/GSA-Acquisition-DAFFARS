@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_MP5301_601_90" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " id="S9dVR8" outputclass="Heading 1">
-         <ph class="- topic/ph " id="nFm0SN" props="autonumber">MP5301.601-90</ph> Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</title>
+      <title id="S9dVR8" outputclass="Heading 1">
+         <ph id="nFm0SN" props="autonumber">MP5301.601-90</ph> Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</title>
       <body>
          <p id="ioQX5l" outputclass="Normal">
             <u>NOTE</u>

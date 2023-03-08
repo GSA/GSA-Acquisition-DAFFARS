@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5301_9101"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5301.9101</ph> Purpose</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5301_9101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5301.9101</ph> Purpose</title>
       <conbody>
-         <p>The purpose of the Air Force ombudsman program is to foster communication between Government and industry. The primary function of the ombudsman is to hear concerns about specific issues in acquisitions, to communicate these concerns to senior management personnel responsible for oversight and to assist in the resolution of the concerns. In accordance with <xref href="5301_9102.dita" xtrc=""/> below, employees, managers and customers may use the Air Force component ombudsman when seeking assistance in resolving procurement integrity issues.</p>
+         <p>The purpose of the Air Force ombudsman program is to foster communication between Government and industry. The primary function of the ombudsman is to hear concerns about specific issues in acquisitions, to communicate these concerns to senior management personnel responsible for oversight and to assist in the resolution of the concerns. In accordance with <xref href="5301_9102.dita" xtrc="" /> below, employees, managers and customers may use the Air Force component ombudsman when seeking assistance in resolving procurement integrity issues.</p>
       </conbody>
    </concept>
 </dita>

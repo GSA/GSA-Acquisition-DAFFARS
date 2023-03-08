@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5332_607"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5332.607</ph> Installment Payments and Deferment of Collection</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5332_607" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5332.607</ph> Installment Payments and Deferment of Collection</title>
       <conbody>
-         <p id="p__Toc38365452" outputclass="List1">(a) When a request for deferment of a contract debt is received from a contractor, the contracting officer must forward the request for deferment to the SCO. The SCO must submit, on a priority basis, an evaluation of the contractor’s request with the necessary reporting information and recommendation through <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+         <p id="p__Toc38365452" outputclass="List1">(a) When a request for deferment of a contract debt is received from a contractor, the contracting officer must forward the request for deferment to the SCO. The SCO must submit, on a priority basis, an evaluation of the contractor’s request with the necessary reporting information and recommendation through <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/AQC</u>
-            </xref> to <xref href="mailto:SAF.FMF.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            </xref> to <xref href="mailto:SAF.FMF.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/FMF</u>
             </xref>.</p>
       </conbody>

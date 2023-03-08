@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5301_9001" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " id="yfZ17s" outputclass="Heading 3">
-         <ph class="- topic/ph " id="6ahhvv" props="autonumber">5301.9001</ph> Policy, Thresholds, and Approvals</title>
+      <title id="yfZ17s" outputclass="Heading 3">
+         <ph id="6ahhvv" props="autonumber">5301.9001</ph> Policy, Thresholds, and Approvals</title>
       <conbody id="LdQmJ6">
          <p id="Gm0XsW" outputclass="List1">(a) The objectives of the business and contract clearance process are to ensure that:</p>
          <p id="4LHca1" outputclass="List2">(1) Contract actions effectively implement approved acquisition strategies;</p>
@@ -16,24 +14,18 @@
          <p id="QD2jIE" outputclass="List1">(c) The CAA must seek legal advice (see 5301.602-2(c)(i)) and ensure that counsel has coordinated on any clearance briefings or presentations, and that counsel’s comments are included in the briefing or presentation.</p>
          <p id="ta7PZF" outputclass="List1">(d) Only one clearance review may be performed prior to the contract action being presented to the CAA. The CR is responsible for the clearance review. The CAA may select an alternate CR who meets the requirements identified in paragraph 5301.9000(f). The CAA, in conjunction with the SCO, has the authority to waive the clearance review.</p>
          <p id="evT30k" outputclass="List1">(e) At the discretion of the CAA, contract clearance is not required when the negotiation team stays within the pre-set negotiation range and the parameters approved at the business clearance.</p>
-         <p id="a5qgCf" outputclass="List1">(f) If a CAA requires clearance for competitive order solicitations or orders when excluded in accordance with 5301.9000(b)(6), the SCO must submit a written justification to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="a5qgCf" outputclass="List1">(f) If a CAA requires clearance for competitive order solicitations or orders when excluded in accordance with 5301.9000(b)(6), the SCO must submit a written justification to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref> upon execution.</p>
          <p id="zoMhPw" outputclass="List1">(g) The Source Selection Authority (SSA) must not be the CAA</p>
          <p id="gnO47M" outputclass="List1">(h) The Milestone Decision Authority, PEO, or lead program manager must coordinate and/or participate in business clearance briefings.</p>
-         <p id="Mkmv5r" outputclass="List1" xtrf="CheckMapping">(i) Contract actions meeting the contract value thresholds set below must not be awarded without obtaining the required <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_clearance.pdf"
-                  scope="external">
+         <p id="Mkmv5r" outputclass="List1" xtrf="CheckMapping">(i) Contract actions meeting the contract value thresholds set below must not be awarded without obtaining the required <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_clearance.pdf" scope="external">
                <u>business and contract clearance approval</u>
             </xref>. Contract value is determined by the definition in FAR 1.108(c) and AF PGI 5301.108(c).</p>
          <p id="A2Z3eW" outputclass="List2">(1) Clearance Approval:</p>
          <p id="A6wCra" outputclass="List3" xtrf="CheckMapping">(i) The DAS(C) or ADAS(C) is the business clearance approval authority for all contract actions ≥$1B; and any other contract action identified as special interest by the DAS(C) or ADAS(C) regardless of dollar amount. The DAS(C) or ADAS(C) may delegate clearance authority on a case-by-case basis. The procedures in MP5301.9001(i)(1)(i) must be followed for clearance with the DAS(C) or ADAS(C). SCOs retain contract clearance approval authority.</p>
          <p id="UQkbsC" outputclass="List3" xtrf="CheckMapping">(ii) The CAA is the approval authority for all contract actions as delegated in TABLE 1 below. The Table 1 thresholds represent the minimum delegation that must be made. SCOs may increase the specified dollar thresholds at their discretion.</p>
-         <p id="9hip1U" outputclass="List3" xtrf="CheckMapping">(iii) If a SCO reduces the thresholds or withholds the clearance approval authority from the designees in TABLE 1 below, the SCO must notify <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+         <p id="9hip1U" outputclass="List3" xtrf="CheckMapping">(iii) If a SCO reduces the thresholds or withholds the clearance approval authority from the designees in TABLE 1 below, the SCO must notify <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref>. If the SCO reduces or withholds clearance approval authority for more than six months, the SCO must brief the DAS(C) regarding the circumstances surrounding the decision.</p>
          <table id="tbl_5301_9001">
@@ -110,24 +102,18 @@
                </tbody>
             </tgroup>
          </table>
-         <p id="zN61rZ" outputclass="List1">TABLE 1(iv). To facilitate planning for SAF/AQC Clearance approvals, SCOs must use the <xref format="aspx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
-                  scope="external">
+         <p id="zN61rZ" outputclass="List1">TABLE 1(iv). To facilitate planning for SAF/AQC Clearance approvals, SCOs must use the <xref format="aspx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx" scope="external">
                <u>reporting tool</u>
             </xref> to project SAF/AQC Clearance approvals.</p>
          <p id="AwCOw3" outputclass="List2">(2) For PEO and Enterprise contracting, business and contract clearance are required for actions greater than or equal to $5M.</p>
          <p id="UGZhpM" outputclass="List2">(3) For Operational contracting, business and contract clearance are required for actions greater than or equal to $3M.</p>
          <p id="ErfsTz" outputclass="List2">(4) SCOs are responsible for ensuring all further delegations of clearance approval authorities are included in the PGI.</p>
-         <p id="d3FrMQ" outputclass="List2">(5) When a contracting official is the Source Selection Authority (SSA) for a particular acquisition, the CAA must be a level above the contracting official. If the SCO or their deputy is the SSA, the CAA for that acquisition must be the DAS(C)/ADAS(C). <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_clearance.pdf"
-                  scope="external">
+         <p id="d3FrMQ" outputclass="List2">(5) When a contracting official is the Source Selection Authority (SSA) for a particular acquisition, the CAA must be a level above the contracting official. If the SCO or their deputy is the SSA, the CAA for that acquisition must be the DAS(C)/ADAS(C). <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_clearance.pdf" scope="external">
                <u>Clearance requests</u>
-            </xref> must be sent to <xref format="mailto"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">
+            </xref> must be sent to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
             </xref> for approval by the DAS(C)/ADAS(C).</p>
-         <p id="7DKSlf" outputclass="Normal"/>
+         <p id="7DKSlf" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

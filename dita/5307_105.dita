@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5307_105" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5307.105</ph> Contents of Written Acquisition Plans</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5307.105</ph> Contents of Written Acquisition Plans</title>
       <conbody>
-         <p id="LXQVBP" outputclass="Normal">See the <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/acquisition_plan.pdf"
-                  scope="external">
+         <p id="LXQVBP" outputclass="Normal">See the <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/acquisition_plan.pdf" scope="external">
                <u>Acquisition Plan</u>
             </xref> template. Note: A Streamlined Acquisition Strategy Summary (SASS) [see AF PGI 5307.105] document may be used for actions less than $10M if directed by the applicable AP Approval Authority.</p>
-         <p id="TfGWeX" outputclass="Normal"/>
+         <p id="TfGWeX" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

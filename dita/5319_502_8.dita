@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5319_502_8" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5319.502-8</ph> Rejecting Small Business Administration Recommendations</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5319.502-8</ph> Rejecting Small Business Administration Recommendations</title>
       <conbody>
          <p id="dYLXbJ" outputclass="List1">(b) See <ph id="RiLdoY" outputclass="font-size:12pt">
-               <xref format="html"
-                     href="https://usaf.dps.mil/teams/2022AFAC/Shared%20Documents/Existing%20AFFARS%20ao%20Sep%202022/mp_5301.601(a)(i).docx#p5319505b"
-                     scope="external">MP5301.601(a)(i)</xref>.</ph>
+               <xref format="html" href="https://usaf.dps.mil/teams/2022AFAC/Shared%20Documents/Existing%20AFFARS%20ao%20Sep%202022/mp_5301.601(a)(i).docx#p5319505b" scope="external">MP5301.601(a)(i)</xref>.</ph>
          </p>
          <p id="aywwOn" outputclass="List1">(d) <ph id="lRZEUn" outputclass="font-size:12.0pt">When notified by the SBA that it has filed an appeal with the Agency Head, follow 5319.810 below to prepare an appeal case file.</ph>
          </p>
-         <p id="njDNCn" outputclass="Normal"/>
+         <p id="njDNCn" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

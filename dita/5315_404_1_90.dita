@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5315_404_1_90" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " id="EhSwS9" outputclass="Heading 3">
-         <ph class="- topic/ph " id="8vylhT" props="autonumber">5315.404-1-90</ph> Pricing
+      <title id="EhSwS9" outputclass="Heading 3">
+         <ph id="8vylhT" props="autonumber">5315.404-1-90</ph> Pricing
          Assistance or Pricing Assistance Waiver</title>
       <conbody id="jZAzJ1">
          <p id="MycoKk" outputclass="List1">(a)Required thresholds for requesting
             pricing assistance:</p>
          <table colsep="1" id="kX7b68" rowsep="1">
-            <title id="Fe9QWg"/>
+            <title id="Fe9QWg"></title>
             <tgroup cols="3" colsep="1" id="UIxkHq" outputclass="fix">
-               <colspec colnum="1" colname="1" colsep="0" rowheader="headers"/>
-               <colspec colnum="2" colname="2" colsep="0" rowheader="headers"/>
-               <colspec colnum="3" colname="3" colsep="0" rowheader="headers"/>
+               <colspec colnum="1" colname="1" colsep="0" rowheader="headers" />
+               <colspec colnum="2" colname="2" colsep="0" rowheader="headers" />
+               <colspec colnum="3" colname="3" colsep="0" rowheader="headers" />
                <tbody id="vQvyT5">
                   <row id="yjAPHL" rowsep="1">
                      <entry id="3qz6vf" nameend="2" namest="1">
@@ -60,12 +58,12 @@
                </tbody>
             </tgroup>
          </table>
-         <p id="TAPJFW" outputclass="List1">(b) See <xref href="MP5315_404_1_90.dita" id="pCF0EE" xtrc=""/> for procedures for
+         <p id="TAPJFW" outputclass="List1">(b) See <xref href="MP5315_404_1_90.dita" id="pCF0EE" xtrc="" /> for procedures for
             requesting pricing assistance.</p>
-         <p id="RLQIUH" outputclass="List1">(c) See <xref href="MP5315_404_1_90.dita" id="hxhoRt" xtrc=""/> for procedures for
+         <p id="RLQIUH" outputclass="List1">(c) See <xref href="MP5315_404_1_90.dita" id="hxhoRt" xtrc="" /> for procedures for
             requesting a pricing assistance waiver for actions that meet or exceed the required
             thresholds identified in 5315.404-1-90(a).</p>
-         <p id="qnfpOD" outputclass="Normal"/>
+         <p id="qnfpOD" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>
