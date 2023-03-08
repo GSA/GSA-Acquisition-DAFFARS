@@ -6,7 +6,12 @@
          <ph props="autonumber">1.2</ph> Applicability and Waivers</title>
       <conbody>
          <p id="PCmQQe" outputclass="Normal">This MP must be used in conjunction with Federal Acquisition Regulation (FAR) Part 15, as supplemented, to include the DFARS Part 215 and its companion resource entitled Procedures, Guidance and Information (PGI), DoD Source Selection Procedures, and related laws, regulation, and policy. As guidance, this MP also provides hyperlinks to non-mandatory best practices, TTPs, sample RFP and contract language, tailorable templates and training materials, and links to PGI 5315.3 language.</p>
-         <p id="QdEcxx" outputclass="List3">1.2.1.1 Acquisitions with an estimated dollar value less than or equal to $50M may use price as the only evaluated factor and therefore be exempt from the <xref format="pdf" href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf" scope="external">DoD Source Selection Procedures</xref> dated 20 August 2022 and from this MP if all of the following conditions are met:</p>
+         <p
+            id="QdEcxx"
+            outputclass="List3">1.2.1.1 Acquisitions with an estimated dollar value less than or equal to $50M may use price as the only evaluated factor and therefore be exempt from the <xref
+            format="pdf"
+            href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+            scope="external">DoD Source Selection Procedures</xref> dated 20 August 2022 and from this MP if all of the following conditions are met:</p>
          <p id="GESMyd">1) The requirement is non-complex and well-defined, such that consideration of non-cost/price evaluation factors (e.g., technical, past performance, etc.) would not provide any meaningful differentiation amongst proposals and would add no value to the selection of a successful offeror;</p>
          <p id="ceDlXN">2) Past performance record and history will be assessed as one of the multiple standards required for a successful offeror to be determined responsible as described in <ph>
                <u>FAR 9.104</u>
