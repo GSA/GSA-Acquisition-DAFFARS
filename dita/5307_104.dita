@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_5307_104" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5307.104</ph> General Procedures</title>
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5307.104</ph> General Procedures</title>
       <conbody>
          <p id="QXTvCX" outputclass="List1">(a) In order to help develop a sound acquisition strategy, the acquisition team must provide appropriate opportunities for the early involvement of industry in all acquisitions and the Defense Contract Management Agency and Defense Contract Audit Agency in non-competitive acquisitions.</p>
-         <p id="SGMvfk" outputclass="Normal"/>
+         <p id="SGMvfk" outputclass="Normal"></p>
       </conbody>
    </concept>
 </dita>

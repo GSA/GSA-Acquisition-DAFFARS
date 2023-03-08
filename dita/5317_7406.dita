@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5317_7406"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5317.7406</ph> Contract Clauses</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5317_7406" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5317.7406</ph> Contract Clauses</title>
       <conbody>
-         <p id="p__Toc38365382" outputclass="Normal">Contracting officers must insert the clause at <xref href="5352_217_9000.dita" xtrc=""/>, <i>Long Lead Limitation of Government Liability</i>, in all long-lead procurement solicitations and contracts initiated with advance procurement funds.</p>
+         <p id="p__Toc38365382" outputclass="Normal">Contracting officers must insert the clause at <xref href="5352_217_9000.dita" xtrc="" />, <i>Long Lead Limitation of Government Liability</i>, in all long-lead procurement solicitations and contracts initiated with advance procurement funds.</p>
       </conbody>
    </concept>
 </dita>

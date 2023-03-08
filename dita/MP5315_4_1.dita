@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept id="AFFARS_MP5315_4_1" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title "
-             id="title__Toc76720919"
-             outputclass="Heading 2">
-         <ph class="- topic/ph " id="K1bosf" props="autonumber">1.ProposalInstructions.</ph> Proposal Instructions.</title>
+      <title id="title__Toc76720919" outputclass="Heading 2">
+         <ph id="K1bosf" props="autonumber">1.</ph> Proposal Instructions.</title>
       <conbody id="4bsX3D">
          <p id="OckfCg" outputclass="List1">To facilitate timely awards of sole source contract actions and definitization of Undefinitized Contract Actions (UCA) within 180-days after issuance of the UCA, contracting officers:</p>
          <p id="VoEiHz" outputclass="List1">a. provide contractors with clear and concise proposal instructions, including a suspense date for proposal submission;</p>
@@ -19,22 +15,22 @@
          </p>
          <p id="ZPYCya" outputclass="Normal">
             <b id="5nDual">
-               <u id="akQnZf">NOTE</u>
+               <u>NOTE</u>
             </b>
             <b id="tZWGJq">:</b>
-            <i id="MDV1V8">The blue italicized text below represents instructions for the contracting officerand should be removed prior to incorporating Section L into the solicitation.</i>
+            <i>The blue italicized text below represents instructions for the contracting officerand should be removed prior to incorporating Section L into the solicitation.</i>
          </p>
-         <p id="PwgOby" outputclass="List1">(a) In response to this Request for Proposals (RFP), the offeror shall prepare and submit certified cost or pricing data and supporting attachments in accordance with Table 15-2 of FAR 15.408. Further, the offeror shall (1) utilize the DFARS 252.215-7009, <i id="d5N0Sf">Proposal Adequacy Checklist (PAC)</i>, in pre-submission proposal quality reviews, and (2) furnish the completed checklist as part of their proposal submission.</p>
+         <p id="PwgOby" outputclass="List1">(a) In response to this Request for Proposals (RFP), the offeror shall prepare and submit certified cost or pricing data and supporting attachments in accordance with Table 15-2 of FAR 15.408. Further, the offeror shall (1) utilize the DFARS 252.215-7009, <i>Proposal Adequacy Checklist (PAC)</i>, in pre-submission proposal quality reviews, and (2) furnish the completed checklist as part of their proposal submission.</p>
          <p id="xLyHGT" outputclass="List2">(1) The responsibility for providing a well-prepared and fully supported cost proposal lies solely with the offeror. The basis and rationale for all proposed costs shall be provided as part of the proposal so that the contracting officer has the information necessary to evaluate the reasonableness of the proposed price.</p>
          <p id="EpkIaM" outputclass="List2">(2) If the offeror is unsure as to whether a checklist item is required in support of the proposal, or how to adequately comply with a checklist item, the offeror shall contact the contracting officer as soon as possible after receipt of the RFP, but in any case prior to proposal submittal, to resolve the questions.</p>
          <p id="ANPmHp" outputclass="List2">(3) Non-compliances with the DFARS Proposal Adequacy Checklist and the additional requirements of this provision will require immediate correction. However, completion of the checklist does not relieve the offeror from the responsibility to comply with all applicable regulations and any special requirements of the solicitation.</p>
          <p id="oqieYg" outputclass="List2">(4) The offeror is encouraged to flow down this provision to subcontractors/affiliates required to submit certified cost or pricing data in support of this RFP.</p>
          <p id="joiinl" outputclass="List1">(b) The offeror is advised that the contracting officer may find costs associated with revision/rework of inadequate cost proposals unreasonable, and will consider the nature and extent of any proposal inadequacies when assessing/negotiating profit.</p>
          <p id="utxARq" outputclass="List1">(c) In order to preclude delays in negotiations and contract award, the completed PAC submitted with the proposal shall provide a clear explanation for any checklist items not included in the proposal, particularly items not provided based on any of the exceptions to TINA found at FAR 15.403-1(b)<ph id="HVcQIO">
-               <u id="7tPkNp">and Deviation 2018-O00009</u>
+               <u>and Deviation 2018-O00009</u>
             </ph>.</p>
          <p id="RYOaqv" outputclass="List1">(d) Cost Proposal Requirements. In addition to the requirements identified in the DFARS PAC, the following also apply to the cost proposal submitted in response to this RFP.</p>
-         <p id="vEfEfE" outputclass="List2">(1) Breakout by Year. If the proposal includes more than one CLIN, the proposal shall include a breakout of CLIN prices by cost element by Contractor Fiscal Year (CFY). At the contracting officer’s direction, the breakout by year shall also be provided by: <i id="9jQwVl">(select applicable breakouts)</i>
+         <p id="vEfEfE" outputclass="List2">(1) Breakout by Year. If the proposal includes more than one CLIN, the proposal shall include a breakout of CLIN prices by cost element by Contractor Fiscal Year (CFY). At the contracting officer’s direction, the breakout by year shall also be provided by: <i>(select applicable breakouts)</i>
          </p>
          <p id="rNIKtp" outputclass="List3">• Government Fiscal Year (GFY)</p>
          <p id="WoFdhl" outputclass="List3">• Calendar Year (CY)</p>
@@ -45,17 +41,17 @@
          <p id="DmoRZy" outputclass="List3">ii. When the proposed amount is based on historical data which has been adjusted (for example, for differences in quantity), the CBOM shall clearly identify the adjustments made to the historical data and the reason for each adjustment.</p>
          <p id="HcoeDf" outputclass="List2">(4) All costs proposed on the basis of Cost Estimating Relationships (CER) shall be fully supported. The proposal shall identify the basis for the proposed rate, shall identify the base to which the rate is applied, and shall clearly demonstrate the calculation of proposed costs based on CERs.</p>
          <p id="PwhEfw" outputclass="List2">(5) For any costs incurred prior to proposal submission, the proposal shall identify actual hours and cost incurred as well as hours/costs to complete and the time phasing associated with these hours/costs. This information/data shall be provided in a time-phased cost element summary format.</p>
-         <p id="GcgviY" outputclass="List2">(6) Submission of Historical Actual Costs Incurred. <i id="YaWcWp">(Insert in RFPs for follow-on efforts as applicable. The</i>
-            <i id="21buXm">contracting officer</i>
-            <i id="l9cFJi">may identify specific contracts for which submission of actual cost data is required (for example, the last three lot buys of the same item), or may require that the contractor identify its most recent sales of the items to any customers, if the contractor’s sales base is broader than the current buying office. Language may be tailored to request insight into specific areas of cost (e.g., sustaining engineering hours). However, the</i>
-            <i id="2U8oCH">contracting officer</i>
-            <i id="MDMFq7">should take into consideration the extent to which the contractor’s existing business systems can support requests for granularity in reporting of actual costs incurred, as well as the potential time and cost involved in obtaining very detailed or low-level historical actuals.)</i>
+         <p id="GcgviY" outputclass="List2">(6) Submission of Historical Actual Costs Incurred. <i>(Insert in RFPs for follow-on efforts as applicable. The</i>
+            <i>contracting officer</i>
+            <i>may identify specific contracts for which submission of actual cost data is required (for example, the last three lot buys of the same item), or may require that the contractor identify its most recent sales of the items to any customers, if the contractor’s sales base is broader than the current buying office. Language may be tailored to request insight into specific areas of cost (e.g., sustaining engineering hours). However, the</i>
+            <i>contracting officer</i>
+            <i>should take into consideration the extent to which the contractor’s existing business systems can support requests for granularity in reporting of actual costs incurred, as well as the potential time and cost involved in obtaining very detailed or low-level historical actuals.)</i>
          </p>
-         <p id="LgxxGM" outputclass="List3" xtrf="CheckMapping">(i) The contractor shall provide the following information for these prior acquisitions: <i id="BnL8Zz">[</i>
-            <i id="cGDsFF">contracting officer</i>
-            <i id="iE7aXx">identifies the specific acquisitions for which actual cost data is required. Alternately, the</i>
-            <i id="fPfPVB">contracting officer</i>
-            <i id="gSzO6V">may require the contractor to identify prior and current contracts for the same items covered in this RFP.]</i> For these contracts, the contractor shall provide the following information:</p>
+         <p id="LgxxGM" outputclass="List3" xtrf="CheckMapping">(i) The contractor shall provide the following information for these prior acquisitions: <i>[</i>
+            <i>contracting officer</i>
+            <i>identifies the specific acquisitions for which actual cost data is required. Alternately, the</i>
+            <i>contracting officer</i>
+            <i>may require the contractor to identify prior and current contracts for the same items covered in this RFP.]</i> For these contracts, the contractor shall provide the following information:</p>
          <p id="OOqfwm" outputclass="List1">a. contract number (including modification number if applicable) or other identifier;</p>
          <p id="jkzcIA" outputclass="List1">b. contract type;</p>
          <p id="pVZjbg" outputclass="List1">c. contract quantity;</p>
@@ -67,55 +63,40 @@
          <p id="tZxfjS" outputclass="List2">(9) Commercial item considerations:</p>
          <p id="xvxFBy" outputclass="List3">i. The offeror’s proposal shall provide support for any subcontractor Commercial Item Determinations (CID), addressing, at a minimum, the following:</p>
          <p id="YxfyDr" outputclass="List1">a. A description of the supplies or services;</p>
-         <p id="chkXER" outputclass="List1">b. Specific identification of the type of commercial item claim (<xref format="html"
-                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-                  id="mgcey9"
-                  scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (8)), and the basis on which the item meets the definition; and</p>
+         <p id="chkXER" outputclass="List1">b. Specific identification of the type of commercial item claim (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (8)), and the basis on which the item meets the definition; and</p>
          <p id="IYTUns" outputclass="List1">c. For modified commercial items (commercial item sub-definition (3)), classification of the modification(s) with supporting rationale as either:</p>
-         <p id="yriXEP" outputclass="List2">1. Of a type customarily available in the commercial marketplace (<xref format="html"
-                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-                  id="fEZ2uH"
-                  scope="external">FAR 2.101</xref> commercial item sub-definition (3)(i)); or</p>
-         <p id="DUlIUh" outputclass="List2">2. A minor modification of a type not customarily available in the commercial marketplace made to meet Federal Government requirements (<xref format="html"
-                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-                  id="VKsA6J"
-                  scope="external">FAR 2.101</xref> commercial item sub-definition (3)(ii)).</p>
-         <p id="geqFru" outputclass="Normal">Note that per FAR 15.403-1(c)(3)(iii)(B), modifications that meet the definition of minor modifications of a type not customarily available in the commercial marketplace as defined in <xref format="html"
-                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-                  id="TbeQfb"
-                  scope="external">FAR 2.101</xref>, paragraph (3)(ii) of the commercial item definition, will require the submission of certified cost and pricing data when the total price of all such modifications exceeds the greater of the threshold for certified cost or pricing data (FAR 15.403-4) or 5% of the total price of the contract at the time of contract award.</p>
-         <p id="ZldrJG" outputclass="List3">ii. For proposed subcontract commercial items “of a type”, or “evolved” or modified (<xref format="html"
-                  href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-                  id="XxOFje"
-                  scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (3)), the offeror shall provide a technical description of the differences between the proposed item and the comparison item and thoroughly address the cost differences between the proposed item and the comparison item.</p>
+         <p id="yriXEP" outputclass="List2">1. Of a type customarily available in the commercial marketplace (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" scope="external">FAR 2.101</xref> commercial item sub-definition (3)(i)); or</p>
+         <p id="DUlIUh" outputclass="List2">2. A minor modification of a type not customarily available in the commercial marketplace made to meet Federal Government requirements (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" scope="external">FAR 2.101</xref> commercial item sub-definition (3)(ii)).</p>
+         <p id="geqFru" outputclass="Normal">Note that per FAR 15.403-1(c)(3)(iii)(B), modifications that meet the definition of minor modifications of a type not customarily available in the commercial marketplace as defined in <xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" scope="external">FAR 2.101</xref>, paragraph (3)(ii) of the commercial item definition, will require the submission of certified cost and pricing data when the total price of all such modifications exceeds the greater of the threshold for certified cost or pricing data (FAR 15.403-4) or 5% of the total price of the contract at the time of contract award.</p>
+         <p id="ZldrJG" outputclass="List3">ii. For proposed subcontract commercial items “of a type”, or “evolved” or modified (<xref format="html" href="https://www.acquisition.gov/far/part-2#FAR_2_101" scope="external">FAR 2.101</xref> commercial item sub-definitions (1) through (3)), the offeror shall provide a technical description of the differences between the proposed item and the comparison item and thoroughly address the cost differences between the proposed item and the comparison item.</p>
          <p id="xGsHiO" outputclass="List3">iii. The proposal shall include, or the offeror shall make available, data other than certified cost or pricing data to establish price reasonableness of the proposed subcontract commercial item (to include any modifications not subject to the requirement to submit certified cost or pricing data) by supplying:</p>
          <p id="RdUjee" outputclass="List1">a. Information/data related to competition, if competition is the offeror’s basis for asserting the reasonableness of the proposed subcontract price.</p>
          <p id="vQsymw" outputclass="List1">b. Information/data related to prices (sales data, market price assessments, etc.). Note that subcontractors may submit sales data directly to the contracting officer if the subcontractor deems the data proprietary.</p>
          <p id="VeEnZT" outputclass="List1">c. The prime contractor’s or higher tier subcontractor’s price analysis/price reasonableness determination for the commercial subcontract in accordance with FAR 15.404-3(b)(1) and (2).</p>
          <p id="WPmZVs" outputclass="List1">d. Cost information/data (cost element breakdown and supporting documentation not subject to certification in accordance with FAR 15.406-2). Instances where cost information may be required include but are not limited to commercial items offered but never actually sold to the public, “of a type” commercial items, or when sales data is limited and/or not recent and/or not for the same/similar quantities.</p>
          <p id="mTskIj" outputclass="Normal">Note that the preferred method of establishing the price reasonableness of commercial items is to obtain commercial sales data. It is recognized that other methods, such as market price assessment data or evaluation of cost data not subject to certification, are also acceptable when prior sales data cannot be obtained. Sales data shall (1) demonstrate sales to the general public; (2) be current; and (3) where possible, be in like quantities. Items sold to state, local, or foreign governments or items sold with applications only to state, local, or foreign government or US Government end items are not considered to be sales to the general public unless the proposed commercial item meets the FAR 2.101 commercial item definition sub-definition (8).</p>
-         <p id="xeipVC" outputclass="List2">(10) Additional Cost/Price Proposal Requirements: <i id="Dt15iS">(Identify any additional requirements applicable to the solicitation, or enter “N/A”.</i>
+         <p id="xeipVC" outputclass="List2">(10) Additional Cost/Price Proposal Requirements: <i>(Identify any additional requirements applicable to the solicitation, or enter “N/A”.</i>
          </p>
-         <p id="dZuKaF">- <i id="Db9zSc">If an electronic CBOM providing traceability to the CLIN level, to WBS paragraph, etc. is required, identify that requirement in this paragraph.</i>
+         <p id="dZuKaF">- <i>If an electronic CBOM providing traceability to the CLIN level, to WBS paragraph, etc. is required, identify that requirement in this paragraph.</i>
          </p>
-         <p id="lafcPQ">- <i id="mEfRZJ">If sales data supporting price reasonableness of a commercial item is required, use this paragraph to provide specifics as to the level of detail and applicable date range(s) of the sales data.</i>
+         <p id="lafcPQ">- <i>If sales data supporting price reasonableness of a commercial item is required, use this paragraph to provide specifics as to the level of detail and applicable date range(s) of the sales data.</i>
          </p>
-         <p id="PqMDMx">- <i id="E8xaKF">If a breakout of basic and options is required, detail that requirement here)</i>
+         <p id="PqMDMx">- <i>If a breakout of basic and options is required, detail that requirement here)</i>
          </p>
          <p id="Cdsjzc" outputclass="Normal">
-            <i id="EEjcT4">Add the following paragraph to provision L-XXX, Cost Proposal Adequacy and Structure, only</i>
-            <i id="6aDhCo">when</i>
-            <i id="gfWvrW">an electronic version of the cost proposal with active formulas (e.g., in Excel) is required. This paragraph may be tailored as necessary to describe the specific requirements of the electronic cost model.</i>
+            <i>Add the following paragraph to provision L-XXX, Cost Proposal Adequacy and Structure, only</i>
+            <i>when</i>
+            <i>an electronic version of the cost proposal with active formulas (e.g., in Excel) is required. This paragraph may be tailored as necessary to describe the specific requirements of the electronic cost model.</i>
          </p>
-         <p id="mAIcdI" outputclass="List1">(e) Submission of electronic cost model. <i id="ToXYeU">(Tailor as needed for each specific circumstance. If electronic cost models are required for any subcontractors or affiliates, identify those requirements within this paragraph.)</i>The proposal submission shall include an electronic cost model with active formulas demonstrating the mathematical calculation of the proposed cost (in Excel or other format approved by the contracting officer). The electronic cost model shall include build-up by year of cost in total and by CLIN/subCLIN, consistent with the yearly breakout required by paragraph (d)(1) of this provision, or as directed by the contracting officer. If applicable, the electronic cost model shall link each Work Breakdown Structure (WBS) to the applicable CLINs. The electronic cost model shall roll up to an annual and total program summary by cost element. All information supporting each CLIN should be visible and verifiable in the electronic cost model. The formulas included in the electronic cost model shall not be locked, and the model shall be editable by the Government.</p>
+         <p id="mAIcdI" outputclass="List1">(e) Submission of electronic cost model. <i>(Tailor as needed for each specific circumstance. If electronic cost models are required for any subcontractors or affiliates, identify those requirements within this paragraph.)</i>The proposal submission shall include an electronic cost model with active formulas demonstrating the mathematical calculation of the proposed cost (in Excel or other format approved by the contracting officer). The electronic cost model shall include build-up by year of cost in total and by CLIN/subCLIN, consistent with the yearly breakout required by paragraph (d)(1) of this provision, or as directed by the contracting officer. If applicable, the electronic cost model shall link each Work Breakdown Structure (WBS) to the applicable CLINs. The electronic cost model shall roll up to an annual and total program summary by cost element. All information supporting each CLIN should be visible and verifiable in the electronic cost model. The formulas included in the electronic cost model shall not be locked, and the model shall be editable by the Government.</p>
          <p id="jxbxPM" outputclass="Normal">
             <b id="dbXeYA">
-               <u id="Fl6jYt">NOTE</u>
+               <u>NOTE</u>
             </b>
             <b id="z6NnpZ">:</b>
-            <i id="pyivDw">The blue italicized text above represents instructions for the</i>
-            <i id="sRx5Tn">contracting officer</i>
-            <i id="Jmus3h">and should be removed prior to incorporating Section L into the solicitation.</i>
+            <i>The blue italicized text above represents instructions for the</i>
+            <i>contracting officer</i>
+            <i>and should be removed prior to incorporating Section L into the solicitation.</i>
          </p>
       </conbody>
    </concept>

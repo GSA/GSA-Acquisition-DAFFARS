@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5318_001"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5318.001</ph> Definition</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5318_001" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5318.001</ph> Definition</title>
       <conbody>
          <p id="p__Toc38364825">A <i>Contingency Contracting Officer (CCO)</i> is<i> </i>a person with contracting authority to enter into, administer, and terminate contracts on behalf of the Government in support of a local contingency, steady-state deployments, or other contingency operations. The CCO also acts as the primary business advisor to the deployed/incident commander or the Emergency Operations Center (EOC) director.</p>
       </conbody>

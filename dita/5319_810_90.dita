@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <concept ditaarch:DITAArchVersion="1.3" id="AFFARS_5319_810_90">
-      <title class="- topic/title " id="QkwTNP" outputclass="Heading 3">
-         <ph class="- topic/ph " id="aXl5e6" props="autonumber">5319.810</ph> SBA Appeals</title>
+      <title id="QkwTNP" outputclass="Heading 3">
+         <ph id="aXl5e6" props="autonumber">5319.810</ph> SBA Appeals</title>
       <conbody id="PiD1Hg">
-         <p id="p__Toc38293721" outputclass="List1">(a) <ph id="szBnXU" outputclass="font-size:12.0pt">See <xref format="pdf"
-                     href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/hafmd1-30/hafmd1-30.pdf"
-                     id="p0CtrP"
-                     scope="external">HAF MD 1-30</xref>, On behalf of the SecAF, SAF/SB is responsible for resolving the SBA’s complaints to the Agency Head and determining whether the SBA’s appeals will be granted or denied.</ph>
+         <p id="p__Toc38293721" outputclass="List1">(a) <ph id="szBnXU" outputclass="font-size:12.0pt">See <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/hafmd1-30/hafmd1-30.pdf" id="p0CtrP" scope="external">HAF MD 1-30</xref>, On behalf of the SecAF, SAF/SB is responsible for resolving the SBA’s complaints to the Agency Head and determining whether the SBA’s appeals will be granted or denied.</ph>
          </p>
-         <p id="nBeDYM" outputclass="List1">(b)<ph id="aMpnqa" outputclass="font-size:12.0pt">(2) When notified by the SBA of an intent to appeal and within ten work days of receipt of the formal appeal, the contracting officer will prepare and submit an appeal case file through the SCO (or designee) to <xref format="html"
-                     href="mailto:SAF.SB.Workflow@us.af.mil"
-                     id="BcNZSI"
-                     scope="external">SAF/SB</xref> with a copy provided to the MAJCOM SB Office. The appeal case file must include (1) a statement by the contracting officer, which sets forth the decision rationale and addresses the appeal issues on a point-by-point basis; (2) supporting documents related to controversial aspects of the appeal; (3) supporting documents related to results of market research; (4) The completed <xref format="html"
-                     href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html"
-                     id="lGsggy"
-                     scope="external">DD Form 2579</xref> and SBA Form 70 and any related correspondence; (5) a summary of the procurement history; (6) a copy of the solicitation’s evaluation and award factors; (7) supporting documents related to the suspension of all actions on the requirement pending outcome of the appeal; and (8) evidence of case file review and/or concurrence by the local Small Business, Legal, and Clearance and <ph id="MTdINx" outputclass="font-size:12.0pt">Program Support offices prior to submission to SAF/SB.</ph>
+         <p id="nBeDYM" outputclass="List1">(b)<ph id="aMpnqa" outputclass="font-size:12.0pt">(2) When notified by the SBA of an intent to appeal and within ten work days of receipt of the formal appeal, the contracting officer will prepare and submit an appeal case file through the SCO (or designee) to <xref format="html" href="mailto:SAF.SB.Workflow@us.af.mil" id="BcNZSI" scope="external">SAF/SB</xref> with a copy provided to the MAJCOM SB Office. The appeal case file must include (1) a statement by the contracting officer, which sets forth the decision rationale and addresses the appeal issues on a point-by-point basis; (2) supporting documents related to controversial aspects of the appeal; (3) supporting documents related to results of market research; (4) The completed <xref format="html" href="http://www.dtic.mil/whs/directives/forms/forminfo/forminfopage1959.html" id="lGsggy" scope="external">DD Form 2579</xref> and SBA Form 70 and any related correspondence; (5) a summary of the procurement history; (6) a copy of the solicitation’s evaluation and award factors; (7) supporting documents related to the suspension of all actions on the requirement pending outcome of the appeal; and (8) evidence of case file review and/or concurrence by the local Small Business, Legal, and Clearance and <ph id="MTdINx" outputclass="font-size:12.0pt">Program Support offices prior to submission to SAF/SB.</ph>
             </ph>
          </p>
       </conbody>

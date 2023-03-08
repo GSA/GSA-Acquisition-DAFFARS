@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
    <topic id="AFFARS_5317_174" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="subtopic">
-         <ph class="- topic/ph " props="autonumber">5317.174</ph> Multiyear Contracts for Electricity from Renewable Energy Sources</title>
+      <title outputclass="subtopic">
+         <ph props="autonumber">5317.174</ph> Multiyear Contracts for Electricity from Renewable Energy Sources</title>
       <body>
          <p id="ZEsXCK" outputclass="">(b) See <xref href="MP5301_601.dita#AFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>(a)(i).</p>
       </body>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5335_070_1"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">5335.070-1</ph> Indemnification Under Research and Development Contracts</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5335_070_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">5335.070-1</ph> Indemnification Under Research and Development Contracts</title>
       <conbody>
-         <p outputclass="List1">(a) The authority to approve requests for indemnification for unusually hazardous risks under <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2354&amp;num=0&amp;edition=prelim"
-                  scope="external"
-                  format="xhtml?req=granuleid:USC-prelim-title10-section2354&amp;num=0&amp;edition=prelim">
+         <p outputclass="List1">(a) The authority to approve requests for indemnification for unusually hazardous risks under <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2354&amp;num=0&amp;edition=prelim" scope="external" format="xhtml?req=granuleid:USC-prelim-title10-section2354&amp;num=0&amp;edition=prelim">
                <u>10 U.S.C. 2354</u>
             </xref> is delegated to the following officials, without power to relegate: AFMC/PK SCO, AFLCMC/PK SCO and SMC/PK SCO.</p>
       </conbody>

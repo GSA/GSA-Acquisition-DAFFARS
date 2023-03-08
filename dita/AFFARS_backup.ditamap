@@ -435,7 +435,7 @@
                    props="5303.104-7"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="dSTANq.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="5303.104-9 Contract Clauses"
                    href="5303_104_9.dita"
@@ -680,7 +680,7 @@
                    audience="AFFARS_COVID"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_COVID.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="5304.604 (2) Responsibilities"
                    href="5304_604.dita"
@@ -1520,11 +1520,11 @@
       </topicref>
       <topicref navtitle="Subpart 5312.90 - PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING"
                 href="SUBPART_5312_90.dita"
-                outputclass="subtopic"
+                outputclass="SubPart"
                 props="Subpart 5312.90"
                 base="concept"
                 audience="AFFARS_SUBPART_5312_90"
-                xtrf="subtopic"
+                xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5312_90.html"
                 class="- map/topicref "/>
    </topicref>
@@ -1824,7 +1824,7 @@
                    props="5315.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="VlMvrI.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="5315.406-1 Prenegotiation Objectives"
                    href="5315_406_1.dita"
@@ -2177,7 +2177,7 @@
                    props="5317.174"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="iOptVA.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="Subpart 5317.2 - OPTIONS"
@@ -2513,7 +2513,7 @@
                    props="5319.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="jQOZnI.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="Subpart 5319.5 - SMALL BUSINESS TOTAL SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES"
@@ -2536,22 +2536,22 @@
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="Subpart 5319.6 - CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
-                href="SUBPART_5319_7.dita"
+                href="SUBPART_5319_6.dita"
                 outputclass="SubPart"
-                props="Subpart 5319.7"
+                props="Subpart 5319.6"
                 base="NoTitle"
-                audience="AFFARS_SUBPART_5319_7"
+                audience="AFFARS_SUBPART_5319_6"
                 xtrf="SubPart"
                 xtrc="AFFARS_SUBPART_5319_7.html"
                 class="- map/topicref ">
          <topicref navtitle="5319.602-3 Resolving differences between the agency and the Small Business Administration"
-                   href="5319_705_4.dita"
+                   href="5319_602_3.dita"
                    outputclass="subtopic"
                    props="5319.602-3"
-                   base="concept"
-                   audience="AFFARS_5319_705_4"
+                   base="NoTitle"
+                   audience="AFFARS_5319_602_3"
                    xtrf="subtopic"
-                   xtrc="AFFARS_5319_705_4.html"
+                   xtrc="AFFARS_5319_602_3.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="Subpart 5319.8 - CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION (THE 8(A) PROGRAM)"
@@ -3877,7 +3877,7 @@
                    props="5337.102-70"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="BQtvrF.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="5337.104 Personal Services Contracts"
                    href="5337_104.dita"
@@ -4828,7 +4828,7 @@
                    audience="AFFARS_MP5301_601_90"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5301_601_90.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officers Representative (COR)"
                    href="MP5301_602_2.dita"
@@ -5083,7 +5083,7 @@
                       otherprops="MP_5315_3_1_1"
                       base="concept"
                       audience="AFFARS_MP_5315_3_1_1"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_1.html"
                       class="- map/topicref "/>
@@ -5093,7 +5093,7 @@
                       otherprops="MP_5315_3_1_2"
                       base="concept"
                       audience="AFFARS_MP_5315_3_1_2"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_2.html"
                       class="- map/topicref "/>
@@ -5103,7 +5103,7 @@
                       otherprops="MP_5315_3_1_3"
                       base="concept"
                       audience="AFFARS_MP_5315_3_1_3"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_3.html"
                       class="- map/topicref "/>
@@ -5113,7 +5113,7 @@
                       otherprops="MP_5315_3_1_4"
                       base="concept"
                       audience="AFFARS_MP_5315_3_1_4"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_1_4.html"
                       class="- map/topicref "/>
@@ -5134,7 +5134,7 @@
                       otherprops="MP_5315_3_2_1"
                       base="concept"
                       audience="AFFARS_MP_5315_3_2_1"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_1.html"
                       class="- map/topicref "/>
@@ -5144,7 +5144,7 @@
                       otherprops="MP_5315_3_2_2"
                       base="concept"
                       audience="AFFARS_MP_5315_3_2_2"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_2.html"
                       class="- map/topicref "/>
@@ -5154,7 +5154,7 @@
                       otherprops="MP_5315_3_2_3"
                       base="concept"
                       audience="AFFARS_MP_5315_3_2_3"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_3.html"
                       class="- map/topicref "/>
@@ -5164,7 +5164,7 @@
                       otherprops="MP_5315_3_2_4"
                       base="concept"
                       audience="AFFARS_MP_5315_3_2_4"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_2_4.html"
                       class="- map/topicref "/>
@@ -5185,7 +5185,7 @@
                       otherprops="MP_5315_3_3_1"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_1"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_1.html"
                       class="- map/topicref "/>
@@ -5195,7 +5195,7 @@
                       otherprops="MP_5315_3_3_2"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_2"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_2.html"
                       class="- map/topicref "/>
@@ -5205,7 +5205,7 @@
                       otherprops="MP_5315_3_3_3"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_3"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_3.html"
                       class="- map/topicref "/>
@@ -5215,7 +5215,7 @@
                       otherprops="MP_5315_3_3_4"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_4"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_4.html"
                       class="- map/topicref "/>
@@ -5225,7 +5225,7 @@
                       otherprops="MP_5315_3_3_5"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_5"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_5.html"
                       class="- map/topicref "/>
@@ -5235,7 +5235,7 @@
                       otherprops="MP_5315_3_3_6"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_6"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_6.html"
                       class="- map/topicref "/>
@@ -5245,7 +5245,7 @@
                       otherprops="MP_5315_3_3_7"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_7"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_7.html"
                       class="- map/topicref "/>
@@ -5255,7 +5255,7 @@
                       otherprops="MP_5315_3_3_8"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_8"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_8.html"
                       class="- map/topicref "/>
@@ -5265,7 +5265,7 @@
                       otherprops="MP_5315_3_3_9"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_9"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_9.html"
                       class="- map/topicref "/>
@@ -5275,7 +5275,7 @@
                       otherprops="MP_5315_3_3_10"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_10"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_10.html"
                       class="- map/topicref "/>
@@ -5285,7 +5285,7 @@
                       otherprops="MP_5315_3_3_11"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_11"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_11.html"
                       class="- map/topicref "/>
@@ -5295,7 +5295,7 @@
                       otherprops="MP_5315_3_3_12"
                       base="concept"
                       audience="AFFARS_MP_5315_3_3_12"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_3_12.html"
                       class="- map/topicref "/>
@@ -5316,7 +5316,7 @@
                       otherprops="MP_5315_3_4_1"
                       base="concept"
                       audience="AFFARS_MP_5315_3_4_1"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_1.html"
                       class="- map/topicref "/>
@@ -5326,7 +5326,7 @@
                       otherprops="MP_5315_3_4_2"
                       base="concept"
                       audience="AFFARS_MP_5315_3_4_2"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_2.html"
                       class="- map/topicref "/>
@@ -5336,7 +5336,7 @@
                       otherprops="MP_5315_3_4_3"
                       base="concept"
                       audience="AFFARS_MP_5315_3_4_3"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_4_3.html"
                       class="- map/topicref "/>
@@ -5349,7 +5349,7 @@
                    audience="AFFARS_MP_5315_3_5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP_5315_3_5.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="6 MANDATORY AIR FORCE SOURCE SELECTION TRAINING"
                    href="MP_5315_3_6.dita"
@@ -5367,7 +5367,7 @@
                       otherprops="MP_5315_3_6_1"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_1"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_1.html"
                       class="- map/topicref "/>
@@ -5377,7 +5377,7 @@
                       otherprops="MP_5315_3_6_2"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_2"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_2.html"
                       class="- map/topicref "/>
@@ -5387,13 +5387,13 @@
                       otherprops="MP_5315_3_6_3"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_3"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_3.html"
                       class="- map/topicref "/>
             <topicref navtitle="6.4 Acquisition/Source Selection Team      Training"
                       href="MP_5315_3_6_4.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="6.4"
                       otherprops="MP_5315_3_6_4"
                       base="concept"
@@ -5407,7 +5407,7 @@
                       otherprops="MP_5315_3_6_5"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_5"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_5.html"
                       class="- map/topicref "/>
@@ -5417,7 +5417,7 @@
                       otherprops="MP_5315_3_6_6"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_6"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_6.html"
                       class="- map/topicref "/>
@@ -5427,7 +5427,7 @@
                       otherprops="MP_5315_3_6_7"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_7"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_7.html"
                       class="- map/topicref "/>
@@ -5437,7 +5437,7 @@
                       otherprops="MP_5315_3_6_8"
                       base="concept"
                       audience="AFFARS_MP_5315_3_6_8"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_6_8.html"
                       class="- map/topicref "/>
@@ -5450,7 +5450,7 @@
                    audience="AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="List of Appendices"
                    href="MP_5315_3_LIST_OF_APPENDICES.dita"
@@ -5468,7 +5468,7 @@
                       otherprops="MP_5315_3_Appendix_A"
                       base="concept"
                       audience="AFFARS_MP_5315_3_APPENDIX_A"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_A.html"
                       class="- map/topicref "/>
@@ -5478,7 +5478,7 @@
                       otherprops="MP_5315_3_Appendix_B"
                       base="concept"
                       audience="AFFARS_MP_5315_3_APPENDIX_B"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_B.html"
                       class="- map/topicref "/>
@@ -5488,7 +5488,7 @@
                       otherprops="MP_5315_3_Appendix_C"
                       base="concept"
                       audience="AFFARS_MP_5315_3_APPENDIX_C"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       xtrf="subtopic"
                       xtrc="AFFARS_MP_5315_3_APPENDIX_C.html"
                       class="- map/topicref "/>
@@ -5504,7 +5504,7 @@
                 otherprops=""
                 xtrc="AFFARS_MP5315_4.html"
                 class="- map/topicref ">
-         <topicref navtitle="1.ProposalInstructions. Proposal Instructions."
+         <topicref navtitle="1. Proposal Instructions."
                    href="MP5315_4_1.dita"
                    outputclass="task"
                    props="1.ProposalInstructions."
@@ -5514,7 +5514,7 @@
                    xtrf="task"
                    xtrc="AFFARS_MP5315_4_1.html"
                    class="- map/topicref "/>
-         <topicref navtitle="2.Requestingdatadocumentationafterreceiptoftheproposal. Requesting data/documentation after receipt of the proposal."
+         <topicref navtitle="2. Requesting data/documentation after receipt of the proposal."
                    href="MP5315_4_2.dita"
                    props="2.Requestingdatadocumentationafterreceiptoftheproposal."
                    otherprops="MP5315_4_2"
@@ -5522,7 +5522,7 @@
                    audience="AFFARS_MP5315_4_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5315_4_2.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver"
                    href="MP5315_404_1_90.dita"
@@ -5532,7 +5532,7 @@
                    audience="AFFARS_MP5315_404_1_90"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5315_404_1_90.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="MP5315.407-90 Contract Audit Follow-up (CAFU)"
                    href="MP5315_407_90.dita"
@@ -5574,11 +5574,11 @@
                 class="- map/topicref "/>
       <topicref navtitle="MP5325.7002-2 - Exceptions"
                 href="MP5325_7002_2.dita"
-                outputclass="SubPart"
+                outputclass="subtopic"
                 props="MP5325.7002-2"
                 base="NoTitle"
                 audience="AFFARS_MP5325_7002_2"
-                xtrf="SubPart"
+                xtrf="subtopic"
                 xtrc="AFFARS_MP5325_7002_2.html"
                 class="- map/topicref ">
          <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
@@ -5589,7 +5589,7 @@
                    audience="AFFARS_MP5325_7002_2_1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5325_7002_2_1.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="2.DNADException DNAD Exception"
                    href="MP5325_7002_2_2.dita"
@@ -5599,16 +5599,16 @@
                    audience="AFFARS_MP5325_7002_2_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5325_7002_2_2.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="MP5325.7003-3 - Exceptions"
                 href="MP5325_7003_3.dita"
-                outputclass="SubPart"
+                outputclass="subtopic"
                 props="MP5325.7003-3"
                 base="NoTitle"
                 audience="AFFARS_MP5325_7003_3"
-                xtrf="SubPart"
+                xtrf="subtopic"
                 xtrc="AFFARS_MP5325_7003_3.html"
                 class="- map/topicref ">
          <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7003 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
@@ -5619,7 +5619,7 @@
                    audience="AFFARS_MP5325_7003_3_1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5325_7003_3_1.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
                    href="MP5325_7003_3_2.dita"
@@ -5629,7 +5629,7 @@
                    audience="AFFARS_MP5325_7003_3_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5325_7003_3_2.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="3.DNADException DNAD Exception"
                    href="MP5325_7003_3_3.dita"
@@ -5639,7 +5639,7 @@
                    audience="AFFARS_MP5325_7003_3_3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5325_7003_3_3.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
    </topicref>
@@ -5803,7 +5803,7 @@
                    audience="AFFARS_MP_5349_501_70"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP_5349_501_70.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
       <topicref navtitle="Subpart MP5349.70 - SPECIAL TERMINATION REQUIREMENTS"
@@ -5822,7 +5822,7 @@
                    audience="AFFARS_MP5349_7001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5349_7001.html"
+                   xtrc=""
                    class="- map/topicref "/>
          <topicref navtitle="MP5349.7003 Notification of Anticipated Terminations or Reductions"
                    href="MP5349_7003.dita"
@@ -5831,7 +5831,7 @@
                    audience="AFFARS_MP5349_7003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFFARS_MP5349_7003.html"
+                   xtrc=""
                    class="- map/topicref "/>
       </topicref>
    </topicref>

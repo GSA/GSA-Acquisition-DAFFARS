@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5325_7002_2_2"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">2.DNADException</ph> DNAD Exception</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_MP5325_7002_2_2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 2">
+         <ph props="autonumber">2.DNADException</ph> DNAD Exception</title>
       <conbody>
          <p outputclass="List1">
             <b>a. </b>
             <b> </b>
             <b>Individual DNADs</b>
          </p>
-         <p outputclass="Normal">When a contractor asserts that a domestic item identified at DFARS 225.7002-1 is not available, a DNAD is required; the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_02.pdf"
-                  scope="external"
-                  format="pdf">
+         <p outputclass="Normal">When a contractor asserts that a domestic item identified at DFARS 225.7002-1 is not available, a DNAD is required; the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/determination_and_findings_02.pdf" scope="external" format="pdf">
                <u>DNAD</u>
-            </xref> must be coordinated through the SCO and <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            </xref> must be coordinated through the SCO and <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/AQC</u>
             </xref> before submission to the Secretary of the Air Force (SecAF) for approval. The SecAF may grant a DNAD if compliant items, identified at DFARS 225.7002-1, of satisfactory quality and sufficient quantity, and in the required form, cannot be procured at U.S. market prices as and when needed. This approval authority is not delegable. This exception should not be read to require that the compliant material/item must be totally unavailable (i.e., cannot be obtained at any cost). There is some cost limit that should be recognizable by a contracting officer, and that a reasonable person would agree, makes the material/item effectively “unavailable.”</p>
          <p outputclass="List1">

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5352_242_9000"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5352.242-9000</ph> Contractor Access to Air Force      Installations</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5352_242_9000" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5352.242-9000</ph> Contractor Access to Air Force      Installations</title>
       <conbody>
-         <p outputclass="Normal">As prescribed in <xref href="5342_490_1.dita" xtrc=""/> , insert a clause substantially the same as
+         <p outputclass="Normal">As prescribed in <xref href="5342_490_1.dita" xtrc="" /> , insert a clause substantially the same as
         the following clause in solicitations and contracts:</p>
          <p id="p__Toc76485399" outputclass="Normal">
             <b>CONTRACTOR ACCESS TO AIR FORCE INSTALLATIONS (</b>
@@ -47,9 +43,7 @@
             <i>
                <u> </u>
             </i>
-            <xref href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi31-101/generic_wms.pdf"
-                  scope="external"
-                  format="pdf">
+            <xref href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi31-101/generic_wms.pdf" scope="external" format="pdf">
                <i>
                   <u>AFI 31-101</u>
                </i>
@@ -57,9 +51,7 @@
             <i>
                <u>, Integrated Defense, and </u>
             </i>
-            <xref href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodman5200.02_afman16-1405/dodm5200.02_afman16-1405.pdf"
-                  scope="external"
-                  format="pdf">
+            <xref href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodman5200.02_afman16-1405/dodm5200.02_afman16-1405.pdf" scope="external" format="pdf">
                <i>
                   <u>DODMAN5200.02_AFMAN 16-1405</u>
                </i>

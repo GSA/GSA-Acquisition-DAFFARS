@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5312_207"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5312.207</ph> Contract Type</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5312_207" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5312.207</ph> Contract Type</title>
       <conbody>
-         <p outputclass="List1">(b)(iii) See MP5301.601-90. Submit determinations through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+         <p outputclass="List1">(b)(iii) See MP5301.601-90. Submit determinations through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/AQC</u>
             </xref> for approval. See AFFARS 5316.601(d)(i)(A)(1) for approvals when base period plus any option periods is three years or less. </p>
       </conbody>

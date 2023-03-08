@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5332_501_3"
-            xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
-         <ph class="- topic/ph " props="autonumber">5332.501-3</ph> Contract Price</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <concept id="AFFARS_5332_501_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 3">
+         <ph props="autonumber">5332.501-3</ph> Contract Price</title>
       <conbody>
-         <p id="p__Toc38365449" outputclass="List1">(a) When the estimated contract costs increase such that the estimate of the unusual progress payments increase $20 million or more over the approved unusual progress payment estimate, the contracting officer must notify <xref href="mailto:SAF.FMF.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+         <p id="p__Toc38365449" outputclass="List1">(a) When the estimated contract costs increase such that the estimate of the unusual progress payments increase $20 million or more over the approved unusual progress payment estimate, the contracting officer must notify <xref href="mailto:SAF.FMF.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/FMF</u>
-            </xref> through their SCO, with a courtesy copy to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external"
-                  format="mailto">
+            </xref> through their SCO, with a courtesy copy to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/AQC</u>
             </xref>.</p>
       </conbody>
