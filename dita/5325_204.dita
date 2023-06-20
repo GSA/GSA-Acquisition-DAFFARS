@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5325_204" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5325_204" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5325.204</ph> Evaluation Offers of Foreign Construction Material</title>
       <conbody>
-         <p id="OFZQQx" outputclass="List1">(b) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>.</p>
+         <p id="OFZQQx" outputclass="List1">(b) See <xref href="MP5301_601_90.dita#DAFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>.</p>
       </conbody>
    </concept>
 </dita>

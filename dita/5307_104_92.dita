@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5307_104_92" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5307_104_92" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5307.104-92</ph> Acquisition Strategy Panels (ASP) and AP Approval Authority</title>
       <conbody>
          <p id="jPfmFz" outputclass="List1">(a) ASPs:</p>
          <p id="KtrbcU" outputclass="List2">(1) ASP are integral to a deliberative process that support the acquisition strategy approving authority in making informed decisions in performing their acquisition execution responsibilities. An ASP includes the Chair, panel members, and a briefing supporting the proposed strategy.</p>
-         <p id="OAksFt" outputclass="List2">(2) The program manager, or the contracting officer if a program manager is not assigned, must ensure an ASP is conducted for all acquisitions that require a written AP in accordance with <xref format="html" href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS-207.103" scope="external">DFARS 207.103</xref> , unless otherwise waived by the AP approval authority (also see <xref href="5307_104_92.dita#AFFARS_5307_104_92" outputclass="fm:ParaNumOnly" xtrc="5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority</xref> for approval authorities).</p>
+         <p id="OAksFt" outputclass="List2">(2) The program manager, or the contracting officer if a program manager is not assigned, must ensure an ASP is conducted for all acquisitions that require a written AP in accordance with <xref format="html" href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS-207.103" scope="external">DFARS 207.103</xref> , unless otherwise waived by the AP approval authority (also see <xref href="5307_104_92.dita#DAFFARS_5307_104_92" outputclass="fm:ParaNumOnly" xtrc="5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority</xref> for approval authorities).</p>
          <p id="qcygvQ" outputclass="List2">(3) The AP approval authority will be the ASP Chair. The ASP Chair will determine the ASP membership and the required briefing content based upon the unique requirements of each acquisition.</p>
          <p id="kKMCkm" outputclass="List2">(4) At the conclusion of the ASP briefing, the program manager (or equivalent) must prepare ASP minutes and obtain approval from the AP approval authority.</p>
          <p id="ZnSYki" outputclass="List1">(b) AP:</p>

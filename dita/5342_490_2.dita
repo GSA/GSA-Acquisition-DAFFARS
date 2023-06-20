@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5342_490_2" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5342_490_2" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5342.490-2</ph> Contract clause</title>
       <conbody>
-         <p id="RAalIs" outputclass="Normal">The contracting officer shall insert the clause substantially the same as the clause at AFFARS <xref href="5352_242_9001.dita" xtrc="" /> in solicitations and contracts that require contractor personnel to meet one or both of the following criteria:</p>
+         <p id="RAalIs" outputclass="Normal">The contracting officer shall insert the clause substantially the same as the clause at AFFARS <xref href="5352_242_9001.dita" xtrc="" outputclass="fm:ParaNumOnly" /> in solicitations and contracts that require contractor personnel to meet one or both of the following criteria:</p>
          <p id="eYOaAP" outputclass="List1">(a) Require logical access to Department of Defense computer networks and systems in either the unclassified environment or the classified environment where authorized by governing security directives; and/or</p>
          <p id="dZJnXD" outputclass="List1">(b) Perform work which requires the use of a CAC for installation entry control or physical access to facilities and buildings.</p>
       </conbody>

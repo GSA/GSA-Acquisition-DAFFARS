@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5325_7003_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5325_7003_3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5325.7003-3</ph> Exceptions</title>
       <conbody>
@@ -14,7 +14,7 @@
                <u>CDMA D&amp;F</u>
             </xref> through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
                <u>SAF/AQC</u>
-            </xref> for approval by the Secretary of the Air Force (nondelegable). See <xref href="MP5325_7003_3.dita" /> .</p>
+            </xref> for approval by the Secretary of the Air Force (nondelegable). See <xref href="MP5325_7003_3.dita" outputclass="fm:ParaNumOnly" /> .</p>
       </conbody>
    </concept>
 </dita>

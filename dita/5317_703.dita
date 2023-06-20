@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5317_703" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5317_703" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5317.703</ph> Policy</title>
       <conbody>
-         <p id="TeJyyB" outputclass="List1">(e) See <xref href="MP5301_601.dita#AFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>.</p>
+         <p id="TeJyyB" outputclass="List1">(e) See <xref href="MP5301_601.dita#DAFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>.</p>
       </conbody>
    </concept>
 </dita>

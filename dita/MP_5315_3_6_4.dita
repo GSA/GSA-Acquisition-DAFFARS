@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_6_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" outputclass="task">
+   <concept id="DAFFARS_MP_5315_3_6_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" outputclass="task">
       <title outputclass="Heading 3">
          <ph props="autonumber">6.4</ph> Acquisition/Source Selection Team      Training</title>
       <conbody>

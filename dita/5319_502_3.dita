@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
 <dita>
-   <concept id="AFFARS_5319_502_3">
+   <concept id="DAFFARS_5319_502_3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5319.502-3</ph> Partial Set-Asides</title>
       <conbody>
-         <p id="p__Toc38293717" outputclass="List1">(a)(5) See <xref href="MP5301_601.dita#AFFARS_MP5301_601" outputclass="fm:TEXT">MP5301.601(a)(i)</xref>.</p>
+         <p id="p__Toc38293717" outputclass="List1">(a)(5) See <xref href="MP5301_601.dita#DAFFARS_MP5301_601" outputclass="fm:TEXT">MP5301.601(a)(i)</xref>.</p>
       </conbody>
    </concept>
 </dita>

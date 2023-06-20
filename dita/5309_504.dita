@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5309_504" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5309_504" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5309.504</ph> Contracting Officer Responsibilities</title>
       <conbody>
          <p id="PQpnpn" outputclass="List1">(c)Forward the approved recommended course of action to the HCA through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
                <u>SAF/AQC</u>
-            </xref> for review. Recommendations must include all documentation required by FAR 9.506(b) as an attachment. See <xref href="MP5301_601.dita" />.</p>
+            </xref> for review. Recommendations must include all documentation required by FAR 9.506(b) as an attachment. See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
       </conbody>
    </concept>
 </dita>

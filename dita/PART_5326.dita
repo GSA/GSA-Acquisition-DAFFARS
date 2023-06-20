@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5326" ditaarch:DITAArchVersion="1.3">
+   <topic id="DAFFARS_PART_5326" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 1">
          <ph props="autonumber">Part 5326</ph> - Other Socioeconomic Programs</title>
       <body>
@@ -19,12 +19,12 @@
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5326_2.dita#AFFARS_SUBPART_5326_2">Subpart 5326.2 - MAJOR DISASTER OF EMERGENCY ASSISTANCE ACTIVITIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5326_2.dita#DAFFARS_SUBPART_5326_2">Subpart 5326.2 - MAJOR DISASTER OF EMERGENCY ASSISTANCE ACTIVITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5326_203.dita#AFFARS_5326_203">5326.203 TRANSITION OF WORK</xref>
+                        <xref outputclass="fm:TOC" href="5326_203.dita#DAFFARS_5326_203">5326.203 TRANSITION OF WORK</xref>
                      </p>
                   </li>
                </ul>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5316_601" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5316_601" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5316.601</ph> (d) Limitations</title>
       <conbody>
          <p id="HJSQXW" outputclass="List3" xtrf="CheckMapping">(i)(A)(1) Base period plus any option periods exceeds three years.</p>
          <p id="630pfci1j" outputclass="List6" xtrf="CheckMapping">(<i>i</i>) For the Air Force, the threshold at <xref format="html" href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601" scope="external">DFARS 216.601(d)(i)(A)(1)(i)</xref> is $10 million in lieu of $1 million.</p>
          <p id="MbCgiN" outputclass="List6">(<i>ii</i>) For the Air Force, the threshold at <xref format="html" href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601" scope="external">DFARS 216.601(d)(i)(A)(1)(i)</xref> is $10 million in lieu of $1 million.</p>
-         <p id="WzBLdr" outputclass="List3" xtrf="CheckMapping">(i)(A)(2) Base period plus any option periods exceeds three yearsThe SCO is authorized to approve individual determinations. In addition to the D&amp;F requirements outlined in <xref format="html" href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601" scope="external">DFARS 216.601(d)(i)(B)</xref>, the contracting officer shall address the plan to maintain appropriate government surveillance of contractor performance, including cost controls, and ensure that the contract clearly defines the supplies or services being acquired. The HCA retains the authority to approve class determinations when the contract length exceeds three years, regardless of dollar value. When HCA approval is required submit the D&amp;F through the SCO to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> for approval. See <xref href="MP5301_601.dita#AFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>.</p>
-         <p id="aCFLZo" outputclass="List3">(i)(A)<i>(3)</i> See <xref href="MP5301_601.dita" />.</p>
+         <p id="WzBLdr" outputclass="List3" xtrf="CheckMapping">(i)(A)(2) Base period plus any option periods exceeds three yearsThe SCO is authorized to approve individual determinations. In addition to the D&amp;F requirements outlined in <xref format="html" href="https://www.acquisition.gov/dfars/part-216-types-contracts#DFARS-216.601" scope="external">DFARS 216.601(d)(i)(B)</xref>, the contracting officer shall address the plan to maintain appropriate government surveillance of contractor performance, including cost controls, and ensure that the contract clearly defines the supplies or services being acquired. The HCA retains the authority to approve class determinations when the contract length exceeds three years, regardless of dollar value. When HCA approval is required submit the D&amp;F through the SCO to <xref format="html" href="http://mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF/AQC</xref> for approval. See <xref href="MP5301_601.dita#DAFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>.</p>
+         <p id="aCFLZo" outputclass="List3">(i)(A)<i>(3)</i> See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
       </conbody>
    </concept>
 </dita>

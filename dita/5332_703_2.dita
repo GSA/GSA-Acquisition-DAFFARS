@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5332_703_2" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5332_703_2" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5332.703-2</ph> Contracts Conditioned Upon Availability of Funds</title>
       <conbody>
-         <p id="Bprkwr" outputclass="List1">(a) <i>Fiscal year contracts.</i> See <xref href="MP5332_7.dita" /> on contract funding. See DFARS 204.7103 for guidance on considering severability when forming contracts and determining contract funding.</p>
+         <p id="Bprkwr" outputclass="List1">(a) <i>Fiscal year contracts.</i> See <xref href="MP5332_7.dita" outputclass="fm:ParaNumOnly" /> on contract funding. See DFARS 204.7103 for guidance on considering severability when forming contracts and determining contract funding.</p>
       </conbody>
    </concept>
 </dita>

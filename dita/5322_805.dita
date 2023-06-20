@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5322_805" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5322_805" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5322.805</ph> Procedures</title>
       <conbody>
-         <p id="p__Toc38365398" outputclass="List1">(a)(8) See <xref href="MP5301_601.dita" />.</p>
+         <p id="p__Toc38365398" outputclass="List1">(a)(8) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
       </conbody>
    </concept>
 </dita>

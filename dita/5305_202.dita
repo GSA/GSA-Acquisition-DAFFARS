@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5305_202" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5305_202" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5305.202</ph> Exceptions</title>
       <conbody>
-         <p id="p__Toc421333915" outputclass="List1">(b) See <xref href="MP5301_601_90.dita#AFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. The request must state why the notice is not appropriate or reasonable and identify alternative actions to optimize opportunities for small business participation.</p>
+         <p id="p__Toc421333915" outputclass="List1">(b) See <xref href="MP5301_601_90.dita#DAFFARS_MP5301_601_90" outputclass="fm:ParaNumOnly">MP5301.601-90 Head of Agency (HoA), Senior Procurement Executive (SPE), Service Acquisition Executive (SAE) Delegation Matrix</xref>. The request must state why the notice is not appropriate or reasonable and identify alternative actions to optimize opportunities for small business participation.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5352_228_9101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5352_228_9101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5352.228-9101</ph> Insurance Certificate      Requirement in Spain (USAFE)</title>
       <conbody>
-         <p>As prescribed at <xref href="5328_310_90.dita" xtrc="" /> , insert the following clause in solicitations and contracts: </p>
+         <p>As prescribed at <xref href="5328_310_90.dita" xtrc="" outputclass="fm:ParaNumOnly" /> , insert the following clause in solicitations and contracts: </p>
          <p>
             <b>INSURANCE CERTIFICATE REQUIREMENT IN SPAIN (USAFE) (OCT
           2019)</b>

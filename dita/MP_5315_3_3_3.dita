@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_3_3" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_3_3" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">3.3</ph> Award without Discussions</title>
       <conbody>
-         <p id="ushAJX" outputclass="List2">3.3.3 Documentation Required Prior to Contract Award. The PCO must obtain contract clearance approval in accordance with <xref href="5301_9000.dita#AFFARS_5301_9000" outputclass="fm:ParaNumOnly" xtrc="AFFARS 5301.9000(e)(1)">5301.9000</xref> prior to the SSA making the decision to award without discussions.</p>
+         <p id="ushAJX" outputclass="List2">3.3.3 Documentation Required Prior to Contract Award. The PCO must obtain contract clearance approval in accordance with <xref href="5301_9000.dita#DAFFARS_5301_9000" outputclass="fm:ParaNumOnly" xtrc="DAFFARS 5301.9000(e)(1)">5301.9000</xref> prior to the SSA making the decision to award without discussions.</p>
       </conbody>
    </concept>
 </dita>

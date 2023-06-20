@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP_5315_3_1_4" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_1_4" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">1.4</ph> Source Selection Team Roles and Responsibilities</title>
       <conbody>
@@ -154,14 +154,14 @@
             format="pdf"
             href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
             scope="external">DoD Source Selection Procedures</xref>, the PCO shall:</p>
-         <p id="jkmtdX" outputclass="List4">1.4.2.2.2 Consider sample RFP Section L language for <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/use_of_non-government_advisors.docx" scope="external">
+         <p id="jkmtdX" outputclass="List4">1.4.2.2.2 Consider sample RFP Section L language for <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/DAFFARS_Library/5315/samples/use_of_non-government_advisors.docx" scope="external">
                <u>Use of Non-Government Advisors</u>
             </xref>
             <ph>
                <u>, when applicable</u>
             </ph>.</p>
          <p id="yVXIie" outputclass="List4">1.4.2.2.3 Manage all source selection documents, control and record all exchanges with offerors, and protect all documents (see <u>
-               <xref href="MP_5315_3_4.dita#AFFARS_MP_5315_3_4" outputclass="fm:ParaNumOnly">4</xref>
+               <xref href="MP_5315_3_4.dita#DAFFARS_MP_5315_3_4" outputclass="fm:ParaNumOnly">4</xref>
             </u> ). Consider identifying a Source Selection Records Custodian (SSRC) familiar with the contracting process to manage all source selection documents (PCO or someone under PCO oversight). Ensure source selection material is not removed, circulated, or disseminated outside of the source selection work area without PCO review and approval. Ensure all means of electronic communications receive additional scrutiny to preclude inadvertent release of documents that contain sensitive or embedded source selection files. It is a good practice that prior to transmission of Source Selection Information to offerors via any means, the information is reviewed by a second person to preclude inadvertent inclusion of inappropriate data. Additionally, Source Selection Information transmitted to offerors electronically (e.g., via email or disc) or posted to a website must be distributed in a “locked” format, such as scanned .pdf file, .jpeg file, or other protected format, unless offerors are required to fill-in or complete portions of a document, such as Section K Representations and Certifications, or a pricing matrix. Using e-mail to transmit source selection information should be done judiciously and it must be encrypted and digitally signed. Include in the subject line the phrase “Source Selection Information – See FAR 2.101 and 3.104”. Use the <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_info_cover_sheet.pdf" scope="external">
                <i>
                   <u>Source Selection Information Cover Sheet</u>
@@ -191,7 +191,7 @@
          <p id="bshyCm" outputclass="Normal">2) identify the anticipated period of the source selection activities;</p>
          <p id="nBPdfK" outputclass="Normal">3) include a statement to the effect that contacts or briefings concerning the program by industry are no longer allowed outside of the formal source selection process; and</p>
          <p id="rPSARd" outputclass="Normal">4) state that the PCO (include name and phone number) controls all contact or exchanges with industry/offerors and is the only person authorized to release source selection information before and after contract award.</p>
-         <p id="CBBpYf" outputclass="Normal">A tailorable template for <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/AFFARS_Library/5315/samples/soure_selection_notification.docx" scope="external">
+         <p id="CBBpYf" outputclass="Normal">A tailorable template for <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/DAFFARS_Library/5315/samples/soure_selection_notification.docx" scope="external">
                <u>Notice Announcing that a Source Selection is in Progress</u>
             </xref>
             <ph>

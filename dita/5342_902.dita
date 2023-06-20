@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5342_902" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5342_902" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5342.902</ph> Bankruptcy Procedures</title>
       <conbody>
-         <p id="p__Toc38365511" outputclass="List1">(a) Follow <xref href="MP5342_902.dita" /> when notified of bankruptcy proceedings that affect the Air Force.</p>
+         <p id="p__Toc38365511" outputclass="List1">(a) Follow <xref href="MP5342_902.dita" outputclass="fm:ParaNumOnly" /> when notified of bankruptcy proceedings that affect the Air Force.</p>
       </conbody>
    </concept>
 </dita>

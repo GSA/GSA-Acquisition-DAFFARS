@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5309_202" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5309_202" ditaarch:DITAArchVersion="1.3">
       <title outputclass="Heading 3">
          <ph props="autonumber">5309.202</ph> Policy</title>
       <conbody>
-         <p id="JQMezt" outputclass="List1">(a)(1) For the designee referenced in FAR 9.202(a), see <xref href="MP5301_601.dita" />.</p>
+         <p id="JQMezt" outputclass="List1">(a)(1) For the designee referenced in FAR 9.202(a), see <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
       </conbody>
    </concept>
 </dita>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5306_501" ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5306_501" ditaarch:DITAArchVersion="1.3">
       <title id="hidVRr" outputclass="Heading 3">
          <ph id="DdKuyp" props="autonumber">5306.501</ph> Requirement</title>
       <conbody id="jH3xmx">
@@ -25,7 +25,7 @@
          <p id="xJlEGX">Systems Operations Command (SpOC)</p>
          <p id="lQWlZM">Space Systems Command (SSC)</p>
          <p id="nrzCpx">Space Training and Readiness Command (STARCOM)</p>
-         <p id="pJjsOY" outputclass="List1">(b) The procuring activities listed above are authorized to further designate subordinate organizations as procuring activities subject to the requirements of <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_501" id="ftzAXb" scope="external">FAR 6.501</xref> and <xref href="MP5306_502.dita#AFFARS_MP5306_502" id="ijisJL" outputclass="fm:ParaNumOnly">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>, <i id="w1I50u">Air Force Competition and Commercial Advocacy Program</i>.</p>
+         <p id="pJjsOY" outputclass="List1">(b) The procuring activities listed above are authorized to further designate subordinate organizations as procuring activities subject to the requirements of <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_501" id="ftzAXb" scope="external">FAR 6.501</xref> and <xref href="MP5306_502.dita#DAFFARS_MP5306_502" id="ijisJL" outputclass="fm:ParaNumOnly">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>, <i id="w1I50u">Air Force Competition and Commercial Advocacy Program</i>.</p>
          <p id="AsngJi" outputclass="List1"></p>
       </conbody>
    </concept>
