@@ -6,7 +6,7 @@
          <ph props="autonumber">5301.403</ph> Individual Deviations</title>
       <conbody>
          <p outputclass="List2">(1)(i) SCOs are authorized to approve individual deviations except as described in (ii) below or as described in DFARS 201.402(1) and DFARS 201.403(2).</p>
-         <p outputclass="List3" xtrf="CheckMapping">(ii) SAF/AQC is the approval authority for individual deviations from FAR 15.3, AFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external" format="pdf">
+         <p outputclass="List3" xtrf="CheckMapping">(ii) SAF/AQC is the approval authority for individual deviations from FAR 15.3, DAFFARS 5315.3, and MP5315.3. Contracting officers may use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external" format="pdf">
                <u>Deviation Request</u>
             </xref> template. Deviation<ph>
                <u> requests</u>

@@ -12,7 +12,7 @@
       <title outputclass="Heading 3" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "> 5309.105-2 </ph> Determination and Documentation</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p outputclass="List1" class="- topic/p ">(a)(1) For SMC space program solicitations and contracts (see <xref href="PART_5302.dita" class="- topic/xref " outputclass="fm:ParaNumOnly">AFFARS 5302</xref> ), the contracting officer shall document the determination of responsibility or non-responsibility using the AFFARS Determination and Findings – Contractor Responsibility template, as <ph class="- topic/ph ">
+         <p outputclass="List1" class="- topic/p ">(a)(1) For SMC space program solicitations and contracts (see <xref href="PART_5302.dita" class="- topic/xref " outputclass="fm:ParaNumOnly">DAFFARS 5302</xref> ), the contracting officer shall document the determination of responsibility or non-responsibility using the DAFFARS Determination and Findings – Contractor Responsibility template, as <ph class="- topic/ph ">
                <xref scope="external"
                      format="pdf"
                      class="- topic/xref "
@@ -21,7 +21,6 @@
                </xref>
             </ph>
          </p>
-         <p id="p__Toc38364736" outputclass="Normal" class="- topic/p ">See <xref href="SMC_PGI_5309_105_2.dita" class="- topic/xref " outputclass="fm:ParaNumOnly">SMC PGI 5309.105-2</xref> .</p>
       </conbody>
    </concept>
 </dita>
