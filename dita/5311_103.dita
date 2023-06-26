@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5311_103" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5311.103</ph> Market Acceptance</title>
+<dita><concept id="DAFFARS_5311_103">
+      <title><ph props="autonumber">5311.103</ph> Market Acceptance</title>
       <conbody>
-         <p id="p__Toc38364715" outputclass="List1">(a) The contracting officer is delegated this authority.</p>
+        <p outputclass="List1">(a) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.<ph id="Toc38287185"/>
+        </p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

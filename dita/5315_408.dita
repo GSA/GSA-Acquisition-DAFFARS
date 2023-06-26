@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5315_408" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5315.408</ph> Solicitation Provisions and Contract Clauses</title>
+<dita><concept id="DAFFARS_5315_408">
+      <title><ph props="autonumber">5315.408</ph> Solicitation Provisions and
+Contract Clauses</title>
       <conbody>
-         <p outputclass="List2">(2)(i)(A)(<i>2</i>) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
-         <p id="p__Toc38364946" outputclass="List3" xtrf="CheckMapping">(ii)(A)(<i>2</i>) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
+        <p outputclass="List2">(2)(i)(A)(<i>2</i>) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+        <p outputclass="List3">(ii)(A)(<i>2</i>) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.<ph id="Toc38364946"/>
+        </p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5308_404" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5308.404</ph> Use of Federal Supply Schedules</title>
+<dita><concept id="DAFFARS_5308_404">
+      <title><ph props="autonumber">5308.404</ph> Use of Federal Supply
+Schedules</title>
       <conbody>
-         <p id="vhoIQX" outputclass="List1">(h)(3)(ii)(C) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
-         <p id="p__Toc38364598" outputclass="Normal"></p>
+        <p id="Int_zPdzFDsf" outputclass="List1">(h)(3)(ii)(C) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.
+for approval of a T&amp;M/LH order with a total performance period,
+including options, that is more than three years.</p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

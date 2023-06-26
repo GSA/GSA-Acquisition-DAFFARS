@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5304_101" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5304.101</ph> Contracting Officers Signature</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="DAFFARS_5304_101">
+      <title><ph props="autonumber">5304.101</ph> Contracting Officer’s
+Signature</title>
       <conbody>
-         <p id="ApfSqw" outputclass="Normal">Contracting officers are required to sign all contract actions (either via wet signature, signature as produced by CON-IT, or digital signature produced with a DoD Public Key Infrastructure certificate using a Common Access Card), ensure contractor signatures are obtained, and maintain signed contractual documents within the official contract file.</p>
+
+        <p>A contract or bilateral modification requires a signature by
+both an authorized representative of the contractor and a
+Government contracting officer. As best practice the Contracting
+officer may retain in the contract file objective quality evidence
+of the contractor representative’s authority to bind the
+company, in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-4#FAR_4_102" scope="external">FAR
+4.102</xref>, to perform under the Terms and Conditions of his/her
+signature. The contracting officer shall ensure that this bilateral
+signature page is uploaded to EDA as a PDF attachment.</p>
+        <p>
+          <b>5304.102 Early Effective Date</b>
+        </p>
+        <p>1. Approval authority for the use of an early effective date is
+the chief of the contracting office. After reaching agreement on
+terms, conditions, price, and if funds are available, the
+contracting officer may advise a prospective contractor in writing
+of the Government’s intent to use an effective date before
+the contract mailing (award/signed) date.</p>
+        <p>2. Notice to the contractor should state that any costs
+recognized in a resulting contract should be limited to those
+allowable, allocable and reasonable; costs that would normally be
+recognized if incurred after contract award. The Notice to the
+contractor should state, that if there is no contract, all incurred
+costs should be at the contractor’s own risk.</p>
+        <p>3. Approval Authority should provide contractual coverage with a
+letter contract, or other appropriate undefinitized contractual
+action, if the Government intends to direct a prospective
+contractor, to accept benefits of efforts, or make payments before
+definitive contract mailing date.</p>
+        <p>4. Approval Authority should obtain legal review for early
+effective dates established more than 30 days prior to the
+envisioned contract award date.</p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

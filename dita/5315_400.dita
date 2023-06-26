@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5315_400" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5315.400</ph> (S-90)</title>
+<dita><concept id="DAFFARS_5315_400">
+      <title><ph props="autonumber">5315.400</ph>
+(S-90)</title>
       <conbody>
-         <p id="zIfElI" outputclass="Normal">See <xref href="MP5315_4.dita" outputclass="fm:ParaNumOnly" /> for required Air Force contract pricing procedures. See the <xref format="html" href="https://www.dau.mil/tools/t/DoD-Sole-Source-Streamlining-Toolbox" scope="external">
-               <u>DoD Sole Source Streamlining Tool Box</u>
-            </xref> for techniques to increase efficiency throughout the acquisition process.</p>
-         <p id="HinJJh" outputclass="Normal"></p>
+        <p>See <xref format="html" href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation#DAFFARS_MP5315_4" scope="external">MP5315.4</xref>
+for required Department of the Air Force contract pricing
+procedures. See the <xref format="html" href="https://www.dau.mil/tools/t/DoD-Sole-Source-Streamlining-Toolbox" scope="external">DoD
+Sole Source Streamlining Tool Box</xref> for techniques to increase
+efficiency throughout the acquisition process.</p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

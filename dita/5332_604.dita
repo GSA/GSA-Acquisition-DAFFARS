@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5332_604" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5332.604</ph> Demand for Payment</title>
-      <conbody>
-         <p outputclass="List1">(b) Payment information for the demand for payment letter can be found at:</p>
-         <p outputclass="Normal">
-            <xref href="https://www.dfas.mil/contractorsvendors/governmentremittance/returnfunds.html" scope="external" format="html">
-               <u>https://www.dfas.mil/contractorsvendors/governmentremittance/returnfunds.html</u>
-            </xref>
-         </p>
-         <p id="p__Toc38365451" outputclass="List1">(e) Contracting officers must retain a copy of all contract debt documentation in the contract file and must keep the contract file open until the debt is collected and/or written-off.</p>
-      </conbody>
-   </concept>
-</dita>
+<dita><concept id="DAFFARS_5332_604">
+        <title><ph props="autonumber">5332.604</ph> Demand for Payment</title>
+        <conbody>
+          <p outputclass="List1">(b) Payment information for the demand for payment
+letter can be found at:</p>
+          <p>
+            <xref format="html" href="https://www.dfas.mil/contractorsvendors/governmentremittance/returnfunds.html" scope="external">https://www.dfas.mil/contractorsvendors/governmentremittance/returnfunds.html</xref>
+          </p>
+          <p id="Toc38365451" outputclass="List1">(e) Contracting officers must retain a copy of all
+contract debt documentation in the contract file and must keep the
+contract file open until the debt is collected and/or
+written-off.</p>
+        </conbody>
+      </concept></dita>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita><concept id="DAFFARS_5315_404-1-90">
+      <title><ph props="autonumber">5315.404-1-90</ph> Pricing Assistance or Pricing
+Assistance Waiver</title>
+      <conbody>
+        <p outputclass="List1">(a) Required thresholds for requesting pricing
+assistance:</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1" colwidth="1.1*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.9*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
+            <tbody>
+              <row>
+                <entry nameend="col2" namest="col1">
+                  <b>Sole Source</b>
+                </entry>
+                <entry>
+                  <b>Competitive</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <b>PEO (Systems)</b>
+                </entry>
+                <entry>
+                  <b>All Other</b>
+                </entry>
+                <entry>
+                  <b>All</b>
+                </entry>
+              </row>
+              <row>
+                <entry>$25M or more</entry>
+                <entry>$10M or more</entry>
+                <entry>$100M or more</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p outputclass="List1">(b) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation#DAFFARS_MP5315_404_1_90" scope="external">MP5315.404-1-90(b)</xref>
+for procedures for requesting pricing assistance.</p>
+        <p outputclass="List2">(c) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation#DAFFARS_MP5315_404_1_90" scope="external">MP5315.404-1-90(c)</xref>
+for procedures for requesting a pricing assistance waiver for
+actions that meet or exceed the required thresholds identified in
+5315.404-1-90(a) above. <ph id="Toc38364937"/>
+        </p>
+      </conbody>
+    </concept></dita>

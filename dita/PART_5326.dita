@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_PART_5326" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5326</ph> - Other Socioeconomic Programs</title>
-      <body>
-         <p outputclass="Normal">
-            <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5326.aspx">DAFFARS PART 5326 Knowledge Center</xref>
-         </p>
-         <p outputclass="Normal">
-            <b>2019 Edition</b>
-         </p>
-         <p outputclass="Normal">
-            <i>Revised: </i>
-            <i>26 </i>
-            <i>Jul 21</i>
-         </p>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5326_2.dita#DAFFARS_SUBPART_5326_2">Subpart 5326.2 - MAJOR DISASTER OF EMERGENCY ASSISTANCE ACTIVITIES</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5326_203.dita#DAFFARS_5326_203">5326.203 TRANSITION OF WORK</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+<dita><topic id="DAFFARS_PART_5326">
+  <title><ph props="autonumber">PART 5326 </ph>-
+Other Socioeconomic Programs</title>
+  <body>
+    <p>
+      <i>Revised: June 2023</i>
+    </p>
+  </body>
+  
+</topic></dita>

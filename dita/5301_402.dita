@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5301_402" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5301.402</ph> Policy</title>
+<dita><concept id="DAFFARS_5301_402">
+      <title><ph props="autonumber">5301.402</ph>
+Policy</title>
       <conbody>
-         <p outputclass="List2">(2) Submit requests for deviations requiring USD(A&amp;S)/DPC approval through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
-               <u>SAF/AQC</u>
-            </xref> for processing. See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external" format="pdf">
-               <u>Deviation Request</u>
-            </xref> template.</p>
+        <p outputclass="List2">(2) Submit requests for deviations requiring
+OUSD(A&amp;S)/DPC approval through the SCO to the <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms" scope="external">cognizant
+HCA workflow</xref> for processing. See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Deviation
+Request</xref> template.</p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

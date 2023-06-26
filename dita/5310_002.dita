@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5310_002" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2">
-         <ph props="autonumber">5310.002</ph> Procedures</title>
-      <conbody>
-         <p outputclass="Normal">See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/market_research_report.pdf" scope="external" format="pdf">
-               <u>Product/Service Market Research Report</u>
-            </xref> template.</p>
-      </conbody>
-   </concept>
-</dita>
+<dita><concept id="DAFFARS_5310_002">
+    <title><ph props="autonumber">5310.002</ph> Procedures</title>
+    <conbody>
+      <p>See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">templates</xref>
+for documenting market research conducted.</p>
+    </conbody>
+  </concept></dita>

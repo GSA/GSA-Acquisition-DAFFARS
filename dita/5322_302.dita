@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5322_302" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5322.302</ph> Liquidated Damages and Overtime Pay</title>
+<dita><concept id="DAFFARS_5322_302">
+      <title><ph props="autonumber">5322.302</ph> Liquidated Damages and
+Overtime Pay</title>
       <conbody>
-         <p id="p__Toc38365394" outputclass="List1">(c) The Regional Labor Advisors are the agency officials responsible for acting on appeals in accordance with DFARS 222.302(2). The Chief Air Force Labor Advisor (<xref href="mailto:SAF.AQ.SAF-AQCA.Workflow@us.af.mil" scope="external" format="mailto">
-               <u>SAF/AQCA</u>
-            </xref>) and the Regional Labor Advisors are authorized to take the actions in accordance with FAR 22.302(c).</p>
+        <p outputclass="List1">(c) The Regional Labor Advisors are the agency
+officials responsible for acting on appeals in accordance with <xref format="html" href="https://www.acquisition.gov/dfars/part-222-application-labor-laws-government-acquisitions#DFARS-222.302" scope="external">DFARS
+222.302(2)</xref>. The Chief Air Force Labor Advisor (<xref format="html" href="mailto:SAF.AQ.SAF-AQCA.Workflow@us.af.mil" scope="external">SAF/AQCA</xref>) and
+the Regional Labor Advisors are authorized to take the actions in
+accordance with <xref format="html" href="https://www.acquisition.gov/far/part-22#FAR_22_302" scope="external">FAR
+22.302(c)</xref>.<ph id="Toc38365394"/>
+        </p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

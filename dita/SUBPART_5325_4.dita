@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_SUBPART_5325_4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Subpart">
-         <ph props="autonumber">Subpart 5325.4</ph> - TRADE AGREEMENTS</title>
-   </topic>
-</dita>
+<dita><topic id="DAFFARS_SUBPART_5325_4">
+    <title><ph props="autonumber">SUBPART 5325.4</ph> — TRADE
+AGREEMENTS</title>
+    <body/>
+    
+  </topic></dita>

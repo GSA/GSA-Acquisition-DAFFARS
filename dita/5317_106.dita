@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5317_106" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.106</ph> Procedures</title>
+<dita><concept id="DAFFARS_5317_106">
+      <title><ph props="autonumber">5317.106</ph> Procedures</title>
       <conbody>
-         <p id="p__Toc38365363" outputclass="Normal">See the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Other_Pubs/Other_Guides/multi_year_contracting_guide.docx" scope="external" format="docx">
-               <u>Multiyear Contracting Guide</u>
-            </xref> for general guidance on how to use multi-year contracting to acquire supplies and services.</p>
+        <p>See the <xref format="html" href="https://usaf.dps.mil/:w:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/DAFFARS_Library/DAFFARS_5317/multi_year_contracting_guide.docx?d=w549e9594c99349219a681380b71d2d27&amp;csf=1&amp;web=1&amp;e=Gqk3xi" scope="external">Multiyear
+Contracting Guide</xref> for general guidance on how to use multi-year
+contracting to acquire supplies and services.<ph id="Toc38365363"/>
+        </p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

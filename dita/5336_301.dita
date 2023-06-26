@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_5336_301" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5336.301</ph> Use of Two-Phase Design-Build Selection Procedures</title>
+<dita><concept id="DAFFARS_5336_301">
+      <title><ph props="autonumber">5336.301</ph> Use of Two-Phase
+Design-Build Selection Procedures</title>
       <conbody>
-         <p id="p__Toc38365479" outputclass="List1">(b)(3)(vi) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" />.</p>
+        <p outputclass="List1">(b)(3)(vi) See <xref format="html" href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9103" scope="external">MP5301.601(a)(i)</xref>.
+        </p>
       </conbody>
-   </concept>
-</dita>
+    </concept></dita>

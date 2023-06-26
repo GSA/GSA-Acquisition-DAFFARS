@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_SUBPART_5322_18" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Subpart">
-         <ph props="autonumber">Subpart 5322.18</ph> - EMPLOYMENT ELIGIBILITY VERIFICATION</title>
-   </topic>
-</dita>
+<dita><topic id="DAFFARS_SUBPART_5322_18">
+    <title><ph props="autonumber">SUBPART 5322.18</ph> — EMPLOYMENT
+ELIGIBILITY VERIFICATION</title>
+    <body/>
+    
+  </topic></dita>
