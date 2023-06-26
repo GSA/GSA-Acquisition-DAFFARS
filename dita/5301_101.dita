@@ -5,7 +5,9 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.101</ph> Purpose</title>
       <conbody>
-         <p id="zNhKFh" outputclass="Normal">The Air Force Federal Acquisition Regulation Supplement (DAFFARS) establishes uniform policies and procedures for the Air Force implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting. DAFFARS Mandatory Procedures (MP) and Procedures, Guidance, and Information (PGI) are companion resources arranged by parts, which correspond to the relevant FAR parts. Supplements to the DAFFARS and MPs are prohibited.</p>
+         <p
+            id="zNhKFh"
+            outputclass="Normal">The Department of the Air Force Federal Acquisition Regulation Supplement (DAFFARS) establishes uniform policies and procedures for the Department of the Air Force (DAF) implementing and supplementing the Federal Acquisition Regulation (FAR), the Department of Defense FAR Supplement (DFARS), and other Department of Defense publications concerning contracting. DAFFARS Mandatory Procedures (MP) are companion resources arranged by parts, which correspond to the relevant FAR parts. Supplements to the DAFFARS and MPs are prohibited.</p>
       </conbody>
    </concept>
 </dita>

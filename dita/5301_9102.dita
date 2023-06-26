@@ -5,8 +5,12 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.9102</ph> Policy</title>
       <conbody>
-         <p id="mvwTbN" outputclass="List1">(a) MAJCOM/DRU/AFRCO/SMC/SpRCO Commanders must appoint an experienced senior official who is independent of the contracting officer and program manager as the ombudsman at their organization. For AFMC Centers, an ombudsman is required at each Center, instead of at the MAJCOM. Centers may also have an ombudsman at each Operating Location/Geographically Separated Unit.</p>
-         <p id="vBcZog" outputclass="List1">(b) The ombudsman will have the authority to call upon other resources of the activity to assist in resolving acquisition issues or concerns (e.g., administrative support, independent review teams).</p>
+         <p
+            id="mvwTbN"
+            outputclass="List1">(a) MAJCOM/DRU/DAFRCO/ Commanders must appoint an experienced senior official who is independent of the contracting officer and program manager as the ombudsman at their organization. For AFMC Centers, an ombudsman is required at each Center, instead of at the MAJCOM. Centers may also have an ombudsman at each Operating Location/Geographically Separated Unit. At FLDCOMs and SDA, the HCA is responsible for the appointment instead of the Commander.</p>
+         <p
+            id="vBcZog"
+            outputclass="List1">(b) The ombudsman will have the authority to call upon other resources of the activity to assist in resolving acquisition issues or concerns (e.g., administrative support, independent review teams).</p>
          <p id="AbUKwV" outputclass="List1">(c) Contracting officers must identify the ombudsman in the initial announcement of the acquisition as well as in the draft and final RFP.</p>
          <p id="ZrgDiI" outputclass="List1">(d) The ombudsman must:</p>
          <p id="oYfaiF" outputclass="List2">(1) Support acquisition personnel in the resolution of issues or concerns raised by interested parties;</p>
@@ -14,12 +18,25 @@
          <p id="RQbgGS" outputclass="List2">(3) Avoid any appearance of usurping normal procurement authority (e.g., program manager, contracting officer, and source selection authority);</p>
          <p id="uMFLJA" outputclass="List2">(4) Ensure all affected or knowledgeable offices and officials are consulted as part of any resolution process;</p>
          <p id="fjAafY" outputclass="List2">(5) Inform the Commander/Director, or PEO, as required, of issues raised and actions taken;</p>
-         <p id="HRYVnS" outputclass="List2">(6) Review complaints relative to multiple-award task and delivery order contracts awarded under 10 U.S.C. 2304a(d)(1)(B) or 2304b(e) to ensure that all contractors are afforded a fair opportunity to be considered for task and delivery orders in excess of the micro-purchase threshold, consistent with the procedures in the contract;</p>
-         <p id="lpUnmM" outputclass="List2">(7) Consistent with security requirements, have access to the appropriate offices and be allowed to collect all facts relevant to the resolution of issues raised by interested parties. Ombudsmen are granted access to proprietary information. Source selection information must be obtained through the source selection authority.</p>
+         <p
+            id="HRYVnS"
+            outputclass="List2">(6) Review complaints relative to multiple-award task order and delivery order contracts awarded under <xref
+            href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3403&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
+            format="html"
+            scope="external">10 U.S.C. 3403(d)(1)(B)</xref> or <xref
+            href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3405&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
+            format="html"
+            scope="external">3405(f)</xref> to ensure that all contractors are afforded a fair opportunity to be considered for task orders and delivery orders in excess of the micro-purchase threshold, consistent with the procedures in the contract;</p>
+         <p
+            id="lpUnmM"
+            outputclass="List2">(7) Consistent with security requirements, have access to the appropriate offices and be allowed to collect all facts relevant to the resolution of issues raised by interested parties. Ombudsmen are granted access to proprietary information. Source selection information must be obtained through the source selection authority.</p>
          <p id="HkmAmw" outputclass="List1">(e) The Ombudsman Program does not replace the agency level protest, GAO bid protest or disputes processes.</p>
-         <p id="VaeOAm" outputclass="List1">(f) The Air Force ombudsman is the ADAS(C), who may take action to assist in resolving issues, concerns, disagreements, and recommendations that cannot be resolved at the MAJCOM/DRU/SMC level, or for those having Air Force wide implications. The ADAS(C) is the AF ombudsman for procurement integrity issues (see <xref format="pdf" href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf" scope="external">
-               <u>OUSD(AT&amp;L)/DPAP memo, 1 Oct 09</u>
-            </xref>).</p>
+         <p
+            id="VaeOAm"
+            outputclass="List1">(f) The DAF ombudsman is the ADAS(C), who may take action to assist in resolving issues, concerns, disagreements, and recommendations that cannot be resolved at the MAJCOM/FLDCOM/DRU level, or for those having DAF wide implications. The ADAS(C) is the DAF ombudsman for procurement integrity issues (see <xref
+            href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf"
+            format="html"
+            scope="external">OUSD(AT&amp;L)/DPAP memo, 1 Oct 09</xref>).</p>
          <p id="AIlYKO" outputclass="List1">(g) Government personnel may use the Ombudsman Program as a way to express concerns about an acquisition.</p>
       </conbody>
    </concept>

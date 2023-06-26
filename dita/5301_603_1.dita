@@ -5,9 +5,27 @@
       <title id="pgvDGa" outputclass="Heading 3">
          <ph id="gptKQT" props="autonumber">5301.603-1</ph> General</title>
       <conbody id="PxhaJA">
-         <p id="fPj1td" outputclass="Normal">The HCA designees delegated contracting authority in accordance with MP5301.601(a)(i) must select and appoint contracting officers and terminate their appointments in accordance with this section and MP5301.603-90.</p>
-         <p id="cVFwiC" outputclass="List1">(a) The SCO may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6. AFICC/CC SCCO may delegate authority to select and appoint contracting officers (and terminate their appointments in accordance with DAFFARS 5301.603-1 and MP5301.603) to the AFICA/KO (OL-SOC) Director of Contracting.</p>
-         <p id="dcQp6u" outputclass="List1">(b) Authority to issue limited contracting officer warrants of less than $5M and authority to terminate appointments of less than $5M may be delegated, but in no event will the designee be lower than the COCO.</p>
+         <p
+            id="fPj1td"
+            outputclass="Normal">The HCA designees delegated contracting authority in accordance with <xref
+            href="https://www.acquisition.gov/affars/mp5301-federal-acquisition-regulations-system#AFFARS_MP5301_601"
+            format="html"
+            scope="external">MP5301.601(a)(i)</xref> must select and appoint contracting officers and terminate their appointments in accordance with this section and <xref
+            href="https://www.acquisition.gov/affars/mp5301-federal-acquisition-regulations-system#AFFARS_MP5301_603_90"
+            format="html"
+            scope="external">MP5301.603-90</xref>.</p>
+         <p
+            id="cVFwiC"
+            outputclass="List1">(a) The SCO may delegate this authority to the highest contracting official in the contracting chain at geographically separated organizations, but in no event will the designee be lower than a GS-15 (or equivalent) or 0-6. AFICC/CC SCO may delegate authority to select and appoint contracting officers (and terminate their appointments in accordance with <xref
+            href="https://www.acquisition.gov/affars/part-5301-federal-acquisition-regulations-system#AFFARS_5301_603_1"
+            format="html"
+            scope="external">DAFFARS 5301.603-1</xref> and <xref
+            href="https://www.acquisition.gov/affars/mp5301-federal-acquisition-regulations-system#AFFARS_MP5301_603_90"
+            format="html"
+            scope="external">MP5301.603-90</xref>) to the AFICC/KO Director of Contracting.</p>
+         <p
+            id="dcQp6u"
+            outputclass="List1">(b) Authority to issue limited contracting officer warrants of less than $5M and authority to terminate appointments of less than $5M may be delegated, but in no event will the designee be lower than the COCO.</p>
       </conbody>
    </concept>
 </dita>

@@ -5,9 +5,11 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5303.104-4</ph> (a) Disclosure, Protection, and Marking of Contractor Bid or Proposal Information and Source Selection Information</title>
       <conbody>
-         <p id="p__Toc38284408">Any individuals requiring access to Source Selection Information (SSI) as a result of participating on a source selection or in the performance of their duties must sign a <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_non-disclosure_agreement.pdf" scope="external" format="pdf">
-               <u>Source Selection Non-Disclosure Agreement</u>
-            </xref>. The Source Selection Non-Disclosure Agreement may be used on an annual basis for individuals who must have access to SSI in the performance of their official duties throughout the year, whether or not they participate as part of the actual source selection team.</p>
+         <p
+            id="p__Toc38284408">Any individuals requiring access to Source Selection Information (SSI) as a result of participating on a source selection or in the performance of their duties must sign a <xref
+            href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+            format="html"
+            scope="external">Source Selection Non-Disclosure Agreement</xref>. The Source Selection Non-Disclosure Agreement may be used on an annual basis for individuals who must have access to SSI in the performance of their official duties throughout the year, whether or not they participate as part of the actual source selection team.</p>
       </conbody>
    </concept>
 </dita>

@@ -5,7 +5,12 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.9103</ph> Solicitation Provision and Contract Clause</title>
       <conbody>
-         <p id="cdLwuR" outputclass="Normal">Insert a clause substantially the same as the clause at <xref href="5352_201_9101.dita" xtrc="" outputclass="fm:ParaNumOnly" />, Ombudsman, in all solicitations (including draft solicitations) and contracts.</p>
+         <p
+            id="cdLwuR"
+            outputclass="Normal">Insert a clause substantially the same as the clause at <xref
+            href="https://www.acquisition.gov/affars/part-5352-solicitation-provisions-and-contract-clauses#AFFARS_5352_201_9101"
+            format="html"
+            scope="external">DAFFARS 5352.201-9101</xref>, Ombudsman, in all solicitations (including draft solicitations) and contracts.</p>
       </conbody>
    </concept>
 </dita>

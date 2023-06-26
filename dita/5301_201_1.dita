@@ -5,9 +5,14 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.201-1</ph> The Two Councils</title>
       <conbody>
-         <p outputclass="List1">(d)(i) Proposed revisions to the FAR or the DFARS must be submitted through the SCO to <xref href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil" scope="external" format="mailto">
-               <u>SAF/AQCP</u>
-            </xref> in accordance with DFARS 201.201-1(d)(i).</p>
+         <p
+            outputclass="List1">(d)(i) Proposed revisions to the FAR or the DFARS must be submitted through the SCO (or HCA for SSC and SDA) to <xref
+            href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+            format="AQ.SAF-AQCP.Workflow@us.af.mil.SAF-AQCP.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+            scope="external">SAF/AQCP</xref> in accordance with <xref
+            href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.201-1"
+            format="html"
+            scope="external">DFARS 201.201-1(d)(i)</xref>.</p>
       </conbody>
    </concept>
 </dita>

@@ -16,7 +16,18 @@
          <p id="AkqHLx" outputclass="List2">(4) An action intended to result in issuance of a modification implementing a unilateral price determination;</p>
          <p id="UEgGlj" outputclass="List2">(5) Orders issued under BOAs;</p>
          <p id="zKXqmW" outputclass="List2">(6) An action intended to result in the exercise of an option when the option exercise is not in accordance with the previously approved pricing arrangement or other contract terms and conditions; and</p>
-         <p id="zsndcY" outputclass="List2">(7) Competitive order solicitations and orders issued in accordance with FAR 8.4, 13, or 16.5 and against existing MAC ID/IQ, GWAC, or FSS contracts that require either one or both of the following:</p>
+         <p
+            id="zsndcY"
+            outputclass="List2">(7) Competitive order solicitations and orders issued in accordance with <xref
+            href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4"
+            format="html"
+            scope="external">FAR 8.4</xref>, <xref
+            href="https://www.acquisition.gov/far/part-13"
+            format="html"
+            scope="external">13</xref>, or <xref
+            href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5"
+            format="html"
+            scope="external">16.5</xref> and against existing MAC ID/IQ, GWAC, or FSS contracts that require either one or both of the following:</p>
          <p id="tcyZZc" outputclass="List2">i. Establishment of specific criteria for the evaluation of proposals and selection of the awardee for the order;</p>
          <p id="TLxWmg" outputclass="List2">ii. Addition of any terms or conditions that are not included in the basic ID/IQ contract, and/or changes to the existing terms or conditions of the basic ID/IQ contract (except for provisions/clauses required by the FAR, DFARS, or DAFFARS).</p>
          <p id="TmRQxN" outputclass="List1">(b) Excluded from business or contract clearances are:</p>
@@ -35,7 +46,13 @@
          <p id="oqBsWY" outputclass="List1">(e) “Contract Clearance” means:</p>
          <p id="IQnloT" outputclass="List2">(1) For competitive acquisitions conducted without discussions, approval by the clearance approval authority (CAA) for the Source Selection Authority (SSA) to make the decision to award.</p>
          <p id="ihcmSv" outputclass="List2">(2) For competitive acquisitions with discussions –</p>
-         <p id="YYgDHu" outputclass="List3" xtrf="CheckMapping">(i) Approval by the CAA for the SSA to request final proposal revisions in accordance with FAR 15.307; and</p>
+         <p
+            id="YYgDHu"
+            outputclass="List3"
+            xtrf="CheckMapping">(i) Approval by the CAA for the SSA to request final proposal revisions in accordance with <xref
+            href="https://www.acquisition.gov/far/part-15#FAR_15_307"
+            format="html"
+            scope="external">FAR 15.307</xref>; and</p>
          <p id="DYBMZo" outputclass="List3" xtrf="CheckMapping">(ii) Approval by the CAA for the SSA to make a source selection decision.</p>
          <p id="mcCYjq" outputclass="List2">(3) For noncompetitive contract actions, approval by the CAA to award a contract or contract modification/contract action.</p>
          <p id="YAOFlT" outputclass="List1">(f) “Clearance Reviewer (CR)” means the independent reviewer and the primary advisor to the CAA for clearance. The CR ensures the CAA has the information needed to make an informed decision. The CR identifies deficiencies, assists in resolution, and advises the CAA as appropriate. When the CR is not from the designated CR office or individual identified in the PGI and is selected by the CAA, the CR must be an experienced contracting professional, a Government employee, and must not review their own contract action.</p>

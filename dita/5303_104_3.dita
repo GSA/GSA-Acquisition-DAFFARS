@@ -5,7 +5,13 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5303.104-3</ph> Statutory and Related Prohibitions, Restrictions, and Requirements</title>
       <conbody>
-         <p id="p__Toc38284407" outputclass="List1">(c)(1)(ii) See <xref href="MP5301_601.dita" outputclass="fm:ParaNumOnly" /> for individuals authorized to approve resumption of participation in a procurement.</p>
+         <p
+            outputclass="List1">((a) Similar to knowledge of classified information, employee protective obligations of Government acquisition information extend beyond federal service and further support potential determinations of personal and organizational conflicts of interest, as well as potential determinations to eliminate contractors from competing on certain acquisitions due to conflicts of interest. </p>
+         <p
+            outputclass="List1">(c)(1)(ii) See <xref
+            href="https://www.acquisition.gov/affars/mp5301-federal-acquisition-regulations-system#AFFARS_MP5301_601"
+            format="html"
+            scope="external">MP5301.601(a)(i)</xref> for individuals authorized to approve resumption of participation in a procurement.</p>
       </conbody>
    </concept>
 </dita>

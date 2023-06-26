@@ -5,7 +5,11 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.603-2-90</ph> Selection</title>
       <conbody>
-         <p id="iLYTHv" outputclass="Normal">See <xref href="MP5301_603_90.dita#DAFFARS_MP5301_603_90" outputclass="fm:ParaNumOnly">MP5301.603-90 Selection, Appointment, and Termination of Appointment of Contracting Officers</xref>, Selection, Appointment, and Termination of Appointment of Contracting Officers for mandatory procedures regarding the selection, appointment, and termination of contracting officers.</p>
+         <p
+            id="iLYTHv"
+            outputclass="Normal">See <xref
+            href="MP5301_603_90.dita#DAFFARS_MP5301_603_90"
+            outputclass="fm:ParaNumOnly">MP5301.603-90</xref>, <i>Selection, Appointment, and Termination of Appointment of Contracting Officers</i> for mandatory procedures regarding the selection, appointment, and termination of contracting officers.</p>
       </conbody>
    </concept>
 </dita>

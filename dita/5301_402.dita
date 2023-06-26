@@ -5,11 +5,14 @@
       <title outputclass="Heading 3">
          <ph props="autonumber">5301.402</ph> Policy</title>
       <conbody>
-         <p outputclass="List2">(2) Submit requests for deviations requiring USD(A&amp;S)/DPC approval through the SCO to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external" format="mailto">
-               <u>SAF/AQC</u>
-            </xref> for processing. See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/deviation_request.pdf" scope="external" format="pdf">
-               <u>Deviation Request</u>
-            </xref> template.</p>
+         <p
+            outputclass="List2">(2) Submit requests for deviations requiring OUSD(A&amp;S)/DPC approval through the SCO to the <xref
+            href="https://www.acquisition.gov/affars/part-5302-definitions-words-and-terms"
+            format="html"
+            scope="external">cognizant HCA workflow</xref> for processing. See the tailorable <xref
+            href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+            format="html"
+            scope="external">Deviation Request</xref> template.</p>
       </conbody>
    </concept>
 </dita>
