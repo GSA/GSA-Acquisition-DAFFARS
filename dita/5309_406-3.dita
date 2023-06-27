@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5309_406-3">
-      <title><ph props="autonumber">5309.406-3</ph> Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5309_406-3">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5309.406-3</ph> Procedures</title>
       <conbody>
         <p outputclass="List1">(a) <i>Investigation and referral</i>.</p>
         <p outputclass="List3">(i) The contracting officer or the referring
-person must promptly notify <xref format="html" href="mailto:SAF.GCR.Workflow@us.af.mil" scope="external">SAF/GCR</xref>, their SCO,
+person must promptly notify <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref>, their SCO,
 and their designated legal counsel with all known information
 relating to the following:</p>
         <p outputclass="List2">(<i>1</i>) Any non-responsibility
 determination.</p>
         <p outputclass="List2">(<i>2</i>) Any indictment, conviction, or civil
 judgment (including those listed on required certifications, or
-those disclosed in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-3#FAR_3_1003" scope="external">FAR
-3.1003</xref> or <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_203_13" scope="external">FAR
+those disclosed in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-3#FAR_3_1003"
+                  scope="external">FAR
+3.1003</xref> or <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_203_13"
+                  scope="external">FAR
 52.203-13</xref> relating to an offeror’s or contractor’s
 lack of integrity or business honesty, regardless of whether the
 indictment, conviction, or civil judgment related to a government
@@ -32,4 +41,5 @@ additional information as requested by SAF/GCR.</p>
 required, the contracting activity must provide witnesses and other
 support as requested.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

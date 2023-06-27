@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5337_5">
-    <title><ph props="autonumber">SUBPART
-5337.5</ph> – MANAGEMENT AND OVERSIGHT OF SERVICE CONTRACTS</title>
-    <body/>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5337_5">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5337.5</ph> – MANAGEMENT AND OVERSIGHT OF SERVICE CONTRACTS</title>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

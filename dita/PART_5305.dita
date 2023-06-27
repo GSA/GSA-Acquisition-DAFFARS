@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_PART_5305" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5305</ph> - Publicizing Contract Actions</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5305">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5305</ph> - Publicizing Contract Actions</title>
       <body>
          <p id="rQjXZP" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5305.aspx" scope="external">DAFFARS PART 5305 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5305.aspx"
+                  scope="external">DAFFARS PART 5305 Knowledge Center</xref>
          </p>
          <p id="mftAFC" outputclass="Normal">
             <b>2019 Edition</b>
@@ -30,17 +33,21 @@
                </ul>
             </li>
             <li>
-               <p> <xref
-                  outputclass="fm:TOC"
-                  href="SUBPART_5305_2.dita#DAFFARS_SUBPART_5305_2">Subpart 5305.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref> <li>
-                  <p> <xref
-                     outputclass="fm:TOC"
-                     href="5305_202.dita#DAFFARS_5305_202">5305.202 Exceptions</xref> </p>
-                  </li><li>
-                  <p> <xref
-                     outputclass="fm:TOC"
-                     href="5305_204.dita#DAFFARS_5305_204">5305.204 Presolicitation Notices</xref> </p>
-                  </li></p>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5305_2.dita#DAFFARS_SUBPART_5305_2">Subpart 5305.2 - SYNOPSES OF PROPOSED CONTRACT ACTIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5305_202.dita#DAFFARS_5305_202">5305.202 Exceptions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5305_204.dita#DAFFARS_5305_204">5305.204 Presolicitation Notices</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
             <li>
                <p>

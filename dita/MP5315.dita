@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_MP5315" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5315</ph> - Contracting by Negotiation</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_MP5315">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5315</ph> - Contracting by Negotiation</title>
       <body>
          <p id="zrse89lh">
             <b>2019 Edition</b>
@@ -214,27 +215,32 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#DAFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES">LIST OF TABLES AND FIGURES (No AF text)</xref>
+                        <xref outputclass="fm:TOC"
+                              href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita#DAFFARS_MP_5315_3_LIST_OF_TABLES_AND_FIGURES">LIST OF TABLES AND FIGURES (No AF text)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP_5315_3_LIST_OF_APPENDICES.dita#DAFFARS_MP_5315_3_LIST_OF_APPENDICES">List of Appendices</xref>
+                        <xref outputclass="fm:TOC"
+                              href="MP_5315_3_LIST_OF_APPENDICES.dita#DAFFARS_MP_5315_3_LIST_OF_APPENDICES">List of Appendices</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_A.dita#DAFFARS_MP_5315_3_APPENDIX_A">Appendix A. Debriefing Guide (No AF Text)</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="MP_5315_3_APPENDIX_A.dita#DAFFARS_MP_5315_3_APPENDIX_A">Appendix A. Debriefing Guide (No AF Text)</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_B.dita#DAFFARS_MP_5315_3_APPENDIX_B">Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="MP_5315_3_APPENDIX_B.dita#DAFFARS_MP_5315_3_APPENDIX_B">Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_APPENDIX_C.dita#DAFFARS_MP_5315_3_APPENDIX_C">Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="MP_5315_3_APPENDIX_C.dita#DAFFARS_MP_5315_3_APPENDIX_C">Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</xref>
                            </p>
                         </li>
                      </ul>
@@ -258,7 +264,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5315_404_1_90.dita#DAFFARS_MP5315_404_1_90">MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
+                        <xref outputclass="fm:TOC"
+                              href="MP5315_404_1_90.dita#DAFFARS_MP5315_404_1_90">MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver</xref>
                      </p>
                   </li>
                   <li>

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5350_103">
-    <title><ph props="autonumber">SUBPART 5350.103</ph> — CONTRACT
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5350_103">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5350.103</ph> — CONTRACT
 ADJUSTMENTS</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_MP_5315_3_6_5" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">6.5</ph> Source Selection Training Material</title>
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.5</ph> Source Selection Training Material</title>
       <conbody>
-         <p id="LkiPLE" outputclass="Normal">The Source Selection Training Modules, Trainer’s Lesson Plans, and Resource/Reference Material are accessible by designated trainers and training managers on SharePoint at <xref format="aspx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx" scope="external">
+         <p id="LkiPLE" outputclass="Normal">The Source Selection Training Modules, Trainer’s Lesson Plans, and Resource/Reference Material are accessible by designated trainers and training managers on SharePoint at <xref format="aspx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx"
+                  scope="external">
                <u>https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx</u>
-            </xref>. Additional training materials for teams are available in the <xref format="aspx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx" scope="external">
+            </xref>. Additional training materials for teams are available in the <xref format="aspx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
+                  scope="external">
                <u>DAFFARS Library, Part 5315</u>
             </xref>.</p>
       </conbody>

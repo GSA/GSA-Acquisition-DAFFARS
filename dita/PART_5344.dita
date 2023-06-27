@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_PART_5344">
-  <title><ph props="autonumber">PART 5344</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5344">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5344</ph> 
 –
 Subcontracting Policies and Procedures</title>
-  <body>
-    <p>
-      <i>Revised: June 2023</i>
-    </p>
-  </body>
-  
-  
-</topic></dita>
+      <body>
+         <p>
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5344_3.dita#DAFFARS_SUBPART_5344_3">Subpart 5344.3 – CONTRACTOR PURCHASING SYSTEM REVIEWS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5344_302.dita#DAFFARS_5344_302">5344.302 Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

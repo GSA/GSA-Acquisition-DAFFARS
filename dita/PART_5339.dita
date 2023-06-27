@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_PART_5339">
-  <title><ph props="autonumber">PART 5339</ph> - Acquisition of Information Technology </title>
-  <body>
-    <p>
-      <i>Revised: June 2023</i>
-    </p>
-  </body>
-  
-  
-</topic></dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5339">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5339</ph> - Acquisition of Information Technology </title>
+      <body>
+         <p>
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5339_101.dita#DAFFARS_5339_101">5339.101 Policy</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5339_7201-90.dita#DAFFARS_5339_7201-90">5339.7201-90 Data Servers/Centers Approval Process</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

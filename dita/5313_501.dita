@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5313_501">
-      <title><ph props="autonumber">5313.501</ph> Special Documentation
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5313_501">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5313.501</ph> Special Documentation
 Requirements</title>
       <conbody>
-        <p outputclass="List1">(a)(1)(ii)  See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Sole
+        <p outputclass="List1">(a)(1)(ii)  See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Sole
 Source (Including Brand Name) Justification - Simplified Procedures
 for Certain Commercial Products and Commercial Services</xref>
 template.</p>
-        <p outputclass="List1">(a)(2) See <xref format="html" href="https://www.acquisition.gov/daffars/5306.304-approval-justification" scope="external">DAFFARS
+        <p outputclass="List1">(a)(2) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/5306.304-approval-justification"
+                  scope="external">DAFFARS
 5306.304(a)</xref> for the approving officials for acquisitions using
-the limited or sole source justification at <xref format="html" href="https://www.acquisition.gov/far/part-13#FAR_13_501" scope="external">FAR
+the limited or sole source justification at <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_13_501"
+                  scope="external">FAR
 13.501(a)(2)</xref>.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

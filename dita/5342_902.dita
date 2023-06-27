@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5342_902">
-      <title><ph props="autonumber">5342.902</ph> Bankruptcy Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5342_902">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5342.902</ph> Bankruptcy Procedures</title>
       <conbody>
-        <p outputclass="List1">(a) Follow <xref format="html" href="https://www.acquisition.gov/daffars/mp5342-contract-administration-and-audit-services#DAFFARS_MP5342_902" scope="external">MP5342.902</xref>
+        <p outputclass="List1">(a) Follow <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5342-contract-administration-and-audit-services#DAFFARS_MP5342_902"
+                  scope="external">MP5342.902</xref>
 when notified of bankruptcy proceedings that affect the Department
 of the Air Force.
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

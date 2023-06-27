@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5352_228-9101">
-      <title><ph props="autonumber">5352.228-9101</ph> Insurance Certificate
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5352_228-9101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5352.228-9101</ph> Insurance Certificate
 Requirement in Spain (USAFE)</title>
       <conbody>
-        <p>As prescribed at <xref format="html" href="https://www.acquisition.gov/daffars/part-5328-bonds-and-insurance#DAFFARS_5328_310_90" scope="external">DAFFARS
+        <p>As prescribed at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5328-bonds-and-insurance#DAFFARS_5328_310_90"
+                  scope="external">DAFFARS
 5328.310-90</xref>, insert the following clause in solicitations and
 contracts:</p>
         <p>
-          <b>INSURANCE CERTIFICATE REQUIREMENT IN SPAIN (USAFE) (OCT
+            <b>INSURANCE CERTIFICATE REQUIREMENT IN SPAIN (USAFE) (OCT
 2023)</b>
         </p>
         <p outputclass="List1">(a) Below follows the Insurance Certificate
@@ -60,10 +65,10 @@ force.</p>
         <p>The Policy establishes as coverage of the mentioned risks the
 following amounts:</p>
         <p>
-          <b>
-            <u>INDEMNITY LIMITS</u>
-          </b>
-          <u>:</u>
+            <b>
+               <u>INDEMNITY LIMITS</u>
+            </b>
+            <u>:</u>
         </p>
         <p>- For casualty: --------------------------601,012.10 Euros</p>
         <p>With the following sub-limits for each injured person:</p>
@@ -126,9 +131,9 @@ Póliza en vigor.</p>
         <p>La Póliza establece como cobertura de los riesgos
 mencionados las siguientes cuantías:</p>
         <p>
-          <b>
-            <u>LIMITES DE INDEMNIZACION:</u>
-          </b>
+            <b>
+               <u>LIMITES DE INDEMNIZACION:</u>
+            </b>
         </p>
         <p>- Por siniestro: -------------------------- 601.012,10 Euros</p>
         <p>Con los siguientes sublímites por perjudicado:</p>
@@ -164,4 +169,5 @@ ______________________________________</p>
         <p>
 (End of Clause)</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

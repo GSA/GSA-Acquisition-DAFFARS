@@ -1,16 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_PART_5342">
-  <title><ph props="autonumber">PART 5342</ph> –
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5342">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5342</ph> –
 Contract Administration and Audit Services</title>
-  <body>
-    <p>
-      <i>Revised: June 2023</i>
-    </p>
-  </body>
-  
-  
-  
-  
-  
-</topic></dita>
+      <body>
+         <p>
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5342_2.dita#DAFFARS_SUBPART_5342_2">Subpart 5342.2 – CONTRACT ADMINISTRATION SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_202.dita#DAFFARS_5342_202">5342.202 Assignment of Contract Administration</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5342_4.dita#DAFFARS_SUBPART_5342_4">Subpart 5342.4 – CORRESPONDENCE AND VISITS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_490-1.dita#DAFFARS_5342_490-1">5342.490-1 Contract clause</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_490-2.dita#DAFFARS_5342_490-2">5342.490-2 Contract clause</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5342_9.dita#DAFFARS_SUBPART_5342_9">Subpart 5342.9 – BANKRUPTCY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_902.dita#DAFFARS_5342_902">5342.902 Bankruptcy Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_15.dita#DAFFARS_SUBPART_5342_15">Subpart 5342.15 – CONTRACTOR PERFORMANCE INFORMATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_1503.dita#DAFFARS_5342_1503">5342.1503 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5342_71.dita#DAFFARS_SUBPART_5342_71">Subpart 5342.71 – VOLUNTARY REFUNDS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5342_7100.dita#DAFFARS_5342_7100">5342.7100 General</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

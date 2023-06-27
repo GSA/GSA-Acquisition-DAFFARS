@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5334_70">
-    <title><ph props="autonumber">SUBPART 5334.70</ph> –
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5334_70">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5334.70</ph> –
 ACQUISITION OF MAJOR WEAPON SYSTEMS AS COMMERCIAL PRODUCTS</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

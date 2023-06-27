@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5306_303-1-90">
-      <title><ph props="autonumber">5306.303-1-90</ph> Bridge Actions for Service
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5306_303-1-90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5306.303-1-90</ph> Bridge Actions for Service
 Contracts Only</title>
       <conbody>
 
         <p outputclass="List1">(a) All service contract actions that meet the definition of a
-bridge action at <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms" scope="external">DAFFARS
+bridge action at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">DAFFARS
 5302.101</xref> require a written, approved justification document in
 accordance with DAFFARS 5306.304 Approval of the Justification. All
 bridge action J&amp;As shall be identified as a “bridge
 action J&amp;A” as indicated in the respective justification
 templates. Upon award of any bridge action, Contracting Officers
-shall enter the action into the DAF <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/Bridge-Action-Reporting.aspx" scope="external">Bridge
+shall enter the action into the DAF <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/Bridge-Action-Reporting.aspx"
+                  scope="external">Bridge
 Action Reporting Tool</xref> (BART). Competition Advocates for each
 procuring activity shall ensure all bridge actions are included in
 the tool on a quarterly basis.</p>
-        <p outputclass="List1">(b) Notifications required by <xref format="html" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500074p.pdf" scope="external">DoDI
+        <p outputclass="List1">(b) Notifications required by <xref format="html"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500074p.pdf"
+                  scope="external">DoDI
 5000.74</xref>, <i>Defense Acquisition of Services</i>.</p>
         <p outputclass="List2">(1) Upon the first use of a bridge contract to provide for
 continuation of a service to be performed through a services
@@ -44,4 +53,5 @@ of Staff of the DAF and the cognizant SAE.</p>
 J&amp;A and transmittal document or email required by (b) or (c)
 above to the competition advocate.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

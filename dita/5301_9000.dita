@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5301_9000">
-      <title><ph props="autonumber">5301.9000</ph> Scope and Definitions</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_9000">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5301.9000</ph> Scope and Definitions</title>
       <conbody>
         <p outputclass="List1">(a) This subpart establishes clearance
 requirements for the contract actions identified below:</p>
@@ -28,9 +31,15 @@ when the option exercise is not in accordance with the previously
 approved pricing arrangement or other contract terms and
 conditions; and</p>
         <p outputclass="List2">(7) Competitive order solicitations and orders
-issued in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4" scope="external">FAR
-8.4</xref>, <xref format="html" href="https://www.acquisition.gov/far/part-13" scope="external">13</xref>,
-or <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5" scope="external">16.5</xref>
+issued in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4"
+                  scope="external">FAR
+8.4</xref>, <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13"
+                  scope="external">13</xref>,
+or <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5"
+                  scope="external">16.5</xref>
 and against existing MAC ID/IQ, GWAC, or FSS contracts that require
 either one or both of the following:</p>
         <p outputclass="List2">i. Establishment of specific criteria for the
@@ -53,15 +62,21 @@ the incentive plan or award fee plan;</p>
 of Service Contract Labor Standards statute wage rates/fringe
 benefits or Fair Labor Standards Act minimum wages; and</p>
         <p id="p5301_9000_b_6" outputclass="List2">(6) Competitive order solicitations
-and competitive orders issued in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4" scope="external">FAR
-8.4</xref>, <xref format="html" href="https://www.acquisition.gov/far/part-13" scope="external">13</xref>,
-or <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5" scope="external">16.5</xref>
+and competitive orders issued in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4"
+                  scope="external">FAR
+8.4</xref>, <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13"
+                  scope="external">13</xref>,
+or <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5"
+                  scope="external">16.5</xref>
 and against existing MAC ID/IQ, GWACs, and FSS contracts if they do
 not require either one or both of the following:</p>
         <ol>
-          <li>Establishment of specific criteria for the evaluation of
+            <li>Establishment of specific criteria for the evaluation of
 proposals and selection of the awardee for the order;</li>
-          <li>Addition of any terms or conditions that are not included in
+            <li>Addition of any terms or conditions that are not included in
 the basic ID/IQ contract, and/or changes to the existing terms or
 conditions of the basic ID/IQ contract.</li>
         </ol>
@@ -74,7 +89,9 @@ to begin negotiations.</p>
 total value of awards under a BAA is anticipated to be greater than
 or equal the clearance threshold, approval to begin
 negotiations.</p>
-        <p outputclass="List2">(4) For Architect-Engineer Services under <xref format="html" href="https://www.acquisition.gov/far/part-36#FAR_Subpart_36_6" scope="external">FAR
+        <p outputclass="List2">(4) For Architect-Engineer Services under <xref format="html"
+                  href="https://www.acquisition.gov/far/part-36#FAR_Subpart_36_6"
+                  scope="external">FAR
 36.6</xref>, approval to begin negotiations.</p>
         <p outputclass="List2">(d) “Begin negotiations” means, for
 the purpose of noncompetitive contract actions, starting
@@ -92,7 +109,9 @@ award.</p>
         <p outputclass="List2">(2) For competitive acquisitions with discussions
 –</p>
         <p outputclass="List3">(i) Approval by the CAA for the SSA to request
-final proposal revisions in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-15#FAR_15_307" scope="external">FAR
+final proposal revisions in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-15#FAR_15_307"
+                  scope="external">FAR
 15.307</xref>; and</p>
         <p outputclass="List3">(ii) Approval by the CAA for the SSA to make a
 source selection decision.</p>
@@ -123,4 +142,5 @@ contract action.</p>
 independent review performed by the designated CR office or as
 otherwise selected by the CAA.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

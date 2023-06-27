@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <topic id="DAFFARS_MP5333_104" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5333.104</ph> Protests to GAO</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5333.104</ph> Protests to GAO</title>
       <body>
          <p id="dfgAnB" outputclass="List1">(a) <i>General</i>
          </p>
-         <p id="ZUIxUx" outputclass="List2">(1) The Air Force response to a GAO bid protest must comply with GAO’s Bid Protest Regulations (4 CFR Part 21) and FAR 33.104 as supplemented. For guidance on responding to unclassified protests, follow the <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/documents/daffars_library/5333/protest_guide_afloa.pdf" scope="external">
+         <p id="ZUIxUx" outputclass="List2">(1) The Air Force response to a GAO bid protest must comply with GAO’s Bid Protest Regulations (4 CFR Part 21) and FAR 33.104 as supplemented. For guidance on responding to unclassified protests, follow the <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/documents/daffars_library/5333/protest_guide_afloa.pdf"
+                  scope="external">
                <u>Air Force Commercial Litigation Field Support Center Protest Guide</u>
-            </xref>. For guidance on responding to classified protests, follow the <xref format="docx" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/DAFFARS_Library/5333/classified_protest_processing_guide.docx" scope="external">
+            </xref>. For guidance on responding to classified protests, follow the <xref format="docx"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/DAFFARS_Library/5333/classified_protest_processing_guide.docx"
+                  scope="external">
                <u>Administrative Guide for Processing Classified GAO Protests</u>
-            </xref>. Both documents are also available from <xref format="mailto" href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external">
+            </xref>. Both documents are also available from <xref format="mailto"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">
                <u>AF/JACQ</u>
             </xref>.</p>
          <p id="LGcvue" outputclass="List2">(2) SAF/AQC serves as the notification point with the GAO for all protests.</p>
          <p id="OnqDTU" outputclass="List2">Phone: (571) 256-7077, DSN 260-7077</p>
-         <p id="wohCSO" outputclass="List2">E-mail:<xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+         <p id="wohCSO" outputclass="List2">E-mail:<xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF.AQ.SAF-AQC.Workflow@us.af.mil</u>
             </xref>
          </p>
          <p id="JywuvZ" outputclass="List2">(3) The Air Force Commercial Litigation Field Support Center (AF/JACQ) represents the Air Force on all protests.</p>
          <p id="DOmZMv" outputclass="List2">Phone: (240) 612-6661, DSN 612-6661</p>
-         <p id="hOOAON" outputclass="List2">E-mail: <xref format="mailto" href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external">
+         <p id="hOOAON" outputclass="List2">E-mail: <xref format="mailto"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">
                <u>AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil</u>
             </xref>
          </p>
@@ -41,7 +53,9 @@
          <p id="iJUCoU" outputclass="List4">(A) A discussion of whether a stay of performance or award is required IAW 31 U.S.C. 3553.</p>
          <p id="uaKoxM" outputclass="List4">(B) If a stay is required IAW FAR 33.104(b) or (c), whether an override will be sought to lift the stay. (See paragraph (f).)</p>
          <p id="IPyvSh" outputclass="List4">(C) If a stay is not required, discuss whether a suspension of performance or termination of the contract is in the best interest of the Air Force.</p>
-         <p id="EcXOjg" outputclass="List3" xtrf="CheckMapping">(iv) Send an email to <xref format="mailto" href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external">
+         <p id="EcXOjg" outputclass="List3" xtrf="CheckMapping">(iv) Send an email to <xref format="mailto"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">
                <u>AF/JACQ</u>
             </xref> with the name, phone number, and e-mail address of the contracting officer and the local attorney.</p>
          <p id="YClbcx" outputclass="List6">(3) The contracting officer is responsible for generating the contracting officer’s statement of facts. Within ten days after the Air Force receives the protest, provide the draft statement of facts and table of contents to its supporting legal office/local attorney who provides contract law advice.</p>
@@ -58,9 +72,13 @@
          <p id="sbvICm" outputclass="List3" xtrf="CheckMapping">(ii) Sustain. If the GAO sustains a protest, the GAO will also recommend corrective action and may recommend payment of reasonable protest costs, to include reasonable attorney fees. In some cases the GAO may also recommend payment of proposal preparation costs.</p>
          <p id="EoDxTC" outputclass="List4">(A) Corrective action should be accomplished pursuant to paragraph (g) below. A decision not to comply with a GAO recommendation for corrective action may only be made by SAF/AQC. Any recommendation not to comply with GAO’s corrective action recommendation must be coordinated with the focal point and forwarded through the SCO to SAF/AQC and AF/JACQ within 15 days of the date of the decision.</p>
          <p id="SoeQvf" outputclass="List4">(B) Potential costs may include attorney fees and in-house costs related to pursuit of the protest. Costs must be paid by the base or procuring activity.</p>
-         <p id="IfJSfg" outputclass="List6">(2) Alternative Dispute Resolution (ADR). Resolution of the protest may be possible through use of ADR. Outcome prediction is a form of ADR commonly used in bid protests in which the GAO advises the parties of its likely position if the protest were resolved in a written decision. Air Force policy is to follow the outcome prediction recommendations. Other nonbinding ADR procedures (including but not limited to mediation) are available and should be considered for use in appropriate cases. When considering the use of ADR proceedings other than outcome prediction to resolve a bid protest, and before initiating an ADR proceeding, the contracting officer and AF/JACQ must notify <xref format="mailto" href="mailto:SAF.GCR.Workflow@us.af.mil" scope="external">
+         <p id="IfJSfg" outputclass="List6">(2) Alternative Dispute Resolution (ADR). Resolution of the protest may be possible through use of ADR. Outcome prediction is a form of ADR commonly used in bid protests in which the GAO advises the parties of its likely position if the protest were resolved in a written decision. Air Force policy is to follow the outcome prediction recommendations. Other nonbinding ADR procedures (including but not limited to mediation) are available and should be considered for use in appropriate cases. When considering the use of ADR proceedings other than outcome prediction to resolve a bid protest, and before initiating an ADR proceeding, the contracting officer and AF/JACQ must notify <xref format="mailto"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/GCR</u>
-            </xref> and <xref format="mailto" href="mailto:SAF.GCQ.Workflow@us.af.mil" scope="external">
+            </xref> and <xref format="mailto"
+                  href="mailto:SAF.GCQ.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/GCQ</u>
             </xref> and work with those offices to identify an ADR procedure appropriate to the individual case.</p>
          <p id="jyXbdx" outputclass="List6">(3) Withdrawal. The protester may withdraw the protest, either because of corrective action taken by the Air Force or for other reasons. Once the protester gives notice of withdrawal to the GAO and the GAO closes its file, the contracting activity can resume all contractual actions.</p>
@@ -69,10 +87,14 @@
          <p id="HyJXFy" outputclass="List6">(1) Corrective action may be taken by the Air Force at any time during the protest process or upon the recommendation of the GAO when a protest is sustained. Within five days of a decision to take corrective action (either voluntary or as recommended by the GAO), the contracting officer must provide a corrective action plan through their SCO to SAF/AQC and AF/JACQ. The contracting officer must notify SAF/AQC and AF/JACQ if there are any significant changes to the corrective action plan, if the corrective action will not be completed within 60 days, and when the corrective action is complete. The focal point should be copied on these messages.</p>
          <p id="ptGVKy" outputclass="List1">(f) <i>Mandatory Stay of Award or Performance</i>
          </p>
-         <p id="kaEsgl" outputclass="List6">(1) Statutory Requirements (<xref format="html" href="http://www4.law.cornell.edu/uscode/31/stIIIch35schV.html" scope="external">
+         <p id="kaEsgl" outputclass="List6">(1) Statutory Requirements (<xref format="html"
+                  href="http://www4.law.cornell.edu/uscode/31/stIIIch35schV.html"
+                  scope="external">
                <u>31 USC 3551-3556</u>
             </xref>)</p>
-         <p id="sYnBRp" outputclass="List3" xtrf="CheckMapping">(i) Paragraph 33.104(c)(1) of the Federal Acquisition Regulation (FAR), in conjunction with <xref format="pdf" href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000563-18-DPAP.pdf" scope="external">
+         <p id="sYnBRp" outputclass="List3" xtrf="CheckMapping">(i) Paragraph 33.104(c)(1) of the Federal Acquisition Regulation (FAR), in conjunction with <xref format="pdf"
+                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000563-18-DPAP.pdf"
+                  scope="external">
                <u>DoD Class Deviation - Post Award Rights</u>
             </xref>, state that if the protest is received within the following deadlines, the agency has to withhold award or, if award has been made, immediately issue a stop work order to the awardee:</p>
          <p id="jlzYjs" outputclass="List3">• Ten days after date of contract award;</p>
@@ -86,15 +108,19 @@
          </p>
          <p id="eDLJme" outputclass="List3" xtrf="CheckMapping">(iii) All requests must include facts that establish the urgent and compelling circumstances that significantly affect the interests of the United States. The request must explain, if there is an incumbent, why the incumbent’s contract cannot be extended. The request must explain what other options are available and why those options, if any, are not viable.</p>
          <p id="qHuzvn" outputclass="List6">(3) Overriding Stay of Performance (protest filed after award).</p>
-         <p id="CxyyHl" outputclass="List3" xtrf="CheckMapping">(i) See <xref href="5333_104.dita" xtrc="" outputclass="fm:ParaNumOnly" /> for processing instructions.</p>
+         <p id="CxyyHl" outputclass="List3" xtrf="CheckMapping">(i) See <xref href="5333_104.dita" xtrc="" outputclass="fm:ParaNumOnly"/> for processing instructions.</p>
          <p id="bhIMZJ" outputclass="List3" xtrf="CheckMapping">(ii) A stay of performance may only be overridden by urgent and compelling circumstances that significantly affect interests of the United States, or where performance of the contract is in the best interests of the United States.</p>
-         <p id="VRiIJf" outputclass="List3" xtrf="CheckMapping">(iii) <ph>HCA Override</ph> . See <xref format="pdf" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/D-F_override.pdf" scope="external">
+         <p id="VRiIJf" outputclass="List3" xtrf="CheckMapping">(iii) <ph>HCA Override</ph> . See <xref format="pdf"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/D-F_override.pdf"
+                  scope="external">
                <u>Override D&amp;F Template</u>
             </xref>. NOTE: The template contains guidance on the last few pages of the document.<ph> </ph>
          </p>
          <p id="rcKbJF" outputclass="List4">(A) The request to the HCA for an override must include the findings required by FAR 33.104(b) or (c).</p>
          <p id="zaKCzP" outputclass="List4">(B) The HCA will make a decision with respect to authorizing award or continued performance within ten days of the protest notification by SAF/AQC. If circumstances change after suspension of contract performance, the contracting officer may initiate a request to continue performance.</p>
-         <p id="TYAZNl" outputclass="List4">(C) The HCA’s decision to override is not effective until a written finding is made and the agency files with GAO either a copy of any issued determination and finding, or a statement by the individual who approved the determination and finding that explains the statutory basis for the override, in accordance with FAR 33.104(b)(2) or (c)(3). Notification should include the protester’s name and the B-number assigned to the protest. Copies of the signed notice and the finding must be sent to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+         <p id="TYAZNl" outputclass="List4">(C) The HCA’s decision to override is not effective until a written finding is made and the agency files with GAO either a copy of any issued determination and finding, or a statement by the individual who approved the determination and finding that explains the statutory basis for the override, in accordance with FAR 33.104(b)(2) or (c)(3). Notification should include the protester’s name and the B-number assigned to the protest. Copies of the signed notice and the finding must be sent to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref>. AF/JACQ will file the notice at GAO and provide copies to the protester and interested parties, as required by FAR 33.104(d).</p>
          <p id="HJyZAO" outputclass="List3" xtrf="CheckMapping">(iv) SAF/AQC may request a briefing on technical and contractual aspects of the solicitation when an override is requested.</p>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5342_4">
-    <title><ph props="autonumber">SUBPART 5342.4</ph> – CORRESPONDENCE
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5342_4">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5342.4</ph> – CORRESPONDENCE
 AND VISITS</title>
-    <body/>
+      <body/>
     
     
-  </topic></dita>
+  </topic>
+</dita>

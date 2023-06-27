@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5306_501">
-      <title><ph props="autonumber">5306.501</ph> Requirement</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5306_501">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5306.501</ph> Requirement</title>
       <conbody>
         <p outputclass="List1">(a) The DAS(C) is the designated the DAF
 Competition Advocate General (CAG).</p>
@@ -30,9 +33,14 @@ Space Force procuring activities.</p>
 
         <p outputclass="List1">(b) The procuring activities listed above are authorized to
 further designate subordinate organizations as procuring activities
-subject to the requirements of <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_501" scope="external">FAR
-6.501</xref> and <xref format="html" href="https://www.acquisition.gov/daffars/mp5306-competition-requirements#DAFFARS_MP5306_502" scope="external">MP5306.502</xref>,
+subject to the requirements of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_501"
+                  scope="external">FAR
+6.501</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5306-competition-requirements#DAFFARS_MP5306_502"
+                  scope="external">MP5306.502</xref>,
 <i>Air Force Competition and Commercial Advocacy Program</i>. <ph id="Toc38284763"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5341_102">
-      <title><ph props="autonumber">5341.102</ph> Applicability</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5341_102">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5341.102</ph> Applicability</title>
       <conbody>
         <p outputclass="List1">(b)(3) When contracting for CATV services, ensure
 compliance with 47 U.S.C. 521-573, Cable Communications.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

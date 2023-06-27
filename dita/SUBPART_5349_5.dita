@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5349_5">
-    <title><ph props="autonumber">SUBPART 5349.5</ph> – CONTRACT
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5349_5">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5349.5</ph> – CONTRACT
 TERMINATION CLAUSES</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

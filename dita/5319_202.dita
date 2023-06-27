@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5319_202">
-      <title><ph props="autonumber">5319.202</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5319_202">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5319.202</ph> 
 Specific Policy</title>
       <conbody>
         <p outputclass="List1">Contracting officers shall provide for review by
 the Director, SAF/SB, or the Director’s designee, any
 acquisition the Director, SAF/SB, deems necessary to fulfill the
-Director’s authorities and responsibilities in <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf" scope="external">AFI
+Director’s authorities and responsibilities in <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_sb/publication/afi90-1801/afi90-1801.pdf"
+                  scope="external">AFI
 90-1801</xref> to provide advice and make recommendations. The
 contracting officer shall document the contract file with the
 recommendations of the Director, or the Director’s designee,
 and whether the recommendations were accepted or rejected.</p>
         <p id="P151_5951"/>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5349_101">
-      <title><ph props="autonumber">5349.101</ph> Authorities and
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5349_101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5349.101</ph> Authorities and
 Responsibilities</title>
       <conbody>
         <p outputclass="List1">(b) The SCO or command-appointed termination
@@ -11,4 +14,5 @@ requesting approval, the contracting officer must provide all
 relevant documents to include a chronology of key events, cure/show
 cause notices and responses thereto.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

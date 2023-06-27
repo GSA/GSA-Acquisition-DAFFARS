@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5317_7406">
-      <title><ph props="autonumber">5317.7406</ph> Contract Clauses</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5317_7406">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5317.7406</ph> Contract Clauses</title>
       <conbody>
-        <p>Contracting officers must insert the clause at <xref format="html" href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_217_9000" scope="external">DAFFARS
+        <p>Contracting officers must insert the clause at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_217_9000"
+                  scope="external">DAFFARS
 5352.217-9000</xref>, <i>Long Lead Limitation of Government
 Liability</i>, in all long-lead procurement solicitations and
 contracts initiated with advance procurement funds.<ph id="Toc38365382"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

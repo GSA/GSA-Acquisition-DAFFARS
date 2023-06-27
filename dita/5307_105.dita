@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5307_105">
-      <title><ph props="autonumber">5307.105</ph> Contents of Written Acquisition
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5307_105">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5307.105</ph> Contents of Written Acquisition
 Plans</title>
       <conbody>
         <p outputclass="List2">(1) For actions that do not fall within one of the
-categories listed within <xref format="html" href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS_207.103" scope="external">DFARS
+categories listed within <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS_207.103"
+                  scope="external">DFARS
 207.103</xref> or actions with dollar thresholds less than a need for
-a written <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Acquisition
+a written <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Acquisition
 Plan</xref> (e.g. &lt;$50M total program or &lt;$25M in a FY for
 products &amp; services), written AP documentation is still
 recommended. This documentation may include Market Research
@@ -18,8 +25,12 @@ as directed by the applicable approval authority.</p>
 prescribed at DFARS 207.103, written AP documentation is
 recommended. Acquisition Teams should consider the depth,
 complexity, and requirements needs of their program to determine
-use of the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">AP
-template</xref>, ASP brief, or the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Streamlined
+use of the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">AP
+template</xref>, ASP brief, or the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Streamlined
 Market Acquisition Approach Document (SMRAA)</xref> template.</p>
         <p outputclass="List2">(3) Actions for production or services when the
 total cost of all contracts for the acquisition program is equal to
@@ -32,4 +43,5 @@ may utilize the ASP briefing charts and associated note pages,
 minutes, and change charts to satisfy a required written AP.
 Recommend documentation identifies the ASP as the written AP.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5319_1505">
-      <title><ph props="autonumber">5319.1505</ph> Set-aside Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5319_1505">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5319.1505</ph> Set-aside Procedures</title>
       <conbody>
         <p outputclass="List3">(i)(2) When notified by the SBA of an intent to
 appeal with the Agency Head, the contracting officer shall follow
 5319.810 above to prepare an appeal case file.</p>
-        <p id="Int_IXgyUtxS" outputclass="List3">(i)(3) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
-        <p outputclass="List3">(i)(5) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+        <p id="Int_IXgyUtxS" outputclass="List3">(i)(3) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
+        <p outputclass="List3">(i)(5) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

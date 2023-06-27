@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5352_242-9001">
-      <title><ph props="autonumber">5352.242-9001</ph> Common Access Cards
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5352_242-9001">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5352.242-9001</ph> Common Access Cards
 (CAC) for Contractor Personnel</title>
       <conbody>
-        <p>As prescribed in <xref format="html" href="https://www.acquisition.gov/daffars/part-5342-contract-administration-and-audit-services#DAFFARS_5342_490_2" scope="external">DAFFARS
+        <p>As prescribed in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5342-contract-administration-and-audit-services#DAFFARS_5342_490_2"
+                  scope="external">DAFFARS
 5342.490-2</xref>, insert a clause substantially the same as the
 following clause in solicitations and contracts:</p>
         <p id="Toc76485401">
-          <b>COMMON ACCESS CARDS (CAC) FOR
+            <b>COMMON ACCESS CARDS (CAC) FOR
 CONTRACTOR PERSONNEL (OCT 2023)</b>
         </p>
         <p outputclass="List1">(a) For installation(s)/location(s) cited in the
@@ -61,4 +66,5 @@ location specified by local policy/directives.</p>
 result in withholding of final payment.</p>
         <p id="p53522479000">(End of clause)</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

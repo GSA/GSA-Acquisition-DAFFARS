@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita>
-<concept id="DAFFARS_5304_604-2">
-      <title><ph props="autonumber">5304.604</ph> (2) Responsibilities</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_604-2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.604</ph> (2) Responsibilities</title>
       <conbody>
         <p>Immediately subsequent, to each contract action, the contracting
 officer may reference the CAR approval date in the official

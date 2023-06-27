@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <topic id="DAFFARS_MP5315_407_90" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">MP5315.407-90</ph> Contract Audit Follow-up (CAFU)</title>
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5315.407-90</ph> Contract Audit Follow-up (CAFU)</title>
       <body>
          <p id="mEDpBI">1. This Mandatory Procedure implements the following publications:</p>
-         <p id="BHRApx" outputclass="List1">a. <xref format="html" href="https://obamawhitehouse.archives.gov/omb/circulars_a050/" scope="external">
+         <p id="BHRApx" outputclass="List1">a. <xref format="html"
+                  href="https://obamawhitehouse.archives.gov/omb/circulars_a050/"
+                  scope="external">
                <u>Office of Management and Budget (OMB) Circular No. A-50</u>
             </xref>, <i>Audit Follow-up</i>
             <i>;</i>
          </p>
-         <p id="fEqwnU" outputclass="List1">b. <xref format="pdf?ver=2019-01-31-121535-483" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/765003p.pdf?ver=2019-01-31-121535-483" scope="external">
+         <p id="fEqwnU" outputclass="List1">b. <xref format="pdf?ver=2019-01-31-121535-483"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/765003p.pdf?ver=2019-01-31-121535-483"
+                  scope="external">
                <u>Department of Defense Instruction (DoDI) 7650.03</u>
             </xref>, <i>Follow-up on Government Accountability Office (GAO), Inspector General of the Department of Defense (IG DoD), and Internal Audit Reports;</i> and</p>
-         <p id="TZEvtA" outputclass="List1">c. <xref format="pdf" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/764002p.pdf" scope="external">
+         <p id="TZEvtA" outputclass="List1">c. <xref format="pdf"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/764002p.pdf"
+                  scope="external">
                <u>Department of Defense Instruction (DoDI) 7640.02</u>
             </xref>, <i>Policy for Follow-up on Contract Audit Reports.</i>
          </p>
@@ -32,13 +40,19 @@
                <u>Defense Contract Management Agency (DCMA)</u>
             </xref> website. When the security classification of a contract or an audit precludes the use of the DCMA website, SCOs must seek approval from SAF/AQCP to use alternate means of reporting.</p>
          <p id="nEqzeZ" outputclass="List1">(e) Directs periodic evaluations of the organization’s CAFU program to determine whether they are adequate and result in timely, appropriate resolution and disposition of audit reports.</p>
-         <p id="TSuIKc" outputclass="List1">b. <b>CONTRACTING OFFICER (CO) RESPONSIBILITIES</b>: The CO is responsible for reaching agreement with the contractor and has wide latitude and discretion in that regard. Accordingly, the procedure contained herein is structured in consonance with the independent, decision-making role of the CO and the financial advisory role of the contract auditor. COs should give full consideration to contract audit advice and must pursue timely and proper resolution and disposition of contract audit reports. Resolution of contract audit reports, other than pre-award reports, is required by OMB Circular A-50 to be accomplished within six months of report issuance. Disposition should take place as soon as possible after resolution. Per <xref format="pdf" href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf" scope="external">
+         <p id="TSuIKc" outputclass="List1">b. <b>CONTRACTING OFFICER (CO) RESPONSIBILITIES</b>: The CO is responsible for reaching agreement with the contractor and has wide latitude and discretion in that regard. Accordingly, the procedure contained herein is structured in consonance with the independent, decision-making role of the CO and the financial advisory role of the contract auditor. COs should give full consideration to contract audit advice and must pursue timely and proper resolution and disposition of contract audit reports. Resolution of contract audit reports, other than pre-award reports, is required by OMB Circular A-50 to be accomplished within six months of report issuance. Disposition should take place as soon as possible after resolution. Per <xref format="pdf"
+                  href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+                  scope="external">
                <u>DoDI 7640.02</u>
-            </xref>, Enclosure 3, Section 3.a, reportable audits should normally be disposed of within 12 months after issuance. The CO must document the disposition of all reported findings and recommendations in a signed and dated memorandum in accordance with <xref format="pdf" href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf" scope="external">
+            </xref>, Enclosure 3, Section 3.a, reportable audits should normally be disposed of within 12 months after issuance. The CO must document the disposition of all reported findings and recommendations in a signed and dated memorandum in accordance with <xref format="pdf"
+                  href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+                  scope="external">
                <u>DoDI 7640.02</u>
             </xref>, Enclosure 3, Section 3.b.</p>
          <p id="EzTTGe" outputclass="List1">c. <b>TRACKING OF AUDIT REPORTS</b>: Contracting activities must track all contract audit reports. Tracking of non-reportable audits may be accomplished using records maintained in the contract file or in the CAFU on-line system. The designated focal point at each Air Force contracting activity maintains contract audit follow-up information on a current basis. The audit tracking information will normally be managed centrally at MAJCOM/DRU headquarters (except for HQ AFMC and SMC, where this tracking will occur at the field activity). For auditor-determined final, indirect cost rate reports, a report is considered received for follow-up tracking purposes when it is forwarded by the auditor to the cognizant Administrative Contracting Officer (ACO) for resolution and disposition.</p>
-         <p id="bPOGpS" outputclass="List1">d. <b>REPORTING OF AUDIT REPORTS</b>: Reportable audits are identified in the Glossary of <xref format="pdf" href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf" scope="external">
+         <p id="bPOGpS" outputclass="List1">d. <b>REPORTING OF AUDIT REPORTS</b>: Reportable audits are identified in the Glossary of <xref format="pdf"
+                  href="http://www.dtic.mil/whs/directives/corres/pdf/764002p.pdf"
+                  scope="external">
                <u>DoDI 7640.02</u>
             </xref>. The information to be reported on each audit is identified in Enclosure 4 of the same regulation. MAJCOM/DRU/SMC semi-annual status reports will be automatically transmitted using the on-line CAFU system. The reports must cover the semi-annual periods ending 31 Mar and 30 Sep and must be completed in the on-line CAFU system no later than the end of the reporting period. If there are no audits, a negative report must be prepared and submitted to SAF/AQCP. All activities must make every possible effort to ensure the completeness and accuracy of their semi-annual reporting submission. Special attention should be focused on ensuring the most accurate data is submitted on any audit listed as unresolved and over 6 months old.</p>
          <p id="AirCmY">4. CAFU for GAO, IG DoD, and Internal Audit Reports<b>:</b> These procedures apply to audit reports which disclose contract pricing issues and are issued directly to the buying activity. COs shall provide:</p>

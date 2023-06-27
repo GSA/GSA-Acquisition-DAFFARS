@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_PART_5318">
-  <title><ph props="autonumber">PART 5318 </ph>-
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5318">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5318</ph> -
 Emergency Acquisitions</title>
-  <body>
-    <p>
-      <i>Revised: June 2023</i>
-    </p>
-  </body>
-  
-  
-  
-</topic></dita>
+      <body>
+         <p>
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5318_000.dita#DAFFARS_SUBPART_5318_000">5318.000 – SCOPE OF PART</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5318_001.dita#DAFFARS_5318_001">5318.001 Definition</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_1.dita#DAFFARS_SUBPART_5318_1">Subpart 5318.1 — AVAILABLE ACQUISITION FLEXIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_125.dita#DAFFARS_5318_125">5318.125 Protest to GAO</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5318_2.dita#DAFFARS_SUBPART_5318_2">Subpart 5318.2 — EMERGENCY ACQUISITION FLEXIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_201.dita#DAFFARS_5318_201">5318.201 Contingency Operation</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_202.dita#DAFFARS_5318_202">5318.202 Defense or Recovery from Certain Attacks</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_270.dita#DAFFARS_5318_270">5318.270 Head of Contracting Activity Determinations</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

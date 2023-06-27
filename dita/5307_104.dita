@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5307_104">
-      <title><ph props="autonumber">5307.104</ph> General
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5307_104">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5307.104</ph> General
 Procedures</title>
       <conbody>
         <p outputclass="List1">(a) In order to help develop a sound acquisition
@@ -11,4 +14,5 @@ acquisitions and the <xref format="html" href="https://www.dcma.mil/" scope="ext
 Contract Management Agency</xref> and <xref format="html" href="https://www.dcaa.mil/" scope="external">Defense Contract Audit Agency</xref> in
 non-competitive acquisitions.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

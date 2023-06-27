@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5342_1503">
-      <title><ph props="autonumber">5342.1503</ph> Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5342_1503">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5342.1503</ph> Procedures</title>
       <conbody>
         <p outputclass="List1">(a) The acquisition team must use the Contractor
 Performance Assessment Reporting System (CPARS) to record
@@ -16,7 +19,9 @@ Official) must complete online instructor-led, automated online, or
 onsite CPARS program office instructor-led training specific to
 their CPARS role(s) within 30 days of appointment. Class
 registration is available at <xref format="html" href="https://cpars.gov/lc.htm" scope="external">https://cpars.gov/lc.htm</xref> and a
-list of classes by role is available at <xref format="html" href="https://www.cpars.gov/lc_role.htm" scope="external">https://www.cpars.gov/lc_role.htm</xref>.
+list of classes by role is available at <xref format="html"
+                  href="https://www.cpars.gov/lc_role.htm"
+                  scope="external">https://www.cpars.gov/lc_role.htm</xref>.
 Copies of each organization’s CPARS training certificates
 must be maintained by APOCs or Quality Assurance Program
 Coordinators (QAPC).</p>
@@ -32,7 +37,10 @@ points are designated as Federal Awardee Performance and Integrity
 Information System (FAPIIS) Focal Points to register users and
 ensure timely and accurate reporting of required contract
 performance information into the FAPIIS module of CPARS. Guidance
-on FAPIIS data reporting is available in the <xref format="html" href="https://cpars.gov/documents/CPARS_User_Manual.pdf" scope="external">CPARS User
+on FAPIIS data reporting is available in the <xref format="html"
+                  href="https://cpars.gov/documents/CPARS_User_Manual.pdf"
+                  scope="external">CPARS User
 Manual</xref>.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5333_170">
-      <title><ph props="autonumber">5333.170</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5333_170">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5333.170</ph> 
 Briefing Requirement for Protested Acquisitions Valued at $1B or
 More</title>
       <conbody>
 
         <p>Within seven (7) days of the filing of the protest, forward the
-briefing slide deck through the SCO and <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms" scope="external">cognizant
-HCA</xref> to <xref format="html" href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external">AF/JACQ</xref>
-and the <xref format="html" href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil" scope="external">SAF/AQC
+briefing slide deck through the SCO and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">cognizant
+HCA</xref> to <xref format="html"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">AF/JACQ</xref>
+and the <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                  scope="external">SAF/AQC
 Workflow</xref> for DAS(C) review and processing to
 OUSD(A&amp;S)/DPC.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

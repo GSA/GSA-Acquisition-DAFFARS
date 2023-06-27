@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5332_1">
-      <title><ph props="autonumber">SUBPART 5332.1</ph> – FINANCING FOR OTHER
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5332_1">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5332.1</ph> – FINANCING FOR OTHER
 THAN A COMMERCIAL PURCHASE</title>
       <body/>
       
-    </topic></dita>
+    </topic>
+</dita>

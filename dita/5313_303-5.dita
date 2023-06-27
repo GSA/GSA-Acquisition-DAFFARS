@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5313_303-5">
-      <title><ph props="autonumber">5313.303-5</ph> Purchases Under BPAs</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5313_303-5">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5313.303-5</ph> Purchases Under BPAs</title>
       <conbody>
         <p outputclass="List1">(b)(1) Individual purchases under BPAs established
-in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-13#FAR_13_303_2" scope="external">FAR
+in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_13_303_2"
+                  scope="external">FAR
 13.303-2(c)(3)</xref> may be made up to the purchase limitation
 identified in the BPA.</p>
         <p outputclass="List2">(2) Individual purchases of commercial products
 and commercial services, other than BPAs established in accordance
-with <xref format="html" href="https://www.acquisition.gov/far/part-13#FAR_13_303_2" scope="external">FAR
+with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_13_303_2"
+                  scope="external">FAR
 13.303-2(c)(3)</xref>, may be made up to the dollar limitation
-specified in <xref format="html" href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5" scope="external">FAR
+specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5"
+                  scope="external">FAR
 13.500</xref>.<ph id="Toc38293418"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

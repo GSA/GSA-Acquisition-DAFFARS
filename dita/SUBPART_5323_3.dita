@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5323_3">
-    <title><ph props="autonumber">SUBPART 5323.3</ph> — HAZARDOUS
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5323_3">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5323.3</ph> — HAZARDOUS
 MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

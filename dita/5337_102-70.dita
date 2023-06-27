@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5337_102-70">
-      <title><ph props="autonumber">5337.102-70</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5337_102-70">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5337.102-70</ph> 
 Prohibition on Contracting for Firefighting or Security-Guard
 Functions</title>
       <conbody>
@@ -36,4 +39,5 @@ citizens in emergency situations, including the protection of civil
 rights, preservation of crime scenes; issuances of citations; and
 arrests and apprehensions of suspects.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

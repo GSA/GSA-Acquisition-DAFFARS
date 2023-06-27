@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><concept id="DAFFARS_5304_7003-90">
-      <title><ph props="autonumber">5304.7003-90</ph> Maintaining DoD Activity
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_7003-90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.7003-90</ph> Maintaining DoD Activity
 Address Codes (DoDAAC)</title>
       <conbody>
 
         <p>The contracting officer administering the contract must obtain a
-contractor DoDAAC (see <xref format="html" href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf" scope="external">DAFMAN
+contractor DoDAAC (see <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
+                  scope="external">DAFMAN
 23-230</xref>, <i>Maintaining Air Force DoD Activity Address Codes
 (DoDAAC)</i>) for contracts that furnish Government property or
 authorize requisition from a Government supply source. The
@@ -23,7 +29,10 @@ contract terminations;</p>
 the contract is physically complete, unless the DoDAAC covers other
 active contracts; and,</p>
         <p outputclass="List1">(d)  Validate contractor DoDAACs in
-accordance with <xref format="html" href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf" scope="external">DAFMAN
+accordance with <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman23-230/afman23-230.pdf"
+                  scope="external">DAFMAN
 23-230</xref>, paragraph 4.2.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

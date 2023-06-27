@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5332_9">
-      <title><ph props="autonumber">SUBPART
-5332.9</ph> – PROMPT PAYMENT</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5332_9">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5332.9</ph> – PROMPT PAYMENT</title>
       <body/>
       
       
-    </topic></dita>
+    </topic>
+</dita>

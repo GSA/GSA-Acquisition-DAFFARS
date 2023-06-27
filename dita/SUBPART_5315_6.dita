@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5315_6">
-    <title><ph props="autonumber">SUBPART
-5315.6</ph> — UNSOLICITED PROPOSALS</title>
-    <body/>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5315_6">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5315.6</ph> — UNSOLICITED PROPOSALS</title>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

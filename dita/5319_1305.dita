@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5319_1305">
-      <title><ph props="autonumber">5319.1305</ph> HUBZone Set-Aside Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5319_1305">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5319.1305</ph> HUBZone Set-Aside Procedures</title>
       <conbody>
         <p id="Toc38293723" outputclass="List1">(d)(1) When notified by
 the SBA of an intent to appeal with the Agency Head, the
 contracting officer shall follow 5319.810 above to prepare an
 appeal case file.</p>
-        <p outputclass="List1">(d)(2) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+        <p outputclass="List1">(d)(2) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

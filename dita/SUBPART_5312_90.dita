@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_SUBPART_5312_90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2 Subpart">
-         <ph props="autonumber">Subpart 5312.90</ph> - PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_SUBPART_5312_90"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 2 Subpart">
+         <ph class="- topic/ph " props="autonumber">Subpart 5312.90</ph> - PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING</title>
       <conbody>
-         <p outputclass="Normal">INTERIM CHANGE: See Policy Memo <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/18-C-03.pdf" scope="external" format="pdf">
+         <p outputclass="Normal">INTERIM CHANGE: See Policy Memo <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/18-C-03.pdf"
+                  scope="external"
+                  format="pdf">
                <u>18-C-03</u>
             </xref>
             <ph>

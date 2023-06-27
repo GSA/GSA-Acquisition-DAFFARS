@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5352_209-9001">
-      <title><ph props="autonumber">5352.209-9001</ph> Potential Organizational
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5352_209-9001">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5352.209-9001</ph> Potential Organizational
 Conflict of Interest</title>
       <conbody>
-        <p>As prescribed in <xref format="html" href="https://www.acquisition.gov/daffars/part-5309-contractor-qualifications#DAFFARS_5309_507_2" scope="external">DAFFARS
+        <p>As prescribed in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5309-contractor-qualifications#DAFFARS_5309_507_2"
+                  scope="external">DAFFARS
 5309.507-2(b)</xref>, insert the following provision, substantially as
 written in Section L:</p>
         <p>
-          <b>POTENTIAL ORGANIZATIONAL CONFLICT OF INTEREST (OCT
+            <b>POTENTIAL ORGANIZATIONAL CONFLICT OF INTEREST (OCT
 2023)</b>
         </p>
         <p outputclass="List1">(a) There is potential organizational conflict of
@@ -36,10 +41,11 @@ award of future contracts.</p>
 solicitation may be modified or deleted during negotiations.</p>
         <p>(End of provision)</p>
         <p>
-          <b>ALTERNATE I (OCT 2023)</b>. At the discretion of
+            <b>ALTERNATE I (OCT 2023)</b>. At the discretion of
 the contracting officer, substitute the following paragraph (b) for
 paragraphs (b) and (c) in the basic provision:</p>
         <p id="p53522159001" outputclass="List1">(b) The organizational conflict of interest clause
 in this solicitation may not be modified or deleted.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

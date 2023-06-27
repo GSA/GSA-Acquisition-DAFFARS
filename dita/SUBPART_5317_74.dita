@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5317_74">
-    <title><ph props="autonumber">SUBPART 5317.74</ph> — UNDEFINITIZED
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5317_74">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5317.74</ph> — UNDEFINITIZED
 CONTRACT ACTIONS</title>
-    <body/>
+      <body/>
     
     
     
@@ -11,4 +14,5 @@ CONTRACT ACTIONS</title>
     
     
     
-  </topic></dita>
+  </topic>
+</dita>

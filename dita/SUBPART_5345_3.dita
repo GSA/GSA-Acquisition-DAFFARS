@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5345_3">
-    <title><ph props="autonumber">SUBPART
-5345.3</ph> – PROVIDING GOVERNMENT PROPERTY TO CONTRACTORS</title>
-    <body/>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5345_3">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5345.3</ph> – PROVIDING GOVERNMENT PROPERTY TO CONTRACTORS</title>
+      <body/>
     
     
-  </topic></dita>
+  </topic>
+</dita>

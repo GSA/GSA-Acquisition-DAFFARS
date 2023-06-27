@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5303_1003">
-      <title><ph props="autonumber">5303.1003</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5303_1003">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5303.1003</ph> 
 Requirements</title>
       <conbody>
         <p outputclass="List1">(b)(2)(i) Upon receipt of the required disclosure
@@ -12,8 +15,12 @@ must consider how the disclosed information may impact pending
 contract actions in terms of the contractor’s present
 responsibility and/or the contractor’s past performance. The
 contracting officer must promptly provide a copy of any disclosure
-or notification received to the SCO and to <xref format="html" href="mailto:SAF.GCR.Workflow@us.af.mil" scope="external">SAF/GCR</xref> using the
-procedures at <xref format="html" href="https://www.acquisition.gov/daffars/part-5309-contractor-qualifications#DAFFARS_5309_406_3" scope="external">DAFFARS
+or notification received to the SCO and to <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref> using the
+procedures at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5309-contractor-qualifications#DAFFARS_5309_406_3"
+                  scope="external">DAFFARS
 5309.406-3</xref>.</p>
         <p id="Toc38284419" outputclass="List1">(b)(2)(ii) The Government must safeguard and treat
 the information obtained pursuant to a contractor’s
@@ -23,4 +30,5 @@ has been marked as “confidential” or
 is not marked, the contracting officer should not publicly disclose
 the information without prior notification to the contractor.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

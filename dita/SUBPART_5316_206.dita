@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5316_206">
-    <title><ph props="autonumber">SUBPART
-5316.206</ph> — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5316_206">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5316.206</ph> — FIXED-CEILING-PRICE CONTRACTS WITH RETROACTIVE
 PRICE REDETERMINATION</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5350_102">
-    <title><ph props="autonumber">SUBPART 5350.102</ph> — DELEGATION OF
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5350_102">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5350.102</ph> — DELEGATION OF
 AND LIMITATIONS ON EXERCISE OF AUTHORITY</title>
-    <body/>
+      <body/>
     
     
-  </topic></dita>
+  </topic>
+</dita>

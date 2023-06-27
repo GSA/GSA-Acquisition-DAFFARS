@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5327_90">
-    <title><ph props="autonumber">SUBPART 5327.90</ph> – FOREIGN
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5327_90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5327.90</ph> – FOREIGN
 DISCLOSURE </title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

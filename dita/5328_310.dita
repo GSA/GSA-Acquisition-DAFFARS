@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5328_310">
-      <title><ph props="autonumber">5328.310</ph> Insurance -- Work on a
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5328_310">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5328.310</ph> Insurance -- Work on a
 Government Installation</title>
       <conbody>
         <p outputclass="List1">(a)(S-90) <b>Proof of Insurance</b>
         </p>
-        <p>When <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_228_5" scope="external">FAR
+        <p>When <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_228_5"
+                  scope="external">FAR
 52.228-5</xref>, <i>Insurance-Work on a Government Installation</i>,
 is included in a contract, contracting officers must request and
 receive proof of insurance from prime contractors before the
 contractor begins work on the installation. Retain proof of
 insurance in the contract file. Alternatively, the contracting
-officer may use the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Notification
+officer may use the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Notification
 of Compliance with Contract Insurance Requirements</xref> template to
 request and receive the contractor’s notification of
 insurance coverage in lieu of proof of insurance.<ph id="Toc38365436"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

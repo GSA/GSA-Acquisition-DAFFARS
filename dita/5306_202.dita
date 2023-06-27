@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5306_202">
-      <title><ph props="autonumber">5306.202</ph> Establishing or Maintaining
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5306_202">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5306.202</ph> Establishing or Maintaining
 Alternative Sources</title>
       <conbody>
         <p id="Int_8xr10W9R" outputclass="List1">(b)(1) The Life Cycle
 Sustainment Plan (LCSP)/Acquisition Strategy approval authority is
 authorized to sign and approve the Determination and Findings
-(D&amp;F) required by <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_202" scope="external">FAR
+(D&amp;F) required by <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_202"
+                  scope="external">FAR
 6.202(b)(1)</xref>.<ph id="Toc350246257"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5301_601-91">
-      <title><ph props="autonumber">5301.601-91</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_601-91">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5301.601-91</ph> 
 Department of the Air Force Contracting Self-Inspection
 Program</title>
       <conbody>
@@ -13,14 +16,18 @@ adequacy of contract preparation.</p>
         <p outputclass="List1">(b) SCOs will manage a self-inspection program, which includes
 both the assessment of individual contract files and the assessment
 of contracting management programs contained in the Contracting
-Self-Assessment Communicator (SAC) as required by <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_ig/publication/dafi90-302/dafi90-302.pdf" scope="external">DAFI
+Self-Assessment Communicator (SAC) as required by <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_ig/publication/dafi90-302/dafi90-302.pdf"
+                  scope="external">DAFI
 90-302</xref>, The Inspection System of the Department of the Air
 Force. As a minimum, contracting offices must perform
 self-inspections of individual contract files on an annual
 basis.</p>
 
         <p outputclass="List1">(c) For self-inspection of individual contract files reviewed
-after award, SCOs may use the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Air
+after award, SCOs may use the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Air
 Force Contracting Self-Inspection Checklist</xref>; a comparable
 organizational checklist for post award reviews; or any combination
 thereof.</p>
@@ -32,8 +39,13 @@ level of review necessary to close a finding, and integrating
 findings and resolutions into unit training.</p>
 
         <p outputclass="List1">(e) SCOs must forward a consolidated trend analysis report for
-the previous calendar year to <xref format="html" href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil" scope="external">SAF/AQCP</xref>
-by 28 February of each year. See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Consolidated
+the previous calendar year to <xref format="html"
+                  href="mailto:usaf.pentagon.saf-aq.mbx.saf-aqcp-workflow@mail.mil"
+                  scope="external">SAF/AQCP</xref>
+by 28 February of each year. See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Consolidated
 Trend Analysis Report</xref> template.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

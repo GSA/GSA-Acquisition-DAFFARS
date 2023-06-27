@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5350_103-5">
-      <title><ph props="autonumber">5350.103-5</ph> Processing Cases</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5350_103-5">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5350.103-5</ph> Processing Cases</title>
       <conbody>
         <p outputclass="List1">(a) All requests for relief and all related
 documents, certifications, correspondence, reports, files, and a
@@ -12,4 +15,5 @@ contact with other military departments, or other departments or
 agencies of the Government, relative to the exercise of authority
 under Public Law 85-804.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

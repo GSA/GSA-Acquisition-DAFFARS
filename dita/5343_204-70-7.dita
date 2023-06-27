@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5343_204-70-7">
-      <title><ph props="autonumber">5343.204-70-7</ph> Plans and Reports</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5343_204-70-7">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5343.204-70-7</ph> Plans and Reports</title>
       <conbody>
 
         <p>To comply with the Consolidated UCA Management Plan and
 Semi-annual Consolidated UCA Management Report requirements
-described in <xref format="html" href="https://www.acquisition.gov/dfars/part-243-contract-modifications#DFARS_243.204_70_7" scope="external">DFARS
+described in <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-243-contract-modifications#DFARS_243.204_70_7"
+                  scope="external">DFARS
 243.204-70-7</xref>, SCOs are required to ensure unpriced change
 orders with an estimated value exceeding $5 million are
-input/updated in the <xref format="html" href="https://www.afcontracting.hq.af.mil/enterprise_metrics/index.cfm" scope="external">UCA
+input/updated in the <xref format="html"
+                  href="https://www.afcontracting.hq.af.mil/enterprise_metrics/index.cfm"
+                  scope="external">UCA
 Reporting tool</xref> on a semi-annual basis no later than April
 10<sup>th</sup> and October 10<sup>th</sup> of each year.
 Special access program offices will provide the information
 directly to the cognizant HCA, as appropriate.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

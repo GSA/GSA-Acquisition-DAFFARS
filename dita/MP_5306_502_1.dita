@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_MP_5306_502_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2">
-         <ph props="autonumber">1.Objectives.</ph> Objectives.</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5306_502_1"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">1.Objectives.</ph> Objectives.</title>
       <conbody>
          <p outputclass="Normal">The objective of the Air Force (AF) Competition and Commercial Advocacy Program is to promote and support full and open competition and commercial practices to the maximum extent possible. In addition to the requirements at FAR 6.501, Competition and Commercial Advocate(s) must:</p>
          <p outputclass="List1">1.1. Have extensive qualifications and knowledge of the types of acquisitions of the activity.</p>

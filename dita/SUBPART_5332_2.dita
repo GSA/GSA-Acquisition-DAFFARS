@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5332_2">
-      <title><ph props="autonumber">SUBPART 5332.2</ph> – COMMERCIAL
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5332_2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5332.2</ph> – COMMERCIAL
 PRODUCT AND COMMERCIAL SERVICE PURCHASE FINANCING</title>
       <body/>
       
-    </topic></dita>
+    </topic>
+</dita>

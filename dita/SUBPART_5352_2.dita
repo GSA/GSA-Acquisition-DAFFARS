@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5352_2">
-    <title><ph props="autonumber">SUBPART
-5352.2</ph> — TEXT OF PROVISIONS AND CLAUSES</title>
-    <body/>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5352_2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5352.2</ph> — TEXT OF PROVISIONS AND CLAUSES</title>
+      <body/>
     
     
     
@@ -14,4 +16,5 @@
     
     
     
-  </topic></dita>
+  </topic>
+</dita>

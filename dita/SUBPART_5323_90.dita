@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5323_90">
-    <title><ph props="autonumber">SUBPART
-5323.90</ph> — HEALTH AND SAFETY ON GOVERNMENT INSTALLATIONS</title>
-    <body/>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5323_90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5323.90</ph> — HEALTH AND SAFETY ON GOVERNMENT INSTALLATIONS</title>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

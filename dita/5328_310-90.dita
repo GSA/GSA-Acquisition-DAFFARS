@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5328_310-90">
-      <title><ph props="autonumber">5328.310-90</ph> Additional Contract
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5328_310-90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5328.310-90</ph> Additional Contract
 Clause</title>
       <conbody>
 
         <p>Contracts performed in Spain<b>.</b> The contracting
-officer must insert DAFFARS clause <xref format="html" href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_228_9101" scope="external">5352.228-9101</xref>,
+officer must insert DAFFARS clause <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_228_9101"
+                  scope="external">5352.228-9101</xref>,
 <i>Insurance Certificate Requirement in Spain (USAFE)</i>, in all
 solicitations and contracts for services to be performed in Spain
 by other than U.S. or Spanish contractors (i.e., a Third Country
 National (TCN) contractor).<ph id="Toc38365437"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

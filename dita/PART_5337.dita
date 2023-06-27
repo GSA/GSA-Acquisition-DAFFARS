@@ -1,15 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_PART_5337">
-  <title><ph props="autonumber">PART 5337</ph> -
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5337">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5337</ph> -
 Service Contracting</title>
-  <body>
-    <p>
-      <i>Revised: June 2023</i>
-    </p>
-  </body>
-  
-  
-  
-  
-</topic></dita>
+      <body>
+         <p>
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5337_1.dita#DAFFARS_SUBPART_5337_1">Subpart 5337.1 – SERVICE CONTRACTS (GENERAL)</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_102-70.dita#DAFFARS_5337_102-70">5337.102-70 Prohibition on Contracting for Firefighting or Security-Guard Functions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_104.dita#DAFFARS_5337_104">5337.104 Personal Services Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_106.dita#DAFFARS_5337_106">5337.106 Funding and Term of Service Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_113-1.dita#DAFFARS_5337_113-1">5337.113-1 Waiver of Cost Allowability Limitations</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_170-2.dita#DAFFARS_5337_170-2">5337.170-2 Approval Requirements</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5337_2.dita#DAFFARS_SUBPART_5337_2">Subpart 5337.2 – ADVISORY AND ASSISTANCE SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_204.dita#DAFFARS_5337_204">5337.204 Guidelines for Determining Availability of Personnel</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5337_5.dita#DAFFARS_SUBPART_5337_5">Subpart 5337.5 – MANAGEMENT AND OVERSIGHT OF SERVICE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_503.dita#DAFFARS_5337_503">5337.503 Agency-head Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_5337_74.dita#DAFFARS_SUBPART_5337_74">Subpart 5337.74 – SERVICES AT INSTALLATIONS BEING CLOSED</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5337_7401.dita#DAFFARS_5337_7401">5337.7401 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

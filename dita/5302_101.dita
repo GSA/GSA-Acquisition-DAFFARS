@@ -1,171 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5302_101">
-      <title><ph props="autonumber">5302.101</ph> Definitions</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5302_101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5302.101</ph> Definitions</title>
       <conbody>
         <p>
 
-          <b>"Acquisition Category (ACAT)"</b> means the
-category of a Defense acquisition program. See <xref format="html" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500085p.pdf?ver=2020-08-06-151441-153" scope="external">DoDI
+            <b>"Acquisition Category (ACAT)"</b> means the
+category of a Defense acquisition program. See <xref format="html"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500085p.pdf?ver=2020-08-06-151441-153"
+                  scope="external">DoDI
 5000.85, Appendix 3A</xref> .</p>
         <p>
 
-          <b>“Air Force Contracting Central
+            <b>“Air Force Contracting Central
 (AFCC)”</b> means the SAF/AQC SharePoint site collection
-at <xref format="html" href="https://usaf.dps.mil/sites/AFCC/SitePages/Home.aspx" scope="external">https://usaf.dps.mil/sites/AFCC/SitePages/Home.aspx</xref>
+at <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/SitePages/Home.aspx"
+                  scope="external">https://usaf.dps.mil/sites/AFCC/SitePages/Home.aspx</xref>
 that serves as the one-stop shop resource for the DAF contracting
 community. (Please note: this link requires CAC and is not
 available to all users.)</p>
         <p>
-          <b>“AFICC”</b> means the Air Force
+            <b>“AFICC”</b> means the Air Force
 Installation Contracting Center which is a Primary Subordinate Unit
 aligned to the Air Force Installation and Mission Support Center
 (AFIMSC).</p>
         <p>
 
-          <b>“AFPEO/CM – Services”</b> means
+            <b>“AFPEO/CM – Services”</b> means
 service acquisitions under the executive management and oversight
 of Air Force Program Executive Officer for Combat and Mission
-Support (AFPEO/CM) (see <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf" scope="external">DAFI
+Support (AFPEO/CM) (see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                  scope="external">DAFI
 63-138</xref>, <i>Acquisition of Services</i>).</p>
         <p>
-          <b>“Agency Head”</b> (see “Head of
+            <b>“Agency Head”</b> (see “Head of
 the Agency”)</p>
         <p>
-          <b>“ASAF(A)”</b> means the Assistant
+            <b>“ASAF(A)”</b> means the Assistant
 Secretary of the Air Force for Acquisition (SAF/AQ).</p>
         <p>
-          <b>“ASAF(SA&amp;I)”</b> means Assistant
+            <b>“ASAF(SA&amp;I)”</b> means Assistant
 Secretary of the Air Force for Space Acquisition and Integration
 (SAF/SQ).</p>
         <p>
 
-          <b>“Bridge Action”</b> means a
+            <b>“Bridge Action”</b> means a
 non-competitive action requiring a justification to include, but
-not limited to, a formal justification and approval (<xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_Subpart_6_3" scope="external">FAR
-6.3</xref> or <xref format="html" href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5" scope="external">13.5</xref>),
-limited sources justification (<xref format="html" href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4" scope="external">FAR
-8.4</xref>), and exception to fair opportunity (<xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5" scope="external">FAR
+not limited to, a formal justification and approval (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_Subpart_6_3"
+                  scope="external">FAR
+6.3</xref> or <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5"
+                  scope="external">13.5</xref>),
+limited sources justification (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-8#FAR_Subpart_8_4"
+                  scope="external">FAR
+8.4</xref>), and exception to fair opportunity (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_Subpart_16_5"
+                  scope="external">FAR
 16.5</xref>), to retain the current or similar product or services as
 a result of delay in the negotiation and award of a follow-on
-contract. Extension of services executed in accordance with <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_217_8" scope="external">FAR
+contract. Extension of services executed in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_217_8"
+                  scope="external">FAR
 52.217-8</xref>, Option to Extend Services, is not considered a bridge
 action, regardless of whether or not it was negotiated and included
 in the original contract, unless or until the total six (6) month
 extension allowed is exceeded.</p>
         <p>
-          <b>“Center”</b> means subordinate
+            <b>“Center”</b> means subordinate
 organizations to AFMC responsible for the
 “cradle-to-grave” oversight for aircraft, electronic
 systems, missiles and munitions, and discovery, development, and
 integration of warfighting technologies in air, space and cyber for
 the U.S. Air and Space Forces.</p>
         <p>
-          <b>"Chief of the Contracting Office (COCO)"</b> means
+            <b>"Chief of the Contracting Office (COCO)"</b> means
 the contracting official one level below the SCO or their deputies,
 unless specifically prohibited, or as designated by, the SCO.</p>
         <p>
-          <b>“Cognizant HCA Workflow”</b>
+            <b>“Cognizant HCA Workflow”</b>
 means—</p>
         <p>
-          <xref format="html" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">SAF.AQ.SAF-AQC.Workflow@us.af.mil</xref>
+            <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">SAF.AQ.SAF-AQC.Workflow@us.af.mil</xref>
 for DAS(C) or ADAS(C);</p>
         <p>
-          <xref format="html" href="mailto:smc.pkc.workflow@us.af.mil" scope="external">smc.pkc.workflow@us.af.mil</xref>
+            <xref format="html"
+                  href="mailto:smc.pkc.workflow@us.af.mil"
+                  scope="external">smc.pkc.workflow@us.af.mil</xref>
 for Director of Contracting, Space Systems Command (SSC);</p>
         <p>
-          <xref format="html" href="mailto:osd.pentagon.ousd-r-e.mbx.sda@mail.mil" scope="external">osd.pentagon.ousd-r-e.mbx.sda@mail.mil</xref>
+            <xref format="html"
+                  href="mailto:osd.pentagon.ousd-r-e.mbx.sda@mail.mil"
+                  scope="external">osd.pentagon.ousd-r-e.mbx.sda@mail.mil</xref>
 for Director, Space Development Agency (SDA); and</p>
         <p>
-          <xref format="html" href="mailto:SpRCO.DAF.Org@us.af.mil" scope="external">SpRCO.DAF.Org@us.af.mil</xref>
+            <xref format="html"
+                  href="mailto:SpRCO.DAF.Org@us.af.mil"
+                  scope="external">SpRCO.DAF.Org@us.af.mil</xref>
 for Director of Contracting, Space Rapid Capabilities Office
 (SpRCO).</p>
         <p>
-          <b>“DAS(C)”</b> means the Deputy Assistant
+            <b>“DAS(C)”</b> means the Deputy Assistant
 Secretary (Contracting) <b>(</b>SAF/AQC). The authority
 granted to DAS(C) may also be exercised by the Associate Deputy
 Assistant Secretary (Contracting) (ADAS(C).</p>
         <p>
 
-          <b>“Direct Reporting Unit (DRU)”</b> means
+            <b>“Direct Reporting Unit (DRU)”</b> means
 a subdivision of the Air Force, directly subordinate to the Chief
 of Staff, US Air Force or a subdivision of the Space Force directly
 subordinate to the Chief of Space Operations. A DRU performs a
 mission that does not fit into any of the MAJCOMs or FLDCOMs (see
-<xref format="html" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">AFI
+<xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
+                  scope="external">AFI
 38-101</xref>).</p>
         <p>
 
-          <b>“Enterprise”</b> means an acquisition
+            <b>“Enterprise”</b> means an acquisition
 solution that supports multiple organizations and for which a
 structured process of analyzing spending, agency needs and market
 dynamics is followed in order to define government requirements and
 acquisition options, and to find ways to improve category
 performance by reducing or redirecting demand, improving supplier
 performance, developing new partners/suppliers, and optimizing
-purchasing <xref format="html" href="https://hallways.cap.gsa.gov/system/files/CM%20and%20Best-in-Class-1536770181.docx" scope="external">channels</xref>.
+purchasing <xref format="html"
+                  href="https://hallways.cap.gsa.gov/system/files/CM%20and%20Best-in-Class-1536770181.docx"
+                  scope="external">channels</xref>.
 Enterprise acquisitions may employ existing multi-agency or
 Government-wide solutions, or new solutions executed by a DAF
 contracting unit that are aligned with Office of Management and
 Budget (OMB) and Category Management Leadership Council (CMLC)
-Spend Under Management (SUM) Tier 1 criteria (see <xref format="html" href="https://www.whitehouse.gov/wp-content/uploads/2019/03/M-19-13.pdf" scope="external">OMB
+Spend Under Management (SUM) Tier 1 criteria (see <xref format="html"
+                  href="https://www.whitehouse.gov/wp-content/uploads/2019/03/M-19-13.pdf"
+                  scope="external">OMB
 M-19-13</xref>).</p>
         <p>
-          <b>“Field Command (FLDCOM)”</b> means a
+            <b>“Field Command (FLDCOM)”</b> means a
 subdivision of the Space Force that is assigned a specific mission
 focus of the Space Force. FLDCOMs are directly subordinate to the
 Chief of Space Operations.</p>
         <p>
 
-          <b>“Field Operating Agency (FOA)”</b>
+            <b>“Field Operating Agency (FOA)”</b>
 means a subdivision of the Air Force, directly subordinate to a HQ
 USAF functional manager. A FOA performs field activities beyond the
-scope of any of the major commands (see <xref format="html" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">AFI
+scope of any of the major commands (see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
+                  scope="external">AFI
 38-101</xref>).</p>
         <p>
-          <b>"Head of the Agency"</b> means, unless the terms of
+            <b>"Head of the Agency"</b> means, unless the terms of
 a statute or delegation indicate that an action must be done by the
 Secretary of the Air Force (SecAF) or the Under Secretary of the
 Air Force (USecAF),—</p>
 
         <p>ASAF(A) for non-space systems and programs, including product
-support, for the Department of the Air Force, pursuant to <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external">
-            <u>HAF
+support, for the Department of the Air Force, pursuant to <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
+                  scope="external">
+               <u>HAF
 MD 1-10</u>
-          </xref>
-          <u>;</u> and</p>
+            </xref>
+            <u>;</u> and</p>
 
         <p>ASAF(SA&amp;I) for space systems and programs for the Department
-of the Air Force, pursuant to <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf" scope="external">HAF
+of the Air Force, pursuant to <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf"
+                  scope="external">HAF
 MD 1-17</xref>.</p>
         <p>
-          <b>“Head of the Contracting Activity
+            <b>“Head of the Contracting Activity
 (HCA)”</b> means—</p>
 
         <p>DAS(C) and ADAS(C) for the Department of the Air Force (except
-SSC, SDA and SpRCO), pursuant to <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external">HAF
+SSC, SDA and SpRCO), pursuant to <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
+                  scope="external">HAF
 MD-10</xref> ;</p>
-        <p>Director of Contracting, SSC for SSC, pursuant to <xref format="html" href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Memo%20for%20SSC_12%20Apr%202023.pdf?csf=1&amp;web=1&amp;e=FycaKU" scope="external">SAF/SQ
+        <p>Director of Contracting, SSC for SSC, pursuant to <xref format="html"
+                  href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Memo%20for%20SSC_12%20Apr%202023.pdf?csf=1&amp;web=1&amp;e=FycaKU"
+                  scope="external">SAF/SQ
 Designation</xref>;</p>
-        <p>Director, SDA for SDA, pursuant to <xref format="html" href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Designation%20SDA%2024%20Mar%2023.pdf?csf=1&amp;web=1&amp;e=sU8c0D" scope="external">SAF/SQ
+        <p>Director, SDA for SDA, pursuant to <xref format="html"
+                  href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Designation%20SDA%2024%20Mar%2023.pdf?csf=1&amp;web=1&amp;e=sU8c0D"
+                  scope="external">SAF/SQ
 Designation;</xref> and</p>
-        <p>Director of Contracting, SpRCO for SpRCO, pursuant to <xref format="html" href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Memo%20SpRCO_3%20May%202023.pdf?csf=1&amp;web=1&amp;e=LDXLEm" scope="external">SAF/SQ
+        <p>Director of Contracting, SpRCO for SpRCO, pursuant to <xref format="html"
+                  href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Delegations/HCA%20Memo%20SpRCO_3%20May%202023.pdf?csf=1&amp;web=1&amp;e=LDXLEm"
+                  scope="external">SAF/SQ
 Designation</xref>.</p>
         <p>
-          <b>"Installation Commander"</b> means an individual
+            <b>"Installation Commander"</b> means an individual
 who functions in a command position and is responsible for a base
 or other Department of the Air Force installation having a base
 contracting office.</p>
         <p>
 
-          <b>“Major Command (MAJCOM)”</b> means a
+            <b>“Major Command (MAJCOM)”</b> means a
 major subdivision of the Air Force that is assigned a major part of
 the Air Force mission. A MAJCOM is directly subordinate to
-Headquarters US Air Force (see <xref format="html" href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf" scope="external">
-            <u>AFI 38-101</u>
-          </xref>).</p>
+Headquarters US Air Force (see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/af_a1/publication/afi38-101/afi38-101.pdf"
+                  scope="external">
+               <u>AFI 38-101</u>
+            </xref>).</p>
         <p>
-          <b>“Mandatory Procedures (MP)”</b> means a
+            <b>“Mandatory Procedures (MP)”</b> means a
 companion resource to the DAFFARS that—</p>
         <p outputclass="List2">(1) Contains mandatory internal AF procedures. The DAFFARS will
 direct compliance with mandatory procedures using imperative
@@ -184,7 +233,7 @@ and</p>
         <p outputclass="List2">(4) Is available electronically as part of the DAFFARS document
 set on Acquisition.gov.</p>
         <p>
-          <b>“Operational”</b> means those
+            <b>“Operational”</b> means those
 contracting actions taken to meet the needs of installation
 commanders, DRUs, deployed commanders, and resident, tenant, and
 supported units. Operational contracting may be accomplished by
@@ -192,31 +241,41 @@ contracting squadrons, operational contracting offices, contracting
 divisions, or another organization entity designed to meet local
 needs.</p>
         <p>
-          <b>"Program Executive Officer (PEO)”</b> (see
+            <b>"Program Executive Officer (PEO)”</b> (see
 "PEO (Systems)" and “AFPEO/CM – Services”)
 </p>
         <p>
 
-          <b>"PEO (Systems)"</b> means acquisitions within a
-Systems PEO’s portfolio (see <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf" scope="external">AFI
-63-101/20-101</xref> and <xref format="html" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=0vzZVR1UG7nRmZKeGnSkHg%3d%3d" scope="external">DoDI
+            <b>"PEO (Systems)"</b> means acquisitions within a
+Systems PEO’s portfolio (see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                  scope="external">AFI
+63-101/20-101</xref> and <xref format="html"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=0vzZVR1UG7nRmZKeGnSkHg%3d%3d"
+                  scope="external">DoDI
 5000.02</xref>).</p>
         <p>
-          <b>“Quality Assurance Program Coordinator
+            <b>“Quality Assurance Program Coordinator
 (QAPC)”</b> means the individual selected in accordance
 with local procedures to coordinate and manage the Quality
 Assurance Program.</p>
         <p>
 
-          <b>“Quality Assurance Surveillance Plan
+            <b>“Quality Assurance Surveillance Plan
 (QASP)”</b> means the document government personnel use
-to assess contractor performance (see <xref format="html" href="https://www.acquisition.gov/far/part-46#FAR_46_401" scope="external">FAR
-46.401</xref>, <xref format="html" href="https://www.acquisition.gov/dfars/part-246-quality-assurance#DFARS-246.401" scope="external">DFARS
-246.401</xref>, and <xref format="html" href="https://www.acquisition.gov/dfars/part-237-service-contracting#DFARS-237.172" scope="external">DFARS
+to assess contractor performance (see <xref format="html"
+                  href="https://www.acquisition.gov/far/part-46#FAR_46_401"
+                  scope="external">FAR
+46.401</xref>, <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-246-quality-assurance#DFARS-246.401"
+                  scope="external">DFARS
+246.401</xref>, and <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-237-service-contracting#DFARS-237.172"
+                  scope="external">DFARS
 237.172</xref>).</p>
         <p id="SCO">
 
-          <b>“Senior Contracting Official
+            <b>“Senior Contracting Official
 (SCO)”</b> means the contracting official with overall
 responsibility for executing its delegated procurement authority
 for their designated cognizant areas of responsibility as denoted
@@ -225,223 +284,237 @@ deputy or technical director to a SCO may exercise any SCO
 authority unless restricted in the FAR, as supplemented (e.g.,
 individual authorized to execute a specific authority must be of a
 certain minimum grade/rank), or as specifically limited by the SCO.
-See <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf" scope="external">AFI
+See <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf"
+                  scope="external">AFI
 64-105</xref> Contingency Contracting Support, to identify SCOs for
 contingency operations.</p>
 
         <p>An expanded list of SCOs including names, contact information,
-and locations can be found on <xref format="html" href="https://usaf.dps.mil/sites/AFCC/Lists/POCs/AllItems.aspx?viewid=328ff265%2Ddfa2%2D44b2%2D8335%2D88fab2f1e5c2" scope="external">Air
+and locations can be found on <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/Lists/POCs/AllItems.aspx?viewid=328ff265%2Ddfa2%2D44b2%2D8335%2D88fab2f1e5c2"
+                  scope="external">Air
 Force Contracting Central</xref>. (Please note: this link requires CAC
 and is not available to all users.)</p>
         <table>
-          <tgroup cols="3">
-            <colspec colname="col1" colnum="1" colwidth="0.3*"/>
-            <colspec colname="col2" colnum="2" colwidth="1.1*"/>
-            <colspec colname="col3" colnum="3" colwidth="1.6*"/>
-            <tbody>
-              <row>
-                <entry/>
-                <entry>
-                  <b>SCO</b>
-                </entry>
-                <entry>
-                  <b>Designated Cognizant Area of Responsibility
+            <tgroup cols="3">
+               <colspec colname="col1" colnum="1" colwidth="0.3*"/>
+               <colspec colname="col2" colnum="2" colwidth="1.1*"/>
+               <colspec colname="col3" colnum="3" colwidth="1.6*"/>
+               <tbody>
+                  <row>
+                     <entry/>
+                     <entry>
+                        <b>SCO</b>
+                     </entry>
+                     <entry>
+                        <b>Designated Cognizant Area of Responsibility
 (Organization Type)</b>
-                </entry>
-              </row>
-              <row>
-                <entry>1</entry>
-                <entry>AFMC/PK</entry>
-                <entry>Air Force Material Command<sup>1</sup> (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>2</entry>
-                <entry>AFLCMC/PK</entry>
-                <entry>Air Force Life Cycle Management Center<sup>2</sup> (Center)</entry>
-              </row>
-              <row>
-                <entry>3</entry>
-                <entry>AFICC/CC</entry>
-                <entry>Air Force Installation Contracting Center<sup>3</sup>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>1</entry>
+                     <entry>AFMC/PK</entry>
+                     <entry>Air Force Material Command<sup>1</sup> (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>2</entry>
+                     <entry>AFLCMC/PK</entry>
+                     <entry>Air Force Life Cycle Management Center<sup>2</sup> (Center)</entry>
+                  </row>
+                  <row>
+                     <entry>3</entry>
+                     <entry>AFICC/CC</entry>
+                     <entry>Air Force Installation Contracting Center<sup>3</sup>
 (Center)</entry>
-              </row>
-              <row>
-                <entry>4</entry>
-                <entry>AFSC/PK</entry>
-                <entry>Air Force Sustainment Command<sup>4</sup> (Center)</entry>
-              </row>
-              <row>
-                <entry>5</entry>
-                <entry>AFRCO/PK</entry>
-                <entry>Air Force Rapid Capabilities Office (USAF DRU)</entry>
-              </row>
-              <row>
-                <entry>6</entry>
-                <entry>AFDW/PK</entry>
-                <entry>Air Force District of Washington (USAF DRU)</entry>
-              </row>
-              <row>
-                <entry>7</entry>
-                <entry>AFLCMC/PK Eglin OL</entry>
-                <entry>Air Force Life Cycle Management Center – OL Eglin
+                  </row>
+                  <row>
+                     <entry>4</entry>
+                     <entry>AFSC/PK</entry>
+                     <entry>Air Force Sustainment Command<sup>4</sup> (Center)</entry>
+                  </row>
+                  <row>
+                     <entry>5</entry>
+                     <entry>AFRCO/PK</entry>
+                     <entry>Air Force Rapid Capabilities Office (USAF DRU)</entry>
+                  </row>
+                  <row>
+                     <entry>6</entry>
+                     <entry>AFDW/PK</entry>
+                     <entry>Air Force District of Washington (USAF DRU)</entry>
+                  </row>
+                  <row>
+                     <entry>7</entry>
+                     <entry>AFLCMC/PK Eglin OL</entry>
+                     <entry>Air Force Life Cycle Management Center – OL Eglin
 (Operating Location)</entry>
-              </row>
-              <row>
-                <entry>8</entry>
-                <entry>AFLCMC/PK Hanscom OL</entry>
-                <entry>Air Force Life Cycle Management Center – OL Hanscom
+                  </row>
+                  <row>
+                     <entry>8</entry>
+                     <entry>AFLCMC/PK Hanscom OL</entry>
+                     <entry>Air Force Life Cycle Management Center – OL Hanscom
 (Operating Location)</entry>
-              </row>
-              <row>
-                <entry>9</entry>
-                <entry>AFNWC/PK</entry>
-                <entry>Air Force Nuclear Warfare Center (Center)</entry>
-              </row>
-              <row>
-                <entry>10</entry>
-                <entry>AFRC/PK</entry>
-                <entry>Air Force Reserve Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>11</entry>
-                <entry>AFRL/PK</entry>
-                <entry>Air Force Research Laboratory (Center)</entry>
-              </row>
-              <row>
-                <entry>12</entry>
-                <entry>AFSC/PK Hill OL</entry>
-                <entry>Air Force Sustainment Center – Hill OL (Operating
+                  </row>
+                  <row>
+                     <entry>9</entry>
+                     <entry>AFNWC/PK</entry>
+                     <entry>Air Force Nuclear Warfare Center (Center)</entry>
+                  </row>
+                  <row>
+                     <entry>10</entry>
+                     <entry>AFRC/PK</entry>
+                     <entry>Air Force Reserve Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>11</entry>
+                     <entry>AFRL/PK</entry>
+                     <entry>Air Force Research Laboratory (Center)</entry>
+                  </row>
+                  <row>
+                     <entry>12</entry>
+                     <entry>AFSC/PK Hill OL</entry>
+                     <entry>Air Force Sustainment Center – Hill OL (Operating
 Location)</entry>
-              </row>
-              <row>
-                <entry>13</entry>
-                <entry>AFSC/PK Robins OL</entry>
-                <entry>Air Force Sustainment Center – Robins OL (Operating
+                  </row>
+                  <row>
+                     <entry>13</entry>
+                     <entry>AFSC/PK Robins OL</entry>
+                     <entry>Air Force Sustainment Center – Robins OL (Operating
 Location)</entry>
-              </row>
-              <row>
-                <entry>14</entry>
-                <entry>AFTC/PK</entry>
-                <entry>Air Force Test Center (Center), Air Force Operational Test and
+                  </row>
+                  <row>
+                     <entry>14</entry>
+                     <entry>AFTC/PK</entry>
+                     <entry>Air Force Test Center (Center), Air Force Operational Test and
 Evaluation Center (USAF DRU)</entry>
-              </row>
-              <row>
-                <entry>15</entry>
-                <entry>Chief, Contracts, SDA</entry>
-                <entry>Space Development Agency (USSF DRU)</entry>
-              </row>
-              <row>
-                <entry>16</entry>
-                <entry>Director of Contracting, SpRCO</entry>
-                <entry>Space Rapid Capabilities Office <sup>5</sup> (USSF DRU)</entry>
-              </row>
-              <row>
-                <entry>17</entry>
-                <entry>SSC/PK</entry>
-                <entry>Space Systems Command<sup>6</sup> (FLDCOM)</entry>
-              </row>
-              <row>
-                <entry>18</entry>
-                <entry>AFICC/KF</entry>
-                <entry>U.S. Air Force Academy, CO (DRU)</entry>
-              </row>
-              <row>
-                <entry>19</entry>
-                <entry>AFICC/KC</entry>
-                <entry>Air Combat Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>20</entry>
-                <entry>AFICC/KG</entry>
-                <entry>Global Strike Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>21</entry>
-                <entry>AFICC/KM</entry>
-                <entry>Air Mobility Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>22</entry>
-                <entry>AFICC/KO</entry>
-                <entry>Air Force Special Operations Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>23</entry>
-                <entry>AFICC/KS</entry>
-                <entry>Space Operations Command (FLDCOM), Space Training and Readiness
+                  </row>
+                  <row>
+                     <entry>15</entry>
+                     <entry>Chief, Contracts, SDA</entry>
+                     <entry>Space Development Agency (USSF DRU)</entry>
+                  </row>
+                  <row>
+                     <entry>16</entry>
+                     <entry>Director of Contracting, SpRCO</entry>
+                     <entry>Space Rapid Capabilities Office <sup>5</sup> (USSF DRU)</entry>
+                  </row>
+                  <row>
+                     <entry>17</entry>
+                     <entry>SSC/PK</entry>
+                     <entry>Space Systems Command<sup>6</sup> (FLDCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>18</entry>
+                     <entry>AFICC/KF</entry>
+                     <entry>U.S. Air Force Academy, CO (DRU)</entry>
+                  </row>
+                  <row>
+                     <entry>19</entry>
+                     <entry>AFICC/KC</entry>
+                     <entry>Air Combat Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>20</entry>
+                     <entry>AFICC/KG</entry>
+                     <entry>Global Strike Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>21</entry>
+                     <entry>AFICC/KM</entry>
+                     <entry>Air Mobility Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>22</entry>
+                     <entry>AFICC/KO</entry>
+                     <entry>Air Force Special Operations Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>23</entry>
+                     <entry>AFICC/KS</entry>
+                     <entry>Space Operations Command (FLDCOM), Space Training and Readiness
 Command (FLDCOM)</entry>
-              </row>
-              <row>
-                <entry>24</entry>
-                <entry>AFICC/KH</entry>
-                <entry>Pacific Air Forces (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>25</entry>
-                <entry>AFICC/KQ</entry>
-                <entry>Air Forces Northern<sup>7</sup> (Air Component for Combatant
+                  </row>
+                  <row>
+                     <entry>24</entry>
+                     <entry>AFICC/KH</entry>
+                     <entry>Pacific Air Forces (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>25</entry>
+                     <entry>AFICC/KQ</entry>
+                     <entry>Air Forces Northern<sup>7</sup> (Air Component for Combatant
 Command)</entry>
-              </row>
-              <row>
-                <entry>26</entry>
-                <entry>AFICC/KT</entry>
-                <entry>Air Force Education and Training Command (MAJCOM)</entry>
-              </row>
-              <row>
-                <entry>27</entry>
-                <entry>AFICC/KU</entry>
-                <entry>United States Air Forces in Europe (MAJCOM)</entry>
-              </row>
-            </tbody>
-          </tgroup>
+                  </row>
+                  <row>
+                     <entry>26</entry>
+                     <entry>AFICC/KT</entry>
+                     <entry>Air Force Education and Training Command (MAJCOM)</entry>
+                  </row>
+                  <row>
+                     <entry>27</entry>
+                     <entry>AFICC/KU</entry>
+                     <entry>United States Air Forces in Europe (MAJCOM)</entry>
+                  </row>
+               </tbody>
+            </tgroup>
         </table>
         <p>NOTES:</p>
         <ol>
-          <li>AFMC/PK acts as SCO for any AFMC procuring organization without
+            <li>AFMC/PK acts as SCO for any AFMC procuring organization without
 a SCO designated on the above table and acts in the absence of an
 AFMC Center SCO or designee.</li>
-          <li>AFLCMC/PK acts as SCO for any AFLCMC procuring organization
+            <li>AFLCMC/PK acts as SCO for any AFLCMC procuring organization
 without a SCO designated on the above table and acts in the absence
 of a AFLCMC Operating Location SCO or designee.</li>
-          <li>AFICC/CC acts as SCO for any AFICC procuring organization
+            <li>AFICC/CC acts as SCO for any AFICC procuring organization
 without a SCO designated on the above table and acts in the absence
 of a AFICC Operating Location SCO or designee.</li>
-          <li>AFSC/PK acts as SCO for any AFSC procuring organization without
+            <li>AFSC/PK acts as SCO for any AFSC procuring organization without
 a SCO designated on the above table and acts in the absence of a
 AFSC Operating Location SCO or designee.</li>
-          <li>Director of Contracting, SpRCO performs the functions of the
+            <li>Director of Contracting, SpRCO performs the functions of the
 SCO for SpRCO.</li>
-          <li>SSC/PK performs the functions of the SCO for SSC.</li>
-          <li>AFICC/KQ is designated SCO for procuring organizations and
+            <li>SSC/PK performs the functions of the SCO for SSC.</li>
+            <li>AFICC/KQ is designated SCO for procuring organizations and
 contracting officers temporarily under the tactical control of Air
 Forces Northern within the U.S. Northern Command area of
 responsibility.</li>
         </ol>
         <p>
 
-          <b>“Senior Procurement Executive
-(SPE)”</b> means ASAF(A), pursuant to <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external">HAF
+            <b>“Senior Procurement Executive
+(SPE)”</b> means ASAF(A), pursuant to <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
+                  scope="external">HAF
 MD 1-10</xref>. ASAF(SA&amp;I) discharges assigned duties and
 authorities of the SPE for DAF space systems and programs, pursuant
-to <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf" scope="external">HAF
+to <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf"
+                  scope="external">HAF
 MD 1-17</xref>.</p>
         <p>
-          <b>“Service Acquisition Executive
+            <b>“Service Acquisition Executive
 (SAE)”</b> means—</p>
 
         <p>ASAF(A) for non-space systems and programs, including product
-support, for the Department of the Air Force, pursuant to <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf" scope="external">HAF
+support, for the Department of the Air Force, pursuant to <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/hafmd1-10/hafmd1-10.pdf"
+                  scope="external">HAF
 MD 1-10</xref>; and</p>
 
         <p>ASAF(SA&amp;I) for space systems and programs for the Department
-of the Air Force, pursuant to <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf" scope="external">HAF
+of the Air Force, pursuant to <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_sq/publication/hafmd1-17/hafmd1-17.pdf"
+                  scope="external">HAF
 MD 1-17</xref>.</p>
         <p>
 
-          <b>“Services Designated Official
+            <b>“Services Designated Official
 (SDO)”</b> means the individual designated to exercise
 responsibility for the management and oversight of the acquisition
-of contract services (see <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf" scope="external">DAFI
+of contract services (see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                  scope="external">DAFI
 63-138</xref>, <i>Acquisition of Services</i>).</p>
         <p>“<b>Tactics, Techniques, and Procedures
 (TTP)</b>” means a companion resource to the DAFFARS
@@ -454,8 +527,11 @@ guidance, and supplemental information to be used at the discretion
 of the contracting officer;</p>
         <p outputclass="List2">(3) Is not regulated by policy; rather is a living
 document shaped by acquisition community input; and</p>
-        <p outputclass="List2">(4) Is available electronically within the <xref format="html" href="https://dod.teams.microsoft.us/l/team/19%3adod%3a76888714f0cb40ed92e401c29324a647%40thread.skype/conversations?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4" scope="external">DAF
+        <p outputclass="List2">(4) Is available electronically within the <xref format="html"
+                  href="https://dod.teams.microsoft.us/l/team/19%3adod%3a76888714f0cb40ed92e401c29324a647%40thread.skype/conversations?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4"
+                  scope="external">DAF
 Contracting TTP Team</xref> SharePoint site. (Please note: this link
 requires CAC and is not available to all users.)</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

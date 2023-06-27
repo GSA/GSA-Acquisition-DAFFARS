@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5310_002">
-    <title><ph props="autonumber">5310.002</ph> Procedures</title>
-    <conbody>
-      <p>See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">templates</xref>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5310_002">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5310.002</ph> Procedures</title>
+      <conbody>
+         <p>See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">templates</xref>
 for documenting market research conducted.</p>
-    </conbody>
-  </concept></dita>
+      </conbody>
+  </concept>
+</dita>

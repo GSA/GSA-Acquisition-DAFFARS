@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5307_104-91">
-      <title><ph props="autonumber">5307.104-91</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5307_104-91">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5307.104-91</ph> 
 Changes</title>
       <conbody>
         <p id="Toc38284639">If a change occurs to the program/acquisition that significantly
@@ -10,4 +13,5 @@ the contracting officer must prepare a revised AP and a statement
 that summarizes the changes and obtain the approval from the
 appropriate approval authority. </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

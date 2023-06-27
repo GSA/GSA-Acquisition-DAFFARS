@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <topic base="NoTitle" id="DAFFARS_MP5315_3" ditaarch:DITAArchVersion="1.3">
-      <title id="PdVGHG" outputclass="Subpart">
-         <ph id="PQzieP" props="autonumber">MP5315.3</ph> Source Selection</title>
+      <title class="- topic/title " id="PdVGHG" outputclass="Subpart">
+         <ph class="- topic/ph " id="PQzieP" props="autonumber">MP5315.3</ph> Source Selection</title>
    </topic>
 </dita>

@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5309_507-2">
-      <title><ph props="autonumber">5309.507-2</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5309_507-2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5309.507-2</ph> 
 Solicitation Provisions and Contract Clause</title>
       <conbody>
-        <p outputclass="List1">(a) In accordance with <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_507_2" scope="external">FAR
-9.507-2</xref>, insert the clause at <xref format="html" href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_209_9000" scope="external">DAFFARS
+        <p outputclass="List1">(a) In accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_507_2"
+                  scope="external">FAR
+9.507-2</xref>, insert the clause at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_209_9000"
+                  scope="external">DAFFARS
 5352.209-9000</xref>, <i>Organizational Conflict of Interest</i>,
 substantially as written, in Section I when the contractor's
 eligibility for future prime contract or subcontract awards shall
-be restricted because of services being provided as stated in <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_505_1" scope="external">FAR
+be restricted because of services being provided as stated in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_505_1"
+                  scope="external">FAR
 9.505-1 through -4.</xref>
         </p>
         <p outputclass="List2">(1) Insert the basic clause when the contractor
 will be providing systems engineering and/or technical direction.
-See <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_505_1" scope="external">FAR
+See <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_505_1"
+                  scope="external">FAR
 9.505-1</xref>.</p>
         <p id="P82_4402" outputclass="List2">(2) Insert the clause with its Alternate I when
 the contractor will be preparing specifications or work statements.
-See <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_505_2" scope="external">FAR
+See <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_505_2"
+                  scope="external">FAR
 9.505-2</xref>.</p>
         <p outputclass="List2">(3) Insert the clause with its Alternate II when
 the contractor will be providing technical evaluation or advisory
-and assistance services. See <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_505_3" scope="external">FAR
+and assistance services. See <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_505_3"
+                  scope="external">FAR
 9.505-3</xref>.</p>
         <p outputclass="List2">(4) Insert the clause with its Alternate III when
 the contractor will be obtaining access to proprietary information.
-See <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_505_4" scope="external">FAR
+See <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_505_4"
+                  scope="external">FAR
 9.505-4</xref>.</p>
         <p outputclass="List2">(5) Insert the clause with its Alternate IV when
 the contract is a task ordering contract and when more than one
@@ -43,10 +60,15 @@ shall apply.</p>
 necessary to have the restrictions of this clause included in all
 or some subcontracts, teaming arrangements, and other agencies
 calling for performance of work related to the contract.</p>
-        <p outputclass="List1">(b) As prescribed in <xref format="html" href="https://www.acquisition.gov/far/part-9#FAR_9_507_1" scope="external">FAR
-9.507-1</xref>, insert in Section L the provision at <xref format="html" href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_209_9001" scope="external">DAFFARS
+        <p outputclass="List1">(b) As prescribed in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-9#FAR_9_507_1"
+                  scope="external">FAR
+9.507-1</xref>, insert in Section L the provision at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_209_9001"
+                  scope="external">DAFFARS
 5352.209-9001</xref>, <i>Potential Organizational Conflict of
 lnterest</i>, substantially as written.<ph id="Toc38284480"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

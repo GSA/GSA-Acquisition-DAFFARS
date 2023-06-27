@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5304_403">
-      <title><ph props="autonumber">5304.403</ph>
+<dita>
+   <concept id="DAFFARS_5304_403">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.403</ph> 
 Responsibilities of Contracting Officers</title>
       <conbody>
-        <p outputclass="List1">(a) In accordance with the <xref format="html" href="https://www.acquisition.gov/far/part-4#FAR_Subpart_4_4" scope="external">FAR
+        <p outputclass="List1">(a) In accordance with the <xref format="html"
+                  href="https://www.acquisition.gov/far/part-4#FAR_Subpart_4_4"
+                  scope="external">FAR
 part 4.4</xref>, the contracting officer is responsible for reviewing
 all proposed solicitations to determine whether access to
 classified information may be required by offerors or by a
@@ -15,8 +19,12 @@ contractor during contract performance.</p>
 program managers, project managers, or other personnel
 knowledgeable of the contract requirements to perform this
 responsibility.</p>
-        <p outputclass="List1">(c) The Contracting Officer will, in accordance with <xref format="html" href="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117" scope="external">32
-CFR Part 117</xref> and <xref format="html" href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodm5220.22v2_afman16-1406v2/dodm5220.22v2_afman16-1406v2.pdf" scope="external">DAFMAN
+        <p outputclass="List1">(c) The Contracting Officer will, in accordance with <xref format="html"
+                  href="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+                  scope="external">32
+CFR Part 117</xref> and <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodm5220.22v2_afman16-1406v2/dodm5220.22v2_afman16-1406v2.pdf"
+                  scope="external">DAFMAN
 16-1406V2</xref>, National Industrial Security Program: Industrial
 Security Procedures for Government Activities:</p>
         <p>i. Verify the vendor’s facility clearance status and
@@ -27,7 +35,9 @@ ii. Submit a facility clearance sponsorship request to the Defense
 Counterintelligence and Security Agency (DCSA) using NISS, unless
 otherwise delegated.</p>
         <p>
-iii. Include the security requirements clause, <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_204_2" scope="external">FAR
+iii. Include the security requirements clause, <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
+                  scope="external">FAR
 52.204-2</xref> and the Department of Defense Contact Security
 Classification Specification (DD Form 254) if access to classified
 information is required during the solicitation phase or award
@@ -81,7 +91,9 @@ Invalidation/Intent to Revoke) and/or receipt of a contractor being
 issued a less than satisfactory security review rating issued by
 DCSA, coordinate all potential contracting actions with the program
 office and/or affected government customer(s) personnel to ensure
-vendor mitigates all reported instances of non-compliance with <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_204_2" scope="external">FAR
+vendor mitigates all reported instances of non-compliance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
+                  scope="external">FAR
 52.204-2</xref>, as applicable.</p>
         <p>
 (d) National Interest Determination (NID)</p>

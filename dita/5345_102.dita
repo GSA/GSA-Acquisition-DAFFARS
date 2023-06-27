@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5345_102">
-      <title><ph props="autonumber">5345.102</ph> Policy</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5345_102">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5345.102</ph> Policy</title>
       <conbody>
-        <p outputclass="List1">(e) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
-        <p outputclass="List1">(4)(ii)(B) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>
+        <p outputclass="List1">(e) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
+        <p outputclass="List1">(4)(ii)(B) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>
         </p>
-        <p outputclass="List2">(4)(ii)(C)<i>(1)(i)</i> See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>
+        <p outputclass="List2">(4)(ii)(C)<i>(1)(i)</i> See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>
         </p>
         <p outputclass="List3">
-          <i>(ii)</i> See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.
+            <i>(ii)</i> See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

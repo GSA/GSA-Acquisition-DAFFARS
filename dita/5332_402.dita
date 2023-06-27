@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5332_402">
-        <title><ph props="autonumber">5332.402</ph> General</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5332_402">
+        <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5332.402</ph> General</title>
         <conbody>
-          <p outputclass="List1">(c)(1)(iii) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+          <p outputclass="List1">(c)(1)(iii) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
           <p outputclass="List1">(e)(2) The contracting officer must submit each
-advance payment request through the SCO to the <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101" scope="external">cognizant
-HCA Workflow</xref> for submission to <xref format="html" href="mailto:SAF.FMF.Workflow@us.af.mil" scope="external">SAF/FMF</xref> for review and
-approval. See <xref format="html" href="https://www.acquisition.gov/daffars/mp5332-contract-financing#DAFFARS_MP5332_470" scope="external">MP5332.470</xref>
+advance payment request through the SCO to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
+                  scope="external">cognizant
+HCA Workflow</xref> for submission to <xref format="html"
+                  href="mailto:SAF.FMF.Workflow@us.af.mil"
+                  scope="external">SAF/FMF</xref> for review and
+approval. See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5332-contract-financing#DAFFARS_MP5332_470"
+                  scope="external">MP5332.470</xref>
 for processing advance payment requests.<ph id="Toc38365446"/>
           </p>
         </conbody>
-      </concept></dita>
+      </concept>
+</dita>

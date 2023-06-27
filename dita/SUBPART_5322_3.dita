@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5322_3">
-    <title><ph props="autonumber">SUBPART 5322.3</ph> — CONTRACT WORK
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5322_3">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5322.3</ph> — CONTRACT WORK
 HOURS AND SAFETY STANDARDS STATUTE</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

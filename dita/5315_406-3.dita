@@ -1,24 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5315_406-3">
-      <title><ph props="autonumber">5315.406-3</ph> Documenting the Negotiation</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5315_406-3">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5315.406-3</ph> Documenting the Negotiation</title>
       <conbody>
-        <p outputclass="List1">(a) See the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Price
+        <p outputclass="List1">(a) See the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Price
 Negotiation Memorandum (PNM) Checklist</xref> that may be used to
 ensure PNMs contain all required information. For contract actions
-valued below the <xref format="html" href="https://www.acquisition.gov/far/part-15#FAR_15_403_4" scope="external">Truthful
+valued below the <xref format="html"
+                  href="https://www.acquisition.gov/far/part-15#FAR_15_403_4"
+                  scope="external">Truthful
 Cost or Pricing Data threshold</xref>, the AF Streamlined PNM Format
-for <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/streamlined_pnm_SUPPLIES.docx" scope="external">supplies</xref>
-or <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/streamlined_pnm_SERVICES.docx" scope="external">services</xref>
+for <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/streamlined_pnm_SUPPLIES.docx"
+                  scope="external">supplies</xref>
+or <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/streamlined_pnm_SERVICES.docx"
+                  scope="external">services</xref>
 is available for use. If the value of the contract action exceeds
 the Truthful Cost or Pricing Data threshold and no exception to the
 Truthful Cost or Pricing Data threshold applies, pricing
 documentation is expected to address the cost element composition
 of the proposed, objective, and negotiated positions at an
 appropriate level of detail based on the value and complexity of
-the pricing action. The <xref format="html" href="https://usaf.dps.mil/sites/AFCC/knowledgecenter/contracting_templates/final_PNM.docx" scope="external">final
-PNM template</xref> and streamlined PNM templates for <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">supplies</xref>
-or <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">services</xref>
+the pricing action. The <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/knowledgecenter/contracting_templates/final_PNM.docx"
+                  scope="external">final
+PNM template</xref> and streamlined PNM templates for <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">supplies</xref>
+or <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">services</xref>
 may be tailored for use.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

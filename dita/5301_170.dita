@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5301_170">
-      <title><ph props="autonumber">5301.170</ph> Peer Reviews</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_170">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5301.170</ph> Peer Reviews</title>
       <conbody>
         <p outputclass="List1">(a) <i>DPC Peer Reviews.</i>
         </p>
         <p outputclass="List2">(2) To facilitate planning for and execution of
-DoD Peer Reviews (see <xref format="html" href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170" scope="external">DFARS
+DoD Peer Reviews (see <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170"
+                  scope="external">DFARS
 201.170</xref> for applicable competitive and noncompetitive
-thresholds), the SCO must use the <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx" scope="external">Peer
+thresholds), the SCO must use the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
+                  scope="external">Peer
 Review and Clearance Forecasting Tool</xref> to submit quarterly peer
 review forecasts by the 15<sup>th</sup> of March, June, September,
 and December each year. SAF/AQC will submit a consolidated forecast
@@ -20,10 +27,15 @@ as appropriate, regarding clearance.</p>
         <p outputclass="List1">(b) Component Peer Reviews. Pre-award peer reviews
 of solicitations for competitive procurements and pre-award peer
 reviews for non-competitive procurements not subject to the
-requirements of <xref format="html" href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170" scope="external">DFARS
+requirements of <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170"
+                  scope="external">DFARS
 201.170(a)(1)(i) or (ii)</xref> must be accomplished by complying with
-the clearance requirements in <xref format="html" href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_90" scope="external">DAFFARS
+the clearance requirements in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_90"
+                  scope="external">DAFFARS
 5301.90</xref>.<ph id="Toc351646714"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

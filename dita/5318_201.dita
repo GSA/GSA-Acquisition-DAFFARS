@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5318_201">
-      <title><ph props="autonumber">5318.201</ph> Contingency Operation</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5318_201">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5318.201</ph> Contingency Operation</title>
       <conbody>
         <p outputclass="List1">(b) <i>Micro-purchase threshold</i>. For
 delegation of HCA responsibility regarding micro-purchases of
 supplies or services to be used in support of a contingency
-operation, see <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+operation, see <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
         <p outputclass="List1">(c) <i>Simplified acquisition threshold</i>. For
 delegation of HCA responsibility regarding an increase in
-simplified acquisition threshold, see <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>.</p>
+simplified acquisition threshold, see <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
         <p outputclass="List2">(1) <i>Selection, appointment, and termination of
 appointment.</i> Requirements for the selection, appointment and
-termination of CCOs are described in DAFFARS <xref format="html" href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_603_2_90" scope="external">5301.603-2-90</xref>.</p>
+termination of CCOs are described in DAFFARS <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_603_2_90"
+                  scope="external">5301.603-2-90</xref>.</p>
 
         <p>(S-90) For Air Force Contingency readiness policies,
-responsibilities, and implementing procedures, see <xref format="html" href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf" scope="external">AFI
+responsibilities, and implementing procedures, see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf"
+                  scope="external">AFI
 64-105</xref>, <i>Contingency Contracting Support</i>.</p>
 
         <p>(S-91) Assign and maintain DoD Activity Address Codes (DoDAAC)
 for deployed forces within the area of responsibility, as required.
-See <xref format="html" href="https://www.acquisition.gov/daffars/part-5304-administrative-matters#DAFFARS_5304_7003_90" scope="external">DAFFARS
+See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5304-administrative-matters#DAFFARS_5304_7003_90"
+                  scope="external">DAFFARS
 5304.7003-90</xref>.</p>
-        <p outputclass="List2">(2) See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)((i)</xref>.<ph id="Toc38293662"/>
+        <p outputclass="List2">(2) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)((i)</xref>.<ph id="Toc38293662"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

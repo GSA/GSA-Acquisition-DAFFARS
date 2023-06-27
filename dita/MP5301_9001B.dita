@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_MP5301_9001B" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2">
-         <ph props="autonumber">MP5301.9001b</ph> (B) Business Clearance Approval for Competitive Actions</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">MP5301.9001b</ph> (B) Business Clearance Approval for Competitive Actions</title>
       <conbody>
          <p id="qFCVLg" outputclass="List5">
-            <i>(1)</i> The contracting officer will submit notifications to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+            <i>(1)</i> The contracting officer will submit notifications to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref> thirty days prior to the anticipated Business Clearance Session with the DAS(C)/ADAS(C).</p>
          <p id="mh58d1r8" outputclass="List5">
-            <i>(2)</i> No later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
+            <i>(2)</i> No later than 10 business days prior to the desired Business Clearance Session, the contracting officer will forward the following documents through the SCO to <xref format="mailto"
+                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                  scope="external">
                <u>SAF/AQC</u>
             </xref>:</p>
          <p id="uBKYhi" outputclass="List6">

@@ -1,32 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5316_505">
-      <title><ph props="autonumber">5316.505</ph> Ordering</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5316_505">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5316.505</ph> Ordering</title>
       <conbody>
         <p outputclass="List1">(b) <i>Orders under multiple award
 contracts</i>.</p>
         <p outputclass="List2">(1) <i>Fair opportunity</i>.</p>
         <p outputclass="List3">(ii) The contracting officer must use streamlined
-ordering procedures. SCOs must justify the use of <xref format="html" href="https://www.acquisition.gov/far/part-15#FAR_Subpart_15_3" scope="external">FAR
+ordering procedures. SCOs must justify the use of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-15#FAR_Subpart_15_3"
+                  scope="external">FAR
 15.3</xref> Source Selection Procedures for any contract or task-order
 or delivery-order, regardless of dollar value made in accordance
-with <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_16_505" scope="external">FAR
-16.505</xref>. The SCO must submit justifications to the <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms" scope="external">cognizant
+with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_505"
+                  scope="external">FAR
+16.505</xref>. The SCO must submit justifications to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">cognizant
 HCA Workflow</xref> before proceeding with the source selection and/or
 Clearance session.</p>
         <p outputclass="List2">(2) <i>Exceptions to the fair opportunity
-process</i>. See <xref format="html" href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_304" scope="external">DAFFARS
+process</i>. See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_304"
+                  scope="external">DAFFARS
 5306.304(a)</xref> for the approving officials for a proposed
 task-order or delivery-order using the fair opportunity exceptions
-at <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_16_505" scope="external">FAR
-16.505(b)(2)</xref>. See the tailorable <xref format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" scope="external">Justification
+at <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_505"
+                  scope="external">FAR
+16.505(b)(2)</xref>. See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Justification
 for an Exception to Fair Opportunity</xref> template. For exceptions
 to fair opportunity that are intended for purposes of awarding a
-“Bridge Action” see <xref format="html" href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_303_1_90" scope="external">DAFFARS
+“Bridge Action” see <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_303_1_90"
+                  scope="external">DAFFARS
 5306.303-1-90</xref>.</p>
         <p outputclass="List2">(8) <i>Task-order and delivery-order
-ombudsman</i>. See <xref format="html" href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_91" scope="external">DAFFARS
+ombudsman</i>. See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_91"
+                  scope="external">DAFFARS
 5301.91</xref>.<ph id="Toc351650167"/>
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5319_14">
-    <title><ph props="autonumber">SUBPART 5319.14</ph> – SERVICE-DISABLED
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5319_14">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5319.14</ph> – SERVICE-DISABLED
 VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM</title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

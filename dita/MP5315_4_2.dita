@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_MP5315_4_2" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 2">
-         <ph props="autonumber">2.</ph> Requesting data/documentation after receipt of the proposal.</title>
+      <title class="- topic/title " outputclass="Heading 2">
+         <ph class="- topic/ph " props="autonumber">2.</ph> Requesting data/documentation after receipt of the proposal.</title>
       <conbody>
          <p id="TsSPqF" outputclass="List1">a. A contracting officer request for supporting data/documentation from a contractor (whether verbally or in writing) after proposal receipt, must clearly state what data/documentation is needed and when it should be provided.</p>
          <p id="aELWNv" outputclass="List1">b. If requested data/documentation is not readily available because of extenuating circumstances (e.g., data that did not form the basis of the contractor's proposal), the contracting officer and the contractor should agree in writing as to a reasonable time for submittal of data.</p>
          <p id="ZpeYSb" outputclass="List1">c. Where system generated data is to be provided, the contracting officer should review the data fields to be reported before the data is generated to ensure a common understanding of what is needed. Inform the contractor that all data requests will be tracked and will be considered open action items until the Government concurs that the data has been received and is complete.</p>
-         <p id="XvSauK" outputclass="List1">d. If the data is not provided by the requested date or, if applicable, the agreed-to-date, and an acceptable resolution cannot be achieved, the contracting officer must elevate the issue to appropriate senior contracting management for both the Government and the contractor until an appropriate resolution is reached. The contracting officer must document the outcome of the elevation process in writing to include any revised dates for receipt of requested data/documentation. See the <xref format="html" href="https://www.dau.mil/tools/t/DoD-Sole-Source-Streamlining-Toolbox" scope="external">
+         <p id="XvSauK" outputclass="List1">d. If the data is not provided by the requested date or, if applicable, the agreed-to-date, and an acceptable resolution cannot be achieved, the contracting officer must elevate the issue to appropriate senior contracting management for both the Government and the contractor until an appropriate resolution is reached. The contracting officer must document the outcome of the elevation process in writing to include any revised dates for receipt of requested data/documentation. See the <xref format="html"
+                  href="https://www.dau.mil/tools/t/DoD-Sole-Source-Streamlining-Toolbox"
+                  scope="external">
                <u>DoD Sole Source Streamlining Tool Box</u>
             </xref> for the recommended elevation process, as well as other streamlining techniques.</p>
          <p id="anByAl" outputclass="List1">e. If, after elevation, an acceptable resolution has not occurred or the contractor fails to provide the data/documentation within the revised agreed-to date, the contracting officer may take remedial actions:</p>
-         <p id="JwbzzS" outputclass="List2">• for UCAs, contracting officers should consider reducing or suspending progress payments (<xref format="html" href="https://www.acquisition.gov/far/part-32#FAR_32_503_6" scope="external">FAR 32.503-6</xref>) when the contractor does not submit a timely qualifying proposal or has otherwise not supported the established definitization schedule; and/or</p>
+         <p id="JwbzzS" outputclass="List2">• for UCAs, contracting officers should consider reducing or suspending progress payments (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_503_6"
+                  scope="external">FAR 32.503-6</xref>) when the contractor does not submit a timely qualifying proposal or has otherwise not supported the established definitization schedule; and/or</p>
          <p id="ZgqqCK" outputclass="List2">• assign an unsatisfactory rating for a singular performance problem, such as the failure to submit a timely, complete and quality proposal (or subsequent data submissions), in connection with a UCA when the problem is of such serious magnitude that it alone justifies an unsatisfactory Contractor Performance Assessment Reporting System (CPARS) rating in the assessment of Management Responsiveness (Block 18d(1) for a Systems CPAR) or Business Relations (Block 18d for a Non-Systems CPAR). Ratings must track to the Evaluation Ratings Definitions found in FAR 42.1503(h)(4).</p>
          <p id="p__Toc38365649" outputclass="List1">f. Consistent with the notice given to contractors in the provision <u>L-XXX, Cost Proposal Adequacy and Structure</u> , in situations when the contractor’s original proposal is inadequate and requires revision or rework, contracting officers should consider whether to recognize as reasonable any contractor costs associated with the revision/rework effort and must consider the nature and extent of any proposal inadequacies when negotiating profit.</p>
       </conbody>

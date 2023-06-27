@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><topic id="DAFFARS_SUBPART_5337_2">
-    <title><ph props="autonumber">SUBPART 5337.2</ph> – ADVISORY AND
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5337_2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Subpart 5337.2</ph> – ADVISORY AND
 ASSISTANCE SERVICES </title>
-    <body/>
+      <body/>
     
-  </topic></dita>
+  </topic>
+</dita>

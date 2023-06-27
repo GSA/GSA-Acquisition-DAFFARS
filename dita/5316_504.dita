@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5316_504">
-      <title><ph props="autonumber">5316.504</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5316_504">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5316.504</ph> 
 Indefinite-Quantity Contracts</title>
       <conbody>
         <p outputclass="List1">(a) Description.</p>
@@ -9,18 +12,24 @@ Indefinite-Quantity Contracts</title>
 shall be recorded based upon the issuance of a task-order or
 delivery-order for the cost/price of the minimum quantity
 specified. The Government’s actual obligation must be
-recorded at the time of contract award. (See <xref format="html" href="http://comptroller.defense.gov/Portals/45/documents/fmr/current/03/03_08.pdf" scope="external">DoD
+recorded at the time of contract award. (See <xref format="html"
+                  href="http://comptroller.defense.gov/Portals/45/documents/fmr/current/03/03_08.pdf"
+                  scope="external">DoD
 7000.14-R</xref>, Volume 3, Chapter 8, paragraph 080604)</p>
         <p outputclass="List1">(c)(1)(ii)(D) <i>Limitation on single award
 contracts</i>.</p>
         <p outputclass="List2">
 
-          <i>(1)</i> The SCO has the authority to make the
+            <i>(1)</i> The SCO has the authority to make the
 written determination required by FAR 16.504(c)(1)(ii)(D)(1). When
 a J&amp;A is required, a separate written determination is not
-required if the J&amp;A addresses one of the circumstances at <xref format="html" href="https://www.acquisition.gov/far/part-16#FAR_16_504" scope="external">FAR
+required if the J&amp;A addresses one of the circumstances at <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_504"
+                  scope="external">FAR
 16.504(c)(1)(ii)(D)(1)(i)-(iv)</xref>. Provide a copy of the written
-determination to the <xref format="html" href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms" scope="external">cognizant
+determination to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">cognizant
 HCA Workflow</xref>.</p>
         <p outputclass="List1">(c)(2)(i)(A) The CO has the authority to determine
 that multiple awards are not practicable unless the PEO or HCA
@@ -33,4 +42,5 @@ designates another official.</p>
 that multiple awards are not practicable unless the PEO or HCA
 designates another official.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

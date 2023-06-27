@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5301_9102">
-      <title><ph props="autonumber">5301.9102</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_9102">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5301.9102</ph> 
 Policy</title>
       <conbody>
         <p outputclass="List1">(a) MAJCOM/DRU/DAFRCO/ Commanders must appoint an
@@ -33,8 +36,12 @@ and officials are consulted as part of any resolution process;</p>
         <p outputclass="List2">(5) Inform the Commander/Director, or PEO, as
 required, of issues raised and actions taken;</p>
         <p outputclass="List2">(6) Review complaints relative to multiple-award
-task order and delivery order contracts awarded under <xref format="html" href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3403&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim" scope="external">10
-U.S.C. 3403(d)(1)(B)</xref> or <xref format="html" href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3405&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim" scope="external">3405(f)</xref>
+task order and delivery order contracts awarded under <xref format="html"
+                  href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3403&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
+                  scope="external">10
+U.S.C. 3403(d)(1)(B)</xref> or <xref format="html"
+                  href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3405&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
+                  scope="external">3405(f)</xref>
 to ensure that all contractors are afforded a fair opportunity to
 be considered for task orders and delivery orders in excess of the
 micro-purchase threshold, consistent with the procedures in the
@@ -52,9 +59,12 @@ take action to assist in resolving issues, concerns, disagreements,
 and recommendations that cannot be resolved at the
 MAJCOM/FLDCOM/DRU level, or for those having DAF wide implications.
 The ADAS(C) is the DAF ombudsman for procurement integrity issues
-(see <xref format="html" href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf" scope="external">OUSD(AT&amp;L)/DPAP
+(see <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf"
+                  scope="external">OUSD(AT&amp;L)/DPAP
 memo, 1 Oct 09</xref>).</p>
         <p outputclass="List1">(g) Government personnel may use the Ombudsman
 Program as a way to express concerns about an acquisition.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

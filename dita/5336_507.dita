@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5336_507">
-      <title><ph props="autonumber">5336.507</ph> Permits and
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5336_507">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5336.507</ph> Permits and
 Responsibilities</title>
       <conbody>
-        <p>When the clause at <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_236_7" scope="external">FAR
+        <p>When the clause at <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_236_7"
+                  scope="external">FAR
 52.236-7</xref>, <i>Permits and Responsibilities</i>, is used in
 solicitations and contracts OCONUS, the clause must be modified to
 reflect “host government and political subdivisions” in
 lieu of “Federal, State, and Municipal.”
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

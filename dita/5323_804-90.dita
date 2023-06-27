@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5323_804-90">
-      <title><ph props="autonumber">5323.804-90</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5323_804-90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5323.804-90</ph> 
 Contract Clauses</title>
       <conbody>
-        <p>Include DAFFARS clause <xref format="html" href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_223_9000" scope="external">5352.223-9000</xref>
+        <p>Include DAFFARS clause <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_223_9000"
+                  scope="external">5352.223-9000</xref>
 in all solicitations and contracts/orders unless the requiring
 activity obtains the approval IAW paragraph 5323.803(a) above. If
-approval is obtained, the contracting officer must instead use <xref format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_223_11" scope="external">FAR
+approval is obtained, the contracting officer must instead use <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_223_11"
+                  scope="external">FAR
 clause 52.223-11</xref>.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

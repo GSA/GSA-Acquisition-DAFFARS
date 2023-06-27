@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DAFFARS_PART_5307" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5307</ph> - Acquisition Planning</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5307">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5307</ph> - Acquisition Planning</title>
       <body>
          <p id="UPsvWJ" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5307.aspx" scope="external">DAFFARS PART 5307 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5307.aspx"
+                  scope="external">DAFFARS PART 5307 Knowledge Center</xref>
          </p>
          <p id="nCdtgl" outputclass="Normal">
             <b>2019 Edition</b>
@@ -35,7 +38,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5307_104-92.dita#DAFFARS_5307_104-92">5307.104-92 Acquisition Strategy Panels (ASP) and AP Approval Authority</xref>
+                        <xref outputclass="fm:TOC" href="5307_104-92.dita#DAFFARS_5307_104-92">5307.104-92 Acquisition Strategy Panels (ASP) and Approval Authority (AP)</xref>
                      </p>
                   </li>
                   <li>

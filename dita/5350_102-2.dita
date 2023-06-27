@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5350_102-2">
-      <title><ph props="autonumber">5350.102-2</ph> Contract Adjustment
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5350_102-2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5350.102-2</ph> Contract Adjustment
 Boards</title>
       <conbody>
         <p id="Toc38365553">The Department of the Air Force Contract Adjustment Board
 (DAFCAB) is authorized to deny or approve any request for contract
 adjustment more than $75,000.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

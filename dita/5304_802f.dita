@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-<concept id="DAFFARS_5304_802f">
-      <title><ph props="autonumber">5304.802</ph>(f) Electronic Retention of Contract Files</title>
+   <concept id="DAFFARS_5304_802f">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.802</ph> (f) Electronic Retention of Contract Files</title>
       <conbody>
 
         <p>Contracting offices using KT Fileshare (KTFS) shall use it as
-both the working and official file, per <xref format="html" href="https://www.acquisition.gov/far/4.802" scope="external">FAR 4.802(c)(3)</xref>.
+both the working and official file, per <xref format="html"
+                  href="https://www.acquisition.gov/far/4.802"
+                  scope="external">FAR 4.802(c)(3)</xref>.
 It shall be used to create, modify, store, access, and route
 documents necessary to manage the acquisition process for review
 and approval, over the life of the entire acquisition lifecycle,
@@ -20,7 +24,9 @@ System (FPDS) then that system is the official system of record;
 contracting officers are not required to duplicate the document in
 KTFS, unless the contracting office determines an exception applies
 to ensure ready accessibility to principal users (e.g., clearance
-reviewers, auditors) per <xref format="html" href="https://www.acquisition.gov/far/part-4#FAR_4_802" scope="external">FAR
+reviewers, auditors) per <xref format="html"
+                  href="https://www.acquisition.gov/far/part-4#FAR_4_802"
+                  scope="external">FAR
 4.802(c)(2)</xref>. Examples of such exceptions, which shall be
 included in KTFS, include Award Documents, and copies of
 Government-Furnished (GFP) attachments. However, contracting

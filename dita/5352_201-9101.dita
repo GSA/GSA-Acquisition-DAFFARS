@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5352_201-9101">
-      <title><ph props="autonumber">5352.201-9101</ph> Ombudsman</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5352_201-9101">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5352.201-9101</ph> Ombudsman</title>
       <conbody>
-        <p>As prescribed in <xref format="html" href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9103" scope="external">DFFARS
+        <p>As prescribed in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9103"
+                  scope="external">DFFARS
 5301.9103</xref>, insert the following clause:</p>
         <p>
-          <b>OMBUDSMAN (OCT 2023)</b>
+            <b>OMBUDSMAN (OCT 2023)</b>
         </p>
         <p outputclass="List1">(a) An ombudsman has been appointed to hear and
 facilitate the resolution of concerns from offerors, potential
@@ -50,4 +55,5 @@ officer.</p>
 (End of clause)
         </p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>

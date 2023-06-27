@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="DAFFARS_MP_5315_3_6_8" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">6.8</ph> Continuous Learning Points (CLP).</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_6_8"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.8</ph> Continuous Learning Points (CLP).</title>
       <conbody>
          <p id="p_P416_26654" outputclass="Normal">Designated Source Selection trainers may grant CLPs to source selection attendees. As a general rule, CLPs must be given based on the length and intensity of the training provided. Trainers may grant six (6) CLPs for each full day of instruction, three (3) CLPs for half-day, and one (1) CLP for a two-hour session.</p>
       </conbody>

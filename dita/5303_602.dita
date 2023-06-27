@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5303_602">
-      <title><ph props="autonumber">5303.602</ph>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5303_602">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5303.602</ph> 
 Exceptions</title>
       <conbody>
-        <p>See <xref format="html" href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601" scope="external">MP5301.601(a)(i)</xref>
-          <ph id="Toc38284414"/> The SCO should review each contract
+        <p>See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>
+            <ph id="Toc38284414"/> The SCO should review each contract
 action to ensure no viable alternatives exist and that every effort
 is made to avoid any conflict of interest between the employees'
 interests and their government duties. Requests must address the
@@ -25,4 +30,5 @@ non-government personnel); and</p>
         <p id="Toc38451323" outputclass="List2">(7) For recurring requirements, describe the steps that will be
 taken to avoid future awards to a Government employee.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>
