@@ -9,7 +9,9 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.9</ph> Best Value Decision</title>
       <conbody>
-         <p outputclass="List2">3.9.1 The PCO<b> </b>must obtain contract clearance approval prior to the SSA making a source selection decision in accordance with <xref href="5301_9000.dita" xtrc="" outputclass="fm:ParaNumOnly"/> . </p>
+         <p outputclass="List1">3.9.1 The PCOmust obtain contract clearance approval prior to the SSA making a source selection decision in accordance with <xref href="https://www.acquisition.gov/affars/part-5301-federal-acquisition-regulations-system#AFFARS_5301_9000"
+                  format="html"
+                  scope="external">DAFFARS 5301.9000(e)(2)(ii)</xref>.</p>
       </conbody>
    </concept>
 </dita>

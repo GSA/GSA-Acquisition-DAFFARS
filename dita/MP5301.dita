@@ -20,12 +20,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5301_601.dita#DAFFARS_MP5301_601">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>
+                        <xref outputclass="fm:TOC" href="MP5301_601.dita#DAFFARS_MP5301_601">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5301_602_2.dita#DAFFARS_MP5301_602_2">MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officers Representative (COR)</xref>
+                        <xref outputclass="fm:TOC" href="MP5301_602_2.dita#DAFFARS_MP5301_602_2">MP5301.602-2 (d) Designation, Assignment, and Responsibilities of a Contracting Officer's Representative (COR)</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -85,6 +85,19 @@
                         <li>
                            <p>
                               <xref outputclass="fm:TOC" href="MP5301_9001B.dita#DAFFARS_MP5301_9001B">MP5301.9001b (B) Business Clearance Approval for Competitive Actions</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="">
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="MP5301_9001i2vi.dita#DAFFARS_MP5301_9001i2vi">MP5301.9001i2vi MP5301.9001i2vi (i)(2)(vi)- Clearance Approval when the HCA is SSC/PK Director</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="MP5301_9001i2viA.dita#DAFFARS_MP5301_9001_A">MP5301.9001i2viA A (A) Procedures.</xref>
                            </p>
                         </li>
                      </ul>

@@ -7,20 +7,18 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.2</ph> Documentation of Initial Evaluation Results</title>
       <conbody>
-         <p id="jKaUAT" outputclass="List2">3.2.1 SSEB Initial Evaluation. The SSEB Initial Report is used to document the results of the SSEB’s initial evaluation. The rationale for initial evaluation results and assignment of initial ratings will be fully and contemporaneously documented in the SSEB Initial Report. The SSEB Initial Report shall be signed by the PCO and SSEB Chairperson after the completion of initial evaluations and prior to presentation of the initial evaluation results to the SSA. The following tailorable templates are available for use, as desired:</p>
-         <p id="QNKXJo" outputclass="Normal">
-            <i>
-               <xref format="docx"
-                     href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sseb_report.docx"
-                     scope="external">SSEB Report</xref>
-            </i>
-         </p>
-         <p id="BgItRG" outputclass="Normal">
-            <i>
-               <xref format="pptx"
-                     href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Initial_evaluation_briefing.pptx"
-                     scope="external">Initial Evaluation Briefing</xref>
-            </i>
+         <p outputclass="List1">3.2.1 SSEB Initial Evaluation. The SSEB Initial Report is used to document the results of the SSEB’s initial evaluation. The rationale for initial evaluation results and assignment of initial ratings will be fully and contemporaneously documented in the SSEB Initial Report. The SSEB Initial Report shall be signed by the PCO and SSEB Chairperson after the completion of initial evaluations and prior to presentation of the initial evaluation results to the SSA. The following tailorable templates are available for use, as desired:</p>
+         <p>
+            <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">
+               <i>SSEB Report</i>
+            </xref>
+            <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">
+               <i>Initial Evaluation Briefing</i>
+            </xref>
          </p>
       </conbody>
    </concept>

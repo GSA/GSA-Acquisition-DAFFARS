@@ -4,13 +4,13 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_MP_5306_502_3" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 2">
-         <ph class="- topic/ph " props="autonumber">3.AppointmentoftheCompetitionandCommercialAdvocate.</ph> Appointment of the Competition and Commercial Advocate.</title>
+      <title class="- topic/title " outputclass="Heading 2"> 
+         <ph class="- topic/ph " props="autonumber">MP5306.502-3.</ph> Appointment of the Competition and Commercial Advocate.</title>
       <conbody>
          <p id="yNdphJ" outputclass="List1">3.1. Procuring activity Competition and Commercial Advocate Appointments.</p>
-         <p id="jesqg1nj" outputclass="List1">3.1.1. The AF Competition Advocate General appoints procuring/contracting activity Competition and Commercial Advocates. MAJCOM/DRU/AFRCO/SpRCO/SMC SCOs must nominate a primary and alternate Competition and Commercial Advocate for each of the procuring/contracting activities identified at <xref href="5306_501.dita#DAFFARS_5306_501" outputclass="fm:ParaNumOnly">5306.501</xref> to the AF Competition Advocate General. The AFICC SCO or civilian deputy must be the primary Competition and Commercial Advocate for the MAJCOM they support. SCOs must submit nominations via the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/Competition_Advocate_Nominations/AllItems.aspx"
-                  scope="external">Competition and Commercial Advocate Nominations</xref> SharePoint site.</p>
+         <p id="jesqg1nj" outputclass="List2">3.1.1. The DAF Competition Advocate General appoints procuring activity Competition and Commercial Advocates for the procuring activities identified in 5306.501(a)(1) via certificate. SCOs must nominate a primary and alternate Competition and Commercial Advocate. The AFICC SCO or civilian deputy must be the primary Competition and Commercial Advocate for the MAJCOM they support. SCOs must submit nominations via the <xref href="https://forms.osi.apps.mil/pages/responsepage.aspx?id=jbExg4ct70ijX6yIGOv5tPYEbLz6KCJJifLvhe0s54VUQkpDOTdDUjhDRlpJWTRKTThLRFcwRVpKMS4u"
+                  format="html"
+                  scope="external">Competition and Commercial Advocate Nominations</xref> SharePoint site, unless otherwise directed by SAF/AQCP.</p>
          <p id="EAFWYd" outputclass="List3">3.1.1.1. Procuring Activity</p>
          <p id="qJbWIO" outputclass="List3">3.1.1.2. Primary and alternate nomination</p>
          <p id="PKaydI" outputclass="List3">3.1.1.3. Name of the nominated Competition and Commercial Advocate or alternate</p>
@@ -18,7 +18,7 @@
          <p id="AUzuOv" outputclass="List3">3.1.1.5. Telephone number of the nominated Competition and Commercial Advocate or alternate</p>
          <p id="PEIApg" outputclass="List3">3.1.1.6. Candidate resume</p>
          <p id="SYDNGp" outputclass="List3">3.1.1.7. Competition action officer contact information, if applicable</p>
-         <p id="msHxqn" outputclass="List2">3.1.2. The AF Competition Advocate General appoints the primary and alternate procuring/contracting activity Competition and Commercial Advocates via certificate.</p>
+         <p id="msHxqn" outputclass="List2">3.1.2. The Heads of Contracting Activity for the procuring activities identified in 5306.501(a)(2) appoint their primary and alternate Competition and Commercial Advocates in writing.</p>
          <p id="BUMYCH" outputclass="List2">3.1.3. Once appointed, he competition action officer updates the <xref format="aspx"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/competition_advocates/AllItems.aspx"
                   scope="external">
@@ -28,21 +28,21 @@
                <u>list</u>
             </ph> with the required information.</p>
          <p id="OjgJSG" outputclass="List1">3.2. Subordinate Contracting Activity Competition and Commercial Advocate Appointments.</p>
-         <p id="zkmQpI" outputclass="List2">3.2.1. The procuring activity Competition and Commercial Advocate must appoint subordinate primary and alternate Competition and Commercial Advocates via the <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competition_advocate_appointment.pdf"
-                  scope="external">
-               <u>Competition and Commercial Advocate Appointment</u>
-            </xref> memo.</p>
-         <p id="uynqzg" outputclass="List2">3.2.2. The names and telephone numbers of the subordinate contracting activity Competition and Commercial Advocate, the procuring/contracting activity Competition and Commercial Advocate, and the Air Force Competition Advocate General must be displayed on a <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/competition_advocates_poster.pdf"
-                  scope="external">
-               <u>poster</u>
-            </xref> in a prominent location in each unit.</p>
+         <p id="zkmQpI" outputclass="List2">3.2.1. For any subordinate procuring activity designated IAW DAFFARS 5306.501(b), the procuring activity Competition and Commercial Advocate must appoint a subordinate primary and alternate Competition and Commercial Advocates. Designations and appointments must be in writing.</p>
+         <p id="uynqzg" outputclass="List2">3.2.2. The names and telephone numbers of the subordinate procuring activity Competition and Commercial Advocate, the procuring activity Competition and Commercial Advocate, and the DAF Competition Advocate General must be displayed on a <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">poster</xref> in a prominent location in each unit.</p>
          <p id="p__Toc38365627" outputclass="List2">3.2.3. Once appointed, the competition action officer updates the <xref format="aspx"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/competition_advocates/AllItems.aspx"
-                  scope="external">
-               <u>Competition Advocate list</u>
-            </xref> with the required information</p>
+                  scope="external"> 
+               <u>Competition Advocate list</u> 
+            </xref> with the required information.</p>
+         <p outputclass="List2">3.2.4. The following subordinate organizations are designated "procuring activities" in AFMC: </p>
+         <p outputclass="List3">3.2.4.1 Air Force Life Cycle Management Center (AFLCMC), Hanscom Operating Location, Eglin Operating Location </p>
+         <p outputclass="List3">3.2.4.2 Air Force Sustainment Center (AFSC), Hill Operating Location, Robins Operating Location </p>
+         <p outputclass="List3">3.2.4.3 Air Force Research Lab (AFRL), Air Force Office of Scientific Research (AFOSR), Rome Research Site, Phillips Research Site, Wright Research Site, and Eglin Research Site. </p>
+         <p outputclass="List3">3.2.4.4 Air Force Test Center (AFTC) 3.2.4.5 Air Force Nuclear Weapons Center (AFNWC) </p>
+         <p outputclass="List3">3.2.4.6 Air Force Installation and Mission Support Center (AFIMSC) </p>
       </conbody>
    </concept>
 </dita>

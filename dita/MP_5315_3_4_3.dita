@@ -4,80 +4,72 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_MP_5315_3_4_3" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
+      <title class="- topic/title " outputclass="Heading 3"> 
          <ph class="- topic/ph " props="autonumber">4.3</ph> Tactics, Techniques and Procedures (TTP), Samples, and Tailorable Templates</title>
       <conbody>
-         <p id="VCVXBT" outputclass="Normal">Source Selection TTPs can be accessed at the <xref format="html"
-                  href="https://dod.teams.microsoft.us/l/channel/19%3Adod%3A76888714f0cb40ed92e401c29324a647%40thread.skype/tab%3A%3Ac94edd53-7cc9-494f-b4ee-c56842387fc2?groupId=25a42351-7065-4ec7-8c1b-3163cdba3183&amp;tenantId=8331b18d-2d87-48ef-a35f-ac8818ebf9b4"
+         <p>Source Selection TTPs can be accessed at the <xref href="https://usaf.dps.mil/teams/SAFAQCTTPs"
+                  format="html"
                   scope="external">DAF Contracting TTP Team</xref> page.</p>
-         <p id="q2kk14el" outputclass="Normal">
-            <b>Templates:</b> A comprehensive collection of source selection samples and tailorable templates, including those listed below, are located on the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/Forms/Grouped_by_FAR_Part.aspx"
-                  scope="external">Contracting Templates</xref> and <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
-                  scope="external">DAFFARS Library Part 5315</xref> pages within the Air Force Contracting Central (AFCC) SharePoint site (please note: this link requires CAC and is not available to all users.)</p>
-         <p id="wVOOkV">
+         <p>
+            <b>Templates:</b> A comprehensive collection of source selection samples and tailorable templates, including those listed below, are located on the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">Contracting Templates</xref> and <xref href="https://usaf.dps.mil/sites/afcc/aqcp/knowledgecenter/sitepages/5315.aspx"
+                  format="html"
+                  scope="external">DAFFARS Library, Part 5315</xref> pages within the Air Force Contracting Central (AFCC) SharePoint site (please note: this link requires CAC and is not available to all users.)</p>
+         <p>
             <b>Source Selection Documentation Templates</b>
-            <xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/memo_SSA_Delegation.docx"
-                  scope="external">
-               <u/>
-            </xref>
          </p>
-         <p id="wijkMY">Abstract of Proposals/Quotations (Negotiated Procurement)</p>
-         <p id="aVYwgD">Delegation of Source Selection Authority (SSA)</p>
-         <p id="zta2n2te">Past Performance Questionnaire (Sample 1)</p>
-         <p id="3dpwdsvf">Past Performance Questionnaire (Sample 2)</p>
-         <p id="jbepp7b">Past Performance Questionnaire (Sample 3)</p>
-         <p id="336cfxwm">Section L Attachment - Past Performance Information</p>
-         <p id="pJgGhm">Solicitation Cross Reference Matrix Source Selection File Checklist</p>
-         <p id="kKgdIW">Source Selection Plan Subcontractor Consent Letter Verification of Correspondence Going to Offeror Checklist</p>
-         <p id="kXcYXJ">Source Selection Information Coversheet</p>
-         <p id="dMujsi">SF 901, Controlled Unclassified Information (CUI) Cover Sheet (AF Template)</p>
-         <p id="ZuCzrF">Source Selection Non-Disclosure Agreement (NDA)</p>
-         <p id="GbylqX">Conflict of Interest Statement</p>
-         <p id="yIUXHT">Sample RFP Section L language ? Use of Non-Government Advisors</p>
-         <p id="XAflwT">RFP Section L &amp; M Samples</p>
-         <p id="LJnqjF">Notice Announcing that a Source Selection is in Progress</p>
-         <p id="SWfGXY">Competitive Range Decision Document</p>
-         <p id="XnrGgh">Comparative Analysis Report &amp; Award Recommendation</p>
-         <p id="brHEYn">Source Selection Decision Document</p>
-         <p id="kMvlHs">
-            <b>Source Selection Evaluation Board (SSEB) Templates</b>
+         <p>Abstract of Proposals/Quotations (Negotiated Procurement)</p>
+         <p>Delegation of Source Selection Authority (SSA)</p>
+         <p>Past Performance Questionnaire (Sample 1) </p>
+         <p> Past Performance Questionnaire (Sample 2) </p>
+         <p> Past Performance Questionnaire (Sample 3) </p>
+         <p> Section L Attachment - Past Performance Information </p>
+         <p>Solicitation Cross Reference Matrix</p>
+         <p>Source Selection File Checklist</p>
+         <p>Source Selection Plan</p>
+         <p>Subcontractor Consent Letter </p>
+         <p> Verification of Correspondence Going to OfferorChecklist</p>
+         <p>Source Selection Information Coversheet</p>
+         <p>SF 901, Controlled Unclassified Information (CUI) Cover Sheet (AF Template)</p>
+         <p>Source Selection Non-Disclosure Agreement (NDA)</p>
+         <p>Conflict of Interest Statement</p>
+         <p>Sample RFP Section L language – Use of Non-Government Advisors</p>
+         <p>RFP Section L &amp; M Samples</p>
+         <p>Notice Announcing that a Source Selection is in Progress</p>
+         <p>Competitive Range Decision Document</p>
+         <p>Comparative Analysis Report &amp; Award Recommendation</p>
+         <p> Source Selection Decision Document</p>
+         <p>
+            <b>Source Selection Evaluation Board (SSEB) Templates </b>
          </p>
-         <p id="s7trdjy">Rating Team Worksheet (Methodology 1)</p>
-         <p id="uzd7j2co">Rating Team Worksheet (Methodology 2)</p>
-         <p id="sik1drpk">Rating Team Worksheet (PPT)</p>
-         <p id="gyfo49ni">Tradeoff Technical Evaluator Template</p>
-         <p id="xgv43p6o">LPTA Technical Evaluator Template</p>
-         <p id="x3rhdpmk">Tradeoff Subfactor Chief Template</p>
-         <p id="jjv8rkf">LPTA Subfactor Chief Template</p>
-         <p id="7jljd2zn">Evaluation Notice (EN)</p>
-         <p id="onq4mq2">SSEB Report</p>
-         <p id="m9injipp">Initial Evaluation Briefing</p>
-         <p id="ggrew007">Pre-Final Proposal Revisions (FPR) Request Briefing</p>
-         <p id="fjdyu4sn">Final Decision Briefing</p>
-         <p id="ygPrWP">
+         <p>Rating Team Worksheet (Methodology 1)</p>
+         <p>Rating Team Worksheet (Methodology 2)</p>
+         <p> Rating Team Worksheet (PPT)</p>
+         <p>Tradeoff Technical Evaluator Template</p>
+         <p>LPTA Technical Evaluator Template</p>
+         <p>Tradeoff Subfactor Chief Template</p>
+         <p>LPTA Subfactor Chief Template</p>
+         <p>Evaluation Notice (EN)</p>
+         <p>SSEB Report</p>
+         <p>Initial Evaluation Briefing</p>
+         <p>Pre-Final Proposal Revisions (FPR) Request Briefing</p>
+         <p>Final Decision Briefing</p>
+         <p>
             <b>Past Performance Evaluation Team Documents</b>
          </p>
-         <p id="bamyn8s">Relevancy Template</p>
-         <p id="bnwgr8qa">Tradeoff Performance Quality Template</p>
-         <p id="93djnz0g">LPTA Performance Quality Template</p>
-         <p id="8yqzjor">Business Relationship Template</p>
-         <p id="359kk6u9">Past Performance Information Template</p>
-         <p id="vhqau48o">Tradeoff Past Performance Confidence Assessment Template</p>
-         <p id="cmevo6vd">LPTA Past Performance Evaluation Template</p>
-         <p id="39pow1w">Performance Confidence Rating Evaluation<xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/perf_conf_rating_eval.docx"
-                  scope="external">
-               <u/>
-            </xref>
-         </p>
-         <p id="vXMltV">
+         <p>Relevancy Template</p>
+         <p>Tradeoff Performance Quality Template</p>
+         <p>LPTA Performance Quality Template</p>
+         <p>Business Relationship Template</p>
+         <p>Past Performance Information Template</p>
+         <p>Tradeoff Past Performance Confidence Assessment Template</p>
+         <p>LPTA Past Performance Evaluation Template</p>
+         <p>Performance Confidence Rating Evaluation</p>
+         <p>
             <b>Cost/Price Evaluation Team Document</b>
-            <u/>
          </p>
-         <p id="u02gjc4m">Cost/Price Template</p>
+         <p>Cost/Price Template</p>
       </conbody>
    </concept>
 </dita>

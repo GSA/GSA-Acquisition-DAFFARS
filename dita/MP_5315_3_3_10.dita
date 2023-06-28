@@ -7,12 +7,10 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.10</ph> Source Selection Decision Document</title>
       <conbody>
-         <p id="p__Ref62370718" outputclass="List2">3.10.1 The tailorable <xref format="docx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/ss_decision_document.docx"
+         <p outputclass="List1">3.10.1 The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
                   scope="external">
-               <i>
-                  <u>Source Selection Decision Document (SSDD)</u>
-               </i>
+               <i>Source Selection Decision Document (SSDD)</i>
             </xref> template is available for use, as desired.</p>
       </conbody>
    </concept>

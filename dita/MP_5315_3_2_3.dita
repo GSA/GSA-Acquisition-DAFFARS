@@ -7,18 +7,17 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">2.3</ph> Develop the Request for Proposals</title>
       <conbody>
-         <p id="IbMDkl" outputclass="List2">2.3.1 Evaluation Factors/Subfactors. RFP <xref format="aspx"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5315-main.aspx"
-                  scope="external">
-               <u>Section L and M samples</u>
-            </xref>
-            <ph>
-               <u>are available for use, as desired</u>
-            </ph>.</p>
-         <p id="MwtOih" outputclass="List3">2.3.4.1 Cost or Price. The analysis technique(s) identified in FAR 15.404, as supplemented, for the evaluation of the proposed cost or price shall be included in the evaluation criteria (Section M or equivalent provisions of the solicitation for commercial acquisitions).</p>
-         <p id="OfpNBC" outputclass="List4">2.3.4.1.1 When used, the Probable Cost estimate is the government estimate of the cost to acquire specified goods and/or services based on each offeror’s proposed approach. The Probable Cost is based upon an analysis of each offeror’s unique proposal in accordance with FAR 15.404-1(d). Define all the components that make up the aggregate government Probable Cost and specify them in Section M (or equivalent provisions of the solicitation for commercial acquisitions).</p>
-         <p id="ouuABz" outputclass="List4">2.3.4.2.4 Affordability Cap. When an affordability cap is established, the affordability cap must be specified in the RFP and affordability must be included either as a go/no go gate or as an evaluation criterion in the RFP. The RFP must state whether proposals that exceed the affordability cap can be considered for award.</p>
-         <p id="p__Ref59348021" outputclass="List2">2.3.6. Requirements that fall within the areas of traditional offeror responsibility factors may trigger the Small Business Administration Certificate of Competency (CoC) process if such requirements are evaluated on an acceptable/unacceptable basis, as a rating of unacceptable for an otherwise apparently successful business offeror equates to a non-responsibility determination. For example, issues related to facility clearance/security requirements or evaluation of professional employee compensation as an element of responsibility are areas that may trigger the CoC process for small business offerors. PCOs should consult with small business and legal counsel regarding the use and treatment of such evaluation factors/subfactors.</p>
+         <p outputclass="List1">2.3.1 Evaluation Factors/Subfactors. RFP<xref href="https://usaf.dps.mil/:w:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/AFFARS_Library/AFFARS_5315/samples/section_L_and_M_samples.docx?d=w024b48acfdb842b8b7bb3d755d4fc519&amp;csf=1&amp;web=1&amp;e=U00JmB"
+                  format="html"
+                  scope="external">Section L and M samples</xref> are available for use, as desired. </p>
+         <p outputclass="List2">2.3.4.1 Cost or Price. The analysis technique(s) identified in <xref href="https://www.acquisition.gov/far/part-15#FAR_15_404"
+                  format="html"
+                  scope="external">FAR 15.404</xref>,as supplemented, for the evaluation of the proposed cost or price shall be included in the evaluation criteria (Section M or equivalent provisions of the solicitation for commercial acquisitions).</p>
+         <p outputclass="List3">2.3.4.1.1 When used, the Probable Cost estimate is the government estimate of the cost to acquire specified goods and/or services based on each offeror’s proposed approach. The Probable Cost is based upon an analysis of each offeror’s unique proposal in accordance with <xref href="https://www.acquisition.gov/far/part-15#FAR_15_404_1"
+                  format="html"
+                  scope="external">FAR 15.404-1(d)</xref>. Define all the components that make up the aggregate government Probable Cost and specify them in Section M (or equivalent provisions of the solicitation for commercial acquisitions). </p>
+         <p outputclass="List3">2.3.4.2.4 Affordability Cap. When an affordability cap is established, the affordability cap must be specified in the RFP and affordability must be included either as a go/no go gate or as an evaluation criterion in the RFP. The RFP must state whether proposals that exceed the affordability cap can be considered for award.</p>
+         <p>2.3.6. Requirements that fall within the areas of traditional offeror responsibility factors may trigger the Small Business Administration Certificate of Competency (CoC) process if such requirements are evaluated on an acceptable/unacceptable basis, as a rating of unacceptable for an otherwise apparently successful business offeror equates to a non-responsibility determination. For example, issues related to facility clearance/security requirements or evaluation of professional employee compensation as an element of responsibility are areas that may trigger the CoC process for small business offerors. PCOs should consult with small business and legal counsel regarding the use and treatment of such evaluation factors/subfactors.</p>
       </conbody>
    </concept>
 </dita>

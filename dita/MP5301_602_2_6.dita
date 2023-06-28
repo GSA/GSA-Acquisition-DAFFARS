@@ -7,19 +7,15 @@
       <title class="- topic/title " outputclass="subtopic">
          <ph class="- topic/ph " props="autonumber">6.0</ph> Memorandum Templates and Contract Training Syllabus</title>
       <conbody>
-         <p id="DtdrhL" outputclass="Normal">
+         <p id="DtdrhL" outputclass="Normal"> 
             <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/request_for_COR_support.pdf"
-                  scope="external">
-               <u>Request for COR Support</u>
-            </xref>
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external"> Request for COR Support </xref> 
          </p>
-         <p id="kWrROh" outputclass="Normal">
+         <p id="kWrROh" outputclass="Normal"> 
             <xref format="pdf"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/suggested_contract-specific_training_syllabus.pdf"
-                  scope="external">
-               <u>Suggested Contract-Specific Training Syllabus</u>
-            </xref>
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external"> Suggested Contract-Specific Training Syllabus </xref> 
          </p>
       </conbody>
    </concept>

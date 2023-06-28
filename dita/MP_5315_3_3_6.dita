@@ -7,7 +7,9 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.6</ph> Final Proposal Revisions</title>
       <conbody>
-         <p id="qdClfj" outputclass="List2">3.6.3 The PCO must obtain contract clearance approval in accordance with <xref href="5301_9000.dita" xtrc="" outputclass="fm:ParaNumOnly"/>(e)(2)(i) prior to submission of all material (e.g., Pre-FPR briefing) to the SSA to obtain approval for releasing the FPR request.</p>
+         <p outputclass="List1">3.6.3 The PCO must obtain contract clearance approval in accordance with <xref href="https://www.acquisition.gov/affars/part-5301-federal-acquisition-regulations-system#AFFARS_5301_9000"
+                  format="html"
+                  scope="external">DAFFARS 5301.9000(e)(2)(i)</xref> prior to submission of all material (e.g., Pre-FPR briefing) to the SSA to obtain approval for releasing the FPR request.</p>
       </conbody>
    </concept>
 </dita>

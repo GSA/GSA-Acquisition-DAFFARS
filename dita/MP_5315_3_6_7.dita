@@ -9,13 +9,11 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">6.7</ph> Source Selection Training Survey.</title>
       <conbody>
-         <p outputclass="Normal">Following training, personnel are encouraged to complete the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/ss_training_survey/overview.aspx"
-                  scope="external"
-                  format="aspx">
-               <i>
-                  <u>Source Selection Training Survey</u>
-               </i>
-            </xref>. The feedback provided through the survey will enable the SAF/AQCP FST to gauge the effectiveness of its source selection training material and obtain suggestions for improvement. </p>
+         <p>Following training, personnel are encouraged to complete the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/ss_training_survey/overview.aspx"
+                  format="html"
+                  scope="external">
+               <i>Source Selection Training Survey</i>
+            </xref>. The feedback provided through the survey will enable the SAF/AQCP Knowledge Management Team to gauge the effectiveness of its source selection training material and obtain suggestions for improvement. </p>
       </conbody>
    </concept>
 </dita>

@@ -10,7 +10,9 @@
             <b>2019 Edition</b>
          </p>
          <p id="751wf1z">
-            <i>Revised: 2 May 2022</i>
+            <p>
+               <i>Revised: June 2023</i>
+            </p>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -35,7 +37,7 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5315_3_1_3.dita#DAFFARS_MP_5315_3_1_3">1.3 Best Value Continuum (No AF Text)</xref>
+                              <xref outputclass="fm:TOC" href="MP_5315_3_1_3.dita#DAFFARS_MP_5315_3_1_3">1.3 Best Value Continuum (No DAF Text)</xref>
                            </p>
                         </li>
                         <li>
@@ -224,26 +226,6 @@
                         <xref outputclass="fm:TOC"
                               href="MP_5315_3_LIST_OF_APPENDICES.dita#DAFFARS_MP_5315_3_LIST_OF_APPENDICES">List of Appendices</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_A.dita#DAFFARS_MP_5315_3_APPENDIX_A">Appendix A. Debriefing Guide (No AF Text)</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_B.dita#DAFFARS_MP_5315_3_APPENDIX_B">Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC"
-                                    href="MP_5315_3_APPENDIX_C.dita#DAFFARS_MP_5315_3_APPENDIX_C">Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)</xref>
-                           </p>
-                        </li>
-                     </ul>
                   </li>
                </ul>
             </li>

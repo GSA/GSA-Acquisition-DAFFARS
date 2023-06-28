@@ -9,31 +9,17 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.7</ph> Documentation of Final Evaluation Results</title>
       <conbody>
-         <p outputclass="List2">3.7.1 The rationale for final evaluation results and assignment of final ratings will be fully and contemporaneously documented in the SSEB Final Report. The SSEB Final Report is prepared by the SSEB and reviewed by the SSAC (if an SSAC is used) and signed by the PCO and SSEB Chairperson after the evaluation of FPRs. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/sseb_report.docx"
-                  scope="external"
-                  format="docx">
-               <i>
-                  <u>SSEB Report</u>
-               </i>
-            </xref>
-            <ph>
-               <i>
-                  <u> </u>
-               </i>
-            </ph>template is available for use, as desired.</p>
-         <p outputclass="List2">3.7.2 The SSEB Final Report must document, if applicable, any minority and dissenting opinion(s). </p>
-         <p outputclass="List2">3.7.3 A decision briefing, prepared by the SSEB, will generally be conducted whenever the SSA is other than the PCO. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/final_decision_brief.pptx"
-                  scope="external"
-                  format="pptx">
-               <i>
-                  <u>Final Decision Briefing</u>
-               </i>
-            </xref>
-            <ph>
-               <i>
-                  <u> </u>
-               </i>
-            </ph>template is available for use, as desired.</p>
+         <p outputclass="List1">3.7.1 The rationale for final evaluation results and assignment of final ratings will be fully and contemporaneously documented in the SSEB Final Report. The SSEB Final Report is prepared by the SSEB and reviewed by the SSAC (if an SSAC is used) and signed by the PCO and SSEB Chairperson after the evaluation of FPRs. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">
+               <i>SSEB Report</i>
+            </xref>template is available for use, as desired.</p>
+         <p outputclass="List1">3.7.2 The SSEB Final Report must document, if applicable, any minority and dissenting opinion(s). </p>
+         <p outputclass="List1">3.7.3 A decision briefing, prepared by the SSEB, will generally be conducted whenever the SSA is other than the PCO. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">
+               <i>Final Decision Briefing</i>
+            </xref>template is available for use, as desired.</p>
       </conbody>
    </concept>
 </dita>

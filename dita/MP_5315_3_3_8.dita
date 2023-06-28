@@ -9,12 +9,10 @@
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.8</ph> Conduct and Document the Comparative Analysis</title>
       <conbody>
-         <p outputclass="List2">3.8.1 The SSAC’s comparative analysis of proposals and award recommendation is documented in the Comparative Analysis Report and Award Recommendation (CAR). The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/contracting_templates/comparative_anal_rpt_and_award_rec.docx"
-                  scope="external"
-                  format="docx">
-               <i>
-                  <u>Comparative Analysis Report and Award Recommendation</u>
-               </i>
+         <p outputclass="List1">3.8.1 The SSAC’s comparative analysis of proposals and award recommendation is documented in the Comparative Analysis Report and Award Recommendation (CAR). The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external">
+               <i>Comparative Analysis Report and Award Recommendation</i>
             </xref> template is available for use, as desired.</p>
       </conbody>
    </concept>
