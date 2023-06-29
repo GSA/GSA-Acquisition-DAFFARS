@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"><dita><concept id="DAFFARS_5304_7103-1-90">
-      <title><ph props="autonumber">5304.7103-1-90</ph> Criteria for
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_7103-1-90">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.7103-1-90</ph> Criteria for
 Establishing</title>
       <conbody>
         <p>Exchangeable repair contracts with provisions for modifications
@@ -13,3 +17,4 @@ date to specific reparable for delivery schedule tracking
 purposes.</p>
       </conbody>
     </concept>
+</dita>

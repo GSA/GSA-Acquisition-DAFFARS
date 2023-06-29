@@ -14,13 +14,15 @@ Emergency Acquisitions</title>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="SUBPART_5318_000.dita#DAFFARS_SUBPART_5318_000">5318.000 – SCOPE OF PART</xref>
+                        href="SUBPART_5318_000.dita#DAFFARS_SUBPART_5318_000">Subpart 5318.0 – SCOPE OF PART</xref>
                </p>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="5318_001.dita#DAFFARS_5318_001">5318.001 Definition</xref>
-               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5318_001.dita#DAFFARS_5318_001">5318.001 Definition</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
             <li>
                <p>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="DAFFARS_5309_505">
-      <title><ph props="autonumber">5309.505</ph> General rules.</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5309_505">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5309.505</ph> General rules.</title>
       <conbody>
         <p outputclass="List1">(b)(2) An unfair competitive advantage exists
 where a contractor competing for award of any Federal contract
@@ -10,4 +13,5 @@ not available to all competitors that is acquired as part of
 official duties by prior government officials, and such information
 would assist the contractor in obtaining the contract.</p>
       </conbody>
-    </concept></dita>
+    </concept>
+</dita>
