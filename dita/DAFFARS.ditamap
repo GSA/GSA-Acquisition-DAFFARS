@@ -3664,23 +3664,25 @@
              audience="DAFFARS_PART_5341"
              xtrf="Part"
              xtrc="DAFFARS_PART_5341.html">
-      <topicref navtitle="Subpart 5341. 1 SUBPART&#xA;5341. 1 – GENERAL"
-                href="SUBPART_5341_1.dita"
-                outputclass="SubPart"
-                props="Subpart 5341. 1"
-                base="NoTitle"
-                audience="DAFFARS_SUBPART_5341_1"
-                xtrf="SubPart"
-                xtrc="DAFFARS_SUBPART_5341__1.html">
-         <topicref navtitle="5341.102 Applicability"
-                   href="5341_102.dita"
-                   outputclass="subtopic"
-                   props="5341.102"
-                   base="concept"
-                   audience="DAFFARS_5341_102"
-                   xtrf="subtopic"
-                   xtrc=""/>
-      </topicref>
+      <topicref
+                     navtitle="Subpart 5341. 1 – GENERAL"
+                     href="SUBPART_5341_1.dita"
+                     outputclass="SubPart"
+                     props="Subpart 5341. 1"
+                     base="NoTitle"
+                     audience="DAFFARS_SUBPART_5341_1"
+                     xtrf="SubPart"
+                     xtrc="DAFFARS_SUBPART_5341__1.html">
+                     <topicref
+                            navtitle="5341.102 Applicability"
+                            href="5341_102.dita"
+                            outputclass="subtopic"
+                            props="5341.102"
+                            base="concept"
+                            audience="DAFFARS_5341_102"
+                            xtrf="subtopic"
+                            xtrc=""/>
+              </topicref>
       <topicref navtitle="Subpart 5341.2 – ACQUIRING UTILITY SERVICES"
                 href="SUBPART_5341_2.dita"
                 outputclass="SubPart"
