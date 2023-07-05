@@ -3,9 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DAFFARS_5301_201-1">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5301.201-1</ph> The Two
-Councils</title>
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5301.201-1</ph> The Two Councils</title>
       <conbody>
         <p outputclass="List1">(d)(i) Proposed revisions to the FAR or the DFARS
 must be submitted through the SCO (or HCA for SSC and SDA) to <xref format="html"

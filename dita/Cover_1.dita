@@ -2,17 +2,14 @@
 <!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
 		<CoverTitle id="Cover_1" ditaarch:DITAArchVersion="1.2">
-			   <CTitle
-      id="id184NG60B05Z">Department of the Air Force Federal Acquisition Regulation Supplement</CTitle>
+			   <CTitle id="id184NG60B05Z">Department of the Air Force Federal Acquisition Regulation Supplement</CTitle>
 			   <CBody id="id184NG7000Y4">
-      <CoverIssued id="id184NG7008HS">Issued Fiscal Year 2019 by the:</CoverIssued>
-      <CoverGSADODNASA id="id184NG700CUz">UNITED STATES AIR
-        FORCE</CoverGSADODNASA>
+  
+    
       <CoverEdition id="id184NG700GYK" />
-      <CoverTitle48 id="id184NG700KHT">TITLE 48 - AIR FORCE FEDERAL ACQUISITION REGULATIONS SUPPLEMENT</CoverTitle48>
       <CoverChapterTitle id="id184NG700YPF">Chapter 53</CoverChapterTitle>
       <CoverFARTitle
-        id="id184NG7030PN">Dartment of the Air Force Federal Acquisition Regulation</CoverFARTitle>
+        id="id184NG7030PN">Department of the Air Force Federal Acquisition Regulation</CoverFARTitle>
       <ForewordTitle id="id184NG70E030" />
     </CBody>
 		</CoverTitle>

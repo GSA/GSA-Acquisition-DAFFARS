@@ -3,7 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DAFFARS_5310_002">
-      <title class="- topic/title ">
+      <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5310.002</ph> Procedures</title>
       <conbody>
          <p>See the tailorable <xref format="html"

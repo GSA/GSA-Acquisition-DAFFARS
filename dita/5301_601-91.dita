@@ -3,10 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DAFFARS_5301_601-91">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5301.601-91</ph> 
-Department of the Air Force Contracting Self-Inspection
-Program</title>
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5301.601-91</ph>  Department of the Air Force Contracting Self-Inspection Program</title>
       <conbody>
         <p outputclass="List1">(a) The DAF Self-Inspection program assesses compliance with
 federal laws, regulatory policies, DoD and AF directives, and

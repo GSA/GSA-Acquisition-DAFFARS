@@ -12,7 +12,7 @@
              base="NoTitle"
              xtrf="Volume"
              xtrc="Volume_I.html">
-      <topicref navtitle="Air Force Federal Acquisition Regulation Supplement"
+      <topicref navtitle="Department of the Air Force Federal Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="SubPart"
                 props="Cover"
@@ -735,7 +735,7 @@
              base="NoTitle"
              xtrf="Volume"
              xtrc="Volume_II.html">
-      <topicref navtitle="Air Force Federal Acquisition Regulation&#xA;      Supplement - MP"
+      <topicref navtitle="Air Force Federal Acquisition Regulation Supplement - MP"
                 href="Cover_3.dita"
                 outputclass="SubPart"
                 props="Cover"

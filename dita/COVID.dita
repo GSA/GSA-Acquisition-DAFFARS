@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.3">
    <concept id="DAFFARS_COVID" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 3">
+      <title class="- topic/title " outputclass="Heading 3"> 
          <ph class="- topic/ph " props="autonumber">COVID</ph> -19 and CARES Act Related Actions</title>
       <conbody>
          <p outputclass="Normal">See Contracting Policy Memos <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Contracting_Memos/Policy/20-C-03.pdf"

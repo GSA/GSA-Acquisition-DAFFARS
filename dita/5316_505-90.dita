@@ -3,9 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="DAFFARS_5316_505-90">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">5316.505-90</ph> 
-Decentralized Ordering</title>
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5316.505-90</ph>  Decentralized Ordering</title>
       <conbody>
         <p>For contracts that authorize decentralized ordering (i.e.,
 ordering by a contracting office at any other location), the
