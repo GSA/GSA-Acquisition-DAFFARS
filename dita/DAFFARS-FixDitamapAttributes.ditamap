@@ -4566,7 +4566,7 @@
                       outputclass="SubPart"
                       xtrf="SubPart"
                       xtrc="DAFFARS_MP_5306_502_3.html"/>
-            <topicref navtitle="4. Annual Competition and Commercial Reporting Requirements."
+            <topicref navtitle="MP5306.502-4. Annual Competition and Commercial Reporting Requirements."
                       href="MP_5306_502_4.dita"
                       props="4."
                       otherprops="MP_5306_502_4"
@@ -4677,7 +4677,7 @@
                       outputclass="SubPart"
                       xtrf="SubPart"
                       xtrc="DAFFARS_MP_5315_3_2_3.html"/>
-            <topicref navtitle="2.4 Release the Request for Proposals (No AF Text)"
+            <topicref navtitle="2.4 Release the Request for Proposals (No DAF Text)"
                       href="MP_5315_3_2_4.dita"
                       props="2.4"
                       otherprops="MP_5315_3_2_4"
@@ -4786,7 +4786,7 @@
                       outputclass="SubPart"
                       xtrf="SubPart"
                       xtrc="DAFFARS_MP_5315_3_3_10.html"/>
-            <topicref navtitle="3.11 Debriefings (No AF Text)"
+            <topicref navtitle="3.11 Debriefings (No DAF Text)"
                       href="MP_5315_3_3_11.dita"
                       props="3.11"
                       otherprops="MP_5315_3_3_11"
@@ -4842,7 +4842,7 @@
                       xtrf="SubPart"
                       xtrc="DAFFARS_MP_5315_3_4_3.html"/>
          </topicref>
-         <topicref navtitle="5 DEFINITIONS ( No AF text)"
+         <topicref navtitle="5 DEFINITIONS ( No DAF Text)"
                    href="MP_5315_3_5.dita"
                    props="5"
                    otherprops="MP_5315_3_5"
@@ -4933,7 +4933,7 @@
                       xtrf="SubPart"
                       xtrc="DAFFARS_MP_5315_3_6_8.html"/>
          </topicref>
-         <topicref navtitle="LIST OF TABLES AND FIGURES (No AF text)"
+         <topicref navtitle="LIST OF TABLES AND FIGURES (No DAF text)"
                    href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita"
                    props="LIST OF TABLES AND FIGURES"
                    otherprops="MP_5315_3_LIST_OF_TABLES_AND_FIGURES"
@@ -5030,7 +5030,7 @@
                 audience="DAFFARS_MP5325_7002_2"
                 xtrf="SubPart"
                 xtrc="DAFFARS_MP5325_7002_2.html">
-         <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002 .Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
+         <topicref navtitle="MP5325.7002-2-1 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
                    href="MP5325_7002_2_1.dita"
                    props="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002"
                    otherprops="MP5325_7002_2_1"
@@ -5039,7 +5039,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""/>
-         <topicref navtitle="2.DNADException .DNAD Exception"
+         <topicref navtitle="MP5325.7002-2-2 DNAD Exception"
                    href="MP5325_7002_2_2.dita"
                    props="2.DNADException"
                    otherprops="MP5325_7002_2_2"
@@ -5057,7 +5057,7 @@
                 audience="DAFFARS_MP5325_7003_3"
                 xtrf="SubPart"
                 xtrc="DAFFARS_MP5325_7003_3.html">
-         <topicref navtitle="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7003 .Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
+         <topicref navtitle="MP5325.7003-3-1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
                    href="MP5325_7003_3_1.dita"
                    props="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7003"
                    otherprops="MP5325_7003_3_1"
@@ -5066,7 +5066,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""/>
-         <topicref navtitle="2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals .Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
+         <topicref navtitle="MP5325.7003-3-2. Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
                    href="MP5325_7003_3_2.dita"
                    props="2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals"
                    otherprops="MP5325_7003_3_2"
@@ -5075,7 +5075,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""/>
-         <topicref navtitle="3.DNADException .DNAD Exception"
+         <topicref navtitle="MP5325.7003-3-3. DNAD Exception"
                    href="MP5325_7003_3_3.dita"
                    props="3.DNADException"
                    otherprops="MP5325_7003_3_3"

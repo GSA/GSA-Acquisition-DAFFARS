@@ -6,11 +6,12 @@
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5312.403</ph>  Termination</title>
       <conbody>
-        <p outputclass="List1">(b) See <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5349-termination-contracts#DAFFARS_5349_101"
-                  scope="external">DAFFARS
-5349.101</xref> for termination approval requirements.<ph id="Toc38287164"/>
-        </p>
+        <p
+        outputclass="List1">(b) See <xref
+        format="html"
+        href="5349_101.dita#DAFFARS_5349_101"
+        scope="external">DAFFARS 5349.101</xref> for termination approval requirements.<ph
+        id="Toc38287164"/> </p>
       </conbody>
     </concept>
 </dita>

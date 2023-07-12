@@ -299,7 +299,7 @@
                       base="concept"
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_1_2"/>
-            <topicref navtitle="1.3 Best Value Continuum (No AF Text)"
+            <topicref navtitle="1.3 Best Value Continuum (No DAF Text)"
                       href="MP_5315_3_1_3.dita"
                       props="1.3"
                       otherprops="MP_5315_3_1_3"
@@ -343,7 +343,7 @@
                       base="concept"
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_2_3"/>
-            <topicref navtitle="2.4 Release the Request for Proposals (No AF Text)"
+            <topicref navtitle="2.4 Release the Request for Proposals (No DAF Text)"
                       href="MP_5315_3_2_4.dita"
                       props="2.4"
                       otherprops="MP_5315_3_2_4"
@@ -429,7 +429,7 @@
                       base="concept"
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_3_10"/>
-            <topicref navtitle="3.11 Debriefings (No AF Text)"
+            <topicref navtitle="3.11 Debriefings (No DAF Text)"
                       href="MP_5315_3_3_11.dita"
                       props="3.11"
                       otherprops="MP_5315_3_3_11"
@@ -474,7 +474,7 @@
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_4_3"/>
          </topicref>
-         <topicref navtitle="5 DEFINITIONS ( No AF text)"
+         <topicref navtitle="5 DEFINITIONS ( No DAF Text)"
                    href="MP_5315_3_5.dita"
                    props="5"
                    otherprops="MP_5315_3_5"
@@ -547,7 +547,7 @@
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_6_8"/>
          </topicref>
-         <topicref navtitle="LIST OF TABLES AND FIGURES (No AF text)"
+         <topicref navtitle="LIST OF TABLES AND FIGURES (No DAF Text)"
                    href="MP_5315_3_LIST_OF_TABLES_AND_FIGURES.dita"
                    props="LIST OF TABLES AND FIGURES"
                    otherprops="MP_5315_3_LIST_OF_TABLES_AND_FIGURES"
@@ -562,21 +562,21 @@
                    outputclass="SubPart"
                    class="- map/topicref "
                    audience="DAFFARS_MP_5315_3_LIST_OF_APPENDICES">
-            <topicref navtitle="Appendix A. Debriefing Guide (No AF Text)"
+            <topicref navtitle="Appendix A. Debriefing Guide (No DAF Text)"
                       href="MP_5315_3_APPENDIX_A.dita"
                       props="Appendix A."
                       otherprops="MP_5315_3_Appendix_A"
                       base="concept"
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_APPENDIX_A"/>
-            <topicref navtitle="Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No AF Text )"
+            <topicref navtitle="Appendix B. Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price (VATEP) Tradeoff ( No DAF Text )"
                       href="MP_5315_3_APPENDIX_B.dita"
                       props="Appendix B."
                       otherprops="MP_5315_3_Appendix_B"
                       base="concept"
                       class="- map/topicref "
                       audience="DAFFARS_MP_5315_3_APPENDIX_B"/>
-            <topicref navtitle="Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No AF Text)"
+            <topicref navtitle="Appendix C. Lowest Price Technically Acceptable (LPTA) Source Selection Process (No DAF Text)"
                       href="MP_5315_3_APPENDIX_C.dita"
                       props="Appendix C."
                       otherprops="MP_5315_3_Appendix_C"

@@ -7,14 +7,9 @@
          <ph class="- topic/ph " props="autonumber">5342.490-1</ph> Contract clause</title>
       <conbody>
 
-        <p>The contracting officer shall insert the clause substantially
-the same as the clause at <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_242_9000"
-                  scope="external">DAFFARS
-5352.242-9000</xref> in solicitations and contracts that require
-contractor personnel to make frequent visits to or perform work on
-Department of the Air Force installation(s).
-        </p>
+        <p>The contracting officer shall insert the clause substantially the same as the clause at <xref
+        href="5352_242-9000.dita#DAFFARS_5352_242-9000"
+        outputclass="fm:ParaNumOnly">DAFFARS 5352.242-9000</xref> in solicitations and contracts that require contractor personnel to make frequent visits to or perform work on Department of the Air Force installation(s). </p>
       </conbody>
     </concept>
 </dita>

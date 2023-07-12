@@ -11,10 +11,9 @@
                   scope="external">DAFFARS
 5317.7406</xref>, insert the following clause in solicitations and
 contracts:</p>
-        <p id="Toc76485393">
-            <b>LONG LEAD LIMITATION OF
-GOVERNMENT LIABILITY (OCT 2023)</b>
-        </p>
+        <p
+                                outputclass="Ctr_SmCaps"> LONG LEAD LIMITATION
+                                OF GOVERNMENT LIABILITY (JUN 2023) </p>
         <p outputclass="List1">(a) In performing this contract, the contractor is
 not authorized to make expenditures or incur obligations exceeding
 $[<i>
@@ -40,7 +39,7 @@ contracting officer of the estimated amount of additional funds
 required to continue long lead contract performance, when the funds
 will be needed, and any agreed to extension period specified in the
 Schedule.</p>
-        <p id="p53522239000">(End of clause)</p>
+        <p id="p53522239000" outputclass="Endofclause">(End of clause)</p>
       </conbody>
     </concept>
 </dita>

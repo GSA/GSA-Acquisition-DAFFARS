@@ -11,9 +11,9 @@
                   scope="external">DAFFARS
 5342.490-2</xref>, insert a clause substantially the same as the
 following clause in solicitations and contracts:</p>
-        <p id="Toc76485401">
-            <b>COMMON ACCESS CARDS (CAC) FOR
-CONTRACTOR PERSONNEL (OCT 2023)</b>
+        <p id="Toc76485401" outputclass="Ctr_SmCaps">
+            COMMON ACCESS CARDS (CAC) FOR
+CONTRACTOR PERSONNEL (JUN 2023)
         </p>
         <p outputclass="List1">(a) For installation(s)/location(s) cited in the
 contract, contractors shall ensure Common Access Cards (CACs) are
@@ -63,7 +63,7 @@ all CACs issued to their personnel to the issuing office or the
 location specified by local policy/directives.</p>
         <p outputclass="List1">(f) Failure to comply with these requirements may
 result in withholding of final payment.</p>
-        <p id="p53522479000">(End of clause)</p>
+        <p id="p53522479000" outputclass="Endofclause">(End of clause)</p>
       </conbody>
     </concept>
 </dita>

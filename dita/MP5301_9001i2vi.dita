@@ -4,8 +4,10 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.3">
    <topic id="DAFFARS_MP5301_9001i2vi" ditaarch:DITAArchVersion="1.3">
-      <title class="- topic/title " outputclass="Heading 1">
-         <ph class="- topic/ph " props="autonumber">MP5301.9001i2vi</ph> 
-         <ph rev="">MP5301.9001i2vi</ph> (i)(2)(vi)- Clearance Approval when the HCA is SSC/PK Director</title>
+      <title
+      class="- topic/title "
+      outputclass="Heading 1"> <ph
+      class="- topic/ph "
+      props="autonumber">MP5301.9001i2vi</ph> - Clearance Approval when the HCA is SSC/PK Director</title>
   </topic>
 </dita>

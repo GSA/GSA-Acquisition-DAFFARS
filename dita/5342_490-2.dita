@@ -7,13 +7,9 @@
          <ph class="- topic/ph " props="autonumber">5342.490-2</ph> Contract clause</title>
       <conbody>
 
-        <p>The contracting officer shall insert the clause substantially
-the same as the clause at <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_242_9001"
-                  scope="external">DAFFARS
-5352.242-9001</xref> in solicitations and contracts that require
-contractor personnel to meet one or both of the following
-criteria:</p>
+        <p>The contracting officer shall insert the clause substantially the same as the clause at <xref
+        href="5352_242-9001.dita#DAFFARS_5352_242-9001"
+        outputclass="fm:ParaNumOnly">DAFFARS 5352.242-9001</xref> in solicitations and contracts that require contractor personnel to meet one or both of the following criteria:</p>
         <p outputclass="List1">(a) Require logical access to Department of
 Defense computer networks and systems in either the unclassified
 environment or the classified environment where authorized by

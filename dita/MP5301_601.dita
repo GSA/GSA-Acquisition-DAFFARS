@@ -10,31 +10,22 @@
          <ph class="- topic/ph " id="7qx6b7" props="autonumber">MP5301.601</ph> (a)(i) Department of the Air Force
   Approval Authority Matrices</title>
       <body>
-         <p id="S0xiKC" outputclass="Ctr"> 
+         <p id="S0xiKC"> 
             <b id="ujCSbM">2023 Edition</b> 
          </p>
          <p> 
-            <b> 
-               <xref href="#DAFFARS_MP5301_601/DAFFARS_MP5301_601_Table1"
-                     format="dita"
-                     class="- topic/xref "
-                     outputclass="fm:TEXT">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref> and <xref href="#DAFFARS_MP5301_601/DAFFARS_MP5301_601_Table2" format="dita">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref> 
-            </b>consist of delegations (or retentions) of
+            <b> Tables 1 and 2</b> consist of delegations (or retentions) of
             authority made by the Department of the Air Force Agency Head (HoA),
             Senior Procurement Executive (SPE), Service Acquisition Executives
             (SAEs), and Head of Contracting Activities (HCAs). The Tables do not
             contain authorities originally invested somewhere other than those
             positions (e.g., certain class deviations which must be approved by
-            DPC). <b> 
-               <xref href="#DAFFARS_MP5301_601/RG5Jtt" format="dita">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref> 
-            </b>reflects the authority to enter
-            into, approve, or terminate Grants, Cooperative Agreements, Other
-            Transactions and Procurements for Experimental purposes—including
-            the issuance of a warrant for such purposes.</p>
-         <p outputclass="Ctr"> 
-            <b> 
-               <xref href="#DAFFARS_MP5301_601/DAFFARS_MP5301_601_Table1" format="dita">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref> – SAF/AQ NON-SPACE SYSTEMS AND
-            PROGRAMS: </b> 
+            DPC). <b> Table 3 </b>reflects the authority to enter into, approve,
+            or terminate Grants, Cooperative Agreements, Other Transactions and
+            Procurements for Experimental purposes—including the issuance of a
+            warrant for such purposes.</p>
+         <p> 
+            <b> TABLE 1 – SAF/AQ NON-SPACE SYSTEMS AND PROGRAMS: </b> 
          </p>
          <p>SAF/AQ is authorized to execute HoA, SAE, and SPE responsibilities
             for non-space systems and programs, including product support,
@@ -56,9 +47,8 @@
             regarding processing packages that require SAF/AQ approval to <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   format="AQ.SAF-AQC.Workflow@us.af.mil.SAF-AQC.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
                   scope="external">SAF/AQC Workflow</xref>.</p>
-         <p outputclass="Ctr"> 
-            <b> 
-               <xref href="#DAFFARS_MP5301_601/DAFFARS_MP5301_601_Table2" format="dita">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref> SAF/SQ SPACE SYSTEMS AND PROGRAMS: </b> 
+         <p> 
+            <b> TABLE 2 SAF/SQ SPACE SYSTEMS AND PROGRAMS: </b> 
          </p>
          <p> SAF/SQ is authorized to execute HoA, SAE, and certain SPE
             responsibilities for space systems and programs, unless otherwise
@@ -66,7 +56,7 @@
             programs, the SSC/PK Director, the Space Development Agency (SDA)
             Director, or Space RCO (SpRCO) Director of Contracting are
             designated HCAs. Submit documents requiring HCA coordination or
-            approval to the cognizant HCA workflow identified in <xref href="https://www.acquisition.gov/affars/part-5302-definitions-words-and-terms"
+            approval to the cognizant HCA workflow identified in <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
                   format="html"
                   scope="external">DAFFARS 5302.101</xref>. Approvals from SAF/AQ,
             SAF/SQ, DPC, or SecAF require coordination from the HCA.</p>
