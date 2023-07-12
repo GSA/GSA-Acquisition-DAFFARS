@@ -1,79 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_PART_5313" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 1">
-         <ph props="autonumber">Part 5313</ph> - Simplified Acquisition Procedures</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5313">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5313</ph> - Simplified Acquisition Procedures</title>
       <body>
          <p id="rlejmU" outputclass="Normal">
-            <xref format="html" href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Pages/5313.aspx" scope="external">AFFARS PART 5313 Knowledge Center</xref>
+            <xref format="html"
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5313.aspx"
+                  scope="external">DAFFARS PART 5313 Knowledge Center</xref>
          </p>
          <p id="MonvIy" outputclass="Normal">
             <b>2019 Edition</b>
          </p>
          <p id="kcc9t9sy" outputclass="Normal">
-            <i>Revised: 2 May 2022</i>
+            <i>Revised: June 2023</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_1.dita#AFFARS_SUBPART_5313_1">Subpart 5313.1 - PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_1.dita#DAFFARS_SUBPART_5313_1">Subpart 5313.1 - PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_106_1.dita#AFFARS_5313_106_1">5313.106-1 Soliciting from a Single Source</xref>
+                        <xref outputclass="fm:TOC" href="5313_106-1.dita#DAFFARS_5313_106-1">5313.106-1 Soliciting from a Single Source</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_106_3.dita#AFFARS_5313_106_3">5313.106-3 Award and Documentation</xref>
+                        <xref outputclass="fm:TOC" href="5313_106-3.dita#DAFFARS_5313_106-3">5313.106-3 Award and Documentation</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_2.dita#AFFARS_SUBPART_5313_2">Subpart 5313.2 - ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_2.dita#DAFFARS_SUBPART_5313_2">Subpart 5313.2 - ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_201.dita#AFFARS_5313_201">5313.201 General</xref>
+                        <xref outputclass="fm:TOC" href="5313_201.dita#DAFFARS_5313_201">5313.201 General</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_3.dita#AFFARS_SUBPART_5313_3">Subpart 5313.3 - SIMPLIFIED ACQUISITION METHODS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_3.dita#DAFFARS_SUBPART_5313_3">Subpart 5313.3 - SIMPLIFIED ACQUISITION METHODS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_301.dita#AFFARS_5313_301">5313.301 Governmentwide Commercial Purchase Card</xref>
+                        <xref outputclass="fm:TOC" href="5313_301.dita#DAFFARS_5313_301">5313.301 Governmentwide Commercial Purchase Card</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_303_5.dita#AFFARS_5313_303_5">5313.303-5 Purchases Under BPAs</xref>
+                        <xref outputclass="fm:TOC" href="5313_303-5.dita#DAFFARS_5313_303-5">5313.303-5 Purchases Under BPAs</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5313_5.dita#AFFARS_SUBPART_5313_5">Subpart 5313.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_5313_5.dita#DAFFARS_SUBPART_5313_5">Subpart 5313.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_500.dita#AFFARS_5313_500">5313.500 General</xref>
+                        <xref outputclass="fm:TOC" href="5313_500.dita#DAFFARS_5313_500">5313.500 General</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5313_501.dita#AFFARS_5313_501">5313.501 Special Documentation Requirements</xref>
+                        <xref outputclass="fm:TOC" href="5313_501.dita#DAFFARS_5313_501">5313.501 Special Documentation Requirements</xref>
                      </p>
                   </li>
                </ul>

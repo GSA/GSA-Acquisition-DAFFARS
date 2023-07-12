@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_SUBPART_5319_14" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Subpart">
-         <ph props="autonumber">Subpart 5319.14</ph> - SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM</title>
-   </topic>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5319_14">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">Subpart 5319.14</ph> – SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM</title>
+      <body/>
+    
+  </topic>
 </dita>

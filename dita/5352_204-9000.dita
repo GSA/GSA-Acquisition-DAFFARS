@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5352_204-9000">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5352.204-9000</ph> Notification of Government Security Activities</title>
+      <conbody>
+        <p>As prescribed in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5304-administrative-matters#DAFFARS_5304_404_90"
+                  scope="external">DAFFARS
+5304.404-90</xref>, insert the following clause in solicitations and
+contracts:</p>
+        <p
+                                outputclass="Ctr_SmCaps"> NOTIFICATION OF GOVERNMENT SECURITY ACTIVITIES (JUN 2023) </p>
+        <p>This contract contains a <xref format="html"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external">DD
+Form 254</xref>, DOD Contract Security Classification Specification,
+and requires performance at a government location in the U.S. or
+overseas. Prior to beginning operations involving classified
+information on an installation identified on the <xref format="html"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external">DD
+Form 254</xref>, the contractor shall take the following actions:</p>
+        <p outputclass="List1">(a) At least thirty days prior to beginning
+operations, notify the Information Protection Office shown in the
+distribution block of the <xref format="html"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  scope="external">DD
+Form 254</xref> as to:</p>
+        <p outputclass="List2">(1) The name, address, and telephone number of
+this contract company’s representative and designated
+alternate in the U.S. or overseas area, as appropriate;</p>
+        <p outputclass="List2">(2) The contract number and military contracting
+command;</p>
+        <p outputclass="List2">(3) The highest classification category of defense
+information to which contractor employees will have access;</p>
+        <p
+                                outputclass="List2">(4) The Department of the Air Force installations in the U.S. (in overseas areas, identify only the APO number(s)) where the contract work will be performed;</p>
+        <p outputclass="List2">(5) The date contractor operations will begin on
+base in the U.S. or in the overseas area;</p>
+        <p outputclass="List2">(6) The estimated completion date of operations on
+base in the U.S. or in the overseas area; and,</p>
+        <p outputclass="List2">(7) Any changes to information previously provided
+under this clause.</p>
+        <p id="p53522099000" outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+    </concept>
+</dita>

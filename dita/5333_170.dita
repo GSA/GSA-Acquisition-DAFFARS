@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5333_170" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5333.170</ph> Briefing Requirement for Protested Acquisitions Valued at $1B or More</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5333_170">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5333.170</ph>  Briefing Requirement for Protested Acquisitions Valued at $1B or More</title>
       <conbody>
-         <p id="bjMysc" outputclass="Normal">Within seven (7) days of the filing of the protest, forward the briefing slide deck through the SCO to <xref format="mailto" href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil" scope="external">
-               <u>AF/JACQ</u>
-            </xref> and to <xref format="mailto" href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil" scope="external">
-               <u>SAF/AQC</u>
-            </xref>
-            <ph>
-               <u></u>
-            </ph>for review and processing to OUSD(A&amp;S)/DPC.</p>
+
+        <p>Within seven (7) days of the filing of the protest, forward the
+briefing slide deck through the SCO and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">cognizant
+HCA</xref> to <xref format="html"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">AF/JACQ</xref>
+and the <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                  scope="external">SAF/AQC
+Workflow</xref> for DAS(C) review and processing to
+OUSD(A&amp;S)/DPC.</p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

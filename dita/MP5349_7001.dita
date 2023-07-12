@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_MP5349_7001" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">MP5349.7001</ph> Congressional Notification on Significant Contract Terminations</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP5349_7001">
+      <title class="- topic/title ">
+  
+         <ph class="- topic/ph " props="autonumber">MP5349.7001</ph> 
+ Congressional Notification on Significant Contract
+ Terminations
+  </title>
       <conbody>
-         <p id="p__Toc38365681" outputclass="List2">(3)(v) “Contract price of the items terminated” means the contract price of the supplies or services not yet accepted that are being terminated. The contracting officer must not adjust this amount downward for progress or advance payments, accepted vouchered costs, or less than full funding and should use estimates when un-priced contract actions are being terminated, or when otherwise necessary.</p>
+        <p outputclass="List2">(3)(v) “Contract price of the items terminated” means the contract price of the supplies or services not yet accepted that are being terminated. The contracting officer must not adjust this amount downward for progress or advance payments, accepted vouchered costs, or less than full funding and should use estimates when un-priced contract actions are being terminated, or when otherwise necessary.</p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

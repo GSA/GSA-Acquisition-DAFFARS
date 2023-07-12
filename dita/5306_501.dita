@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5306_501" ditaarch:DITAArchVersion="1.3">
-      <title id="hidVRr" outputclass="Heading 3">
-         <ph id="DdKuyp" props="autonumber">5306.501</ph> Requirement</title>
-      <conbody id="jH3xmx">
-         <p id="GXjuQp" outputclass="List1">(a) The DAS(C) is the designated Air Force Competition Advocate General (CAG). The following organizations are designated as Air Force procuring activities:</p>
-         <p id="zkllvq">Air Combat Command (ACC)</p>
-         <p id="quOlwi">Air Education and Training Command (AETC)</p>
-         <p id="TDNdde">Air Force Global Strike Command (AFGSC)</p>
-         <p id="ZUFUUT">Air Mobility Command (AMC)</p>
-         <p id="OMHuEA">Air Force Materiel Command (AFMC)</p>
-         <p id="xITIzF">United States Space Force (USSF)</p>
-         <p id="tDgCSs">Pacific Air Forces (PACAF)</p>
-         <p id="SaViur">United States Air Forces in Europe (USAFE)</p>
-         <p id="KKkcYg">Air Force District of Washington (AFDW)</p>
-         <p id="TaqdFu">Air Force Reserve Command (AFRC)</p>
-         <p id="WzbObl">Air Force Special Operations Command (AFSOC)</p>
-         <p id="eCrxFn">USAF Academy (USAFA)</p>
-         <p id="KRIgBD">Air Force Operational Test and Evaluation Center (AFOTEC) - AFTC is the competition advocate for AFOTEC</p>
-         <p id="rKlfFq">Space Systems Command (SCC)</p>
-         <p id="zohOir">Air Force Rapid Capabilities Office (AFRCO)</p>
-         <p id="kJfvns">Space Rapid Capabilities Officer (SpRCO)</p>
-         <p id="xJlEGX">Systems Operations Command (SpOC)</p>
-         <p id="lQWlZM">Space Systems Command (SSC)</p>
-         <p id="nrzCpx">Space Training and Readiness Command (STARCOM)</p>
-         <p id="pJjsOY" outputclass="List1">(b) The procuring activities listed above are authorized to further designate subordinate organizations as procuring activities subject to the requirements of <xref format="html" href="https://www.acquisition.gov/far/part-6#FAR_6_501" id="ftzAXb" scope="external">FAR 6.501</xref> and <xref href="MP5306_502.dita#AFFARS_MP5306_502" id="ijisJL" outputclass="fm:ParaNumOnly">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>, <i id="w1I50u">Air Force Competition and Commercial Advocacy Program</i>.</p>
-         <p id="AsngJi" outputclass="List1"></p>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5306_501">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5306.501</ph> Requirement</title>
+      <conbody>
+        <p outputclass="List1">(a) The DAS(C) is the designated the DAF
+Competition Advocate General (CAG).</p>
+        <p outputclass="List1">(1) The following organizations are designated as
+Air Force procuring activities for purposes of competition:</p>
+        <p outputclass="List1">Air Combat Command (ACC)</p>
+        <p outputclass="List1">Air Education and Training Command (AETC)</p>
+        <p outputclass="List1">Air Force District of Washington (AFDW)</p>
+        <p outputclass="List1">Air Force Global Strike Command (AFGSC)</p>
+        <p outputclass="List1">Air Force Materiel Command (AFMC)</p>
+        <p outputclass="List1">Air Force Operational Test and Evaluation Center
+(AFOTEC) - AFTC is the competition advocate for AFOTEC</p>
+        <p outputclass="List1">Air Force Rapid Capabilities Office (AFRCO)</p>
+        <p outputclass="List1">Air Force Reserve Command (AFRC)</p>
+        <p outputclass="List1">Air Force Special Operations Command (AFSOC)</p>
+        <p outputclass="List1">Air Mobility Command (AMC)</p>
+        <p outputclass="List1">Pacific Air Forces (PACAF)</p>
+        <p outputclass="List1">United States Air Force Academy (USAFA)</p>
+        <p outputclass="List1">United States Air Forces in Europe (USAFE)</p>
+        <p outputclass="List1">USAF Academy (USAFA)</p>
+        <p outputclass="List1">(2) The following organizations are designated as
+Space Force procuring activities.</p>
+        <p outputclass="List1">Space Development Agency</p>
+        <p outputclass="List1">Space Rapid Capabilities Office (SpRCO)</p>
+        <p outputclass="List1">Space Systems Command (SSC)</p>
+
+        <p outputclass="List1">(b) The procuring activities listed above are authorized to
+further designate subordinate organizations as procuring activities
+subject to the requirements of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_501"
+                  scope="external">FAR
+6.501</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5306-competition-requirements#DAFFARS_MP5306_502"
+                  scope="external">MP5306.502</xref>,
+<i>Air Force Competition and Commercial Advocacy Program</i>. <ph id="Toc38284763"/>
+        </p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

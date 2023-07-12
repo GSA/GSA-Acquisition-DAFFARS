@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5307_104-92">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5307.104-92</ph>  Acquisition Strategy Panels (ASP) and Approval Authority (AP)</title>
+      <conbody>
+        <p outputclass="List1">(a) ASPs:</p>
+        <p outputclass="List2">(1) ASP are integral to a deliberative process
+that support the acquisition strategy approving authority in making
+informed decisions in performing their acquisition execution
+responsibilities. An ASP includes the Chair, panel members, and a
+briefing supporting the proposed strategy.</p>
+        <p outputclass="List2">(2) The program manager, or the contracting
+officer if a program manager is not assigned, must ensure an ASP is
+conducted for all acquisitions that require a written AP in
+accordance with <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS-207.103"
+                  scope="external">DFARS
+207.103</xref> , unless otherwise waived by the AP approval authority
+((also see 5307.104-92 Acquisition Strategy Panels (ASP) and AP
+Approval Authority DAFFARS 5307.104-92(b)) .</p>
+        <p outputclass="List2">(3) The AP approval authority will be the ASP Chair. The ASP
+Chair will determine the ASP membership and the required briefing
+content based upon the unique requirements of each acquisition.</p>
+        <p outputclass="List2">(4) At the conclusion of the ASP briefing, the
+program manager (or equivalent) must prepare ASP minutes and obtain
+approval from the AP approval authority.</p>
+        <p outputclass="List1">(b) AP Approval Authority:</p>
+        <table>
+            <tgroup cols="2">
+               <colspec colname="col1" colnum="1" colwidth="0.9*"/>
+               <colspec colname="col2" colnum="2" colwidth="1.1*"/>
+               <tbody>
+                  <row>
+                     <entry nameend="col2" namest="col1">
+                        <b>AP Approval</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <b>
+                           <i>Category</i>
+                        </b>
+                     </entry>
+                     <entry>
+                        <b>AP Approval Authority</b>
+                     </entry>
+                  </row>
+                  <row>
+                     <entry>PEO (Systems)</entry>
+                     <entry>See <xref format="html"
+                              href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                              scope="external">DAFI
+63-101/20-101</xref> (See Note below)-101/20-101(See Note below)</entry>
+                  </row>
+                  <row>
+                     <entry>
+                        <p>AFPEO/CM – Services</p>
+                        <p>(Operational &amp; Enterprise Services Acquisitions subject to
+DAFI 63.138)</p>
+                     </entry>
+                     <entry>See <xref format="html"
+                              href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                              scope="external">DAFI
+63-138</xref> (See Note below) 63-138(See Note below)</entry>
+                  </row>
+                  <row>
+                     <entry>Operational &amp; Enterprise (not covered above by DAFI
+63.138)</entry>
+                     <entry>SCO**</entry>
+                  </row>
+                  <row>
+                     <entry>AFRL Enterprise</entry>
+                     <entry>SCO**</entry>
+                  </row>
+                  <row>
+                     <entry nameend="col2" namest="col1">
+
+                        <p>Note: COs should determine their PEOs procedures for compliance
+with <xref format="html"
+                                 href="https://www.acquisition.gov/far/part-7#FAR_7_103"
+                                 scope="external">FAR
+7.103</xref>, <xref format="html"
+                                 href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS-207.103"
+                                 scope="external">DFARS
+207.103</xref>, and DAFI 63-<xref format="html"
+                                 href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                                 scope="external"/>
+                           <xref format="html"
+                                 href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                                 scope="external">101</xref>/20-101or
+DAFI <xref format="html"
+                                 href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                                 scope="external"/>
+                           <xref format="html"
+                                 href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
+                                 scope="external">63</xref>-138.
+See <xref format="html"
+                                 href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS-207.103"
+                                 scope="external">DFARS
+207.103</xref> for AP content requirements</p>
+                        <p>** Delegable to requiring organization or contracting
+organization no lower than the CO .</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="List1">(c) Actions that do not require a written Acquisition Plan or
+written Streamlined Strategy: (Note: FAR 7.102 requires acquisition
+planning and market research for ALL acquisitions.)</p>
+        <p outputclass="List2">(1) Task orders or delivery orders awarded from a DoD ID/IQ
+vehicle in accordance with the terms of the basic contract.
+Acquisition Plans are required for non-DoD orders.</p>
+        <p outputclass="List1">(Note: Use of non-price evaluation factors for
+award of task orders or delivery orders is considered outside the
+terms of the basic contract and action would require a written AP
+IAW DFARS 207.103 and DAFFARS 5307.104-92(a)(2))</p>
+        <p outputclass="List1">(2) Modifications within the scope of the
+contract;</p>
+        <p outputclass="List1">(3) Replenishment parts except for those
+replenishment buys that require design; development, verification
+testing, and approval before start of production;</p>
+        <p outputclass="List1">(4) Basic research under funding category 6.1</p>
+        <p outputclass="List1">(5) Any action &lt; SAT;</p>
+        <p outputclass="List1">(6) Final Buy Out and One-Time Buy. This refers to
+a single contract that covers all known present and future
+requirements. This exception does not apply to a multiyear contract
+or a contract with options or phases;</p>
+        <p outputclass="List1">(7) The Small Business Innovation Research (SBIR)
+program, including the Small Business Technology Transfer (STTR)
+program (e.g. DoD-wide program planning/solicitation); and</p>
+        <p outputclass="List2">(8) Acquisitions in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-13#FAR_Subpart_13_5"
+                  scope="external">FAR
+13.5</xref>, <i>Simplified Procedures for Certain Commercial Products
+and Commercial Services</i>.</p>
+      </conbody>
+    </concept>
+</dita>

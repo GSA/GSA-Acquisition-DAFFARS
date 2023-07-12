@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_SUBPART_5343_1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Subpart">
-         <ph props="autonumber">Subpart 5343.1</ph> - GENERAL</title>
-   </topic>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_SUBPART_5343_1">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">Subpart 5343.1</ph> – GENERAL </title>
+      <body>
+         <p id="Toc101510433">
+            <b>5343.102 Policy</b>
+         </p>
+         <p>If the contract is a space program contract to which SSCI 64-101
+applies, contracting officers shall not execute contract
+modifications resulting from an engineering change proposal with a
+contractor listed on the Contractor Responsibility Watch List
+(CRWL) without obtaining SSC/CC approval (see DAFFARS
+5309.103(b)(i)).</p>
+      </body>
+    
+  </topic>
 </dita>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_5304_102" ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">   
+         <ph class="- topic/ph " props="autonumber">5304.102</ph> Early Effective Date</title>
+      <conbody>
+         <p outputclass="List2">1. Apsdfgproval authority for the use of an early effective date is the chief of the contracting office. After reaching agreement on terms, conditions, price, and if funds are available, the contracting officer may advise a prospective contractor in writing of the Government’s intent to use an effective date before the contract mailing (award/signed) date. </p>
+         <p outputclass="List2">2. Notice to the contractor should state that any costs recognized in a resulting contract should be limited to those allowable, allocable and reasonable; costs that would normally be recognized if incurred after contract award. The Notice to the contractor should state, that if there is no contract, all incurred costs should be at the contractor’s own risk. </p>
+         <p outputclass="List2">3. Approval Authority should provide contractual coverage with a letter contract, or other appropriate undefinitized contractual action, if the Government intends to direct a prospective contractor, to accept benefits of efforts, or make payments before definitive contract mailing date. </p>
+         <p outputclass="List2">4. Approval Authority should obtain legal review for early effective dates established more than 30 days prior to the envisioned contract award date.</p>
+      </conbody>
+   </concept>
+</dita>

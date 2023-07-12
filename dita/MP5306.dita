@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_MP5306" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Part">
-         <ph props="autonumber">MP5306</ph> - Competition Requirements</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_MP5306">
+      <title class="- topic/title " outputclass="Part">
+         <ph class="- topic/ph " props="autonumber">MP5306</ph> - Competition Requirements</title>
       <body>
          <p id="o0dm98rl">
             <b>2019 Edition</b>
          </p>
          <p id="ury8pylq">
-            <i>Revised: 2 May 2022</i>
+            <i>Revised: June 2023</i>
          </p>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="MP5306_5.dita#AFFARS_MP5306_5">MP5306.5 - COMPETITION ADVOCATES</xref>
+                  <xref outputclass="fm:TOC" href="MP5306_5.dita#DAFFARS_MP5306_5">MP5306.5 - COMPETITION ADVOCATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="MP5306_502.dita#AFFARS_MP5306_502">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>
+                        <xref outputclass="fm:TOC" href="MP5306_502.dita#DAFFARS_MP5306_502">MP5306.502 Air Force Competition and Commercial Advocacy Program</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#AFFARS_MP_5306_502_1">1.Objectives. Objectives.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_1.dita#DAFFARS_MP_5306_502_1">MP5306.502-1. Objectives.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#AFFARS_MP_5306_502_2">2.DutiesandResponsibilities. Duties and Responsibilities.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_2.dita#DAFFARS_MP_5306_502_2">MP5306.502-2. Duties and Responsibilities.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#AFFARS_MP_5306_502_3">3.AppointmentoftheCompetitionandCommercialAdvocate. Appointment of the Competition and Commercial Advocate.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_3.dita#DAFFARS_MP_5306_502_3">MP5306.502-3. Appointment of the Competition and Commercial Advocate.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#AFFARS_MP_5306_502_4">4. Annual Competition and Commercial Reporting Requirements.</xref>
+                              <xref outputclass="fm:TOC" href="MP_5306_502_4.dita#DAFFARS_MP_5306_502_4">4. Annual Competition and Commercial Reporting Requirements.</xref>
                            </p>
                         </li>
                      </ul>

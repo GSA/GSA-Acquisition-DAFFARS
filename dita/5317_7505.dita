@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5317_7505" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5317.7505</ph> Limitations on Price Increases</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5317_7505">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5317.7505</ph> Limitations on Price Increases</title>
       <conbody>
-         <p id="SkJOWM" outputclass="List1">(b) See <xref href="MP5301_601.dita" />.</p>
-         <p id="nziIrC" outputclass="Normal"></p>
+        <p outputclass="List1">(b) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.</p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

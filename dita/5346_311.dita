@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5346_311">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5346.311</ph> Higher-Level Contract Quality Requirement.</title>
+      <conbody>
+
+        <p>Agencies shall establish procedures for determining when
+higher-level contract quality requirements are necessary, for
+determining the risk (both the likelihood and the impact) of
+nonconformance, and for advising the contracting officer about
+which higher-level standards should be applied and included in the
+solicitation and contract. Requiring compliance with higher-level
+quality standards is necessary in solicitations and contracts for
+complex or critical items (see FAR <xref format="html"
+                  href="https://www.acquisition.gov/far/part-46#FAR_46_204"
+                  scope="external">46.203</xref>)
+or when the technical requirements of the contract require -</p>
+        <p>(1) Control of such things as design, work operations,
+in-process controls, testing and inspection; or</p>
+        <p>(2) Attention to such factors as organization, planning, work
+instructions, documentation control, and advanced metrology,</p>
+        <p>(a) The Contractor shall comply with the higher-level quality
+standard(s) listed below.</p>
+        <p>___________________________[Contracting Officer shall insert the
+title, number (if any), date, and tailoring (if any) of the
+higher-level quality standards.]</p>
+        <p>(b) The Contractor shall include applicable requirements of the
+higher-level quality standard(s) listed in paragraph (a) of this
+clause and the requirement to flow down such standards, as
+applicable, to lower-tier subcontracts, in-</p>
+
+        <p>(1) Any subcontract for critical and complex items (see FAR <xref format="html"
+                  href="https://www.acquisition.gov/far/46.203"
+                  scope="external">46.203</xref>(b) and
+(c)); or</p>
+        <p>(2) When the technical requirements of a subcontract
+require-</p>
+        <p>(i) Control of such things as design, work operations,
+in-process control, testing, and inspection; or</p>
+        <p>(ii) Attention to such factors as organization, planning, work
+instructions, documentation control, and advanced metrology.</p>
+        <p>(c) See FAR <xref format="html"
+                  href="https://www.acquisition.gov/far/46.311"
+                  scope="external">46.311</xref>
+        </p>
+      </conbody>
+    </concept>
+</dita>

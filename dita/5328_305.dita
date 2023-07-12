@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5328_305" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5328.305</ph> Overseas Workers Compensation and War Hazard Insurance</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5328_305">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5328.305</ph> Overseas Workers Compensation and War Hazard Insurance</title>
       <conbody>
-         <p id="p__Toc38365435" outputclass="List1">(d) Submit waiver requests to the <xref href="mailto:SAF.AQ.SAF-AQCA.Workflow@us.af.mil" scope="external" format="mailto">
-               <u>SAF/AQC Labor Advisor</u>
-            </xref> ,with an information copy to the SCO.</p>
+        <p outputclass="List1">(d) Submit waiver requests to the <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQCA.Workflow@us.af.mil"
+                  scope="external">SAF/AQC Labor
+Advisor</xref>, with an information copy to the SCO.<ph id="Toc38365435"/>
+        </p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

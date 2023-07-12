@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5328_105" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5328.105</ph> Other Types of Bonds</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5328_105">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5328.105</ph>  Other Types of Bonds</title>
       <conbody>
-         <p id="p__Toc38365431" outputclass="Normal">See <xref href="MP5301_601.dita" />.</p>
+        <p>See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.<ph id="Toc38365431"/>
+        </p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

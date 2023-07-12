@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_104">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5301.104</ph> Applicability</title>
+      <conbody>
+        <p>The DAFFARS applies to all DAF acquisitions as they are defined
+in part 2 of the FAR, except where expressly excluded.</p>
+      </conbody>
+    </concept>
+</dita>

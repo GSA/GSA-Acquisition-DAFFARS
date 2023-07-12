@@ -1,14 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <concept id="AFFARS_5304_403" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Heading 3">
-         <ph props="autonumber">5304.403</ph> Responsibilities of Contracting Officers</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_403">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5304.403</ph>  Responsibilities of Contracting Officers</title>
       <conbody>
-         <p id="jjyHyT" outputclass="List1">(a) Upon receiving adequate written justification from the requesting program office or activity, the contracting officer reviews, validates, and processes the NID and associated written approvals, in accordance with <xref format="pdf" href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/afh16-1406/afh16-1406.pdf" scope="external">
-               <u>AFH 16-1406</u>
-            </xref>, National Interest Determination Handbook.</p>
-         <p id="eRnyOX" outputclass="List1">(b) The contracting officer shall maintain a copy of the approved program, project, or contract specific NID package in the contract file.</p>
+        <p outputclass="List1">(a) In accordance with the <xref format="html"
+                  href="https://www.acquisition.gov/far/part-4#FAR_Subpart_4_4"
+                  scope="external">FAR
+part 4.4</xref>, the contracting officer is responsible for reviewing
+all proposed solicitations to determine whether access to
+classified information may be required by offerors or by a
+contractor during contract performance.</p>
+        <p>
+ (b) Contracting officers will require input and support from
+program managers, project managers, or other personnel
+knowledgeable of the contract requirements to perform this
+responsibility.</p>
+        <p outputclass="List1">(c) The Contracting Officer will, in accordance with <xref format="html"
+                  href="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+                  scope="external">32
+CFR Part 117</xref> and <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodm5220.22v2_afman16-1406v2/dodm5220.22v2_afman16-1406v2.pdf"
+                  scope="external">DAFMAN
+16-1406V2</xref>, National Industrial Security Program: Industrial
+Security Procedures for Government Activities:</p>
+        <p>i. Verify the vendor’s facility clearance status and
+safeguarding capability by accessing the National Industrial
+Security System (NISS), unless otherwise delegated.</p>
+        <p>
+ii. Submit a facility clearance sponsorship request to the Defense
+Counterintelligence and Security Agency (DCSA) using NISS, unless
+otherwise delegated.</p>
+        <p>
+iii. Include the security requirements clause, <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
+                  scope="external">FAR
+52.204-2</xref> and the Department of Defense Contact Security
+Classification Specification (DD Form 254) if access to classified
+information is required during the solicitation phase or award
+phase of a contract.</p>
+        <p>
+iv. Ensure the DD Form 254 is properly prepared, reviewed, and
+coordinated.</p>
+        <p>
+v. Serve as the approving official for the DD Form 254, unless
+otherwise delegated.</p>
+        <p>
+vi. Ensure the DD Form 254 is distributed to:</p>
+        <p>
+(1) The contractor as part of the contract.</p>
+        <p>
+(2) All DCSA field activities listed in blocks 6c, 7c, 8c, and 10
+(as applicable).</p>
+        <p>
+(3) All host installation Air Force Information Protection
+Office(s) listed as government performance locations (or Army,
+Navy, Marine Corps, Coast Guard equivalent where classified
+performance will occur).</p>
+        <p>
+(4) Others in accordance with local DD Form 254 processing
+procedures.</p>
+        <p>
+vii. Within 30 calendar days prior to classified work beginning to
+all government performance locations:</p>
+        <p>
+(1) Ensure the host Installation Commander is aware of the
+contractor’s presence as a visitor on the installation
+normally through the installation Information Protection Office
+when performance is on an Air Force installation at least 30
+calendar days in advance.</p>
+        <p>
+(2) If the certified DD Form 254 cannot be provided to the
+installation Information Protection Office at least 30 calendar
+days in advance due to contract performance commencing in less than
+30 calendar days from date of contract award, then the DD Form 254
+is to be provided within 72 hours after contract award.</p>
+        <p>
+viii. Upon receipt of notification of a contractor security
+violation from the DCSA, the contracting officer or designee will
+ensure the owner of the classified information subject to loss,
+compromise, or suspected compromise (e.g., Original Classification
+Authority (OCA) or representative) is further notified.</p>
+
+        <p>
+ix. Upon notification of an adverse facility clearance action (e.g.
+Invalidation/Intent to Revoke) and/or receipt of a contractor being
+issued a less than satisfactory security review rating issued by
+DCSA, coordinate all potential contracting actions with the program
+office and/or affected government customer(s) personnel to ensure
+vendor mitigates all reported instances of non-compliance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
+                  scope="external">FAR
+52.204-2</xref>, as applicable.</p>
+        <p>
+(d) National Interest Determination (NID)</p>
+        <p>
+i. As of 1 October 2020, in accordance with Public Law 115-232,
+John S. McCain National Defense Authorization Act for Fiscal Year
+2019, Section 842, “Removal of National Interest
+Determination Requirements for Certain Entities,” August 13,
+2018:</p>
+        <p>
+(1) NIDs are no longer required for National Technology and
+Industrial Base foreign ownership entities that require access to
+proscribed information and under Special Security Agreements to
+mitigate the foreign ownership, control, or influence.</p>
+        <p>
+(2) If necessary, contact the servicing Information Protection
+Office to verify if a NID is required prior to submitting a NID
+request.</p>
+        <p>
+ii. Upon receiving adequate written justification from the
+requesting program office or activity, the contracting officer
+reviews, validates, and processes the NID request and associated
+written approvals/documentation, in accordance with AFH 16-1406,
+National Interest Determination Handbook</p>
+        <p>
+iii. The contracting officer shall maintain a copy of the approved
+program, project, or contract specific NID package in the contract
+file.</p>
       </conbody>
-   </concept>
+    </concept>
 </dita>

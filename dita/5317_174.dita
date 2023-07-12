@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFFARS_5317_174" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="subtopic">
-         <ph props="autonumber">5317.174</ph> Multiyear Contracts for Electricity from Renewable Energy Sources</title>
-      <body>
-         <p id="ZEsXCK" outputclass="">(b) See <xref href="MP5301_601.dita#AFFARS_MP5301_601" outputclass="fm:ParaNumOnly">MP5301.601 (a)(i) Head of the Contracting Activity (HCA) Matrix</xref>(a)(i).</p>
-      </body>
-   </topic>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5317_174">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5317.174</ph> Multiyear Contracts for Electricity from Renewable Energy Sources</title>
+      <conbody>
+        <p id="s5317174b" outputclass="List1">(b) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.<ph id="Toc346956453"/>
+        </p>
+      </conbody>
+    </concept>
 </dita>
