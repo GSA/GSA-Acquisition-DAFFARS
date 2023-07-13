@@ -13,14 +13,10 @@ after the agency announces the award on <xref format="html"
                   scope="external">https://www.defense.gov/News/Contracts/</xref>.
 Contract announcements are posted at 1700 EST daily.<ph id="Toc351647973"/>
         </p>
-        <p
-        outputclass="List3">(ii) The contracting officer must submit all 1279 reports to <xref
-        format="html"
-        href="mailto:SAF.LLP.contract.ancmt@us.af.mil"
-        scope="external">SAF/LLP</xref> by close of business three workdays before the date of the proposed contract award. SAF/LLP may shorten the three-day advance notification requirement if requested by the contracting officer. For actions valued at $50M and above, email a courtesy copy of the 1279 report to the cognizant SCO. Follow <xref
-        href="MP5305_303.dita"
-        outputclass="fm:ParaNumOnly">MP5305.303</xref> to prepare 1279 reports.<ph
-        id="Toc38286876"/> </p>
+        <p outputclass="List3">(ii) The contracting officer must submit all 1279 reports to <xref format="html"
+                  href="mailto:SAF.LLP.contract.ancmt@us.af.mil"
+                  scope="external">SAF/LLP</xref> by close of business three workdays before the date of the proposed contract award. SAF/LLP may shorten the three-day advance notification requirement if requested by the contracting officer. For actions valued at $50M and above, email a courtesy copy of the 1279 report to the cognizant SCO. Follow <xref href="MP5305_303.dita" outputclass="fm:ParaNumOnly"/> to prepare 1279 reports.<ph id="Toc38286876"/> 
+         </p>
       </conbody>
     </concept>
 </dita>

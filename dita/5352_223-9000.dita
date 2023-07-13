@@ -26,11 +26,9 @@ or other document that establishes a test, operation, or
 maintenance requirement that can only be met by use of a Class I
 ODS as part of this contract/order.</p>
         <p>[Note: This prohibition does not apply to manufacturing.]</p>
-        <p
-                                outputclass="List1">(b) For the purposes of Departmet of the Air Force policy, the following products that are pure (i.e., they meet the relevant product specification identified in <xref
-                                format="html"
-                                href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi32-7086/afi32-7086.pdf"
-                                scope="external">AFI 32-7086</xref>) are Class I ODSs:</p>
+        <p outputclass="List1">(b) For the purposes of Departmet of the Air Force policy, the following products that are pure (i.e., they meet the relevant product specification identified in <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/af_a4/publication/afi32-7086/afi32-7086.pdf"
+                  scope="external">AFI 32-7086</xref>) are Class I ODSs:</p>
         <p outputclass="List2">(1) Halons: 1011, 1202, 1211, 1301, and 2402;</p>
         <p outputclass="List2">(2) Chlorofluorocarbons (CFCs): CFC-11, CFC-12,
 CFC-13, CFC-111, CFC-112, CFC-113, CFC-114, CFC-115, CFC-211,
