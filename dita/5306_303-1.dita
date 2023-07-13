@@ -6,14 +6,10 @@
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5306.303-1</ph>  Requirements</title>
       <conbody>
-        <p
-        outputclass="List1">(a) Solicitations for other than full and open competition may be released prior to justification approval, except as set forth in <xref
-        format="html"
-        href="https://www.acquisition.gov/far/part-6#FAR_6_305"
-        scope="external">FAR 6.305(c)</xref> and the asterisked paragraph below the table at <xref
-        href="5306_304.dita"
-        outputclass="fm:ParaNumOnly">5306.304(a)</xref>. <ph
-        id="Toc38284758"/> </p>
+        <p outputclass="List1">(a) Solicitations for other than full and open competition may be released prior to justification approval, except as set forth in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_305"
+                  scope="external">FAR 6.305(c)</xref> and the asterisked paragraph below the table at <xref href="5306_304.dita" outputclass="fm:ParaNumOnly"/>. <ph id="Toc38284758"/> 
+         </p>
       </conbody>
     </concept>
 </dita>

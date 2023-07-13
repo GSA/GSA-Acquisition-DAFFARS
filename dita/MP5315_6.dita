@@ -2,8 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="DAFFARS_mp_5315_6">
-      <title outputclass="Heading 1">  <ph props="autonumber">MP5315.6</ph> — UNSOLICITED PROPOSALS</title>
+   <topic id="DAFFARS_MP_5315_6">
+      <title class="- topic/title " outputclass="Heading 1"> 
+         <ph class="- topic/ph " props="autonumber">MP5315.6</ph> — UNSOLICITED PROPOSALS</title>
       <body/>
-   </topic>
+  </topic>
 </dita>

@@ -42,7 +42,7 @@
                 xtrc="DAFFARS_SUBPART_5301_1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5301.101  Purpose"
+         <topicref navtitle="5301.101 Purpose"
                    href="5301_101.dita"
                    outputclass="subtopic"
                    props="5301.101"
@@ -155,7 +155,7 @@
                 xtrc="DAFFARS_SUBPART_5301_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5301.402  Policy"
+         <topicref navtitle="5301.402 Policy"
                    href="5301_402.dita"
                    outputclass="subtopic"
                    props="5301.402"
@@ -206,7 +206,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5301.601-91  Department of the Air Force Contracting Self-Inspection Program"
+         <topicref navtitle="5301.601-91 Department of the Air Force Contracting Self-Inspection Program"
                    href="5301_601-91.dita"
                    outputclass="subtopic"
                    props="5301.601-91"
@@ -216,7 +216,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5301.602-1  Authority"
+         <topicref navtitle="5301.602-1 Authority"
                    href="5301_602-1.dita"
                    outputclass="subtopic"
                    props="5301.602-1"
@@ -226,7 +226,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5301.602-2  Responsibilities"
+         <topicref navtitle="5301.602-2 Responsibilities"
                    href="5301_602-2.dita"
                    outputclass="subtopic"
                    props="5301.602-2"
@@ -246,7 +246,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5301.603-1  General"
+         <topicref navtitle="5301.603-1 General"
                    href="5301_603-1.dita"
                    outputclass="subtopic"
                    props="5301.603-1"
@@ -369,7 +369,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5301.9102  Policy"
+         <topicref navtitle="5301.9102 Policy"
                    href="5301_9102.dita"
                    outputclass="subtopic"
                    props="5301.9102"
@@ -444,7 +444,7 @@
                 tables="0"
                 figures="0">
          <topicref href="5303_104-2.dita"
-                   navtitle="5303.104-2 &#xA; General"
+                   navtitle="5303.104-2 General"
                    outputclass="subtopic"
                    props="5303.104-2"
                    audience="DAFFARS_5303_104-2"
@@ -473,7 +473,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5303.104-5  Disqualification"
+         <topicref navtitle="5303.104-5 Disqualification"
                    href="5303_104-5.dita"
                    outputclass="subtopic"
                    props="5303.104-5"
@@ -494,7 +494,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5303.104-9  Contract Clauses"
+         <topicref navtitle="5303.104-9 Contract Clauses"
                    href="5303_104-9.dita"
                    outputclass="subtopic"
                    props="5303.104-9"
@@ -515,7 +515,7 @@
                 xtrc="DAFFARS_SUBPART_5303_2.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5303.202  Contract Clause"
+         <topicref navtitle="5303.202 Contract Clause"
                    href="5303_202.dita"
                    outputclass="subtopic"
                    props="5303.202"
@@ -567,7 +567,7 @@
                 xtrc="DAFFARS_SUBPART_5303_6.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5303.602  Exceptions"
+         <topicref navtitle="5303.602 Exceptions"
                    href="5303_602.dita"
                    outputclass="subtopic"
                    props="5303.602"
@@ -588,7 +588,7 @@
                 xtrc="DAFFARS_SUBPART_5303_7.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5303.704  Policy"
+         <topicref navtitle="5303.704 Policy"
                    href="5303_704.dita"
                    outputclass="subtopic"
                    props="5303.704"
@@ -598,7 +598,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5303.705  Procedures"
+         <topicref navtitle="5303.705 Procedures"
                    href="5303_705.dita"
                    outputclass="subtopic"
                    props="5303.705"
@@ -640,7 +640,7 @@
                 xtrc="DAFFARS_SUBPART_5303_10.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5303.1003  Requirements"
+         <topicref navtitle="5303.1003 Requirements"
                    href="5303_1003.dita"
                    outputclass="subtopic"
                    props="5303.1003"
@@ -661,7 +661,7 @@
                 xtrc="DAFFARS_SUBPART_5303_11.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5303.1104  Mitigation or Waiver"
+         <topicref navtitle="5303.1104 Mitigation or Waiver"
                    href="5303_1104.dita"
                    outputclass="subtopic"
                    props="5303.1104"
@@ -734,7 +734,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5304.403  Responsibilities of Contracting Officers"
+         <topicref navtitle="5304.403 Responsibilities of Contracting Officers"
                    href="5304_403.dita"
                    outputclass="subtopic"
                    props="5304.403"
@@ -744,7 +744,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5304.404-90  Additional Contract Clauses"
+         <topicref navtitle="5304.404-90 Additional Contract Clauses"
                    href="5304_404-90.dita"
                    outputclass="subtopic"
                    props="5304.404-90"
@@ -806,7 +806,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5304.803  Contents of Contract Files"
+         <topicref navtitle="5304.803 Contents of Contract Files"
                    href="5304_803.dita"
                    outputclass="subtopic"
                    props="5304.803"
@@ -880,7 +880,7 @@
                 tables="0"
                 figures="0">
          <topicref href="5304_7103-1-90.dita"
-                   navtitle="5304.7103-1-90 Criteria for&#xA; Establishing"
+                   navtitle="5304.7103-1-90 Criteria for Establishing"
                    outputclass="subtopic"
                    props="5304.7103-1-90"
                    audience="DAFFARS_5304_7103-1-90"
@@ -963,7 +963,7 @@
                 xtrc="DAFFARS_SUBPART_5305_3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5305.303  Announcement of Contract Awards"
+         <topicref navtitle="5305.303 Announcement of Contract Awards"
                    href="5305_303.dita"
                    outputclass="subtopic"
                    props="5305.303"
@@ -1057,7 +1057,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5306.302-4  International Agreement"
+         <topicref navtitle="5306.302-4 International Agreement"
                    href="5306_302-4.dita"
                    outputclass="subtopic"
                    props="5306.302-4"
@@ -1067,7 +1067,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5306.303-1  Requirements"
+         <topicref navtitle="5306.303-1 Requirements"
                    href="5306_303-1.dita"
                    outputclass="subtopic"
                    props="5306.303-1"
@@ -1087,7 +1087,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5306.303-2  Content"
+         <topicref navtitle="5306.303-2 Content"
                    href="5306_303-2.dita"
                    outputclass="subtopic"
                    props="5306.303-2"
@@ -1170,7 +1170,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5307.104-90  Solicitation Release"
+         <topicref navtitle="5307.104-90 Solicitation Release"
                    href="5307_104-90.dita"
                    outputclass="subtopic"
                    props="5307.104-90"
@@ -1180,7 +1180,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5307.104-91  Changes"
+         <topicref navtitle="5307.104-91 Changes"
                    href="5307_104-91.dita"
                    outputclass="subtopic"
                    props="5307.104-91"
@@ -1190,7 +1190,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5307.104-92  Acquisition Strategy Panels (ASP) and Approval Authority (AP)"
+         <topicref navtitle="5307.104-92 Acquisition Strategy Panels (ASP) and Approval Authority (AP)"
                    href="5307_104-92.dita"
                    outputclass="subtopic"
                    props="5307.104-92"
@@ -1210,7 +1210,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5307.107-2  Consolidation"
+         <topicref navtitle="5307.107-2 Consolidation"
                    href="5307_107-2.dita"
                    outputclass="subtopic"
                    props="5307.107-2"
@@ -1241,7 +1241,7 @@
                 xtrc="DAFFARS_SUBPART_5307_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5307.470  Statutory Requirements"
+         <topicref navtitle="5307.470 Statutory Requirements"
                    href="5307_470.dita"
                    outputclass="subtopic"
                    props="5307.470"
@@ -1356,6 +1356,15 @@
                 xtrc="DAFFARS_SUBPART_5309_1.html"
                 tables="0"
                 figures="0">
+         <topicref href="5309_103.dita"
+                   navtitle="5309.103 Policy"
+                   outputclass="subtopic"
+                   props="5309.103"
+                   audience="DAFFARS_5309_103"
+                   xtrf="subtopic"
+                   base="concept"
+                   tables="0"
+                   figures="0"/>
          <topicref navtitle="5309.104-1 General Standards"
                    href="5309_104-1.dita"
                    outputclass="subtopic"
@@ -1387,7 +1396,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5309.206-1  General"
+         <topicref navtitle="5309.206-1 General"
                    href="5309_206-1.dita"
                    outputclass="subtopic"
                    props="5309.206-1"
@@ -1428,7 +1437,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5309.405-1  Continuation of Current Contracts"
+         <topicref navtitle="5309.405-1 Continuation of Current Contracts"
                    href="5309_405-1.dita"
                    outputclass="subtopic"
                    props="5309.405-1"
@@ -1509,7 +1518,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5309.507-2  Solicitation Provisions and Contract Clause"
+         <topicref navtitle="5309.507-2 Solicitation Provisions and Contract Clause"
                    href="5309_507-2.dita"
                    outputclass="subtopic"
                    props="5309.507-2"
@@ -1667,7 +1676,7 @@
                 xtrc="DAFFARS_SUBPART_5312_1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5312.102  Applicability"
+         <topicref navtitle="5312.102 Applicability"
                    href="5312_102.dita"
                    outputclass="subtopic"
                    props="5312.102"
@@ -1698,7 +1707,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5312.272  Preference for Certain Commercial Products and Commercial Services"
+         <topicref navtitle="5312.272 Preference for Certain Commercial Products and Commercial Services"
                    href="5312_272.dita"
                    outputclass="subtopic"
                    props="5312.272"
@@ -1719,7 +1728,7 @@
                 xtrc="DAFFARS_SUBPART_5312_3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5312.302  Tailoring of Provisions and Clauses for the Acquisition of Commercial Products and Commercial Services"
+         <topicref navtitle="5312.302 Tailoring of Provisions and Clauses for the Acquisition of Commercial Products and Commercial Services"
                    href="5312_302.dita"
                    outputclass="subtopic"
                    props="5312.302"
@@ -1740,7 +1749,7 @@
                 xtrc="DAFFARS_SUBPART_5312_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5312.403  Termination"
+         <topicref navtitle="5312.403 Termination"
                    href="5312_403.dita"
                    outputclass="subtopic"
                    props="5312.403"
@@ -1907,7 +1916,7 @@
                 xtrc="DAFFARS_SUBPART_5314_2.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5314.201-7  Contract Clauses"
+         <topicref navtitle="5314.201-7 Contract Clauses"
                    href="5314_201-7.dita"
                    outputclass="subtopic"
                    props="5314.201-7"
@@ -1950,7 +1959,7 @@
              xtrc="DAFFARS_PART_5315.html"
              tables="0"
              figures="0">
-      <topicref navtitle="Subpart 5315.3  — SOURCE SELECTION"
+      <topicref navtitle="Subpart 5315.3 — SOURCE SELECTION"
                 href="SUBPART_5315_3.dita"
                 outputclass="SubPart"
                 props="Subpart 5315.3"
@@ -1960,7 +1969,7 @@
                 xtrc="DAFFARS_SUBPART_5315_3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5315.300  Scope of Subpart"
+         <topicref navtitle="5315.300 Scope of Subpart"
                    href="5315_300.dita"
                    outputclass="subtopic"
                    props="5315.300"
@@ -1970,7 +1979,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.371-4  Exceptions"
+         <topicref navtitle="5315.371-4 Exceptions"
                    href="5315_371-4.dita"
                    outputclass="subtopic"
                    props="5315.371-4"
@@ -1980,7 +1989,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.371-5  Waiver"
+         <topicref navtitle="5315.371-5 Waiver"
                    href="5315_371-5.dita"
                    outputclass="subtopic"
                    props="5315.371-5"
@@ -2001,7 +2010,7 @@
                 xtrc="DAFFARS_SUBPART_5315_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5315.400  (S-90)"
+         <topicref navtitle="5315.400 (S-90)"
                    href="5315_400.dita"
                    outputclass="subtopic"
                    props="5315.400"
@@ -2011,7 +2020,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.403-1  Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C Chapter 271 and 41 U.S.C., Chapter 35)"
+         <topicref navtitle="5315.403-1 Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C Chapter 271 and 41 U.S.C., Chapter 35)"
                    href="5315_403-1.dita"
                    outputclass="subtopic"
                    props="5315.403-1"
@@ -2031,7 +2040,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.403-4  Requiring Certified Cost or Pricing Data (10 U.S.C. Chapter 271 and 41 U.S.C., Chapter 35)"
+         <topicref navtitle="5315.403-4 Requiring Certified Cost or Pricing Data (10 U.S.C. Chapter 271 and 41 U.S.C., Chapter 35)"
                    href="5315_403-4.dita"
                    outputclass="subtopic"
                    props="5315.403-4"
@@ -2092,7 +2101,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.406-1  Prenegotiation Objectives"
+         <topicref navtitle="5315.406-1 Prenegotiation Objectives"
                    href="5315_406-1.dita"
                    outputclass="subtopic"
                    props="5315.406-1"
@@ -2122,7 +2131,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.407-4  Should-cost Review"
+         <topicref navtitle="5315.407-4 Should-cost Review"
                    href="5315_407-4.dita"
                    outputclass="subtopic"
                    props="5315.407-4"
@@ -2132,7 +2141,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5315.407-90  Contract Audit Follow-Up (CAFU)"
+         <topicref navtitle="5315.407-90 Contract Audit Follow-Up (CAFU)"
                    href="5315_407-90.dita"
                    outputclass="subtopic"
                    props="5315.407-90"
@@ -2163,7 +2172,7 @@
                 xtrc="DAFFARS_SUBPART_5315_6.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5315.606  Agency Procedures"
+         <topicref navtitle="5315.606 Agency Procedures"
                    href="5315_606.dita"
                    outputclass="subtopic"
                    props="5315.606"
@@ -2195,7 +2204,7 @@
                 xtrc="DAFFARS_SUBPART_5316_1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5316.103  Negotiating Contract Type"
+         <topicref navtitle="5316.103 Negotiating Contract Type"
                    href="5316_103.dita"
                    outputclass="subtopic"
                    props="5316.103"
@@ -2216,7 +2225,7 @@
                 xtrc="DAFFARS_SUBPART_5316_206.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5316.206-3  Limitations"
+         <topicref navtitle="5316.206-3 Limitations"
                    href="5316_206-3.dita"
                    outputclass="subtopic"
                    props="5316.206-3"
@@ -2237,7 +2246,7 @@
                 xtrc="DAFFARS_SUBPART_5316_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5316.401  General"
+         <topicref navtitle="5316.401 General"
                    href="5316_401.dita"
                    outputclass="subtopic"
                    props="5316.401"
@@ -2247,7 +2256,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5316.404  Fixed-Price Contracts with Award Fees"
+         <topicref navtitle="5316.404 Fixed-Price Contracts with Award Fees"
                    href="5316_404.dita"
                    outputclass="subtopic"
                    props="5316.404"
@@ -2257,7 +2266,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5316.405-2  Cost-Plus-Award-Fee Contracts"
+         <topicref navtitle="5316.405-2 Cost-Plus-Award-Fee Contracts"
                    href="5316_405-2.dita"
                    outputclass="subtopic"
                    props="5316.405-2"
@@ -2278,7 +2287,7 @@
                 xtrc="DAFFARS_SUBPART_5316_5.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5316.503  Requirements Contracts"
+         <topicref navtitle="5316.503 Requirements Contracts"
                    href="5316_503.dita"
                    outputclass="subtopic"
                    props="5316.503"
@@ -2288,7 +2297,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5316.504  Indefinite-Quantity Contracts"
+         <topicref navtitle="5316.504 Indefinite-Quantity Contracts"
                    href="5316_504.dita"
                    outputclass="subtopic"
                    props="5316.504"
@@ -2308,7 +2317,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5316.505-90  Decentralized Ordering"
+         <topicref navtitle="5316.505-90 Decentralized Ordering"
                    href="5316_505-90.dita"
                    outputclass="subtopic"
                    props="5316.505-90"
@@ -2339,7 +2348,7 @@
                    xtrc=""
                    tables="1"
                    figures="0"/>
-         <topicref navtitle="5316.603-2  Application"
+         <topicref navtitle="5316.603-2 Application"
                    href="5316_603-2.dita"
                    outputclass="subtopic"
                    props="5316.603-2"
@@ -2349,7 +2358,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5316.603-3  Limitations"
+         <topicref navtitle="5316.603-3 Limitations"
                    href="5316_603-3.dita"
                    outputclass="subtopic"
                    props="5316.603-3"
@@ -2483,7 +2492,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5317.205  Documentation"
+         <topicref navtitle="5317.205 Documentation"
                    href="5317_205.dita"
                    outputclass="subtopic"
                    props="5317.205"
@@ -2504,7 +2513,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="Subpart 5317.5  — INTERAGENCY ACQUISITIONS "
+      <topicref navtitle="Subpart 5317.5 — INTERAGENCY ACQUISITIONS "
                 href="SUBPART_5317_5.dita"
                 outputclass="SubPart"
                 props="Subpart 5317.5"
@@ -2606,7 +2615,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5317.7404-3  Definitization Schedule"
+         <topicref navtitle="5317.7404-3 Definitization Schedule"
                    href="5317_7404-3.dita"
                    outputclass="subtopic"
                    props="5317.7404-3"
@@ -2616,7 +2625,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5317.7404-5  Exceptions"
+         <topicref navtitle="5317.7404-5 Exceptions"
                    href="5317_7404-5.dita"
                    outputclass="subtopic"
                    props="5317.7404-5"
@@ -2667,7 +2676,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5317.7504  Acquisition of Parts When Data is Not Available"
+         <topicref navtitle="5317.7504 Acquisition of Parts When Data is Not Available"
                    href="5317_7504.dita"
                    outputclass="subtopic"
                    props="5317.7504"
@@ -2793,7 +2802,7 @@
              xtrc="DAFFARS_PART_5319.html"
              tables="0"
              figures="0">
-      <topicref navtitle="Subpart 5319.2  — POLICIES"
+      <topicref navtitle="Subpart 5319.2 — POLICIES"
                 href="SUBPART_5319_2.dita"
                 outputclass="SubPart"
                 props="Subpart 5319.2"
@@ -2813,7 +2822,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5319.202  Specific Policy"
+         <topicref navtitle="5319.202 Specific Policy"
                    href="5319_202.dita"
                    audience="DAFFARS_5319_202"
                    otherprops=""
@@ -2825,7 +2834,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="Subpart 5319.5  — SMALL BUSINESS TOTAL SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES"
+      <topicref navtitle="Subpart 5319.5 — SMALL BUSINESS TOTAL SET-ASIDES, PARTIAL SET-ASIDES, AND RESERVES"
                 href="SUBPART_5319_5.dita"
                 outputclass="SubPart"
                 props="Subpart 5319.5"
@@ -2835,7 +2844,7 @@
                 xtrc="DAFFARS_SUBPART_5319_5.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5319.502-8  Rejecting Small Business Administration Recommendations"
+         <topicref navtitle="5319.502-8 Rejecting Small Business Administration Recommendations"
                    href="5319_502-8.dita"
                    outputclass="subtopic"
                    props="5319.502-8"
@@ -2846,7 +2855,7 @@
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="Subpart 5319.6  — CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
+      <topicref navtitle="Subpart 5319.6 — CERTIFICATES OF COMPETENCY AND DETERMINATIONS OF RESPONSIBILITY"
                 href="SUBPART_5319_6.dita"
                 outputclass="SubPart"
                 props="Subpart 5319.6"
@@ -2856,7 +2865,7 @@
                 xtrc="DAFFARS_SUBPART_5319_7.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5319.602-3  Resolving differences between the agency and the Small Business Administration"
+         <topicref navtitle="5319.602-3 Resolving differences between the agency and the Small Business Administration"
                    href="5319_602-3.dita"
                    outputclass="subtopic"
                    props="5319.602-3"
@@ -3129,7 +3138,7 @@
                 xtrc="DAFFARS_SUBPART_5323_3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5323.370-4  Procedures"
+         <topicref navtitle="5323.370-4 Procedures"
                    href="5323_370-4.dita"
                    outputclass="subtopic"
                    props="5323.370-4"
@@ -3150,7 +3159,7 @@
                 xtrc="DAFFARS_SUBPART_5323_8.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5323.803  Policy"
+         <topicref navtitle="5323.803 Policy"
                    href="5323_803.dita"
                    outputclass="subtopic"
                    props="5323.803"
@@ -3160,7 +3169,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5323.804-90  Contract Clauses"
+         <topicref navtitle="5323.804-90 Contract Clauses"
                    href="5323_804-90.dita"
                    outputclass="subtopic"
                    props="5323.804-90"
@@ -3181,7 +3190,7 @@
                 xtrc="DAFFARS_SUBPART_5323_90.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5323.9001  Contract Clause"
+         <topicref navtitle="5323.9001 Contract Clause"
                    href="5323_9001.dita"
                    outputclass="subtopic"
                    props="5323.9001"
@@ -3203,7 +3212,7 @@
              xtrc="DAFFARS_PART_5325.html"
              tables="0"
              figures="0">
-      <topicref navtitle="Subpart 5325.1  — BUY AMERICAN - SUPPLIES"
+      <topicref navtitle="Subpart 5325.1 — BUY AMERICAN - SUPPLIES"
                 href="SUBPART_5325_1.dita"
                 outputclass="SubPart"
                 props="Subpart 5325.1"
@@ -3465,7 +3474,7 @@
                    figures="0"/>
       </topicref>
    </topicref>
-   <topicref navtitle="Part 5327 -  Patents, Data, and Copyrights "
+   <topicref navtitle="Part 5327 - Patents, Data, and Copyrights "
              href="PART_5327.dita"
              outputclass="Part"
              props="Part 5327"
@@ -3569,7 +3578,7 @@
                 xtrc="DAFFARS_SUBPART_5328_1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5328.105  Other Types of Bonds"
+         <topicref navtitle="5328.105 Other Types of Bonds"
                    href="5328_105.dita"
                    outputclass="subtopic"
                    props="5328.105"
@@ -3995,7 +4004,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.103  Protests to the Agency"
+         <topicref navtitle="5333.103 Protests to the Agency"
                    href="5333_103.dita"
                    outputclass="subtopic"
                    props="5333.103"
@@ -4015,7 +4024,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.105  Protests to the United States Court of Federal Claims (COFC)"
+         <topicref navtitle="5333.105 Protests to the United States Court of Federal Claims (COFC)"
                    href="5333_105.dita"
                    outputclass="subtopic"
                    props="5333.105"
@@ -4025,7 +4034,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.170  Briefing Requirement for Protested Acquisitions Valued at $1B or More"
+         <topicref navtitle="5333.170 Briefing Requirement for Protested Acquisitions Valued at $1B or More"
                    href="5333_170.dita"
                    outputclass="subtopic"
                    props="5333.170"
@@ -4046,7 +4055,7 @@
                 xtrc="DAFFARS_SUBPART_5333_2.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5333.211  Contracting Officers Decision"
+         <topicref navtitle="5333.211 Contracting Officers Decision"
                    href="5333_211.dita"
                    outputclass="subtopic"
                    props="5333.211"
@@ -4056,7 +4065,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.214  Alternate Dispute Resolution (ADR)"
+         <topicref navtitle="5333.214 Alternate Dispute Resolution (ADR)"
                    href="5333_214.dita"
                    outputclass="subtopic"
                    props="5333.214"
@@ -4066,7 +4075,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.215  Contract Clause"
+         <topicref navtitle="5333.215 Contract Clause"
                    href="5333_215.dita"
                    outputclass="subtopic"
                    props="5333.215"
@@ -4076,7 +4085,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.290  Claims and Terminations for Default"
+         <topicref navtitle="5333.290 Claims and Terminations for Default"
                    href="5333_290.dita"
                    outputclass="subtopic"
                    props="5333.290"
@@ -4086,7 +4095,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.291  Appeals to the Armed Services Board of Contract Appeals (ASBCA)"
+         <topicref navtitle="5333.291 Appeals to the Armed Services Board of Contract Appeals (ASBCA)"
                    href="5333_291.dita"
                    outputclass="subtopic"
                    props="5333.291"
@@ -4096,7 +4105,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5333.292  Appeals to the United States Court of Federal Claims (COFC)"
+         <topicref navtitle="5333.292 Appeals to the United States Court of Federal Claims (COFC)"
                    href="5333_292.dita"
                    outputclass="subtopic"
                    props="5333.292"
@@ -4171,7 +4180,7 @@
              xtrc="DAFFARS_PART_5335.html"
              tables="0"
              figures="0">
-      <topicref navtitle="5335.015-70  Special Use Allowances for Research Facilities Acquired by Educational Institutions"
+      <topicref navtitle="5335.015-70 Special Use Allowances for Research Facilities Acquired by Educational Institutions"
                 href="5335_015-70.dita"
                 outputclass="subtopic"
                 props="5335.015-70"
@@ -4377,7 +4386,7 @@
                 xtrc="DAFFARS_SUBPART_5337_1.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5337.102-70  Prohibition on Contracting for Firefighting or Security-Guard Functions"
+         <topicref navtitle="5337.102-70 Prohibition on Contracting for Firefighting or Security-Guard Functions"
                    href="5337_102-70.dita"
                    audience="DAFFARS_5337_102-70"
                    otherprops=""
@@ -4408,7 +4417,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5337.113-1  Waiver of Cost Allowability Limitations"
+         <topicref navtitle="5337.113-1 Waiver of Cost Allowability Limitations"
                    href="5337_113-1.dita"
                    outputclass="subtopic"
                    props="5337.113-1"
@@ -4513,7 +4522,7 @@
                 xtrc="DAFFARS_5339_101.html"
                 tables="0"
                 figures="0"/>
-      <topicref navtitle="5339.7201-90  Data Servers/Centers Approval Process"
+      <topicref navtitle="5339.7201-90 Data Servers/Centers Approval Process"
                 href="5339_7201-90.dita"
                 outputclass="SubPart"
                 props="5339.7201-90"
@@ -4796,7 +4805,7 @@
                    figures="0"/>
       </topicref>
    </topicref>
-   <topicref navtitle="Part 5344  – Subcontracting Policies and Procedures"
+   <topicref navtitle="Part 5344 – Subcontracting Policies and Procedures"
              href="PART_5344.dita"
              outputclass="Part"
              props="Part 5344"
@@ -4806,6 +4815,44 @@
              xtrc="DAFFARS_PART_5344.html"
              tables="0"
              figures="0">
+      <topicref href="SUBPART_5344_2.dita"
+                navtitle="SUBPART 5344.2 – CONSENT TO SUBCONTRACTS"
+                outputclass="SubPart"
+                props="SUBPART 5344.2"
+                audience="DAFFARS_SUBPART_5344_2"
+                xtrc="DAFFARS_SUBPART_5344_2.html"
+                xtrf="SubPart"
+                base="NoTitle"
+                tables="0"
+                figures="0">
+         <topicref href="5344_201-1.dita"
+                   navtitle="5344.201-1 Consent Requirements"
+                   outputclass="subtopic"
+                   props="5344.201-1"
+                   audience="DAFFARS_5344_201-1"
+                   xtrf="subtopic"
+                   base="concept"
+                   tables="0"
+                   figures="0"/>
+         <topicref href="5344_202-1.dita"
+                   navtitle="5344.202-1 Responsibilities"
+                   outputclass="subtopic"
+                   props="5344.202-1"
+                   audience="DAFFARS_5344_202-1"
+                   xtrf="subtopic"
+                   base="concept"
+                   tables="0"
+                   figures="0"/>
+         <topicref href="5344_202-2.dita"
+                   navtitle="5344.202-2 Considerations"
+                   outputclass="subtopic"
+                   props="5344.202-2"
+                   audience="DAFFARS_5344_202-2"
+                   xtrf="subtopic"
+                   base="concept"
+                   tables="0"
+                   figures="0"/>
+      </topicref>
       <topicref navtitle="Subpart 5344.3 – CONTRACTOR PURCHASING SYSTEM REVIEWS"
                 href="SUBPART_5344_3.dita"
                 outputclass="SubPart"
@@ -4816,7 +4863,7 @@
                 xtrc="DAFFARS_SUBPART_5344_3.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="5344.302  Requirements"
+         <topicref navtitle="5344.302 Requirements"
                    href="5344_302.dita"
                    outputclass="subtopic"
                    props="5344.302"
@@ -4868,7 +4915,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5345.103-72  Government Furnished Property Attachments to Solicitations and Awards"
+         <topicref navtitle="5345.103-72 Government Furnished Property Attachments to Solicitations and Awards"
                    href="5345_103-72.dita"
                    outputclass="subtopic"
                    props="5345.103-72"
@@ -4996,7 +5043,7 @@
                    figures="0"/>
       </topicref>
    </topicref>
-   <topicref navtitle="Part 5349  – Termination of Contracts"
+   <topicref navtitle="Part 5349 – Termination of Contracts"
              href="PART_5349.dita"
              outputclass="Part"
              props="Part 5349"
@@ -5026,7 +5073,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="5349.102  Notification of Termination"
+         <topicref navtitle="5349.102 Notification of Termination"
                    href="5349_102.dita"
                    outputclass="subtopic"
                    props="5349.102"
@@ -5387,7 +5434,7 @@
                 xtrc="DAFFARS_MP5301_6.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="MP5301.601 (a)(i) Department of the Air Force&#xA;  Approval Authority Matrices"
+         <topicref navtitle="MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices"
                    href="MP5301_601.dita"
                    outputclass="subtopic"
                    props="MP5301.601"
@@ -5499,7 +5546,7 @@
                    href="MP5301_9001.dita"
                    outputclass="subtopic"
                    props="MP5301.9001"
-                   base="NoTitle"
+                   base="concept"
                    audience="DAFFARS_MP5301_9001"
                    xtrf="subtopic"
                    xtrc=""
@@ -5511,7 +5558,7 @@
                       base="concept"
                       audience="DAFFARS_MP5301_9001A"
                       outputclass="SubPart"
-                      xtrf="SubPart"
+                      xtrf="No"
                       xtrc="DAFFARS_MP5301_9001A.html"
                       tables="0"
                       figures="0"/>
@@ -5521,7 +5568,7 @@
                       base="concept"
                       audience="DAFFARS_MP5301_9001B"
                       outputclass="SubPart"
-                      xtrf="SubPart"
+                      xtrf="No"
                       xtrc="DAFFARS_MP5301_9001B.html"
                       tables="0"
                       figures="0"/>
@@ -5529,7 +5576,7 @@
          <topicref href="MP5301_9001i2vi.dita"
                    audience="DAFFARS_MP5301_9001i2vi"
                    xtrc=""
-                   navtitle="MP5301.9001i2viMP5301.9001i2vi (i)(2)(vi)- Clearance Approval when the HCA is SSC/PK Director"
+                   navtitle="MP5301.9001i2vi - Clearance Approval when the HCA is SSC/PK Director"
                    outputclass="subtopic"
                    props="MP5301.9001i2vi"
                    xtrf="subtopic"
@@ -5538,12 +5585,12 @@
                    figures="0">
             <topicref href="MP5301_9001i2viA.dita"
                       outputclass="SubPart"
-                      xtrf="SubPart"
                       audience="DAFFARS_MP5301_9001_A"
                       props="MP5301.9001i2viA"
                       navtitle="MP5301.9001i2viA (A) Procedures."
                       base="concept"
                       xtrc="DAFFARS_MP5301_9001_A.html"
+                      xtrf="No"
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -5618,8 +5665,8 @@
                       base="concept"
                       audience="DAFFARS_MP_5306_502_1"
                       outputclass="SubPart"
-                      xtrf="SubPart"
                       xtrc="DAFFARS_MP_5306_502_1.html"
+                      xtrf="No"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="MP5306.502-2. Duties and Responsibilities."
@@ -5629,8 +5676,8 @@
                       base="concept"
                       audience="DAFFARS_MP_5306_502_2"
                       outputclass="SubPart"
-                      xtrf="SubPart"
                       xtrc="DAFFARS_MP_5306_502_2.html"
+                      xtrf="No"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="MP5306.502-3. Appointment of the Competition and Commercial Advocate."
@@ -5640,19 +5687,19 @@
                       base="concept"
                       audience="DAFFARS_MP_5306_502_3"
                       outputclass="SubPart"
-                      xtrf="SubPart"
                       xtrc="DAFFARS_MP_5306_502_3.html"
+                      xtrf="No"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="MP5306.502-4. Annual Competition and Commercial Reporting Requirements."
                       href="MP_5306_502_4.dita"
-                      props="4."
                       otherprops="MP_5306_502_4"
                       base="concept"
                       audience="DAFFARS_MP_5306_502_4"
                       outputclass="SubPart"
-                      xtrf="SubPart"
                       xtrc="DAFFARS_MP_5306_502_4.html"
+                      props="MP5306.502-4."
+                      xtrf="No"
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -6102,17 +6149,6 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="List of Appendices"
-                   href="MP_5315_3_LIST_OF_APPENDICES.dita"
-                   props="List"
-                   otherprops="MP_5315_3_LIST_OF_APPENDICES"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   audience="DAFFARS_MP_5315_3_LIST_OF_APPENDICES"
-                   xtrf="subtopic"
-                   xtrc=""
-                   tables="0"
-                   figures="0"/>
       </topicref>
       <topicref navtitle="MP5315.4 Contract Pricing"
                 href="MP5315_4.dita"
@@ -6125,32 +6161,29 @@
                 xtrc="DAFFARS_MP5315_4.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="1. Proposal Instructions."
-                   href="MP5315_4_1.dita"
-                   outputclass="task"
-                   props="1."
-                   otherprops="MP5315_4_1"
+         <topicref href="MP5315_400_1.dita"
+                   outputclass="subtopic"
                    base="concept"
-                   audience="DAFFARS_MP5315_4_1"
-                   xtrf="task"
+                   audience="DAFFARS_MP5315_400_1"
+                   xtrf="subtopic"
+                   navtitle="MP5315.400-1. Proposal Instructions."
+                   props="MP5315.400-1"
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="2. Requesting data/documentation after receipt of the proposal."
-                   href="MP5315_4_2.dita"
-                   props="2."
-                   otherprops="MP5315_4_2"
+         <topicref href="MP5315_400_2.dita"
                    base="concept"
-                   audience="DAFFARS_MP5315_4_2"
+                   audience="DAFFARS_MP5315_400_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""
+                   navtitle="MP5315.400-2. Requesting data/documentation after receipt of the proposal."
+                   props="MP5315.400-2."
                    tables="0"
                    figures="0"/>
          <topicref navtitle="MP5315.404-1-90 Pricing Assistance or Pricing Assistance Waiver"
                    href="MP5315_404_1_90.dita"
                    props="MP5315.404-1-90"
-                   otherprops="MP5315_404_1_90"
                    base="concept"
                    audience="DAFFARS_MP5315_404_1_90"
                    outputclass="subtopic"
@@ -6162,23 +6195,34 @@
                    href="MP5315_407_90.dita"
                    outputclass="subtopic"
                    props="MP5315.407-90"
-                   base="NoTitle"
+                   base="concept"
                    audience="DAFFARS_MP5315_407_90"
                    xtrf="subtopic"
                    xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="MP5315.606-90 Receipt, Evaluation, and Disposition of Unsolicited Proposals"
-                href="MP5315_606_90.dita"
+      <topicref href="MP5315_6.dita"
+                navtitle="MP5315.6   — UNSOLICITED PROPOSALS"
                 outputclass="SubPart"
-                props="MP5315.606-90"
-                base="NoTitle"
-                audience="DAFFARS_MP5315_606_90"
+                props="MP5315.6"
+                audience="DAFFARS_MP_5315_6"
+                xtrc="DAFFARS_MP_5315_6.html"
                 xtrf="SubPart"
-                xtrc="DAFFARS_MP5315_606_90.html"
+                base="NoTitle"
                 tables="0"
-                figures="0"/>
+                figures="0">
+         <topicref navtitle="MP5315.606-90 Receipt, Evaluation, and Disposition of Unsolicited Proposals"
+                   href="MP5315_606_90.dita"
+                   outputclass="subtopic"
+                   props="MP5315.606-90"
+                   base="concept"
+                   audience="DAFFARS_MP5315_606_90"
+                   xtrc=""
+                   xtrf="subtopic"
+                   tables="0"
+                   figures="0"/>
+      </topicref>
    </topicref>
    <topicref navtitle="MP5325 - Foreign Acquisitions"
              href="MP5325.dita"
@@ -6190,92 +6234,114 @@
              xtrc="DAFFARS_MP5325.html"
              tables="0"
              figures="0">
-      <topicref navtitle="MP5325.103 Exceptions"
-                href="MP5325_103.dita"
-                props="MP5325.103"
-                base="concept"
-                audience="DAFFARS_MP5325_103"
+      <topicref href="MP5325_1.dita"
+                navtitle="MP5325.1   — BUY AMERICAN - SUPPLIES"
                 outputclass="SubPart"
+                props="MP5325.1"
+                audience="DAFFARS_MP5325_1"
+                xtrc="DAFFARS_MP5325_1.html"
                 xtrf="SubPart"
-                xtrc="DAFFARS_MP5325_103.html"
-                tables="0"
-                figures="0"/>
-      <topicref navtitle="MP5325.7002-2 - Exceptions"
-                href="MP5325_7002_2.dita"
-                outputclass="SubPart"
-                props="MP5325.7002-2"
                 base="NoTitle"
-                audience="DAFFARS_MP5325_7002_2"
-                xtrf="SubPart"
-                xtrc="DAFFARS_MP5325_7002_2.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="MP5325.7002-2-1 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
-                   href="MP5325_7002_2_1.dita"
-                   props="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002"
-                   otherprops="MP5325_7002_2_1"
+         <topicref navtitle="MP5325.103 Exceptions"
+                   href="MP5325_103.dita"
+                   props="MP5325.103"
                    base="concept"
-                   audience="DAFFARS_MP5325_7002_2_1"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc=""
-                   tables="0"
-                   figures="0"/>
-         <topicref navtitle="MP5325.7002-2-2 DNAD Exception"
-                   href="MP5325_7002_2_2.dita"
-                   props="2.DNADException"
-                   otherprops="MP5325_7002_2_2"
-                   base="concept"
-                   audience="DAFFARS_MP5325_7002_2_2"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
+                   audience="DAFFARS_MP5325_103"
+                   outputclass="SubPart"
+                   xtrf="SubPart"
                    xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="MP5325.7003-3 - Exceptions"
-                href="MP5325_7003_3.dita"
+      <topicref href="MP5325_70.dita"
+                navtitle="MP5325.70   — AUTHORIZATION ACTS, APPROPRIATIONS  ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION"
                 outputclass="SubPart"
-                props="MP5325.7003-3"
-                base="NoTitle"
-                audience="DAFFARS_MP5325_7003_3"
+                props="MP5325.70"
+                audience="DAFFARS_MP5325_70"
+                xtrc="DAFFARS_MP5325_70.html"
                 xtrf="SubPart"
-                xtrc="DAFFARS_MP5325_7003_3.html"
+                base="NoTitle"
                 tables="0"
                 figures="0">
-         <topicref navtitle="MP5325.7003-3-1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
-                   href="MP5325_7003_3_1.dita"
-                   props="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7003"
-                   otherprops="MP5325_7003_3_1"
-                   base="concept"
-                   audience="DAFFARS_MP5325_7003_3_1"
+         <topicref navtitle="MP5325.7002-2 - Exceptions"
+                   href="MP5325_7002_2.dita"
                    outputclass="subtopic"
+                   props="MP5325.7002-2"
+                   base="concept"
+                   audience="DAFFARS_MP5325_7002_2"
                    xtrf="subtopic"
                    xtrc=""
                    tables="0"
-                   figures="0"/>
-         <topicref navtitle="MP5325.7003-3-2. Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
-                   href="MP5325_7003_3_2.dita"
-                   props="2.ApplicabilityofCommercialDerivativeMilitaryArticlesCDMAtoSpecialtyMetals"
-                   otherprops="MP5325_7003_3_2"
-                   base="concept"
-                   audience="DAFFARS_MP5325_7003_3_2"
+                   figures="0">
+            <topicref navtitle="MP5325.7002-2-1 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002"
+                      href="MP5325_7002_2_1.dita"
+                      otherprops="MP5325_7002_2_1"
+                      base="concept"
+                      audience="DAFFARS_MP5325_7002_2_1"
+                      outputclass="SubPart"
+                      xtrf="No"
+                      xtrc="DAFFARS_MP5325_7002_2_1.html"
+                      props="MP5325.7002-2-1."
+                      tables="0"
+                      figures="0"/>
+            <topicref navtitle="MP5325.7002-2-2 DNAD Exception"
+                      href="MP5325_7002_2_2.dita"
+                      otherprops="MP5325_7002_2_2"
+                      base="concept"
+                      audience="DAFFARS_MP5325_7002_2_2"
+                      outputclass="SubPart"
+                      xtrf="No"
+                      xtrc="DAFFARS_MP5325_7002_2_2.html"
+                      props="MP5325.7002-2-2."
+                      tables="0"
+                      figures="0"/>
+         </topicref>
+         <topicref navtitle="MP5325.7003-3 - Exceptions"
+                   href="MP5325_7003_3.dita"
                    outputclass="subtopic"
+                   props="MP5325.7003-3"
+                   base="concept"
+                   audience="DAFFARS_MP5325_7003_3"
                    xtrf="subtopic"
                    xtrc=""
                    tables="0"
-                   figures="0"/>
-         <topicref navtitle="MP5325.7003-3-3. DNAD Exception"
-                   href="MP5325_7003_3_3.dita"
-                   props="3.DNADException"
-                   otherprops="MP5325_7003_3_3"
-                   base="concept"
-                   audience="DAFFARS_MP5325_7003_3_3"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc=""
-                   tables="0"
-                   figures="0"/>
+                   figures="0">
+            <topicref navtitle="MP5325.7003-3-1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003"
+                      href="MP5325_7003_3_1.dita"
+                      props="MP5325_7003_3_1"
+                      otherprops="MP5325_7003_3_1"
+                      base="concept"
+                      audience="DAFFARS_MP5325_7003_3_1"
+                      outputclass="SubPart"
+                      xtrf="No"
+                      xtrc="DAFFARS_MP5325_7003_3_1.html"
+                      tables="0"
+                      figures="0"/>
+            <topicref navtitle="MP5325.7003-3-2. Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals"
+                      href="MP5325_7003_3_2.dita"
+                      props="MP5325_7003_3_2"
+                      otherprops="MP5325_7003_3_2"
+                      base="concept"
+                      audience="DAFFARS_MP5325_7003_3_2"
+                      outputclass="SubPart"
+                      xtrf="No"
+                      xtrc="DAFFARS_MP5325_7003_3_2.html"
+                      tables="0"
+                      figures="0"/>
+            <topicref navtitle="MP5325.7003-3-3. DNAD Exception"
+                      href="MP5325_7003_3_3.dita"
+                      props="MP5325_7003_3_3"
+                      otherprops="MP5325_7003_3_3"
+                      base="concept"
+                      audience="DAFFARS_MP5325_7003_3_3"
+                      outputclass="SubPart"
+                      xtrf="No"
+                      xtrc="DAFFARS_MP5325_7003_3_3.html"
+                      tables="0"
+                      figures="0"/>
+         </topicref>
       </topicref>
    </topicref>
    <topicref href="MP5332.dita"
@@ -6447,18 +6513,18 @@
                 xtrc="DAFFARS_SUBPART_MP5349_5.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="MP 5349.501-70 Special Termination Costs"
-                   href="MP_5349_501_70.dita"
+         <topicref navtitle="MP5349.501-70     Special  Termination Costs  "
+                   href="MP5349_501-70.dita"
                    props="MP 5349.501-70"
                    base="concept"
-                   audience="DAFFARS_MP_5349_501_70"
+                   audience="DAFFARS_MP5349_501-70"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
-      <topicref navtitle="Subpart MP5349.70 —&#xA; SPECIAL TERMINATION REQUIREMENTS&#xA;  "
+      <topicref navtitle="Subpart MP5349.70 — SPECIAL TERMINATION REQUIREMENTS "
                 href="SUBPART_MP5349_70.dita"
                 props="Subpart MP5349.70"
                 base="NoTitle"
@@ -6468,7 +6534,7 @@
                 xtrc="DAFFARS_SUBPART_MP5349_70.html"
                 tables="0"
                 figures="0">
-         <topicref navtitle="MP5349.7001 &#xA; Congressional Notification on Significant Contract&#xA; Terminations&#xA;  "
+         <topicref navtitle="MP5349.7001 Congressional Notification on Significant Contract Terminations "
                    href="MP5349_7001.dita"
                    props="MP5349.7001"
                    base="concept"
@@ -6478,7 +6544,7 @@
                    xtrc=""
                    tables="0"
                    figures="0"/>
-         <topicref navtitle="MP5349.7003 &#xA; Notification of Anticipated Terminations or&#xA; Reductions&#xA;  "
+         <topicref navtitle="MP5349.7003 Notification of Anticipated Terminations or Reductions "
                    href="MP5349_7003.dita"
                    props="MP5349.7003"
                    base="concept"
