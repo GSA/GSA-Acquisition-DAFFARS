@@ -6,24 +6,34 @@
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5343.102-90</ph> Contract Scope Considerations</title>
       <conbody>
-
-        <p>Contracting officers shall document scope determination when
-modifying contracts. Proposed modifications generally constitute
-new work when, the extent of any changes in the type of work,
-performance period, and costs between the modification and the
-original contract, as well as whether the original solicitation
-adequately advised offerors of the potential for the change or
-whether the change was the type that reasonably could have been
-anticipated, and whether the modification materially changed the
-field of competition for the requirement. New work requires
-competition unless one of the seven exceptions to competition found
-in <xref format="html"
-                  href="https://www.acquisition.gov/far/part-6#FAR_6_302"
-                  scope="external">FAR
-6.302</xref> applies. See the “<xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Scope
-Determination – MFR</xref>” template.</p>
-      </conbody>
+      <p>Contracting officers shall document scope determination when modifying
+        contracts (see the Scope Determination – MFR template). New work
+        requires competition unless one of the seven exceptions to competition
+        found in FAR <xref
+        scope="external"
+        format="html"
+        href="https://www.acquisition.gov/far/6.302">6.302</xref> applies. When
+        determining whether proposed modifications constitute new work the
+        following should be considered- </p>
+      <p
+        outputclass="List1">(a) the extent of any changes in the type of work,
+        performance period, and costs between the modification and the original
+        contract; </p>
+      <p
+        outputclass="List1">(b) whether the original solicitation adequately
+        advised offerors of the potential for the change or the change was the
+        type that reasonably could have been anticipated; and </p>
+      <p
+        outputclass="List1">(c) whether the modification materially changes the
+        field of competition for the requirement.</p>
+      <p> For unilateral modifications authorized by clauses other than the
+        Changes clause (e.g., Property clause, Options clause, Suspension of
+        Work, etc. (see FAR <xref
+        scope="external"
+        format="html"
+        href="https://www.acquisition.gov/far/43.103">43.103</xref>(b)(3)), a
+        scope determination is not required to be documented but is highly
+        encouraged. </p>
+    </conbody>
     </concept>
 </dita>
