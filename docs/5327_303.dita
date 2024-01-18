@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5327_303">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5327.303</ph> Contract Clauses</title>
+      <conbody>
+        <p id="Hlk138396518" outputclass="List2">(b)(1) When using <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_227_11"
+                  scope="external">FAR
+clause 52.227-11</xref>, insert instructions substantially the same as
+the following in the fill-in of section (j):</p>
+        <p outputclass="List2">(1) “Interim or final Invention Reports
+shall be sent to both the Administrative Contracting
+Officer, <i>(insert “at the address located on the face
+of the contract” or name and address for the
+ACO)</i> an(b)(1) When using <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_227_11"
+                  scope="external">FAR
+clause 52.227-11</xref>, insert instructions substantially the same as
+the following in the fill-in of section (j):</p>
+        <p>d to (insert contact information, name/or position title,
+email, and phone number for person(s) at the procuring contract
+office who will perform patent administration for this
+contract) within the timeframes specified in the Patent Rights
+clause of this contract.</p>
+        <p outputclass="List2">(2) The <xref format="html"
+                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0882.pdf"
+                  scope="external">DD
+Form 882</xref>, <i>Report of Inventions and Subcontracts</i>,
+may be used to submit these reports. The DD Form 882 may be also be
+used for the notification of an award of any subcontract(s) for
+experimental, developmental or research work which contain a Patent
+Rights clause.</p>
+        <p outputclass="List2">(3) All other notifications required pursuant to
+this clause shall be sent to the addresses in paragraph 1 and
+to (insert contact information for person(s) at the procuring
+contract office who will handle patent administration, e.g., name
+and/or position, email, phone numbers)</p>
+      </conbody>
+    </concept>
+</dita>

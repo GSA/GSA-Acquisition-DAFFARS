@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5337_106">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5337.106</ph> Funding and Term of Service Contracts</title>
+      <conbody>
+        <p>See <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-204-administrative-and-information-matters#DFARS_204.7103-1"
+                  scope="external">DFARS
+204.7103-1</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-237-service-contracting#DFARS_237.106"
+                  scope="external">DFARS
+237.106</xref> for guidance on considering severability when forming
+Service contracts.</p>
+      </conbody>
+    </concept>
+</dita>

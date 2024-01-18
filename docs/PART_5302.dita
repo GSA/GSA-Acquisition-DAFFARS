@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5302">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5302</ph> - Definitions of Words and Terms</title>
+      <body>
+         <p id="dsEyUb" outputclass="Normal">
+            <xref format="html"
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5302.aspx"
+                  scope="external">DAFFARS PART 5302 Knowledge Center</xref>
+         </p>
+         <p id="iSGRhC" outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <p id="m7ijsvw8" outputclass="Normal">
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5302_1.dita#DAFFARS_SUBPART_5302_1">Subpart 5302.1 - DEFINITIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5302_101.dita#DAFFARS_5302_101">5302.101 Definitions</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5309">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5309</ph> - Contractor Qualifications</title>
+      <body>
+         <p id="UPiZQd" outputclass="Normal">
+            <xref format="html"
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5309.aspx"
+                  scope="external">DAFFARS PART 5309 Knowledge Center</xref>
+         </p>
+         <p id="RPfGzM" outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <p id="XgonCM" outputclass="Normal">
+            <i>Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_1.dita#DAFFARS_SUBPART_5309_1">Subpart 5309.1 - RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_103.dita#DAFFARS_5309_103">5309.103 Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_104-1.dita#DAFFARS_5309_104-1">5309.104-1 General Standards</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_2.dita#DAFFARS_SUBPART_5309_2">Subpart 5309.2 - QUALIFICATION REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_202.dita#DAFFARS_5309_202">5309.202 Policy</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_206-1.dita#DAFFARS_5309_206-1">5309.206-1 General</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_270-3.dita#DAFFARS_5309_270-3">5309.270-3 Policy</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_4.dita#DAFFARS_SUBPART_5309_4">Subpart 5309.4 - DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_405.dita#DAFFARS_5309_405">5309.405 Effect of Listing</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_405-1.dita#DAFFARS_5309_405-1">5309.405-1 Continuation of Current Contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_405-2.dita#DAFFARS_5309_405-2">5309.405-2 Restrictions on Subcontracting</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_406-3.dita#DAFFARS_5309_406-3">5309.406-3 Procedures</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_407-3.dita#DAFFARS_5309_407-3">5309.407-3 Procedures</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5309_5.dita#DAFFARS_SUBPART_5309_5">Subpart 5309.5 - ORGANIZATIONAL AND CONSULTANT CONFLICTS OF INTEREST</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_503.dita#DAFFARS_5309_503">5309.503 Waiver</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_504.dita#DAFFARS_5309_504">5309.504 Contracting Officer Responsibilities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_505.dita#DAFFARS_5309_505">5309.505 General rules.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_507-2.dita#DAFFARS_5309_507-2">5309.507-2 Solicitation Provisions and Contract Clause</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_571-7.dita#DAFFARS_5309_571-7">5309.571-7 Systems Engineering and Technical Assistance Contracts</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

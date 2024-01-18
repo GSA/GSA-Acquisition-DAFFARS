@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DAFFARS_MP5325_7002_2" ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 1 Subpart">
+         <ph class="- topic/ph " props="autonumber">MP5325.7002-2</ph> - Exceptions</title>
+      <body>
+         <p outputclass="Normal">
+            <b>2019 Edition</b>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5325_7002_2_1.dita#DAFFARS_MP5325_7002_2_1"
+                        xtrc="1.DomesticNon-AvailabilityDeterminationsDNADUnderDFARS225.7002 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002">MP5325.7002-2-1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="MP5325_7002_2_2.dita#DAFFARS_MP5325_7002_2_2"
+                        xtrc="2.DNADException DNAD Exception">MP5325.7002-2-2. DNAD Exception</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

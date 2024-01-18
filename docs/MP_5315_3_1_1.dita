@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_1_1" ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " id="dEpJrL" outputclass="Heading 3">
+         <ph class="- topic/ph " id="E1Sfmf" props="autonumber">1.1</ph> Purpose</title>
+      <conbody id="OEY7K6">
+         <p>This Mandatory Procedure (MP) establishes supplemental procedures for conducting competitively negotiated source selections of $10M or more within the Department of the Air Force (DAF), and follows the numbering convention of the <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+                  format="html"
+                  scope="external">DoD Source Selection Procedures</xref>, dated 20 August 2022.</p>
+      </conbody>
+   </concept>
+</dita>

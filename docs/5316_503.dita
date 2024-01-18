@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5316_503">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5316.503</ph>  Requirements Contracts</title>
+      <conbody>
+        <p outputclass="List1">(b)(2) Determinations for requirements contracts
+that exceed the amount specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_503"
+                  scope="external">FAR
+16.503(b)(2)</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/far/part-16#FAR_16_504"
+                  scope="external">FAR
+16.504(c)(1)(ii)(D)(1)</xref> must be approved in accordance with
+5316.504(c)(1)(ii)(D) below.</p>
+      </conbody>
+    </concept>
+</dita>

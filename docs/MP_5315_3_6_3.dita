@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_6_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.3</ph> Required Training for Designated Trainers</title>
+      <conbody>
+         <p outputclass="List1">6.3.1 Designated trainers must receive “Train-the-Trainer” training and be certified as source selection trainers. Periodic “Train-the-Trainer” sessions are conducted by <xref href="mailto:SAF.AQ.SAF-AQCX.Workflow@us.af.mil"
+                  format="AQ.SAF-AQCX.Workflow@us.af.mil.SAF-AQCX.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+                  scope="external">SAF/AQCP</xref> personnel every other month via webinar; however, this training may be conducted by any SCO-designated and experienced source selection trainer. Note that this is summary-level training designated trainers and not for use by source selection teams and other individuals to satisfy the source selection training requirements set forth in paragraph 6.4.1.</p>
+         <p outputclass="List1">6.3.2 Training Managers/POCs must maintain a record of the source selection training provided by designated trainers, including the name of the acquisition, training date, names of individuals trained, and training provided (e.g., Phase I (Acquisition Planning) or Phase II (Source Selection Execution) training). </p>
+         <p outputclass="List1">6.3.3 Designated trainers who have not conducted source selection training within a two (2) year period must be recertified. Recertification requires that the SCO confirm the individual’s continued designation as a source selection trainer and that the individual re-complete the “Train-the-Trainer” training.</p>
+      </conbody>
+   </concept>
+</dita>

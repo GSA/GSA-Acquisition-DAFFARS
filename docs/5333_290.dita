@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5333_290">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5333.290</ph>  Claims and Terminations for Default</title>
+      <conbody>
+        <p outputclass="List1">(a) If a contractor submits an uncertified claim
+exceeding $100,000, the contracting officer must notify the
+contractor, in writing, of its failure to certify as required by
+the Contract Disputes statute (<xref format="html"
+                  href="http://uscode.house.gov/view.xhtml?req=(title:41%20chapter:71%20edition:prelim)%20OR%20(granuleid:USC-prelim-title41-chapter71)&amp;f=treesort&amp;num=0&amp;edition=prelim"
+                  scope="external">41
+U.S.C. §§ 7101-7109</xref>). The notice must state that a
+final decision will not be issued until the claim is certified.</p>
+        <p outputclass="List1">(b) Prior to making a final decision on a claim or
+termination for default (including a termination for cause under
+FAR Part 12), the contracting officer must refer the proposed final
+decision to the cognizant legal office for legal advice, ADR
+suitability, and appropriate dispute resolution strategies. The
+contracting officer, with the assistance of the cognizant legal
+office, must seek review by <xref format="html"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">AF/JACQ</xref>
+of all proposed final decisions. At the same time, the contracting
+officer must provide <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref> with any
+proposed final decision on a claim involving PEO programs and any
+proposed final decision on a claim greater than $500,000. The
+contracting officer or the referring person must promptly notify <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref> and their SCO
+with all known information relating to any recommended termination
+for default.</p>
+        <p outputclass="List1">(c) The contracting officer must use ADR to the
+maximum extent practicable to resolve an Air Force affirmative
+contract claim (such as defective pricing, liquidated damages,
+etc.) when unassisted negotiations reach an impasse as determined
+by the SCO. The contracting officer must provide to <xref format="html"
+                  href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
+                  scope="external">AF/JACQ</xref>,
+with a copy to <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref>, any audit or
+other findings indicating Air Force entitlement to recovery greater
+than $500,000 where unassisted negotiations have reached an
+impasse, in order to develop a dispute resolution strategy.
+Government claims must be formally asserted [issuance of a
+Contracting Officer’s Final Decision (<xref format="html"
+                  href="https://www.acquisition.gov/far/part-33#FAR_33_206"
+                  scope="external">FAR
+33.206</xref>)] within 6 years after the accrual of the claim.</p>
+      </conbody>
+    </concept>
+</dita>

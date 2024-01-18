@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5334_203">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5334.203</ph> Solicitation provisions and contract clause</title>
+      <conbody>
+
+        <p>If an Earned Value Management System (EVMS) waiver is obtained
+in accordance with the Adaptive Acquisition Framework Document
+Identification Tool (AAFDID) EVMS Application Requirements Table,
+contracting officers may omit the use of EVMS provisions and
+clauses prescribed for use in <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-234-major-system-acquisition#DFARS-234.203"
+                  scope="external">DFARS
+234.203</xref>. The approved EVMS waiver must be included in the
+contract file.</p>
+      </conbody>
+    </concept>
+</dita>

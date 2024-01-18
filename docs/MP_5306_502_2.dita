@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5306_502_2" ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 2"> 
+         <ph class="- topic/ph " props="autonumber">MP5306.502-2.</ph> Duties and Responsibilities.</title>
+      <conbody>
+         <p>In addition to the duties and responsibilities identified at <xref href="https://www.acquisition.gov/far/part-6#FAR_6_502"
+                  format="html"
+                  scope="external">FAR 6.502</xref>, DAF Competition and Commercial Advocates are responsible for the following:</p>
+         <p id="mFBhza" outputclass="List1">2.1. Support the DAF Competition Advocate General in formulating, managing, and providing oversight of the DAF Competition and Commercial Advocacy Program.</p>
+         <p id="avznkg" outputclass="List1">2.2. Promote commercial practices and competition in acquisition programs managed by their procuring activity. Identify, track, and follow-up on actions to remove impediments to commercial practices and competition. Emphasize competition strategies for creating and maintaining competitive environments. Seek to improve the overall competitive performance and increase the use of commercial practices.</p>
+         <p id="NTrbAL" outputclass="Normal">* <ph>SEE DEFINITION PROVIDED IN</ph>
+            <xref format="pdf"
+                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA006638-10-DPAP.pdf"
+                  scope="external">
+               <u>OUSD/AT&amp;L DPAP Memo, dated 16 Dec 2010</u>
+            </xref>
+            <ph>.</ph>
+         </p>
+         <p id="KTRuuK" outputclass="List1">2.3. Ensure the organization's policies and procedures: encourage full and open competition whenever possible, promote the use of commercial practices. Review acquisition planning documents and ensure market research demonstrates that competitive and commercial opportunities were considered.</p>
+         <p id="cfCIBV" outputclass="List1">2.4. Participate in acquisition strategy planning through forums such as the Acquisition Strategy Panel process.</p>
+         <p id="LDZzzP" outputclass="List1">2.5. The Competition Advocate General will establish and assign fiscal year competition goals based on annual projections utilizing Project Management Resource Tools (PMRT) or other data provided by the Competition and Commercial Advocates.</p>
+         <p id="dQWBMm" outputclass="List1">2.8. Encourage contracting professionals to complete the Defense Acquisition University (DAU) Continuous Learning Module (CLM) <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1708"
+                  format="html"
+                  scope="external">CLC 055</xref>, <i>Competition Requirements </i>and other related training that may be provided.</p>
+         <p id="XugAkj" outputclass="List1">2.9. Convey to program managers, contracting personnel, and senior leaders the advantages of full and open and effective competition, share success stories, and assist contracting officers in doing the same. Competition advocates should provide training to the various functionals involved in acquisition. Competition advocates are encouraged to use the <xref href="http://www.acq.osd.mil/dpap/cpic/cp/docs/training.ppt"
+                  format="html"
+                  scope="external">Competition Training</xref> template developed by OUSD(A&amp;S) DPC.<ph> </ph> 
+         </p>
+         <p id="sMFElF" outputclass="List1">2.10. Identify the potential for full and open competition and effective competition and commercial opportunities through the sole source or limited source and acquisition planning document review process. Review and approve sole source/limited source Justification and Approval (J&amp;A), Limited Sources Justifications (LSJ), and Exception to Fair Opportunity (EFO) justifications in accordance with <xref href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_304"
+                  format="html"
+                  scope="external">DAFFARS 5306.304(a)</xref>, <xref href="https://www.acquisition.gov/daffars/part-5308-required-sources-supplies-and-services#DAFFARS_5308_405_6"
+                  format="html"
+                  scope="external">DAFFARS 5308.405-6(d)</xref>, and <xref href="https://www.acquisition.gov/daffars/part-5316-types-contracts#DAFFARS_5316_505"
+                  format="html"
+                  scope="external">DAFFARS 5316.505(b)(2)</xref>. Ensure the enhanced instructions have been considered and appropriately addressed in the written justification prior to coordination or approval (See <xref href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/Memos/Policy%20Memos/22-C-02.pdf?csf=1&amp;web=1&amp;e=gi21qZ"
+                  format="html"
+                  scope="external">PM 22-C-02</xref>).</p>
+         <p id="bvLiwU" outputclass="List1">2.11. Work with Government and industry to eliminate barriers to competition and the acquisition of commercial products and commercial services.</p>
+         <p id="XVumow" outputclass="List1">2.12. The procuring activity Competition and Commercial Advocate must ensure operational contracting Squadrons/Flights have access to an Installation/Center Competition and Commercial Advocate. </p>
+         <p outputclass="List1">2.13. Establish a competition and commercial advocacy program for activities within the procuring activity. The activities’ Competition and Commercial Advocacy Program must meet the oversight and management and reporting requirements identified throughout this MP. </p>
+         <p outputclass="List1">2.14. Ensure that requirements are stated in the least restrictive manner to maximize competition and the use of commercial practices. </p>
+         <p id="YPCvVW" outputclass="List1">2.15. Review and provide appropriate comments on determinations made in accordance with <xref href="https://www.acquisition.gov/far/part-9#FAR_9_202"
+                  format="html"
+                  scope="external">FAR 9.202(b)</xref> that it would be unreasonable to specify the standards for qualification that a prospective offeror (or its product) must satisfy in order to meet established qualification requirements.</p>
+         <p id="p__Toc38365626" outputclass="List1">2.16. Provide support as required for the preparation of the annual competition and commercial report in accordance with <xref href="https://www.acquisition.gov/far/part-6#FAR_6_502"
+                  format="html"
+                  scope="external">FAR 6.502(b)(2)</xref> and Paragraph 4 of this MP.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP5349_501-70">
+      <title class="- topic/title ">
+  
+         <ph class="- topic/ph " props="autonumber">MP 5349.501-70</ph> Special
+ Termination Costs
+  </title>
+      <conbody>
+        <p outputclass="List1">(a) Contracting officers must refer to Volume 2A,
+Chapter 1, paragraph 2.14.3.2.1 of <xref format="html"
+                  href="http://comptroller.defense.gov/FMR.aspx"
+                  scope="external">DoD 7000.14-R, DoD
+Financial Management Regulation</xref>, for Congressional notification
+and additional approval requirements for Special Termination Cost
+Clauses (STCC). Because STCCs require special notification to
+Congress and entail a long approval process over which the
+Department of the Air Force has little control, the contracting
+officer should allow Headquarters Air Force Staff sufficient time
+to process requests to use <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS-252.249-7000"
+                  scope="external">DFARS
+252.249-7000</xref>, Special Termination Costs (i.e., not less than 90
+days prior to contract award). The request must include the
+following:</p>
+        <p outputclass="List3">(i) A detailed breakdown of applicable cost
+categories in the clause at <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS-252.249-7000"
+                  scope="external">DFARS
+252.249-7000, (a)(1) through (5)</xref>, which includes the reasons
+for the anticipated incurrence of the costs in each category;</p>
+        <p outputclass="List3">(ii) Information on the financial and program need
+for the clause including an assessment of the contractor's
+financial position and the impact of a failure to receive authority
+to use the clause; and</p>
+        <p outputclass="List3">(iii) Clear evidence that only costs that arise
+directly from a termination would be compensated under the clause.
+Costs that would be incurred by the Government, regardless of
+whether a termination occurs, must not be covered by a STCC.</p>
+      </conbody>
+    </concept>
+</dita>

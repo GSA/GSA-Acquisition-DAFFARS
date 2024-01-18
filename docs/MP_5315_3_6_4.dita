@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_6_4"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3"
+            outputclass="task">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.4</ph> Acquisition/Source Selection Team Training</title>
+      <conbody>
+         <p outputclass="List1">6.4.1 Conducting Source Selection Training
+            Sessions.</p>
+         <p>Source selection training must be presented to the entire SST,
+            including the SSA, SSAC Chair and members, PM (where one is
+            assigned), RO,and all advisors. Independent review of source
+            selection training materials by SST members and/or attendance at
+            “Train-the-Trainer” training is not sufficient to satisfy this
+            training requirement.</p>
+         <ul>
+            <li>
+               <p>Specialized executive level training modules are available for
+                  the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSA_SS_Training_Charts.pptx"
+                        format="html"
+                        scope="external">SSA</xref> and <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/SSAC_SS_Training_Charts.pptx"
+                        format="html"
+                        scope="external">SSAC</xref>. </p>
+            </li>
+            <li>
+               <p>
+                  <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx"
+                        format="html"
+                        scope="external">
+                     <b>Phase I</b>
+                  </xref> (Acquisition
+                  Planning)training should be presented at the earliest stage of
+                  an acquisition and covers the acquisition process up to
+                  release of the RFP. </p>
+            </li>
+            <li>
+               <p>
+                  <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/source_selection_training/Forms/AllItems.aspx"
+                        format="html"
+                        scope="external">
+                     <b>Phase II</b>
+                  </xref>(Source Selection
+                  Execution)training is presented prior to or immediately after
+                  receipt of proposals.</p>
+            </li>
+         </ul>
+         <p outputclass="List1">6.4.2 Training Content and Process.</p>
+         <p>The SAF/AQCP Knowledge Management Team develops and maintains source
+            selection training modules to assist Source Selection Trainers.
+            Trainers are encouraged to tailor the modules, as needed, to meet
+            the unique elements of the instant acquisition.</p>
+         <p>The <b>Ethics, Procurement Integrity, and Conflicts of Interest</b>
+            topic should be presented by the local legal advisor. Links to
+            Ethics training material are included in both Phase I and Phase II
+            source selection training materials. The use of locally-developed
+            Ethics training by local legal advisors is encouraged. The length of
+            the source selection training and the level of detail presented in
+            either Phase I (Acquisition Planning) or Phase II (Source Selection
+            Execution) depends on the complexity of the specific acquisition and
+            the experience level of the SST.</p>
+         <p outputclass="List1">6.4.3 Advance Preparation.</p>
+         <p>Effectiveness of the source selection training experience can be
+            enhanced with advance preparation. The Defense Acquisition
+            University (DAU) offers <xref href="https://icatalog.dau.edu/onlinecatalog/tabnavcl.aspx"
+                  format="html"
+                  scope="external">continuous learning modules</xref> on source
+            selection and related topics. Some suggested DAU courses include the
+            following:</p>
+         <p>
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=283"
+                  format="html"
+                  scope="external">CLC 004</xref> - <i>Market Research</i>
+         </p>
+         <p>
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=247"
+                  format="html"
+                  scope="external">CLC 028</xref> - <i>Past Performance
+            Information</i>
+         </p>
+         <p>
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=423"
+                  format="html"
+                  scope="external">CLC 132</xref> - <i>Organizational Conflicts of
+            Interest</i>
+         </p>
+         <p>
+            <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1689"
+                  format="html"
+                  scope="external">CLM 049</xref> - <i>Procurement Fraud
+            Indicators</i>
+         </p>
+      </conbody>
+   </concept>
+</dita>
