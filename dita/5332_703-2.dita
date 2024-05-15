@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DAFFARS_5332_703-2">
-        <title class="- topic/title "> 
-         <ph class="- topic/ph " props="autonumber">5332.703-2</ph> Contracts Conditioned Upon Availability of Funds</title>
-        <conbody>
-          <p outputclass="List1">(a) <i>Fiscal year contracts.</i> See <xref format="7.docx.docx"
-                  href="../Existing%20DAFFARS%20ao%20Sep%202022/mp_5332.7.docx"
-                  scope="external">MP5332.7</xref>
-on contract funding. See <xref format="html"
-                  href="https://www.acquisition.gov/dfars/part-204-administrative-and-information-matters#DFARS-204.7103"
-                  scope="external">DFARS
-204.7103</xref> for guidance on considering severability when forming
-contracts and determining contract funding.</p>
-        </conbody>
-      </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DAFFARS_5332_703-2" class="- topic/topic concept/concept "><title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5332.703-2</ph> Contracts Conditioned Upon Availability of Funds</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Fiscal year contracts.</i> See <xref scope="external" class="- topic/xref " href="MP5332_7.dita">MP5332.7</xref> on contract funding. See <xref format="html" href="https://www.acquisition.gov/dfars/part-204-administrative-and-information-matters#DFARS-204.7103" scope="external" class="- topic/xref ">DFARS 204.7103</xref> for guidance on considering severability when forming contracts and determining contract funding.</p></conbody></concept></dita>
