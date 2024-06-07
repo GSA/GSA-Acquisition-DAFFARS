@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5348">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5348</ph> - Value Engineering</title>
+      <body>
+         <p>
+            <xref scope="external"
+                  format="html"
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5348.aspx">DAFFARS PART 5348 Knowledge Center</xref>
+         </p>
+         <p>
+            <i>Revised: June 2024</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_5348_1.dita#DAFFARS_SUBPART_5348_1">Subpart 5348.1 — POLICIES AND PROCEDURES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5348_104-3.dita#DAFFARS_5348_104-3">5348.104-3 Sharing Collateral Savings</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

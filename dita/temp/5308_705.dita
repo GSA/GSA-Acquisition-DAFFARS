@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5308_705">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5308.705</ph> Procedures</title>
+      <conbody>
+        <p>Refer to the <xref format="html"
+                  href="https://www.abilityone.gov/laws,_regulations_and_policy/procurement_guide.html"
+                  scope="external">AbilityOne
+Procurement Guidebook</xref> for acquiring products and services under
+41 U.S.C., chapter 85 from nonprofit agencies employing people who
+are blind or severely disabled.</p>
+        <p>5308.707 Prices</p>
+
+        <p>Contracting Officers are required to obtain the Fair Market
+Price (FMP) Determination from the U.S. Ability One Commission
+prior to contract award. Please note that the self-inspection
+program at <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_601_91"
+                  scope="external">DAFFARS
+MP5301.601-91</xref> reviews compliance with this requirement for
+contracts awarded under the AbilityOne program.</p>
+      </conbody>
+    </concept>
+</dita>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5303_204">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5303.204</ph> Treatment of Violations</title>
+      <conbody>
+        <p outputclass="List1">(a) SAF/GCR is authorized to conduct hearings and
+make findings of fact in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-3#FAR_3_204"
+                  scope="external">FAR
+3.204(a)</xref>. If a hearing is held, SAF/GCR will provide
+recommendations to ASAF(A) or the Principal Civilian or Military
+Deputy.</p>
+      </conbody>
+    </concept>
+</dita>

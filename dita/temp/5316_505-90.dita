@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5316_505-90">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5316.505-90</ph>  Decentralized Ordering</title>
+      <conbody>
+        <p>For contracts that authorize decentralized ordering (i.e.,
+ordering by a contracting office at any other location), the
+contracting officer with overall responsibility for the contract
+must:</p>
+        <p outputclass="List1">(a) Ensure that adequate control procedures are in
+place before any orders are authorized; and</p>
+        <p outputclass="List1">(b) Exercise oversight of decentralized ordering
+throughout the period of performance under the contract to ensure
+that the procedures are followed.</p>
+      </conbody>
+    </concept>
+</dita>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5327_9000">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5327.9000</ph> Foreign Disclosure Policy</title>
+      <conbody>
+
+        <p>For Foreign Disclosure issues, Government personnel should refer
+to National Disclosure Policy (NDP-1), <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/usafa/publication/afi16-201_usafasup/afi16-201_usafasup.pdf"
+                  scope="external">DAFI
+16-201</xref> and <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_ia/publication/afpd16-2/afpd16-2.pdf"
+                  scope="external">AFPD
+16-2</xref>, Disclosure of Military Information to Foreign Governments
+and International Organizations and follow all procedures including
+foreign disclosure reviews.</p>
+      </conbody>
+    </concept>
+</dita>

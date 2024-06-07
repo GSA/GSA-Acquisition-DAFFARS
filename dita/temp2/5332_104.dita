@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5332_104" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5332.104</ph> Providing Contract Financing</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(5) Report known adverse developments affecting
+a contractor or subcontractor to the contract administration
+office, other interested Government parties, and the SCO. If there
+is an adverse development affecting a contractor receiving a bank
+loan guaranteed by the Department of the Air Force, progress
+payments, or advance payments, the contracting office must report
+the adverse development, its expected impact upon continued
+satisfactory performance under the contract, remedial actions taken
+to date (if any), and any recommendations for further action
+through the SCO to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
+                  scope="external"
+                  class="- topic/xref ">cognizant
+HCA Workflow</xref>.</p>
+         <p outputclass="List1" class="- topic/p ">(c)(2) <ph rev="Revised June xx, 2024" class="- topic/ph ">See <xref outputclass="fm:ParaNumOnly"
+                     href="5332_114.dita#DAFFARS_5332_114"
+                     base="DAFFARS-5332.114"
+                     xtrc="5332.114"
+                     class="- topic/xref ">5332.114 Unusual Contract Financing.</xref>
+            </ph>.<ph id="Toc38365442" class="- topic/ph "/> 
+         </p>
+      </conbody>
+   </concept>
+</dita>

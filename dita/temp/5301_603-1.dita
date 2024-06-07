@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_603-1">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5301.603-1</ph>  General</title>
+      <conbody>
+
+        <p>The HCA designees delegated contracting authority in accordance
+with <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>
+must select and appoint contracting officers and terminate their
+appointments in accordance with this section and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_603_90"
+                  scope="external">MP5301.603-90</xref>.</p>
+        <p outputclass="List1">(a) The SCO may delegate this authority to the
+highest contracting official in the contracting chain at
+geographically separated organizations, but in no event will the
+designee be lower than a GS-15 (or equivalent) or 0-6. AFICC/CC SCO
+may delegate authority to select and appoint contracting officers
+(and terminate their appointments in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_603_1"
+                  scope="external">DAFFARS
+5301.603-1</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_603_90"
+                  scope="external">MP5301.603-90</xref>)
+to the AFICC/KO Director of Contracting.</p>
+        <p outputclass="List1">(b) Authority to issue limited contracting officer
+warrants of less than $5M and authority to terminate appointments
+of less than $5M may be delegated, but in no event will the
+designee be lower than the COCO.</p>
+      </conbody>
+    </concept>
+</dita>

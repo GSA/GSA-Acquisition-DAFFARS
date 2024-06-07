@@ -6,14 +6,19 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">MP5325</ph> - Foreign Acquisitions</title>
       <body>
-         
+         <p class="- topic/p ">
+            <xref href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5325.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS PART 5325 Knowledge Center</xref>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="MP5325_1.dita#DAFFARS_MP5325_1">MP5325.1 — BUY AMERICAN - SUPPLIES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="MP5325_103.dita#DAFFARS_MP5325_103">MP5325.103 Exceptions</xref>
                      </p>
@@ -36,7 +41,7 @@
                                     href="MP5325_7002_2_1.dita#DAFFARS_MP5325_7002_2_1">MP5325.7002-2-1. Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7002</xref>
                            </p>
                         </li>
-                        <li rev="">
+                        <li rev="Revised June 12, 2024">
                            <p>
                               <xref outputclass="fm:TOC"
                                     href="MP5325_7002_2_2.dita#DAFFARS_MP5325_7002_2_2">MP5325.7002-2-2. DNAD Exception</xref>
@@ -49,19 +54,19 @@
                         <xref outputclass="fm:TOC" href="MP5325_7003_3.dita#DAFFARS_MP5325_7003_3">MP5325.7003-3 - Exceptions</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised June 12, 2024">
                            <p>
                               <xref outputclass="fm:TOC"
                                     href="MP5325_7003_3_1.dita#DAFFARS_MP5325_7003_3_1">MP5325_7003_3_1 Domestic Non-Availability Determinations (DNAD) Under DFARS 225.7003</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised June 12, 2024">
                            <p>
                               <xref outputclass="fm:TOC"
                                     href="MP5325_7003_3_2.dita#DAFFARS_MP5325_7003_3_2">MP5325_7003_3_2 Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised June 12, 2024">
                            <p>
                               <xref outputclass="fm:TOC"
                                     href="MP5325_7003_3_3.dita#DAFFARS_MP5325_7003_3_3">MP5325_7003_3_3 DNAD Exception</xref>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5336_602-3">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5336.602-3</ph> Evaluation Board Functions</title>
+      <conbody>
+        <p>See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9103"
+                  scope="external">MP5301.601(a)(i)</xref>.
+        </p>
+      </conbody>
+    </concept>
+</dita>

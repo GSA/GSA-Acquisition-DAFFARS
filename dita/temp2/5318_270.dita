@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5318_270">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5318.270</ph> Head of Contracting Activity Determinations</title>
+      <conbody>
+        <p>See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>.<ph id="p5318271s90"/>
+        </p>
+
+        <p>(S-90) HQ AFICC is the Department of the Air Force HCA designee
+for all delegable HCA responsibilities during contingency
+operations when determined by the HCA and may become the Joint
+Theater Support Contracting Command (JTSCC) or Joint Task Force
+Contracting commanding general if designated in the Combatant
+Commander’s (CCDR) plan IAW <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi64-105/afi64-105.pdf"
+                  scope="external">AFI
+64-105</xref>. HCA authorities already delegated to a Senior
+Contracting Officer or a lower level in <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external">MP5301.601(a)(i)</xref>
+will remain in effect and do not need to be re-delegated.</p>
+      </conbody>
+    </concept>
+</dita>

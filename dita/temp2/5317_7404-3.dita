@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5317_7404-3" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5317.7404-3</ph>  Definitization Schedule</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(1) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>. <ph rev="Revised June xx, 2024" class="- topic/ph ">See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">HCA Determination to Extend UCA Definitization template</xref>. If the date of the approved UCA Definitization Extension passes, a new determination shall be requested.</ph>
+         </p>
+      </conbody>
+   </concept>
+</dita>

@@ -2,57 +2,73 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5333_104">
+   <concept id="DAFFARS_5333_104" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5333.104</ph> Protests to GAO</title>
-      <conbody>
-        <p outputclass="List1">(a) The Air Force Commercial Litigation Field
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) The Air Force Commercial Litigation Field
 Support Center (<xref format="html"
                   href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external">AF/JACQ</xref>)
+                  scope="external"
+                  class="- topic/xref ">AF/JACQ</xref>)
 serves as agency counsel before the GAO and defends Department of
 the Air Force interests (see <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5333-protests-disputes-and-appeals#DAFFARS_MP5333_104"
-                  scope="external">MP5333.104</xref>)<b>.</b>
+                  scope="external"
+                  class="- topic/xref ">MP5333.104</xref>)<b class="+ topic/ph hi-d/b ">.</b>
         </p>
-        <p outputclass="List1">(b) <i>Protests before award</i>
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Protests before award</i>
         </p>
-        <p outputclass="List2">(1) Forward the determination and finding through
-the SCO to <xref format="html"
+         <p outputclass="List2" class="- topic/p ">(1) Forward the determination and finding through the SCO to <xref format="html"
                   href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external">AF/JACQ</xref>
-and, for approval, to the cognizant HCA workflow within seven days
-of the protest notification (see <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">AF/JACQ</xref> and, for approval, to the<ph rev="Revised June 12, 2024" class="- topic/ph "> 
+               <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">cognizant HCA workflow</xref>
+            </ph> within seven days of the protest notification (see <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>).</p>
-        <p outputclass="List1">(c) <i>Protests after award</i>
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>).</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Protests after award</i>
         </p>
-        <p outputclass="List2">(2) Forward the determination and finding through
-the SCO to <xref format="html"
+         <p outputclass="List2" class="- topic/p ">(2) Forward the determination and finding through the SCO to <xref format="html"
                   href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external">AF/JACQ</xref>
-and, for approval, to the cognizant HCA workflow within seven days
-of the protest notification (see <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">AF/JACQ</xref> and, for approval, to the <ph rev="Revised June 12, 2024" class="- topic/ph "> 
+               <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">cognizant HCA workflow</xref>
+            </ph> within seven days of the protest notification (see <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>).
-<ph id="Toc351654226"/>
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>). <ph id="Toc351654226" class="- topic/ph "/> 
+         </p>
+         <p outputclass="List1" class="- topic/p ">(g) <i class="+ topic/ph hi-d/i ">Notice to GAO</i>
         </p>
-        <p outputclass="List1">(g) <i>Notice to GAO</i>
-        </p>
-        <p>Forward the report through the SCO to <xref format="html"
+         <p class="- topic/p ">Forward the report through the SCO to <xref format="html"
                   href="mailto:AF.JACQ.ContractLaw.FieldSupportCntr.Mbx@us.af.mil"
-                  scope="external">AF/JACQ</xref>
+                  scope="external"
+                  class="- topic/xref ">AF/JACQ</xref>
 and to the <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
+                  scope="external"
+                  class="- topic/xref ">cognizant
 HCA</xref> for signature and submission to GAO within fifty-five days
 of date of receipt of the GAO recommendations (see <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>).
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>).
 Provide a copy of the report submission to the <xref format="html"
                   href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
-                  scope="external">SAF/AQC
+                  scope="external"
+                  class="- topic/xref ">SAF/AQC
 Workflow</xref>.</p>
+         <p class="- topic/p ">
+            <p rev="Revised June 12, 2024" class="- topic/p ">(h) For purposes of post-award stay of contract awards under broad agency announcements, commercial solution openings, the Small Business Innovation Research (SBIR) program, and the Small Business Technology Transfer (STTR) program, each proposal received by the agency constitutes a separate procurement, provided funding is available to the government to award the contract to the protester in consequence of sustained protest or the government’s corrective action.</p>
+         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

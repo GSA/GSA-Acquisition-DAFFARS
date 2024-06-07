@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5303_705">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5303.705</ph>  Procedures</title>
+      <conbody>
+        <p outputclass="List1">(a) The contracting officer must forward the facts
+concerning a final conviction, to include a copy of the conviction,
+to <xref format="html"
+                  href="mailto:SAF.GCR.Workflow@us.af.mil"
+                  scope="external">SAF/GCR</xref> within
+30 days after learning of the conviction. The contracting officer
+must forward the report to the SCO within 10 calendar days after
+the contracting activity learns of the conviction. See the
+tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Notice
+of Proposed Contract Rescission Action(s)</xref> template.<ph id="Toc38284417"/>
+        </p>
+      </conbody>
+    </concept>
+</dita>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5306_501">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5306.501</ph> Requirement</title>
+      <conbody>
+        <p outputclass="List1">(a) The DAS(C) is the designated the DAF
+Competition Advocate General (CAG).</p>
+        <p outputclass="List1">(1) The following organizations are designated as
+Air Force procuring activities for purposes of competition:</p>
+        <p outputclass="List1">Air Combat Command (ACC)</p>
+        <p outputclass="List1">Air Education and Training Command (AETC)</p>
+        <p outputclass="List1">Air Force District of Washington (AFDW)</p>
+        <p outputclass="List1">Air Force Global Strike Command (AFGSC)</p>
+        <p outputclass="List1">Air Force Materiel Command (AFMC)</p>
+        <p outputclass="List1">Air Force Operational Test and Evaluation Center
+(AFOTEC) - AFTC is the competition advocate for AFOTEC</p>
+        <p outputclass="List1">Air Force Rapid Capabilities Office (AFRCO)</p>
+        <p outputclass="List1">Air Force Reserve Command (AFRC)</p>
+        <p outputclass="List1">Air Force Special Operations Command (AFSOC)</p>
+        <p outputclass="List1">Air Mobility Command (AMC)</p>
+        <p outputclass="List1">Pacific Air Forces (PACAF)</p>
+        <p outputclass="List1">United States Air Force Academy (USAFA)</p>
+        <p outputclass="List1">United States Air Forces in Europe (USAFE)</p>
+        <p outputclass="List1">USAF Academy (USAFA)</p>
+        <p outputclass="List1">(2) The following organizations are designated as
+Space Force procuring activities.</p>
+        <p outputclass="List1">Space Development Agency</p>
+        <p outputclass="List1">Space Rapid Capabilities Office (SpRCO)</p>
+        <p outputclass="List1">Space Systems Command (SSC)</p>
+
+        <p outputclass="List1">(b) The procuring activities listed above are authorized to
+further designate subordinate organizations as procuring activities
+subject to the requirements of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_501"
+                  scope="external">FAR
+6.501</xref> and <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5306-competition-requirements#DAFFARS_MP5306_502"
+                  scope="external">MP5306.502</xref>,
+<i>Air Force Competition and Commercial Advocacy Program</i>. <ph id="Toc38284763"/>
+        </p>
+      </conbody>
+    </concept>
+</dita>

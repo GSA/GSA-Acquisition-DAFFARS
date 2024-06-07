@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP_5315_3_3_6" ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">3.6</ph> Final Proposal Revisions</title>
+      <conbody>
+         <p outputclass="List1">3.6.3 The PCO must obtain contract clearance approval in accordance with <xref href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9000"
+                  format="html"
+                  scope="external">DAFFARS 5301.9000(e)(2)(i)</xref> prior to submission of all material (e.g., Pre-FPR briefing) to the SSA to obtain approval for releasing the FPR request.</p>
+      </conbody>
+   </concept>
+</dita>

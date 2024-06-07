@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5332_470" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised June xx, 2024"> 
+         <ph class="- topic/ph " props="autonumber">5332.470</ph> Advance payment pool</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" rev="Revised June xx, 2024" class="- topic/p ">(a)<b class="+ topic/ph hi-d/b "> </b>See <xref href="https://www.acquisition.gov/daffars/mp5332-contract-financing#DAFFARS_MP5332_470"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">MP5332.470</xref>
+            <ph id="_anchor_1" class="- topic/ph "/> for processing advance payment pool requests.</p>
+      </conbody>
+   </concept>
+</dita>

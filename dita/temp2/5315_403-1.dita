@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5315_403-1" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5315.403-1</ph>  Prohibition on Obtaining Certified Cost or Pricing Data (10 U.S.C Chapter 271 and 41 U.S.C., Chapter 35)</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) See <xref href="MP5301_601.dita#DAFFARS_MP5301_601"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref>(a)(i).</p>
+         <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Standards for exceptions from certified
+cost or pricing data requirements.</i>
+        </p>
+         <p outputclass="List2" class="- topic/p ">(4) <i class="+ topic/ph hi-d/i ">Waivers.</i>
+        </p>
+         <p outputclass="List4" class="- topic/p ">(A) <i class="+ topic/ph hi-d/i ">Exceptional case TINA waiver.</i> See <xref href="MP5301_601.dita#DAFFARS_MP5301_601"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref>(a)(i). When the waiver is for a subcontractor who has refused to provide cost or pricing data to a prime contractor, the information required must cover both the prime contract and the subcontract. <ph rev="Revised June xx, 2024" class="- topic/ph ">Contracting Officers shall submit waiver requests to the <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">cognizant HCA Workflow</xref>
+               <u class="+ topic/ph hi-d/u ">. </u> Contracting officers must submit a copy of all signed TINA waivers to the <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                     format="AQ.SAF-AQC.Workflow@us.af.mil.SAF-AQC.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+                     scope="external"
+                     class="- topic/xref ">SAF/AQC Workflow</xref> (if HCA is other than DAS(C) or ADAS(C)) within 30 days of approval. Submit the request for OUSD(A&amp;S)/DPC approval to use the exceptional circumstances waiver pursuant to <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000248-24-DPC.pdf"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">Class Deviation 2024-O0007</xref>
+               <i class="+ topic/ph hi-d/i ">Section 890 Pilot Program to Accelerate Contracting and Pricing Processes</i>, to the <xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
+                     format="AQ.SAF-AQC.Workflow@us.af.mil.SAF-AQC.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+                     scope="external"
+                     class="- topic/xref ">SAF/AQC Workflow</xref> with the Subject: “DAFFARS 5315.403-1(c)(4)(A) – Section 890 Pilot Program to Accelerate Contracting and Pricing Processes.” For Space Force, follow internal coordination and approval procedures prior to submission to SAF/AQC Workflow for submission by SAF/AQC to DPC.</ph>
+         </p>
+      </conbody>
+   </concept>
+</dita>

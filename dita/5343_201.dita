@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5343_201" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised June 12, 2024"> 
+         <ph class="- topic/ph " props="autonumber">5343.201</ph> General</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p rev="Revised June 12, 2024" class="- topic/p ">(b) The policies and procedures of DFARS <xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_SUBPART_217.74"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">217.74</xref> shall be applied to Unpriced Change Orders (UCO) &gt;$5M.</p>
+      </conbody>
+   </concept>
+</dita>

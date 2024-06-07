@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP_5315_3_6_5" class="- topic/topic concept/concept ">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">6.5</ph> Source Selection Training Material</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The Source Selection Training Modules, Trainer’s Lesson Plans, and Resource/Reference Material are accessible by designated trainers and training managers on SharePoint <ph rev="Revised June xx, 2024" class="- topic/ph ">
+               <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/Documents/Forms/AllItems.aspx?id=%2Fsites%2FAFCC%2FAQCP%2FKnowledgeCenter%2FDocuments%2FSource%20Selection&amp;viewid=bad0a55e%2D86b4%2D4864%2Dae4e%2D8a26dbf1a593"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">here</xref>.</ph> Additional training materials for teams are available in the <xref href="https://usaf.dps.mil/sites/afcc/aqcp/knowledgecenter/sitepages/5315.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS Library, Part 5315</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

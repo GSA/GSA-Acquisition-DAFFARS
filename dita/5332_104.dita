@@ -2,11 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5332_104">
-        <title class="- topic/title "> 
+   <concept id="DAFFARS_5332_104" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5332.104</ph> Providing Contract Financing</title>
-        <conbody>
-          <p outputclass="List1">(a)(5) Report known adverse developments affecting
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(5) Report known adverse developments affecting
 a contractor or subcontractor to the contract administration
 office, other interested Government parties, and the SCO. If there
 is an adverse development affecting a contractor receiving a bank
@@ -17,22 +17,16 @@ satisfactory performance under the contract, remedial actions taken
 to date (if any), and any recommendations for further action
 through the SCO to the <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
-                  scope="external">cognizant
+                  scope="external"
+                  class="- topic/xref ">cognizant
 HCA Workflow</xref>.</p>
-          <p outputclass="List1">(c)(2) The contracting officer must submit any
-unusual financing requests by a contractor to the SCO contracting
-staff for consultation. If the SCO determines unusual financing is
-required, the SCO must submit a memorandum outlining the pertinent
-facts together with a recommendation on the action to be taken
-through the <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
-                  scope="external">cognizant
-HCA Workflow</xref> to <xref format="html"
-                  href="mailto:SAF.FMF.Workflow@us.af.mil"
-                  scope="external">SAF/FMF</xref> no later than
-30 days before the needed effective date of the proposed financing
-arrangement.<ph id="Toc38365442"/>
-          </p>
-        </conbody>
-      </concept>
+         <p outputclass="List1" class="- topic/p ">(c)(2) <ph rev="Revised June 12, 2024" class="- topic/ph ">See <xref outputclass="fm:ParaNumOnly"
+                     href="5332_114.dita#DAFFARS_5332_114"
+                     base="DAFFARS-5332.114"
+                     xtrc="5332.114"
+                     class="- topic/xref ">5332.114 Unusual Contract Financing.</xref>
+            </ph>.<ph id="Toc38365442" class="- topic/ph "/> 
+         </p>
+      </conbody>
+   </concept>
 </dita>

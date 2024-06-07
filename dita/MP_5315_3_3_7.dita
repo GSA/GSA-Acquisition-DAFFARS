@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DAFFARS_MP_5315_3_3_7"
             xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title " outputclass="Heading 3">
          <ph class="- topic/ph " props="autonumber">3.7</ph> Documentation of Final Evaluation Results</title>
-      <conbody>
-         <p outputclass="List1">3.7.1 The rationale for final evaluation results and assignment of final ratings will be fully and contemporaneously documented in the SSEB Final Report. The SSEB Final Report is prepared by the SSEB and reviewed by the SSAC (if an SSAC is used) and signed by the PCO and SSEB Chairperson after the evaluation of FPRs. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">3.7.1 The rationale for final evaluation results and assignment of final ratings will be fully and contemporaneously documented in the SSEB Final Report. The SSEB Final Report is prepared by the SSEB and reviewed by the SSAC (if an SSAC is used) and signed by the PCO and SSEB Chairperson after the evaluation of FPRs. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
                   format="html"
-                  scope="external">
-               <i>SSEB Report</i>
-            </xref>template is available for use, as desired.</p>
-         <p outputclass="List1">3.7.2 The SSEB Final Report must document, if applicable, any minority and dissenting opinion(s). </p>
-         <p outputclass="List1">3.7.3 A decision briefing, prepared by the SSEB, will generally be conducted whenever the SSA is other than the PCO. The tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external"
+                  class="- topic/xref "> SSEB Report</xref> template is available for use, as desired.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">3.7.1.1 For all programs for which DoDI 5000.75 or DoDI 5000.85 designates USD(A&amp;S) as the Milestone Decision Authority, for which AFI63-101/20-101 designates SAF/AQ or SAF/SQ as the Milestone Decision Authority, all SCAT-I services acquisitions, all BCAT I and II systems, and all constructions projects with an estimated total value of $1 billion or more, request the DAF IP Cadre (SAF/AQCC) review the source selection record by completing the Intake Form (available at the internal IP Cadre MS Teams Channel Link) and submitting that form to SAF/AQCC via the DAF IP Cadre Workflow Email address (<xref href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
                   format="html"
-                  scope="external">
-               <i>Final Decision Briefing</i>
-            </xref>template is available for use, as desired.</p>
+                  scope="external"
+                  class="- topic/xref ">SAF.AQ.SAF-AQCC.Workflow@us.af.mil</xref>).</p>
+         <p outputclass="List1" class="- topic/p ">3.7.2 The SSEB Final Report must document, if applicable, any minority and dissenting opinion(s). </p>
+         <p outputclass="List1" class="- topic/p ">3.7.3 A decision briefing, prepared by the SSEB, will generally be conducted whenever the SSA is other than the PCO. The tailorable <ph rev="Revised June 12, 2024" class="- topic/ph ">
+               <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">Final Decision Briefing</xref> 
+            </ph>template is available for use, as desired.</p>
       </conbody>
    </concept>
 </dita>

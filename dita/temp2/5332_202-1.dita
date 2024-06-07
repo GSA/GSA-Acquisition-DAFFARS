@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5332_202-1" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5332.202-1</ph> Policy</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Authorization</i>. For commercial <ph rev="Revised June xx, 2024" class="- topic/ph ">interim payments and commercial advance payments</ph> authorized by <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_202_1"
+                  scope="external"
+                  class="- topic/xref ">FAR 32.202-1(b)</xref> that does not require OUSD(A&amp;S)/DPC approval of an individual or class deviation from <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32"
+                  scope="external"
+                  class="- topic/xref ">FAR Part 32</xref> requirements, the contracting officer shall submit all commercial interim payment requests and commercial advance payment requests through the SCO to local FM for review and approval. Prior to submitting to the local FM for approval, the SCO must determine the package is adequate, complete, and justified. The request must include the following: a determination that the applicable circumstances outlined in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_202_1"
+                  scope="external"
+                  class="- topic/xref ">FAR 32.202-1(b)</xref> have been met to include the contracting officer’s determination in accordance with <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_202_1"
+                  scope="external"
+                  class="- topic/xref ">FAR 32.202-1(b)(3)</xref> and preliminary payment office concurrence with liquidation provisions per <ph rev="Revised June xx, 2024" class="- topic/ph ">FAR</ph> 
+            <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_202_1"
+                  scope="external"
+                  class="- topic/xref ">32.202-1(b)(8)</xref> when required by <xref format="html"
+                  href="https://www.acquisition.gov/far/part-32#FAR_32_206"
+                  scope="external"
+                  class="- topic/xref ">FAR 32.206(e)</xref>, legal review, J&amp;A (if applicable), background paper such as a Milestone Payment Plan that outlines the reason(s) for the request, and the proposed payment schedule. Submit a copy of the approved package to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA Workflow</xref>.</p>
+         <p outputclass="List1" class="- topic/p ">(d) <i class="+ topic/ph hi-d/i ">Unusual contract financing</i>. See <ph rev="Revised June xx, 2024" class="- topic/ph ">
+               <xref outputclass="fm:ParaNumOnly"
+                     href="#DAFFARS_5332_202-1"
+                     base="DAFFARS-5332.114"
+                     xtrc="5332.114"
+                     class="- topic/xref ">5332.202-1 Policy</xref>
+            </ph>.<ph id="Toc38365444" class="- topic/ph "/> 
+            <ph rev="Revised June xx, 2024" class="- topic/ph ">Unusual contract financing arrangements must be approved by DPC</ph>.</p>
+      </conbody>
+   </concept>
+</dita>
