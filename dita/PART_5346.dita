@@ -12,7 +12,7 @@
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5346.aspx">DAFFARS PART 5346 Knowledge Center</xref>
          </p>
          <p id="Toc38294687">
-            <i>Revised: June 2023</i>
+            <i>Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,7 +20,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5346_1.dita#DAFFARS_SUBPART_5346_1">Subpart 5346.1 – GENERAL</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5346_103.dita#DAFFARS_5346_103">5346.103 Contracting Office Responsibilities</xref>
                      </p>
@@ -32,7 +32,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5346_3.dita#DAFFARS_SUBPART_5346_3">Subpart 5346.3 – [RESERVED]</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5346_311.dita#DAFFARS_5346_311">5346.311 Higher-Level Contract Quality Requirement.</xref>
                      </p>

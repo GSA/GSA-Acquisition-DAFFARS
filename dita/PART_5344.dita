@@ -12,7 +12,7 @@
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5344.aspx">DAFFARS PART 5344 Knowledge Center</xref>
          </p>
          <p>
-            <i>Revised: June 2023</i>
+            <i>Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,12 +20,12 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5344_2.dita#DAFFARS_SUBPART_5344_2">SUBPART 5344.2 – CONSENT TO SUBCONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5344_201-1.dita#DAFFARS_5344_201-1">5344.201-1 Consent Requirements</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5344_202-1.dita#DAFFARS_5344_202-1">5344.202-1 Responsibilities</xref>
                      </p>

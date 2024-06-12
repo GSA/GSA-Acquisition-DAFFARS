@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="DAFFARS_MP5301_602_2_3"
+            xml:lang="en-US"
+            ditaarch:DITAArchVersion="1.3">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">3.0</ph> COR Supervisor</title>
+      <conbody>
+         <p outputclass="List1"> 3.4 Conduct regular reviews of COR inputs into SPM, and follow-up as necessary, on the content, timeliness, and completeness of COR Reports, online files, and other COR-related documentation.</p>
+         <p outputclass="List1">3.1 Register for SPM access via the Procurement Integrated Enterprise Environment (PIEE) e-Business Suite at <xref href="https://piee.eb.mil/" format="html" scope="external">https://piee.eb.mil/</xref>, and then complete training to effectively perform duties in the SPM. Training includes a review of the JAM and SPM Tool Users Guide and FAQs, and if necessary, a request for additional training from a local DA.</p>
+         <p outputclass="List1"> 3.2 Review and approve (certify) or reject COR nominations in the JAM, when submitted by an assigned COR in the JAM and notified by a system-generated email that a nomination is “Awaiting Approval”.</p>
+         <p outputclass="List1">3.3 The COR Supervisor shall ensure that the COR completes and uploads COR Reports to SPM, as required, to enable the CO to review and approve/ reject reports in the SPM.</p>
+      </conbody>
+   </concept>
+</dita>

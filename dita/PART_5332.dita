@@ -12,10 +12,7 @@
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5332.aspx">DAFFARS PART 5332 Knowledge Center</xref>
          </p>
          <p>
-            <b>2019 Edition</b>
-         </p>
-         <p>
-            <i>Revised: June 2023</i>
+            <i>Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -23,9 +20,14 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5332_1.dita#DAFFARS_SUBPART_5332_1">Subpart 5332.1 – FINANCING FOR OTHER THAN A COMMERCIAL PURCHASE</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5332_104.dita#DAFFARS_5332_104">5332.104 Providing Contract Financing</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_114.dita#DAFFARS_5332_114">5332.114 Unusual Contract Financing.</xref>
                      </p>
                   </li>
                </ul>
@@ -35,7 +37,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5332_2.dita#DAFFARS_SUBPART_5332_2">Subpart 5332.2 – COMMERCIAL PRODUCT AND COMMERCIAL SERVICE PURCHASE FINANCING</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5332_202-1.dita#DAFFARS_5332_202-1">5332.202-1 Policy</xref>
                      </p>
@@ -47,9 +49,14 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5332_4.dita#DAFFARS_SUBPART_5332_4">Subpart 5332.4 – ADVANCE PAYMENTS FOR OTHER THAN COMMERCIAL ACQUISITIONS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5332_402.dita#DAFFARS_5332_402">5332.402 General</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5332_470.dita#DAFFARS_5332_470">5332.470 Advance payment pool</xref>
                      </p>
                   </li>
                </ul>

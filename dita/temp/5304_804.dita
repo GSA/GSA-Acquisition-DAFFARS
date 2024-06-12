@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_804">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5304.804</ph> Expedite Contract Closeout.</title>
+      <conbody>
+         <p>Contracting officers shall use the clause at <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS_252.204-7022"
+                  scope="external">DFARS
+252.204-7022</xref>, Expediting Contract Closeout, in all
+solicitations and contracts, including solicitations and contracts
+using FAR part 12 procedures for the acquisition of commercial
+products and commercial services.</p>
+      </conbody>
+  </concept>
+</dita>

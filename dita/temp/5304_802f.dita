@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_802f">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5304.802</ph> (f) Electronic Retention of Contract Files</title>
+      <conbody>
+
+        <p>Contracting offices using KT Fileshare (KTFS) shall use it as
+both the working and official file, per <xref format="html"
+                  href="https://www.acquisition.gov/far/4.802"
+                  scope="external">FAR 4.802(c)(3)</xref>.
+It shall be used to create, modify, store, access, and route
+documents necessary to manage the acquisition process for review
+and approval, over the life of the entire acquisition lifecycle,
+(e.g. requirements development to contract closeout.) Contracting
+Officers shall ensure that KTFS contains all appropriate contract
+documents required for the official contract file. If a contract
+document is maintained within the Procurement Integrated Enterprise
+Environment (PIEE, <xref format="html" href="https://wawf.eb.mil/" scope="external">https://wawf.eb.mil/</xref> ), within
+Electronic Document Access (EDA), or the Federal Procurement Data
+System (FPDS) then that system is the official system of record;
+contracting officers are not required to duplicate the document in
+KTFS, unless the contracting office determines an exception applies
+to ensure ready accessibility to principal users (e.g., clearance
+reviewers, auditors) per <xref format="html"
+                  href="https://www.acquisition.gov/far/part-4#FAR_4_802"
+                  scope="external">FAR
+4.802(c)(2)</xref>. Examples of such exceptions, which shall be
+included in KTFS, include Award Documents, and copies of
+Government-Furnished (GFP) attachments. However, contracting
+officers should add screenshots of system of record documents
+(Reps/Certs, SAM/FAPIIS, etc.) that are dynamic/overwritten to
+reflect status at time of contract action. In addition, KTFS shall
+not be used to store documents that are not required to be part of
+the contract file such as CDRL submittals and annual CPARS
+reports.</p>
+      </conbody>
+    </concept>
+</dita>

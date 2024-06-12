@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5323_803">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5323.803</ph>  Policy</title>
+      <conbody>
+        <p outputclass="List1">(a) Requiring activities must obtain approval in
+accordance with <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/af_a4/publication/afman32-7002/afman32-7002.pdf"
+                  scope="external">AFMAN
+32-7002</xref> Environmental Compliance and Pollution Prevention,
+paragraph 3.3.5.1.1.8 before a specification or standard that
+requires the use of a class I ozone-depleting substance (ODS), or
+that can be met only through the use of an ODS, is authorized in
+any solicitation or contract/order.</p>
+      </conbody>
+    </concept>
+</dita>

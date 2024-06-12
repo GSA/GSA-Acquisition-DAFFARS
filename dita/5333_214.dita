@@ -2,30 +2,33 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5333_214">
+   <concept id="DAFFARS_5333_214" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5333.214</ph>  Alternate Dispute Resolution (ADR)</title>
-      <conbody>
-        <p outputclass="List1">(a) For ACAT I and II programs, the contracting
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) For ACAT I and II programs, the contracting
 officer must establish an agreement between the Government and the
 contractor, such as a memorandum of understanding, that outlines
 the intent of the parties with respect to the use of ADR.
 Contracting officers must consider establishing ADR agreements for
 other programs and acquisitions.</p>
-        <p outputclass="List1">(c) The acquisition team must use ADR to the
-maximum extent practicable (See AFPD 51-12, <i>Negotiation and
-Dispute Resolution</i>). ADR must also be used to resolve protests
-to the maximum extent practicable. The acquisition team must
-attempt to use ADR prior to the commencement of litigation once
-unassisted negotiations have reached an impasse. Further, ADR must
-be offered in litigation, unless one of the exceptions in <xref format="html"
+         <p outputclass="List1" class="- topic/p ">(c) The acquisition team must use ADR to the maximum extent practicable (See<ph rev="Revised June 12, 2024" class="- topic/ph "> 
+               <xref href="https://www.adr.af.mil/Portals/82/DAFPD%2051-12%20%2812%20Jan%202023%29.pdf"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">DAFPD 51-12</xref>
+            </ph>
+            <xref href="https://www.adr.af.mil/Portals/82/DAFPD%2051-12%20%2812%20Jan%202023%29.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">,</xref> 
+            <i class="+ topic/ph hi-d/i ">Negotiation and Dispute Resolution</i>). ADR must also be used to resolve protests to the maximum extent practicable. The acquisition team must attempt to use ADR prior to the commencement of litigation once unassisted negotiations have reached an impasse. Further, ADR must be offered in litigation, unless one of the exceptions in <xref format="html"
                   href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section572&amp;num=0&amp;edition=prelim"
-                  scope="external">5
-U.S.C. 572(b)</xref> applies or the policy set forth by Deputy General
-Counsel (Contractor Responsibility &amp; Conflict Resolution (<xref format="html"
+                  scope="external"
+                  class="- topic/xref ">5 U.S.C. 572(b)</xref> applies or the policy set forth by Deputy General Counsel (Contractor Responsibility &amp; Conflict Resolution (<xref format="html"
                   href="mailto:SAF.GCR.Workflow@us.af.mil"
-                  scope="external">SAF/GCR</xref>)) indicates
-that ADR is not appropriate.</p>
+                  scope="external"
+                  class="- topic/xref ">SAF/GCR</xref>)) indicates that ADR is not appropriate.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

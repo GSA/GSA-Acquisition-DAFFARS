@@ -6,13 +6,20 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">MP5346</ph> -Quality Assurance</title>
       <body>
+         <p class="- topic/p ">
+            <xref href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5346.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS PART 5346 Knowledge Center</xref>
+            <ph id="_anchor_1" class="- topic/ph "/>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="MP5346_1.dita#DAFFARS_MP5346_1">MP5346.1 - GENERAL</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="">
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="MP5346_103.dita#DAFFARS_MP5346_103">MP5346.103 - Contracting Office Responsibilities</xref>
                      </p>

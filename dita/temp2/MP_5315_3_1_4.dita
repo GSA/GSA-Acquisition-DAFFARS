@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP_5315_3_1_4" class="- topic/topic concept/concept ">
+      <title class="- topic/title "
+             outputclass="Heading 3"
+             rev="Revised June xx, 2024"> 
+         <ph class="- topic/ph " props="autonumber">1.4</ph> Source Selection Team Roles and Responsibilities</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List3" rev="Revised June xx, 2024" class="- topic/p ">1.4.1 Source Selection Authority (SSA).</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.1 SSA Appointment.</p>
+         <table class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="col1"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="col2"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="col3"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">SSA Designations</entry>
+                     <entry class="- topic/entry ">$10M to less than $100M</entry>
+                     <entry class="- topic/entry ">$100M and above</entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">Program Acquisition Category (ACAT) I, IA</entry>
+                     <entry class="- topic/entry ">Cognizant SAE (Note 1)</entry>
+                     <entry class="- topic/entry ">Cognizant SAE (Note 2)</entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">All other ACAT programs in a PEO portfolio</entry>
+                     <entry class="- topic/entry ">Program Executive Officer (PEO) (Note 1)</entry>
+                     <entry class="- topic/entry ">PEO (Note 2)</entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">Services subject to DAFI 63-138</entry>
+                     <entry class="- topic/entry ">Services Acquisition Decision Authority (SADA) (Note 3)</entry>
+                     <entry class="- topic/entry ">SADA (Note3)</entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">All other acquisitions for which formal source selection procedures are used</entry>
+                     <entry class="- topic/entry ">PCO</entry>
+                     <entry class="- topic/entry ">One level above the PCO</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p rev="Revised June xx, 2024" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Note 1</b>: Delegable to no lower than the Procuring Contracting Officer (PCO)/equivalent or higher position within the PEO/ requiring organization chain.</p>
+         <p rev="Revised June xx, 2024" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Note 2</b>: Delegable to no lower than one level above the PCO or equivalent or higher position within the PEO/ requiring organization chain.</p>
+         <p rev="Revised June xx, 2024" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Note 3</b>: See <xref href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/dafi63-138/dafi63-138.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFI 63-138</xref> Tables 2.1 and 2.2 for delegations</p>
+         <p rev="Revised June xx, 2024" class="- topic/p ">A tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Delegation of Source Selection Authority (SSA) template</xref> is available for use, as desired.</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.2 SSA Responsibilities. In addition to the responsibilities listed in <xref href="https://www.acquisition.gov/far/part-15#FAR_15_303"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 15.303(b)</xref>, <xref href="https://www.acquisition.gov/dfars/part-215-contracting-negotiation#DFARS-215.303"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS</xref> 
+            <xref href="https://www.acquisition.gov/dfars/part-215-contracting-negotiation#DFARS-215.303"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">215.303(b)(2)</xref>,and the <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DOD Source Selection Procedures</xref>, the SSA shall:</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.2.3 Be accessible to the PCO, SSEB Chairperson and SSAC Chairperson (if applicable) to ensure that necessary leadership and guidance is provided to the SST. Promote active communication within the SST and encourage the team to raise concerns/issues.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.2.6 See the following tailorable templates:</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.2.6.1 <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">
+               <i class="+ topic/ph hi-d/i ">Source Selection Non-Disclosure Agreement (NDA</i>
+            </xref>
+            <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">
+               <i class="+ topic/ph hi-d/i ">)</i>
+            </xref>
+            <i class="+ topic/ph hi-d/i ">. </i>An NDA may be executed on an annual basis in accordance with <xref href="https://www.acquisition.gov/daffars/part-5303-improper-business-practices-and-personal-conflicts-interest#DAFFARS_5303_104_4"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5303.104-4(a)</xref>.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.1.2.6.2 <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Conflict of Interest Statement</xref>.</p>
+         <p outputclass="List3" rev="Revised June xx, 2024" class="- topic/p ">1.4.2 PCO.</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2 PCO Responsibilities. In addition to the responsibilities listed in <xref href="https://www.acquisition.gov/far/part-15#FAR_15_303"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 15.303(c)</xref> and the <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DoD</xref> 
+            <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Source Selection Procedures,</xref> the PCO shall:</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.2 Consider sample RFP Section L language for <xref href="https://usaf.dps.mil/:w:/r/sites/AFCC/AQCP/KnowledgeCenter/_layouts/15/Doc.aspx?sourcedoc=%7B28491501-4553-4D21-AFFE-7B0E909AF568%7D&amp;file=use_of_non-government_advisors.docx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Use of Non-Government Advisors</xref>, when applicable.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.3 Manage all source selection documents, control and record all exchanges with offerors, and protect all documents (see Section 4). Consider identifying a Source Selection Records Custodian (SSRC) familiar with the contracting process to manage all source selection documents (PCO or someone under PCO oversight). Ensure source selection material is not removed, circulated, or disseminated outside of the source selection work area without PCO review and approval. Ensure all means of electronic communications receive additional scrutiny to preclude inadvertent release of documents that contain sensitive or embedded source selection files. It is a good practice that prior to transmission of Source Selection Information to offerors via any means, the information is reviewed by a second person to preclude inadvertent inclusion of inappropriate data. Additionally, Source Selection Information transmitted to offerors electronically (e.g., via email or disc) or posted to a website must be distributed in a “locked” format, such as scanned .pdf file, .jpeg file, or other protected format, unless offerors are required to fill-in or complete portions of a document, such as Section K Representations and Certifications, or a pricing matrix. Using e-mail to transmit source selection information should be done judiciously and it must be encrypted and digitally signed. Include in the subject line the phrase “Source Selection Information – See <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR2.101</xref> and<xref href="https://www.acquisition.gov/far/part-3#FAR_3_104"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">3.104</xref>”. Use the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Source Selection Information Cover Sheet</xref> to identify source selection information. A <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">sample Verification of Correspondence Going to Offeror checklist</xref> may be utilized, as desired.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.4 Maintain in the official contract file (whether in hard copy or electronic media) all evaluation material and any related supporting information, including minority and dissenting opinions, that has been presented in any form to the SSA as an official record that must not be altered. Updates, revisions, or changes to that evaluation information must be captured in subsequent documentation such that the original record remains distinct.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.4.1 Working papers, calculations, and personal notes must be clearly identified as such and are not normally part of the official source selection record unless they include information relevant to the source selection decision and the information has not been captured in the official record. Solicit the advice of legal counsel and representatives from the Acquisition Center of Excellence (ACE) (if used) regarding the management and/or retention determination of any paper or digital document generated during the source selection. Legal counsel, the SSEB Chair, SSRC (if other than the PCO) and the PCO must review any notes, working papers, and other documents for a retention determination at regular intervals during the source selection process and upon completion.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.4.2 Preserve documents and data that are not stored within the electronic official contract filing system (e.g., classified documents, product samples, electronic media) as part of the official record and identify their physical location. A sample <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Source Selection File Checklist</xref> may be tailored for use, as desired.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.4.3 Ensure that any requests for source selection delegations are properly accomplished and documented in the source selection file.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.7 Send a notice to all appropriate organizations (e.g., user or requirements personnel, public affairs offices, etc., that could be contacted by offerors or media outlets concerning the requirement or acquisition) concurrent with issuance of the solicitation announcing that a source selection is in progress. For acquisitions estimated at $100M or more, send the notice to the <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA</xref>
+            <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Workflow</xref> for HAF-level notification. The notice shall:</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1) identify the system, subsystem, service, or project involved;</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">2) identify the anticipated period of the source selection activities;</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">3) include a statement to the effect that contacts or briefings concerning the program by industry are no longer allowed outside of the formal source selection process; and </p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">4) state that the PCO (include name and phone number) controls all contact or exchanges with industry/offerors and is the only person authorized to release source selection information before and after contract award.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">A tailorable template for <xref href="https://usaf.dps.mil/:w:/r/sites/AFCC/AQCP/KnowledgeCenter/_layouts/15/Doc.aspx?sourcedoc=%7B50A5D0E4-1535-4423-9C7A-DF9E06EE6D6C%7D&amp;file=soure_selection_notification.docx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Notice Announcing that a Source Selection is in Progress</xref> is available for use, if desired.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.2.2.12 Post <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/lessons_learned/AllItems.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">
+               <i class="+ topic/ph hi-d/i ">source selection lessons learned</i>
+            </xref> no later than 90 days after contract award or termination/cancellation of the source selection.</p>
+         <p outputclass="List3" rev="Revised June xx, 2024" class="- topic/p ">1.43 SSAC.</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.3.2 SSAC Composition.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.3.2.1 It is preferable that the SSAC Chairperson not be in the chain of command of the SSA.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.3.2.2 For all new Milestone B (Pre-MDAP on Major Defense Acquisition Program lists) ACAT I and II competitive acquisitions, the specific composition of the SSAC should consist of senior leaders (flag rank or 0-6/GS-15/NH-04 to the maximum extent practicable) from Program Management, Engineering, Finance, Legal, Contracting, Small Business, the ACE, and any other participants as determined appropriate by the SSA, who have recent experience in the successful conduct of source selections. For all other acquisitions when an SSAC is used, the specific composition of the SSAC is at the discretion of the SSA, based upon the expertise required to accomplish a successful source selection. The SSAC may be augmented with senior leaders from the SAF/AQ or SAF/SQ staff, when appropriate, to provide additional experience and expertise. The SSAC may also be supplemented by other subject matter experts at comparable functional positions. </p>
+         <p outputclass="List3" rev="Revised June xx, 2024" class="- topic/p ">1.44 SSEB.</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.4.4 SSEB Responsibilities.</p>
+         <p outputclass="List6" rev="Revised June xx, 2024" class="- topic/p ">1.4.4.4.1.7 It is considered a best practice for the Program Manager (PM), when one is assigned, to serve as the SSEB Chairperson. It is also a best practice that the SSEB chair not serve in multiple roles.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.4.4.3 For source selections without an SSAC, the SSEB Chairperson must document in the source selection plan, whether or not the SSA wants the SSEB to perform the comparative analysis of proposals and provide that analysis and an award recommendation in the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SSEB Final Report</xref>.</p>
+         <p outputclass="List3" rev="Revised June xx, 2024" class="- topic/p ">1.4.6 Other Advisor’s.</p>
+         <p outputclass="List4" rev="Revised June xx, 2024" class="- topic/p ">1.4.6.1 Government Advisor’s. Foreign Military Sales (FMS) customers and international cooperative project partners may only participate in the source selection process as advisor’s. The PCO must not disclose to the FMS customer any form of cost or price data that is proprietary unless the offeror authorizes its release.</p>
+         <p outputclass="List5" rev="Revised June xx, 2024" class="- topic/p ">1.4.6.2.2 Limitations on use of nongovernment advisor’s. Nongovernment advisor’s shall not attend the past performance portion of evaluation briefings</p>
+      </conbody>
+   </concept>
+</dita>

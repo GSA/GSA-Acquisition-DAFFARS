@@ -6,13 +6,14 @@
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">Part 5328</ph> - Bonds and Insurance</title>
       <body>
-         <p>
+         <p class="- topic/p ">
             <xref scope="external"
                   format="html"
-                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5328.aspx">DAFFARS PART 5328 Knowledge Center</xref>
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5328.aspx"
+                  class="- topic/xref ">DAFFARS PART 5328 Knowledge Center</xref>
          </p>
-         <p>
-            <i>Revised: June 2023</i>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -62,9 +63,9 @@
                         <xref outputclass="fm:TOC" href="5328_311-1.dita#DAFFARS_5328_311-1">5328.311-1 Contract Clause</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5328_370.dita#DAFFARS_5328_370">5328.370 Additional Clauses</xref>
+                        <xref outputclass="fm:TOC" href="5328_370_2.dita#DAFFARS_5328_370_2">5328.370-2 General</xref>
                      </p>
                   </li>
                </ul>

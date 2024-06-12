@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5317_204" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5317.204</ph> Contracts</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(e) Unless otherwise restricted by statute or <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204"
+                  scope="external"
+                  class="- topic/xref ">DFARS 217.204(e)(i)-(iii)</xref>, <ph rev="Revised June xx, 2024" class="- topic/ph ">the Acquisition Plan (AP) approving authority</ph> has the authority to approve contract periods in excess of the limitations specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-17#FAR_17_204"
+                  scope="external"
+                  class="- topic/xref ">FAR 17.204(e)</xref>. If an AP/<ph rev="Revised June xx, 2024" class="- topic/ph ">Acquisition Strategy Panel (ASP), or Life Cycle Sustainment Plan (LCSP)</ph> is not required, the contracting officer has the authority to approve such extended contract periods. This approval is not required if the total contract period, including options and modifications, exceeds the limitations specified in <xref format="html"
+                  href="https://www.acquisition.gov/far/part-17#FAR_17_204"
+                  scope="external"
+                  class="- topic/xref ">FAR 17.204(e)</xref> solely due to the inclusion of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_217_8"
+                  scope="external"
+                  class="- topic/xref ">FAR Clause 52.217-8</xref>, “Option to Extend Services,” at an amount specified in or reasonably determinable from the terms of the contract.</p>
+         <p outputclass="List1" class="- topic/p ">(e)(i)(B) Unless otherwise restricted by statute, <ph rev="Revised June xx, 2024" class="- topic/ph ">the AP approving authority</ph> has the authority to approve extensions of the ordering period of a task order or delivery order contract (including a contract for information technology) awarded pursuant to 10 U.S.C. 3403 for one or more successive periods as provided in <xref format="html"
+                  href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS-217.204"
+                  scope="external"
+                  class="- topic/xref ">DFARS 217.204(e)(i)(B)</xref>. If an AP/ASP/LCSP is not required, the contracting officer has the authority to approve such extensions.</p>
+         <p outputclass="List1" class="- topic/p ">(e)(i)(C) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
+         <p outputclass="List1" class="- topic/p ">(e)(iii) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

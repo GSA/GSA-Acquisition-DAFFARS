@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5304_402-90">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5304.402-90</ph> General</title>
+      <conbody>
+        <p outputclass="List1">(a) <xref format="html"
+                  href="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+                  scope="external">32
+CFR Part 117</xref> and <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodm5220.22v2_afman16-1406v2/dodm5220.22v2_afman16-1406v2.pdf"
+                  scope="external">DAFMAN
+16-1406V2</xref>, <i>National Industrial Security Program: Industrial
+Security Procedures for Government Activities</i>, clarify
+contracting officer responsibilities and provides guidance for
+implementing the Department of the Air Force’s National
+Industrial Security Program. <ph id="p530440490"/>
+        </p>
+        <p outputclass="List1">(b) <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/afh16-1406/afh16-1406.pdf"
+                  scope="external">DAFH
+16-1406</xref>, <i>National Interest Determination Handbook</i>.
+This instruction clarifies responsibilities and procedures for
+processing National Interest Determinations (NID).</p>
+        <p outputclass="List1">(c) <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
+                  scope="external">DAFI
+16-701</xref>, <i>Management, Administration and Oversight of Special
+Access Programs</i>, establishes responsibilities for the
+management, administration and oversight of Special Access
+Programs. This instruction provides additional guidance for
+processing AF Special Access Program NIDs.</p>
+        <p outputclass="List1">(d) <xref format="html"
+                  href="https://nsarchive.gwu.edu/document/21380-document-21"
+                  scope="external">DAFI
+10-701</xref>, <i>Operations Security</i>, establishes
+responsibilities for contracting officers when there are OPSEC
+requirements on contract.</p>
+      </conbody>
+    </concept>
+</dita>

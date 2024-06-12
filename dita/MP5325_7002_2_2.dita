@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.3">
+<dita>
    <concept id="DAFFARS_MP5325_7002_2_2"
             xml:lang="en-US"
-            ditaarch:DITAArchVersion="1.3">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title " outputclass="Heading 2"> 
          <ph class="- topic/ph " rev="" props="autonumber">MP5325.7002-2-2.</ph> DNAD Exception</title>
-      <conbody>
-         <p outputclass="List1">
-            <b>a. </b>
-            <b> </b>
-            <b>Individual DNADs</b>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">a. </b>
+            <b class="+ topic/ph hi-d/b "> </b>
+            <b class="+ topic/ph hi-d/b ">Individual DNADs</b>
          </p>
-         <p>When a contractor asserts that a domestic item identified at <xref href="https://www.acquisition.gov/dfars/part-225-foreign-acquisition#DFARS-225.7002-1"
+         <p class="- topic/p " outputclass="List1">When a contractor asserts that a domestic item identified at <xref href="https://www.acquisition.gov/dfars/part-225-foreign-acquisition#DFARS-225.7002-1"
                   format="html"
-                  scope="external">DFARS 225.7002-1</xref> cannot be acquired as and when needed in a satisfactory quality and sufficient quantity at U.S. market prices, a DNAD is required. The SecAF may approve the DNAD if compliant items, identified at <xref href="https://www.acquisition.gov/dfars/part-225-foreign-acquisition#DFARS-225.7002-1"
+                  scope="external"
+                  class="- topic/xref ">DFARS 225.7002-1</xref> cannot be acquired as and when needed in a satisfactory quality and sufficient quantity at U.S. market prices, a DNAD is required. The SecAF may approve the DNAD if compliant items, identified at <xref href="https://www.acquisition.gov/dfars/part-225-foreign-acquisition#DFARS-225.7002-1"
                   format="html"
-                  scope="external">DFARS 225.7002-1</xref>, of satisfactory quality and sufficient quantity, and in the required form, cannot be procured at U.S. market prices as and when needed. This approval authority is not delegable. This exception should not be read to require that the compliant material/item must be totally unavailable (i.e., cannot be obtained at any cost). There is some cost limit that should be recognizable by a contracting officer, and that a reasonable person would agree, makes the material/item effectively “unavailable.”</p>
-         <p outputclass="List1">
-            <b>b. </b>
-            <b>Class DNADs</b>
+                  scope="external"
+                  class="- topic/xref ">DFARS 225.7002-1</xref>, of satisfactory quality and sufficient quantity, and in the required form, cannot be procured at U.S. market prices as and when needed. This approval authority is not delegable. This exception should not be read to require that the compliant material/item must be totally unavailable (i.e., cannot be obtained at any cost). There is some cost limit that should be recognizable by a contracting officer, and that a reasonable person would agree, makes the material/item effectively “unavailable.”</p>
+         <p outputclass="List1" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">b. </b>
+            <b class="+ topic/ph hi-d/b ">Class DNADs</b>
          </p>
-         <p>Contracting officers may continue to use OUSD (A&amp;S)-approved class DNADs that cover food, clothing, fabrics, and hand or measuring tools for new contracts if the DNAD was signed by the Undersecretary of Defense (OUSD) (A&amp;S) or by a Service Secretary. The OUSD (A&amp;S) DNADs currently available for reciprocal use are posted on the <xref href="http://www.dcma.mil/dnads/" format="html" scope="external">DCMA website</xref>. If a class DNAD is used, the contracting officer must prepare a Determination and Finding (D&amp;F) approved by the SCO. This approval may not be further delegated. The contracting officer must obtain legal review to support the determination.</p>
+         <p class="- topic/p " outputclass="List1" rev="Revised June 12, 2024">Contracting officers may continue to use OUSD (A&amp;S)-approved class DNADs that cover food, clothing, fabrics, and hand or measuring tools for new contracts if the DNAD was signed by the Undersecretary of Defense (OUSD) (A&amp;S) bya Service Secretary, or by the Director of Defense Logistics Agency. The OUSD (A&amp;S) DNADs currently available for reciprocal use are posted on the <xref href="http://www.dcma.mil/dnads/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DCMA website</xref>. If a class DNAD is used, the contracting officer must prepare a Determination and Finding (D&amp;F) approved by the SCO. This approval may not be further delegated. The contracting officer must obtain legal review to support the determination.</p>
       </conbody>
    </concept>
 </dita>

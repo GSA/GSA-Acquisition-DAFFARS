@@ -2,51 +2,47 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5316_505">
+   <concept id="DAFFARS_5316_505" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5316.505</ph> Ordering</title>
-      <conbody>
-        <p outputclass="List1">(b) <i>Orders under multiple award
-contracts</i>.</p>
-        <p outputclass="List2">(1) <i>Fair opportunity</i>.</p>
-        <p outputclass="List3">(ii) The contracting officer must use streamlined
-ordering procedures. SCOs must justify the use of <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Orders under multiple award contracts</i>.</p>
+         <p outputclass="List2" class="- topic/p ">(1) <i class="+ topic/ph hi-d/i ">Fair opportunity</i>.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The contracting officer must use streamlined ordering procedures. SCOs must justify the use of <xref format="html"
                   href="https://www.acquisition.gov/far/part-15#FAR_Subpart_15_3"
-                  scope="external">FAR
-15.3</xref> Source Selection Procedures for any contract or task-order
-or delivery-order, regardless of dollar value made in accordance
-with <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 15.3</xref> Source Selection Procedures for any contract or task-order or delivery-order, regardless of dollar value made in accordance with <xref format="html"
                   href="https://www.acquisition.gov/far/part-16#FAR_16_505"
-                  scope="external">FAR
-16.505</xref>. The SCO must submit justifications to the <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 16.505</xref>. The SCO must submit justifications to the <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA Workflow</xref> before proceeding with the source selection and/or
-Clearance session.</p>
-        <p outputclass="List2">(2) <i>Exceptions to the fair opportunity
-process</i>. See <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_304"
-                  scope="external">DAFFARS
-5306.304(a)</xref> for the approving officials for a proposed
-task-order or delivery-order using the fair opportunity exceptions
-at <xref format="html"
-                  href="https://www.acquisition.gov/far/part-16#FAR_16_505"
-                  scope="external">FAR
-16.505(b)(2)</xref>. See the tailorable <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Justification
-for an Exception to Fair Opportunity</xref> template. For exceptions
-to fair opportunity that are intended for purposes of awarding a
-“Bridge Action” see <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_303_1_90"
-                  scope="external">DAFFARS
-5306.303-1-90</xref>.</p>
-        <p outputclass="List2">(8) <i>Task-order and delivery-order
-ombudsman</i>. See <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA Workflow</xref> before proceeding with the source selection and/or Clearance session.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(2) <i class="+ topic/ph hi-d/i ">Exceptions to the fair opportunity process</i>.</p>
+         <p outputclass="List3" rev="Revised June 12, 2024" class="- topic/p ">(ii) See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Justification for an Exception to Fair Opportunity</xref> template. </p>
+         <p outputclass="List4" rev="Revised June 12, 2024" class="- topic/p ">(C) <i class="+ topic/ph hi-d/i ">Approval.</i> For all exceptions to fair opportunity, follow guidance in <xref href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_304"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS5306.304</xref>. For those meeting the definition of a bridge action at <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5302.101</xref>, also follow <xref href="https://www.acquisition.gov/daffars/part-5306-competition-requirements#DAFFARS_5306_303_1_90"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5306.303-1-90</xref>. </p>
+         <p outputclass="List5" rev="Revised June 12, 2024" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">4</i>) See <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(7) <i class="+ topic/ph hi-d/i ">Decision documentation for orders</i>. Unless designated otherwise by the acquisition approving authority, SADA, or SCO, the contracting officer has decision making authority.</p>
+         <p outputclass="List2" class="- topic/p ">(8) <i class="+ topic/ph hi-d/i ">Task-order and delivery-order ombudsman</i>. See <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_91"
-                  scope="external">DAFFARS
-5301.91</xref>.<ph id="Toc351650167"/>
-        </p>
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.91</xref>.<ph id="Toc351650167" class="- topic/ph "/> 
+         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

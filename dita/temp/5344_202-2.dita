@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5344_202-2">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">5344.202-2</ph> Considerations</title>
+      <conbody>
+        <p outputclass="List1">(a) If the contract is a space program contract to
+which <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/ssc/publication/ssci64-101/ssci64-101.pdf"
+                  scope="external">SSCI
+64-101</xref> applies, contracting officers shall follow the
+procedures at <xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/ssc/publication/ssci64-101/ssci64-101.pdf"
+                  scope="external">SSCI
+64-101</xref> when the contractor has submitted a written request for
+consent to subcontract with a contractor on the Space Contractor
+Responsibility Watch List (CRWL). See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5309-contractor-qualifications"
+                  scope="external">DAFFARS
+5309.103(b)(i)</xref>.</p>
+      </conbody>
+    </concept>
+</dita>

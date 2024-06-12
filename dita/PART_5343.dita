@@ -12,7 +12,7 @@
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5343.aspx">DAFFARS PART 5343 Knowledge Center</xref>
          </p>
          <p>
-            <i>Revised: June 2023</i>
+            <i>Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,10 +20,17 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5343_1.dita#DAFFARS_SUBPART_5343_1">Subpart 5343.1 – GENERAL</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5343_102-90.dita#DAFFARS_5343_102-90">5343.102-90 Contract Scope Considerations</xref>
+                        <xref outputclass="fm:TOC" href="5343_102.dita#DAFFARS_5343_102">5343.102 Policy</xref>
                      </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5343_102-90.dita#DAFFARS_5343_102-90">5343.102-90 Contract Scope Considerations</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                </ul>
             </li>
@@ -32,12 +39,17 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5343_2.dita#DAFFARS_SUBPART_5343_2">Subpart 5343.2 – CHANGE ORDERS</xref>
                </p>
                <ul otherprops="TOC">
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5343_201.dita#DAFFARS_5343_201">5343.201 General</xref>
+                     </p>
+                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5343_204-70-1.dita#DAFFARS_5343_204-70-1">5343.204-70-1 Scope</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5343_204-70-3.dita#DAFFARS_5343_204-70-3">5343.204-70-3 Definitization Schedule</xref>
                      </p>
@@ -47,7 +59,7 @@
                         <xref outputclass="fm:TOC" href="5343_204-70-5.dita#DAFFARS_5343_204-70-5">5343.204-70-5 Exceptions</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5343_204-70-7.dita#DAFFARS_5343_204-70-7">5343.204-70-7 Plans and Reports</xref>
                      </p>

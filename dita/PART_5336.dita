@@ -12,7 +12,7 @@
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5336.aspx">DAFFARS PART 5336 Knowledge Center</xref>
          </p>
          <p>
-            <i>Revised: June 2023</i>
+            <i>Revised: June 2024</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -89,6 +89,11 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5336_602-3.dita#DAFFARS_5336_602-3">5336.602-3 Evaluation Board Functions</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5336_602-4.dita#DAFFARS_5336_602-4">5336.602-4 Selection authority.</xref>
                      </p>
                   </li>
                   <li>

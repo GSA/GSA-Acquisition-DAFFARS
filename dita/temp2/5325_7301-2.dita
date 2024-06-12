@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5325_7301-2">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5325.7301-2</ph> Solicitation Approval for Sole Source Contracts</title>
+      <conbody>
+        <p>Submit the solicitation to the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external">cognizant
+HCA Workflow</xref> for coordination with the Principal Director,
+Defense Pricing and Contracting.</p>
+      </conbody>
+    </concept>
+</dita>

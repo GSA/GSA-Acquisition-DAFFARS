@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP5325_7003_3_2"
+            xml:lang="en-US"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title "
+             outputclass="Heading 2"
+             rev="Revised June xx, 2024"> 
+         <ph class="- topic/ph " props="autonumber">MP5325_7003_3_2</ph> Applicability of Commercial Derivative Military Articles (CDMA) to Specialty Metals</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">When a program office concludes that an item to be delivered under a prime contract is a commercial derivative military article (as defined at <xref href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS-252.225-7009"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 252.225-7009</xref>) and the prime contractor provides the certification required at <xref href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS-252.225-7010"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 252.225-7010</xref>, the contracting officer must prepare a <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">CDMA D&amp;F</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

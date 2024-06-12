@@ -2,32 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5337_170-2">
+   <concept id="DAFFARS_5337_170-2" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5337.170-2</ph> Approval Requirements</title>
-      <conbody>
-        <p outputclass="List1">(a)(1) The Services Designated Official (SDO) (see
-<xref format="html"
-                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-138/afi63-138.pdf"
-                  scope="external">DAFI
-63-138</xref>, <i>Acquisition of Services</i>) will approve
-acquisitions of services to be purchased through a contract or task
-order above the SAT that is not performance based.</p>
-        <p outputclass="List3">(i) If more than 50 percent of the requirement
-(contract or task order), measured in dollars, is
-performance-based, the requirement can be considered a
-performance-based service acquisition.</p>
-        <p outputclass="List3">(ii) Purchase requests for services acquisitions
-that are not performance based will include the following
-statement:</p>
-        <p>“IAW <xref format="html"
-                  href="https://www.law.cornell.edu/uscode/text/10/4501"
-                  scope="external">10 USC
-4501</xref> the Services Designated Official (SDO) has approved the
-attached Performance Work Statement and Quality Assurance
-Surveillance Plan ensuring requirements are performance based to
-the maximum extent practicable.”
-        </p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p " rev="Revised June 12, 2024">(a) See <xref href="MP5301_601.dita#DAFFARS_MP5301_601"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">MP5301.601 (a)(i) Department of the Air Force Approval Authority Matrices</xref>(a)(i)</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

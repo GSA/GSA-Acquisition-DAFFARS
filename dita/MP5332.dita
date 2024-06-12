@@ -6,11 +6,14 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">MP5332</ph> - Contract Financing</title>
       <body>
-         <p id="kwFlhx" outputclass="Normal">
-            <b>2019 Edition</b>
+         <p id="nmghfe" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
          </p>
-         <p id="nmghfe">
-            <i>Revised: June 2023</i>
+         <p class="- topic/p ">
+            <xref href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5332.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS PART 5332 Knowledge Center</xref>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -18,7 +21,12 @@
                   <xref outputclass="fm:TOC" href="MP5332_4.dita#DAFFARS_MP5332_4">MP5332.4 - ADVANCE PAYMENTS FOR NON-COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5332_402.dita#DAFFARS_MP5332_402">MP5332.402 General</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="MP5332_470.dita#DAFFARS_MP5332_470">MP5332.470 Advance Payment Pool</xref>
                      </p>

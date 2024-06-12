@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5307_104-90">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5307.104-90</ph>  Solicitation Release</title>
+      <conbody>
+        <p outputclass="List1">(a) For ACAT programs, see <xref format="html"
+                  href="http://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                  scope="external">DAFI
+63-101/20-101</xref>(paragraph 4.3.1) and <xref format="html"
+                  href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf"
+                  scope="external">DODI
+5000.02</xref>
+        </p>
+        <p outputclass="List1">(b) For all other acquisitions, the contracting
+officer must not release the solicitation until the approval
+official has approved the <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Acquisition
+Plan (AP)</xref> unless the acquisition is being conducted pursuant to
+the authority of <xref format="html"
+                  href="https://www.acquisition.gov/far/part-6#FAR_6_302_2"
+                  scope="external">FAR
+6.302-2</xref>, <i>Unusual and compelling urgency</i>.</p>
+        <p outputclass="List1">(c) For acquisitions utilizing policies and
+procedures in accordance with FAR 15.3, see <xref format="html"
+                  href="https://www.acquisition.gov/far/part-15#FAR_15_303"
+                  scope="external">FAR
+15.303</xref> and the <xref format="html"
+                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000740-22-DPC.pdf"
+                  scope="external">DoD
+Source Selection Procedures</xref>.<ph id="Toc38284638"/>
+        </p>
+      </conbody>
+    </concept>
+</dita>

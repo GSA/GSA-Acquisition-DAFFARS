@@ -2,35 +2,39 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_MP5346_103">
+   <concept id="DAFFARS_MP5346_103" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " rev="" props="autonumber">MP5346.103</ph> - Contracting Office Responsibilities</title>
-      <conbody>
-        <p>
-            <i>Revised: June 2023</i>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
         </p>
-        <p>The following mandatory procedures will be used when awarding services acquisitions unless the three conditions at <xref href="https://www.acquisition.gov/dfarspgi/pgi-part-201-federal-acquisition-regulations-system#DFARS-PGI_PGI_201.602-2"
+         <p class="- topic/p ">The following mandatory procedures will be used when awarding services acquisitions unless the three conditions at <xref href="https://www.acquisition.gov/dfarspgi/pgi-part-201-federal-acquisition-regulations-system#DFARS-PGI_PGI_201.602-2"
                   format="html"
-                  scope="external">DFARS PGI 201.602-2(v)(A)</xref> are met.</p>
-        <p outputclass="List2">1. Roles and Responsibilities</p>
-        <p outputclass="List1">a. The COCO/Chiefs of Performance Management Offices must ensure that a:</p>
-        <p outputclass="List2">(1) Quality Assurance Program Coordinator (QAPC) is appointed and properly trained to integrate the quality contract requirements into the quality assurance program, act as the liaison between the contracting and functional organizations, and provide training and record keeping in accordance with <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_602_2"
+                  scope="external"
+                  class="- topic/xref ">DFARS PGI 201.602-2(v)(A)</xref> are met.</p>
+         <p outputclass="List2" class="- topic/p ">1. Roles and Responsibilities</p>
+         <p outputclass="List1" class="- topic/p ">a. The COCO/Chiefs of Performance Management Offices must ensure that a:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Quality Assurance Program Coordinator (QAPC) is appointed and properly trained to integrate the quality contract requirements into the quality assurance program, act as the liaison between the contracting and functional organizations, and provide training and record keeping in accordance with <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_602_2"
                   format="html"
-                  scope="external">MP5301.602-2(d)</xref>.</p>
-        <p outputclass="List1">b. The CO must:</p>
-        <p outputclass="List2">(1) Advise the acquisition team on Quality Assurance Surveillance Plan development.</p>
-        <p outputclass="List2">(2) Designate Contracting Officer’s Representatives (COR) in accordance with <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_602_2"
+                  scope="external"
+                  class="- topic/xref ">MP5301.602-2(d)</xref>.</p>
+         <p outputclass="List1" class="- topic/p ">b. The CO must:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Advise the acquisition team on Quality Assurance Surveillance Plan development.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Designate Contracting Officer’s Representatives (COR) in accordance with <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_602_2"
                   format="html"
-                  scope="external">MP5301.602-2(d)</xref>
+                  scope="external"
+                  class="- topic/xref ">MP5301.602-2(d)</xref>
          </p>
-        <p outputclass="List1">c. The QAPC must:</p>
-        <p outputclass="List2">(1) Successfully complete the <xref href="https://www.my.af.mil/gcss-af/USAF/AFP40/d/s6925EC134B670FB5E044080020E329A9/Student%20Courses/Quality%20Assurance%20Program%20Coordinator%20QAPC.pdf"
+         <p outputclass="List1" class="- topic/p ">c. The QAPC must:</p>
+         <p outputclass="List2" class="- topic/p ">(1) Successfully complete the <xref href="https://www.my.af.mil/gcss-af/USAF/AFP40/d/s6925EC134B670FB5E044080020E329A9/Student%20Courses/Quality%20Assurance%20Program%20Coordinator%20QAPC.pdf"
                   format="html"
-                  scope="external">QAPC course</xref> conducted by AETC prior to conducting any training.</p>
-        <p outputclass="List2">(2) Support the acquisition team in the development of contract quality assurance requirements specifically ensuring that requirements are clearly stated and enforceable.</p>
-        <p outputclass="List2">(3) Assist the acquisition team during market research efforts in determining commercial quality assurance practices.</p>
-        <p outputclass="List2">(4) Assist, as required, with the evaluation of contractor Quality Control Plans.</p>
-        <p outputclass="List2">(5) Successfully complete the Management of Subcontracting Compliance (CLC 059) course offered by the Defense Acquisition University (DAU) A new requirement for 1102’s and CORs.</p>
+                  scope="external"
+                  class="- topic/xref ">QAPC course</xref> conducted by AETC prior to conducting any training.</p>
+         <p outputclass="List2" class="- topic/p ">(2) Support the acquisition team in the development of contract quality assurance requirements specifically ensuring that requirements are clearly stated and enforceable.</p>
+         <p outputclass="List2" class="- topic/p ">(3) Assist the acquisition team during market research efforts in determining commercial quality assurance practices.</p>
+         <p outputclass="List2" class="- topic/p ">(4) Assist, as required, with the evaluation of contractor Quality Control Plans.</p>
+         <p outputclass="List2" class="- topic/p " rev="Revised June 12, 2024">(5) All Contracting personnel (1102 or 64p) who are appointed as CORs and any non-1102 or 64p CORs who are responsible for monitoring subcontractor compliance must successfully complete the Management of Subcontracting Compliance (CLC 059) course offered by the Defense Acquisition University (DAU), when contracts include a subcontracting plan.</p>
       </conbody>
    </concept>
 </dita>

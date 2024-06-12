@@ -2,19 +2,18 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5349_7003">
+   <concept id="DAFFARS_5349_7003" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5349.7003</ph> Notification of Anticipated Terminations or Reductions</title>
-      <conbody>
-        <p outputclass="List1">(b)(2)(i) The contracting officer must submit the
-draft notification through the SCO to the <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b)(2)(i) The contracting officer must submit the draft notification through the SCO to the <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA Workflow</xref> as soon as the proposed termination/reduction is
-known. The cognizant HCA will forward the notification to SAF/AQ or
-SAF/SQ for signature (see <xref format="html"
-                  href="https://www.acquisition.gov/daffars/mp5349-termination-contracts"
-                  scope="external">MP5349</xref>).</p>
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA Workflow</xref> as soon as the proposed termination/reduction is known. The cognizant HCA will forward the notification to SAF/AQ or SAF/SQ for signature (see<ph rev="Revised June 12, 2024" class="- topic/ph "> 
+               <xref href="MP5349_7003.dita#DAFFARS_MP5349_7003"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">MP5349.7003 Notification of Anticipated Terminations or Reductions</xref>
+            </ph>).</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

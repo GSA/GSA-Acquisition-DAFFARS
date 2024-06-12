@@ -2,19 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5316_503">
+   <concept id="DAFFARS_5316_503" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5316.503</ph>  Requirements Contracts</title>
-      <conbody>
-        <p outputclass="List1">(b)(2) Determinations for requirements contracts
-that exceed the amount specified in <xref format="html"
-                  href="https://www.acquisition.gov/far/part-16#FAR_16_503"
-                  scope="external">FAR
-16.503(b)(2)</xref> and <xref format="html"
-                  href="https://www.acquisition.gov/far/part-16#FAR_16_504"
-                  scope="external">FAR
-16.504(c)(1)(ii)(D)(1)</xref> must be approved in accordance with
-5316.504(c)(1)(ii)(D) below.</p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p " rev="Revised June 12, 2024">(b)(2) See <xref href="5316_504.dita#DAFFARS_5316_504"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">5316.504 Indefinite-Quantity Contracts</xref>(c)(1)(ii)(D).</p>
+         <p outputclass="List1"
+            class="- topic/p "
+            rev="FAC 2024-05 May 22, 2024">(d) Unless the determination is made by the acquisition approving authority as part of the written acquisition plan, the CO has the authority to make the determinations required by FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/16.503"
+                  class="- topic/xref ">16.503</xref>(d) related to limitations on the use of requirements contracts for advisory and assistance services.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

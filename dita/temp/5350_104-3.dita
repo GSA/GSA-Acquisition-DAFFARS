@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5350_104-3" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5350.104-3</ph> (b)(1) Action on Indemnification Requests</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">See the<ph rev="Revised June xx, 2024" class="- topic/ph "> 
+               <xref format="html"
+                     href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/AFFARS_Library/AFFARS_5350/Indemnification-Guide--Change-1-22May2023.pdf?csf=1&amp;web=1&amp;e=2NsHK0"
+                     scope="external"
+                     class="- topic/xref ">Indemnification Guide for Unusually Hazardous or Nuclear Risks</xref>
+            </ph> for additional information. Upon completion of all buying activity coordination, the contracting officer must forward the indemnification request through the SCO to the <ph rev="Revised June xx, 2024" class="- topic/ph ">
+               <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">cognizant HCA Workflow</xref>
+            </ph> to for staffing to the SECAF.</p>
+      </conbody>
+   </concept>
+</dita>

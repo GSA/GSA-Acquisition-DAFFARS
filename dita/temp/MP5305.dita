@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_MP5305">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">MP5305</ph> - Publicizing Contract Actions</title>
+      <body>
+         <p id="1pzkdk3r" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
+         </p>
+         <p class="- topic/p ">
+            <xref href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5305.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS PART 5305 Knowledge Center</xref>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="MP5305_3.dita#DAFFARS_MP5305_3">MP5305.3 - SYNOPSES OF CONTRACT AWARDS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised June xx, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="MP5305_303.dita#DAFFARS_MP5305_303">MP5305.303 Announcement of Contract Awards</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5311_603">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5311.603</ph> Procedures</title>
+      <conbody>
+
+        <p>Department of the Air Force procedures associated with the
+Defense Priorities and Allocations System (DPAS) are established in
+<xref format="html"
+                  href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/afi63-101_20-101/afi63-101_20-101.pdf"
+                  scope="external">AFI
+63-101/20-101</xref>, <i>Integrated Life Cycle Management.</i>
+        </p>
+      </conbody>
+    </concept>
+</dita>

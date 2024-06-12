@@ -2,29 +2,16 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5349_501-70">
+   <concept id="DAFFARS_5349_501-70" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5349.501-70</ph> Special Termination Costs</title>
-      <conbody>
-        <p outputclass="List1">(a) See <xref format="html"
-                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>
-and <xref format="html"
-                  href="https://www.acquisition.gov/daffars/mp5349-termination-contracts#DAFFARS_MP_5349_501_70"
-                  scope="external">MP5349.501-70(a)</xref>.<xref format="html"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">mailto:SAF.AQ.SAF-AQC.Workflow@us.af.milmailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil</xref>
-        </p>
-        <p outputclass="List1">(c) The contracting officer must forward a request
-for SAF/FM approval through their SCO to the <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA Workflow</xref> prior to authorizing any increase in the
-Government's maximum liability under the clause. The cognizant HCA
-will forward the request to <xref format="html"
-                  href="mailto:SAF.FM.Workflow@us.af.mil"
-                  scope="external">SAF/FM</xref>.
-        </p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p rev="Revised June 12, 2024" class="- topic/p ">(a) See <xref href="MP5349_501-70.dita#DAFFARS_MP5349_501-70"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">MP 5349.501-70 Special Termination Costs</xref>(a). Submit requests to include DFARS clause <xref href="https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses#DFARS_252.249-7000"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">252.249-7000</xref>, Special Termination Costs through the cognizant HCA to SAF/AQC for SAF/FMB approval. </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

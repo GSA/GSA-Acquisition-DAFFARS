@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_MP_5315_3_3_9"
+            xml:lang="en-US"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " outputclass="Heading 3">
+         <ph class="- topic/ph " props="autonumber">3.9</ph> Best Value Decision</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">3.9.1 <ph rev="Revised June xx, 2024" class="- topic/ph ">The PCO</ph> must obtain contract clearance approval prior to the SSA making a source selection decision in accordance with <xref href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9000"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.9000(e)(2)(ii)</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

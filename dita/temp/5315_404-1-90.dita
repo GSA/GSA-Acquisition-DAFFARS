@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5315_404-1-90" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5315.404-1-90</ph> Pricing Assistance or Pricing Assistance Waiver</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) Required thresholds for requesting pricing
+assistance:</p>
+         <table class="- topic/table ">
+            <tgroup cols="3" class="- topic/tgroup ">
+               <colspec colname="col1"
+                        colnum="1"
+                        colwidth="1.1*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col2"
+                        colnum="2"
+                        colwidth="0.9*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colname="col3"
+                        colnum="3"
+                        colwidth="1*"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry nameend="col2"
+                            namest="col1"
+                            class="- topic/entry "
+                            align="center"> 
+                        <b class="+ topic/ph hi-d/b ">Sole Source</b> 
+                     </entry>
+                     <entry class="- topic/entry " align="center"> 
+                        <b class="+ topic/ph hi-d/b ">Competitive</b> 
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">PEO (Systems)</b>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">All Other</b>
+                     </entry>
+                     <entry class="- topic/entry ">
+                        <b class="+ topic/ph hi-d/b ">All</b>
+                     </entry>
+                  </row>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">$25M or more</entry>
+                     <entry class="- topic/entry ">$10M or more</entry>
+                     <entry class="- topic/entry ">$100M or more</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+         <p outputclass="List1" class="- topic/p ">(b) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation#DAFFARS_MP5315_404_1_90"
+                  scope="external"
+                  class="- topic/xref ">MP5315.404-1-90(b)</xref>
+for procedures for requesting pricing assistance.</p>
+         <p outputclass="List1" class="- topic/p ">(c) See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation#DAFFARS_MP5315_404_1_90"
+                  scope="external"
+                  class="- topic/xref ">MP5315.404-1-90(c)</xref> for procedures for requesting a pricing assistance waiver for actions that meet or exceed the required thresholds identified in <xref outputclass="fm:ParaNumOnly"
+                  href="5315_404-1-90.dita#DAFFARS_5315_404-1-90"
+                  base="DAFFARS-5315.404-1-90"
+                  xtrc="5315.404-1-90"
+                  class="- topic/xref ">5315.404-1-90</xref>(a) above. <ph id="Toc38364937" class="- topic/ph "/> 
+         </p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5349_402-3" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5349.402-3</ph> Procedure for Default</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">(f) Prior to making a final decision concerning termination for default, the contracting officer must forward the termination notice and the complete contract file to AF/JACQ with a copy of the termination notice to SAF/GCR and follow the procedures in DAFFARS <xref href="5333_290.dita#DAFFARS_5333_290"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">5333.290</xref>(b). </p>
+      </conbody>
+   </concept>
+</dita>

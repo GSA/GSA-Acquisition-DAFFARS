@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DAFFARS_PART_5335">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5335</ph> - Research and Development Contracting</title>
+      <body>
+         <p class="- topic/p ">
+            <xref scope="external"
+                  format="html"
+                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5335.aspx"
+                  class="- topic/xref ">DAFFARS PART 5335 Knowledge Center</xref>
+         </p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2023</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5335_015-70.dita#DAFFARS_5335_015-70">5335.015-70  Special Use Allowances for Research Facilities Acquired by Educational Institutions</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5335_070-1.dita#DAFFARS_5335_070-1">5335.070-1 Indemnification Under Research and Development Contracts</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

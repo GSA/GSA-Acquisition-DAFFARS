@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5301_304">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5301.304</ph> Agency Control and Compliance Procedures</title>
+      <conbody>
+        <p outputclass="List1">(c)(4) The use of nonstandard clauses requires an
+approved D&amp;F addressing the criteria outlined in DFARS PGI
+201.301(b)(iii). See the <xref format="html"
+                  href="https://usaf.dps.mil/:b:/r/sites/AFCC/AQCP/KnowledgeCenter/Documents/DAFFARS_Library/DAFFARS_5301/2010-02-02_dpap_memo.pdf?csf=1&amp;web=1&amp;e=lWWq1Q"
+                  scope="external">DAF
+Clause Control Plan</xref> for approvals, including those requiring
+OUSD(A&amp;S)/DPC approval. See the tailorable <xref format="html"
+                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  scope="external">Non-Standard
+Clause Control Template</xref>. Prior to using a reopener clause, the
+contracting officer must document the D&amp;F that its use is the
+most appropriate means of overcoming a contingency that could
+affect contract price and obtain approval from the SCO. The SCO
+must submit a copy of the approval to <xref format="html"
+                  href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil"
+                  scope="external">SAF/AQCP</xref>.</p>
+      </conbody>
+    </concept>
+</dita>

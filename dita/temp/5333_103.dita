@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5333_103" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5333.103</ph>  Protests to the Agency</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="Int_v6bdT8ed" outputclass="List1" class="- topic/p ">(d)(4) When an agency protest is denied, an offeror may request an independent review by the SCO. <ph rev="Revised June xx, 2024" class="- topic/ph ">See <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">Agency Level Protest Summary Dismissal</xref> template.</ph>
+         </p>
+         <p outputclass="List1" class="- topic/p ">(h) The contracting officer must prepare the
+protest file following an agency protest (including a protest of a
+non-appropriated funds procurement) regardless of the level at
+which the protest is filed. The contracting officer must request
+guidance from the <xref format="html"
+                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  scope="external"
+                  class="- topic/xref ">cognizant
+HCA</xref> for any protest likely to generate significant
+Congressional interest. The decision to deny a protest must be made
+at a level no lower than that at which the protest was filed.
+Protests may be sustained at any level in the review process, with
+the concurrence of the cognizant legal office.<ph id="Toc351654224" class="- topic/ph "/>
+        </p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="DAFFARS_5346_103" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5346.103</ph> Contracting Office Responsibilities</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">See <xref format="html"
+                  href="https://www.acquisition.gov/daffars/mp5346.103-contracting-office-responsibilities"
+                  scope="external"
+                  class="- topic/xref ">MP5346.103</xref>
+for Department of the Air Force requirements regarding contracting
+office responsibilities for the Quality Assurance Program.</p>
+         <p class="- topic/p ">See <ph rev="Revised June xx, 2024" class="- topic/ph ">
+               <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Documents/Forms/AllItems.aspx?id=%2Fsites%2FAFCC%2FKnowledgeCenter%2FDocuments%2FContracting%5FMemos%2FPolicy%2F22%2DC%2D06%2Epdf&amp;parent=%2Fsites%2FAFCC%2FKnowledgeCenter%2FDocuments%2FContracting%5FMemos%2FPolicy&amp;p=true&amp;ga=1"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">Services Contracts Quality Assurance and Contracting Officer Representatives (COR) Memorandum</xref>
+            </ph>. </p>
+      </conbody>
+   </concept>
+</dita>
