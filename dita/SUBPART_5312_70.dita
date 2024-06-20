@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DAFFARS_SUBPART_5312_70"
-            xml:lang="en-US"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title "
-             outputclass="Heading 2 Subpart"
-             rev="Revised June 12, 2024"> 
-         <ph class="- topic/ph " props="autonumber">Subpart 5312.70</ph> - DEFENSE COMMERCIAL SOLUTIONS OPENING</title>
-      <conbody class="- topic/body  concept/conbody "/>
-   </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="DAFFARS_SUBPART_5312_70" outputclass="Subpart" class="- topic/topic "><title class="- topic/title " outputclass="Heading 2 Subpart" rev="Revised June 12, 2024"> <ph class="- topic/ph " props="autonumber">Subpart 5312.70</ph> - DEFENSE COMMERCIAL SOLUTIONS OPENING</title><body class="- topic/body "/></topic></dita>
