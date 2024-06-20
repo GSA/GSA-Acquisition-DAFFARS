@@ -2,186 +2,167 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5301_9001">
-      <title class="- topic/title "> 
-         <ph class="- topic/ph " props="autonumber">5301.9001</ph> Policy, Thresholds, and Approvals</title>
-      <conbody>
-        <p outputclass="List1">(a) The objectives of the business and contract
-clearance process are to ensure that:</p>
-        <p outputclass="List2">(1) Contract actions effectively implement
-approved acquisition strategies;</p>
-        <p outputclass="List2">(2) Negotiations and contract actions result in
-fair and reasonable business arrangements;</p>
-        <p outputclass="List2">(3) Negotiations and contract actions are
-consistent with laws, regulations, and policies; and</p>
-        <p outputclass="List2">(4) An independent review and assessment by the
-clearance authority for the proposed contract action is
-accomplished.</p>
-        <p outputclass="List1">(b) The CAA must ensure that the clearance process
-meets the objectives in paragraph (a) above.</p>
-        <p outputclass="List1">(c) The CAA must seek legal advice (see <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_602_2"
-                  scope="external">DAFFARS
-5301.602-2(c)(i)</xref>) and ensure that counsel has coordinated on
-any clearance briefings or presentations, and that counsel’s
-comments are included in the briefing or presentation.</p>
-        <p outputclass="List1">(d) Only one clearance review may be performed
-prior to the contract action being presented to the CAA. The CR is
-responsible for the clearance review. The CAA may select an
-alternate CR who meets the requirements identified in paragraph <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9000"
-                  scope="external">DAFFARS
-5301.9000(f)</xref>. The CAA, in conjunction with the SCO, has the
-authority to waive the clearance review.</p>
-        <p outputclass="List1">(e) At the discretion of the CAA, contract
-clearance is not required when the negotiation team stays within
-the pre-set negotiation range and the parameters approved at the
-business clearance.</p>
-        <p outputclass="List1">(f) If a CAA requires clearance for competitive
-order solicitations or orders when excluded in accordance with <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9000"
-                  scope="external">DAFFARS
-5301.9000(b)(6)</xref>, the SCO must submit a written justification to
-<xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA</xref> upon execution.</p>
-        <p outputclass="List1">(g) The Source Selection Authority (SSA) must not
-be the CAA</p>
-        <p outputclass="List1">(h) The Milestone Decision Authority, PEO, or lead
-program manager must coordinate and/or participate in business
-clearance briefings.</p>
-        <p id="p5301_9001_i" outputclass="List3">(i) Contract actions
-meeting the contract value thresholds established below must not be
-awarded without obtaining business and contract clearance approval
-from the CAA (See associated <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">clearance
-templates</xref>). Contract value is determined by the definition in
-<xref format="html"
-                  href="https://www.acquisition.gov/far/part-1#FAR_1_108"
-                  scope="external">FAR
-1.108(c)</xref>.</p>
-        <p id="p5301_9001_i_1" outputclass="List2">(1) Clearance Approval
-(See (2) below for SSC clearance approvals):</p>
-        <table>
-            <tgroup cols="4">
-               <colspec colname="col1" colnum="1" colwidth="0.8*"/>
-               <colspec colname="col2" colnum="2" colwidth="1*"/>
-               <colspec colname="col3" colnum="3" colwidth="1.1*"/>
-               <colspec colname="col4" colnum="4" colwidth="1.1*"/>
-               <tbody>
-                  <row>
-                     <entry>
-                        <b>Unit</b>
-                     </entry>
-                     <entry>
-                        <b>Clearance Approval Authority</b>
-                     </entry>
-                     <entry>
-                        <b>Clearance Approval Authority</b>
-                     </entry>
-                     <entry>
-                        <b>Clearance Approval Authority ≥ $1B</b>
-                     </entry>
+   <concept id="DAFFARS_5301_9001" class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised June 12, 2024"> 
+         <ph class="- topic/ph " props="autonumber">5301.9001</ph> Objectives, Approval Thresholds, and Procedures</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) <ph rev="Revised June 12, 2024" class="- topic/ph ">Clearance Objectives.</ph> The objectives of the business and contract clearance process are to ensure that:</p>
+         <p outputclass="List2" class="- topic/p ">(1) <ph rev="Revised June 12, 2024" class="- topic/ph ">Negotiations and c</ph>ontract actions effectively implement approved acquisition strategies;</p>
+         <p outputclass="List2" class="- topic/p ">(2) Negotiations and contract actions result in fair and reasonable business arrangements;</p>
+         <p outputclass="List2" class="- topic/p ">(3) Negotiations and contract actions are consistent with laws, regulations, and policies; and</p>
+         <p outputclass="List2" class="- topic/p ">(4) An independent review and assessment by the clearance authority for the proposed contract action is accomplished.</p>
+         <p outputclass="List1" class="- topic/p ">(b) <ph rev="Revised June 12, 2024" class="- topic/ph ">(b) Clearance Approval Thresholds. Business and contract clearance are required for actions greater than or equal to $10M for Enterprise / PEO (Systems) and $5M for Operational. Contract value is determined by the definition on FAR 1.108(c).</ph>
+         </p>
+         <p outputclass="List2" class="- topic/p ">(1) <ph rev="Revised June 12, 2024" class="- topic/ph ">When the HCA is SAF/AQC, use the clearance approval thresholds in Table 1 below. </ph>
+            <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+               <tgroup cols="4" align="left" class="- topic/tgroup ">
+                  <colspec colname="c1"
+                           colnum="1"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="c2"
+                           colnum="2"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="c3"
+                           colnum="3"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <colspec colname="c4"
+                           colnum="4"
+                           rowheader="headers"
+                           class="- topic/colspec "/>
+                  <thead class="- topic/thead ">
+                     <row class="- topic/row ">
+                        <entry namest="c1" nameend="c4" class="- topic/entry ">Table 1 – When the HCA is at SAF/AQC</entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">
+                           <b class="+ topic/ph hi-d/b ">CAA</b>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <b class="+ topic/ph hi-d/b ">Operational</b>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <b class="+ topic/ph hi-d/b ">Enterprise</b>
+                        </entry>
+                        <entry class="- topic/entry ">
+                           <b class="+ topic/ph hi-d/b ">PEO (Systems)</b>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody class="- topic/tbody ">
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">HCA</entry>
+                        <entry class="- topic/entry ">≥ $1B </entry>
+                        <entry class="- topic/entry ">≥ $1B</entry>
+                        <entry class="- topic/entry ">≥ $1B</entry>
+                     </row>
+                     <row class="- topic/row ">
+                        <entry class="- topic/entry ">SCO</entry>
+                        <entry class="- topic/entry ">&gt; $10M to &lt; $1B</entry>
+                        <entry class="- topic/entry ">&gt; $50M to &lt; $1B</entry>
+                        <entry class="- topic/entry ">&gt; $100M to &lt; $1B</entry>
+                     </row>
+                     <row rev="Revised June 12, 2024" class="- topic/row ">
+                        <entry class="- topic/entry ">COCO</entry>
+                        <entry class="- topic/entry ">&gt; $5M to ≤ $10M</entry>
+                        <entry class="- topic/entry ">&gt; $10M to ≤ $50M</entry>
+                        <entry class="- topic/entry ">&gt; $10M to ≤ $100M</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(2) When the HCA is at SDA, SpRCO, or SSC, use the clearance approval thresholds in Table 2 below.</p>
+         <table colsep="1" rowsep="1" class="- topic/table ">
+            <tgroup cols="4" rev="Revised June 12, 2024" class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="col1"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="col2"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="3"
+                        colname="col3"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <colspec colnum="4"
+                        colname="col4"
+                        rowheader="headers"
+                        class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row class="- topic/row ">
+                     <entry namest="col1" nameend="col4" class="- topic/entry ">Table 2 – When the HCA is at SDA, SpRCO, or SSC</entry>
                   </row>
-                  <row>
-                     <entry>Operational</entry>
-                     <entry>COCO ≤ $10M</entry>
-                     <entry>SCO &gt; $10M to &lt; $1B</entry>
-                     <entry>HCA</entry>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">CAA</entry>
+                     <entry class="- topic/entry ">Operational</entry>
+                     <entry class="- topic/entry ">Enterprise</entry>
+                     <entry class="- topic/entry ">PEO (Systems)</entry>
                   </row>
-                  <row>
-                     <entry>Enterprise</entry>
-                     <entry>COCO ≤ $50M</entry>
-                     <entry>SCO &gt; $50M to &lt; $1B</entry>
-                     <entry>HCA</entry>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">Cognizant HCA</entry>
+                     <entry class="- topic/entry ">Special interest only</entry>
+                     <entry class="- topic/entry ">Special interest only</entry>
+                     <entry class="- topic/entry ">Special interest only</entry>
                   </row>
-                  <row>
-                     <entry>PEO (Systems)</entry>
-                     <entry>COCO ≤ $100M</entry>
-                     <entry>SCO &gt; $100M to &lt; $1B</entry>
-                     <entry>HCA</entry>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">SCO</entry>
+                     <entry class="- topic/entry ">&gt; $10M </entry>
+                     <entry class="- topic/entry ">&gt; $1B</entry>
+                     <entry class="- topic/entry ">&gt; $1B</entry>
                   </row>
-                  <row>
-                     <entry nameend="col4" namest="col1">
-                        <b>Table 1</b>
-                     </entry>
+                  <row class="- topic/row ">
+                     <entry class="- topic/entry ">COCO</entry>
+                     <entry class="- topic/entry ">&gt; $5M to ≤ $10M</entry>
+                     <entry class="- topic/entry ">&gt; $10M to ≤ $1B</entry>
+                     <entry class="- topic/entry ">&gt; $10M to ≤ $1B</entry>
                   </row>
                </tbody>
             </tgroup>
-        </table>
-        <p outputclass="List3">(i) The cognizant HCA is the business clearance
-approval authority for all contract actions ≥$1B; and any
-other contract action identified as special interest by the
-cognizant HCA regardless of dollar amount. The HCA may delegate
-clearance authority on a case-by-case basis. The procedures in <xref format="html"
-                  href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_9001"
-                  scope="external">MP5301.9001(i)(1)(i)</xref>
-must be followed for clearance when SAF/AQC (DAS(C) or ADAS(C)) is
-the clearance approval authority. SCOs retain contract clearance
-approval authority.</p>
-        <p outputclass="List3">(ii) The CAA is the approval authority for all
-contract actions as delegated in TABLE 1. The Table 1 thresholds
-represent the minimum delegation that must be made. SCOs may
-increase the specified dollar thresholds at their discretion.</p>
-        <p outputclass="List3">(iii) If a SCO reduces the thresholds or withholds
-the clearance approval authority from the designees in TABLE 1, the
-SCO must notify the <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA</xref>. If the SCO reduces or withholds clearance approval
-authority for more than six months, the SCO must brief the
-cognizant HCA regarding the circumstances surrounding the decision.
-regarding the circumstances surrounding the decision.</p>
-        <p outputclass="List3">(iv) To facilitate planning for clearances that
-require SAF/AQC approval, SCOs must use the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
-                  scope="external">Peer
-Review and Clearance Forecasting Tool</xref> to project upcoming
-SAF/AQC clearances.</p>
-        <p outputclass="List3">(v) For PEO and Enterprise contracting, business
-and contract clearance are required for actions greater than or
-equal to $5M.</p>
-        <p outputclass="List3">(vi) For Operational contracting, business and
-contract clearance are required for actions greater than or equal
-to $3M.</p>
-        <p outputclass="List3">(vii) SCOs are responsible for ensuring all
-further delegations of clearance approval authorities are included
-on the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/Lists/delegations/AllItems.aspx"
-                  scope="external">SCO
-Delegation Letters/Thresholds</xref> SharePoint page.</p>
-        <p outputclass="List3">(viii) When a contracting official is the Source
-Selection Authority (SSA) for a particular acquisition, the CAA
-must be a level above the contracting official. If the SCO or their
-deputy is the SSA, the CAA for that acquisition must be the
-cognizant HCA.</p>
-        <p outputclass="List2">(2) Clearance when the HCA is SSC/PK Director, SDA
-Director, or SpRCO Director of Contracting.</p>
-        <p outputclass="List3">(i) The SCO is the CAA for Non-Operational actions
-valued at greater than or equal to $1B and for Operational actions
-valued at greater than or equal to $10M. The HCA or SCO may
-designate an action as Special Interest regardless of dollar value
-and assign the CAA notwithstanding further delegations below.</p>
-        <p outputclass="List3">(ii) The COCO is the CAA for Non-Operational
-actions valued at less than $1B, and for Operational actions valued
-at less than $10M.</p>
-        <p outputclass="List3">(iii) The COCO may further delegate CAA within
-their portfolio on either a class or individual basis without
-restriction. The COCO may also set a threshold at which the
-contracting officer is not required to seek clearance approval.</p>
-        <p outputclass="List3">(iv) The COCO shall report clearance delegations
-made on a class basis to the <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA Workflow</xref>. SSC COCO class delegations can be found here.
-Individual delegations must be documented in the contract file.</p>
-        <p outputclass="List3">(v) The CAA shall, in all cases, be distinct from
-the contracting officer responsible for executing the proposed
-action.</p>
-        <p outputclass="List3">(vi) When the HCA is SSC/PK Director, follow the
-procedures at MP5301.9001(i)(2)(vi) when conducting clearance.</p>
+         </table>
+         <p rev="Revised June 12, 2024" outputclass="List2" class="- topic/p ">(3) The HCA or SCO may designate a contract action as a special interest item regardless of dollar value and assign the CAA notwithstanding the thresholds in the tables above.</p>
+         <p rev="Revised June 12, 2024" outputclass="List2" class="- topic/p ">(4) When the HCA is the CAA for business clearance, the SCO is the CAA for contract clearance unless otherwise stipulated by the HCA. </p>
+         <p rev="Revised June 12, 2024" outputclass="List2" class="- topic/p ">(5) The CAA may further delegate or waive their clearance approval authority on an individual or class basis. SCOs and COCOs are responsible for ensuring all further delegations are included on the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/SCO-Delegation-Letters.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SCO Delegation Letters/Thresholds</xref> SharePoint Page. COCOs must report clearance waivers made on a class basis to the SCO. Individual delegations and waivers must be documented in the contract file. </p>
+         <p rev="Revised June 12, 2024" outputclass="List2" class="- topic/p "> (6) If an SCO lowers a COCO’s clearance approval authority threshold or withholds clearance approval authority from the COCO, the SCO must notify the cognizant HCA. If the SCO lowers or withholds the COCO’s clearance approval authority for more than six months, the SCO must brief the cognizant HCA regarding the circumstances surrounding the decision.</p>
+         <p outputclass="List1" rev="Revised June 12, 2024" class="- topic/p ">(c) Clearance Approval Procedures. The CAA must ensure that the clearance process meets the objectives in paragraph (a) above. See <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">clearance templates</xref>.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(1) The procedures in <xref href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_9001"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">MP5301.9001(i)(1)(i)</xref> must be followed when the CAA is SAF/AQC (DAS(C) or ADAS(C)). When the CAA is not at SAF/AQC, follow local procedures.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(2) To facilitate planning for clearances that require HCA approval, SCOs must use the <xref href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Peer Review and Clearance Forecasting Tool</xref> to project upcoming HCA clearances. See <xref href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_170"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.170(a)(2)</xref>. </p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(3) Only one clearance review may be performed prior to the contract action being presented to the CAA. The CR is responsible for the clearance review. The CAA may select an alternate CR who meets the requirements identified in DAFFARS 5301.9000. The CAA has the authority to waive the clearance review.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(4) The CAA must seek legal advice (see <xref href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_602_2"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.602-2(c)(i)</xref>) and ensure that counsel has coordinated on any clearance briefings or presentations, and that counsel’s comments are included in the briefing or presentation.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(5) The Milestone Decision Authority, PEO, or lead program manager must coordinate and/or participate in business clearance briefings.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(6) At the discretion of the CAA, contract clearance is not required when the negotiation team stays within the pre-set negotiation range and the parameters approved at the business clearance.</p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p ">(7) If the CAA has waived business or contract clearance, a clearance review is not required unless the CAA stipulates otherwise. However, legal review is required, as applicable, in accordance with DAFFARS 5301.602-2(c)(i).</p>
+         <p rev="Revised June 12, 2024" outputclass="List2" class="- topic/p ">(8) If a CAA requires clearance for competitive order solicitations or orders when excluded in accordance with <xref href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9000"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.9000(b)(6)</xref>, the SCO must submit a written justification to <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA</xref> upon execution.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

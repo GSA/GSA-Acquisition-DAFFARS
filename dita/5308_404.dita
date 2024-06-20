@@ -2,15 +2,14 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5308_404">
+   <concept id="DAFFARS_5308_404" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5308.404</ph> Use of Federal Supply Schedules</title>
-      <conbody>
-        <p id="Int_zPdzFDsf" outputclass="List1">(h)(3)(ii)(C) See <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="Int_zPdzFDsf" outputclass="List1" class="- topic/p ">(h)(3)(ii)(C) See <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>.
-for approval of a T&amp;M/LH order with a total performance period,
-including options, that is more than three years.</p>
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>. for approval of <ph rev="Revised June 12, 2024" class="- topic/ph ">the D&amp;F</ph> with a total performance period, including options, that is more than three years.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

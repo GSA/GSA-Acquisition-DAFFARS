@@ -25,9 +25,14 @@
                         <xref outputclass="fm:TOC" href="5309_103.dita#DAFFARS_5309_103">5309.103 Policy</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5309_104-1.dita#DAFFARS_5309_104-1">5309.104-1 General Standards</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_105-1.dita#DAFFARS_5309_105-1">5309.105-1 Obtaining information.</xref>
                      </p>
                   </li>
                </ul>
@@ -104,6 +109,11 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5309_505.dita#DAFFARS_5309_505">5309.505 General rules.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5309_506.dita#DAFFARS_5309_506">5309.506 Procedures.</xref>
                      </p>
                   </li>
                   <li>

@@ -2,25 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5304_404-90">
+   <concept id="DAFFARS_5304_404-90" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5304.404-90</ph>  Additional Contract Clauses</title>
-      <conbody>
-        <p>The contracting officer must insert the clause at <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_204_9000"
-                  scope="external">DAFFARS
-5352.204-9000</xref>, <i>Notification of Government Security
-Activities</i>, in solicitations and contracts which require a <xref format="html"
-                  href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
-                  scope="external">DD
-Form 254</xref> for performance on U.S. Government installations and
-overseas. The contracting officer may change the number of days
-specified in <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_204_9000"
-                  scope="external">DAFFARS
-5352.204-9000(a)</xref>. If less than thirty days is used, coordinate
-with the servicing information protection office.<ph id="Toc38286407"/>
-        </p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " rev="Revised June 12, 2024">The contracting officer must insert the clause at <xref href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_204-9002"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5352.204-9002</xref> ,<i class="+ topic/ph hi-d/i ">Security Incident Reporting and Procedures</i>, for all solicitations and contracts which require a <xref href="http://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DD Form 254</xref>. The contracting officer may change the number of days specified in DAFFARS 5352.24204-9002 upon request from the contractor and after coordination with the requirement owner. The contracting officer must insert DAFFARS 5352.204-9000, Notification of Government Security Activities for all solicitations and contract which require a DD Form 254for performance on U.S. Government installations and overseas. The contracting officer may change the number of days specified in <xref href="https://www.acquisition.gov/daffars/part-5352-solicitation-provisions-and-contract-clauses#DAFFARS_5352_204_9000"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5352.204-9000(a)</xref>. If less than thirty days is used, coordinate with the servicing information protection office.<ph id="Toc38286407" class="- topic/ph "/> 
+         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

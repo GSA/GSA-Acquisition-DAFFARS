@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DAFFARS" outputclass="daffars" rev="Revised June xx, 2024">
+<map title="DAFFARS" outputclass="daffars" rev="Revised June 12, 2024">
    <title>DAFFARS</title>
    <topicref navtitle="Volume I - Parts 5301 to 5352"
              href="Volume_I.dita"
@@ -49,8 +49,10 @@
          
          
          
-         
-         
+            
+            
+            
+            
          
          
       
@@ -117,90 +119,6 @@
       
       
          
-         
-      
-      
-         
-         
-         
-      
-      
-         
-      
-      
-         
-      
-      
-         
-      
-   
-   
-      
-         
-      
-      
-         
-         
-      
-      
-         
-      
-      
-         
-      
-   
-   
-      
-         
-      
-      
-         
-         
-         
-         
-         
-         
-         
-      
-      
-         
-         
-      
-   
-   
-      
-         
-         
-         
-         
-         
-         
-         
-      
-      
-         
-      
-   
-   
-      
-         
-         
-         
-      
-      
-         
-         
-      
-   
-   
-      
-         
-         
-      
-      
-         
-         
-         
       
       
          
@@ -211,17 +129,9 @@
       
       
          
-         
-         
-         
-         
       
-   
-   
       
-   
-   
-      
+         
          
       
       
@@ -248,6 +158,109 @@
       
          
       
+   
+   
+      
+         
+      
+      
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+         
+      
+   
+   
+      
+         
+         
+         
+         
+         
+      
+      
+         
+      
+   
+   
+      
+         
+         
+         
+      
+      
+         
+         
+      
+   
+   
+      
+         
+         
+         
+      
+      
+         
+         
+         
+      
+      
+         
+         
+         
+         
+         
+      
+      
+         
+         
+         
+         
+         
+         
+      
+   
+   
+      
+   
+   
+      
+         
+      
+      
+         
+      
+      
+         
+      
+      
+         
+      
+   
+   
+      
+         
+      
+      
+         
+         
+      
+      
+         
+      
+      
+         
+      
+      
+         
+         
       
    
    

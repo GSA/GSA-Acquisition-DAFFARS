@@ -2,23 +2,14 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5303_705">
+   <concept id="DAFFARS_5303_705" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5303.705</ph>  Procedures</title>
-      <conbody>
-        <p outputclass="List1">(a) The contracting officer must forward the facts
-concerning a final conviction, to include a copy of the conviction,
-to <xref format="html"
-                  href="mailto:SAF.GCR.Workflow@us.af.mil"
-                  scope="external">SAF/GCR</xref> within
-30 days after learning of the conviction. The contracting officer
-must forward the report to the SCO within 10 calendar days after
-the contracting activity learns of the conviction. See the
-tailorable <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Notice
-of Proposed Contract Rescission Action(s)</xref> template.<ph id="Toc38284417"/>
-        </p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" rev="Revised June 12, 2024" class="- topic/p ">(a) The contracting officer must forward the facts concerning a final conviction, to include a copy of the conviction, to the SCO within 10 calendar days after the contracting activity learns of the conviction. Also, within 30 calendar days, the contracting officer must send notification containing the same elements to the servicing Staff Judge Advocate, who will forward to the Department of Justice Civil Division through AF/JACQ and SAF/GCR, to inform them that action is being considered under this subpart. (See the tailorable <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Notice of Proposed Contract Rescission Action(s) template</xref>).</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

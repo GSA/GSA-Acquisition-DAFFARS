@@ -36,7 +36,7 @@
                         <xref outputclass="fm:TOC" href="5301_105-1.dita#DAFFARS_5301_105-1">5301.105-1 Publication and Code Arrangement</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_170.dita#DAFFARS_5301_170">5301.170 Peer Reviews</xref>
                      </p>
@@ -48,7 +48,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5301_2.dita#DAFFARS_SUBPART_5301_2">Subpart 5301.2 - ADMINISTRATION</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_201-1.dita#DAFFARS_5301_201-1">5301.201-1 The Two Councils</xref>
                      </p>
@@ -65,12 +65,12 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5301_3.dita#DAFFARS_SUBPART_5301_3">Subpart 5301.3 - AGENCY ACQUISITION REGULATIONS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_301.dita#DAFFARS_5301_301">5301.301 Policy</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_304.dita#DAFFARS_5301_304">5301.304 Agency Control and Compliance Procedures</xref>
                      </p>
@@ -87,12 +87,12 @@
                         <xref outputclass="fm:TOC" href="5301_402.dita#DAFFARS_5301_402">5301.402 Policy</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_403.dita#DAFFARS_5301_403">5301.403 Individual Deviations</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_404.dita#DAFFARS_5301_404">5301.404 Class Deviations</xref>
                      </p>
@@ -109,7 +109,7 @@
                         <xref outputclass="fm:TOC" href="5301_601.dita#DAFFARS_5301_601">5301.601 General</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_601-91.dita#DAFFARS_5301_601-91">5301.601-91 Department of the Air Force Contracting Self-Inspection Program</xref>
                      </p>
@@ -119,7 +119,7 @@
                         <xref outputclass="fm:TOC" href="5301_602-1.dita#DAFFARS_5301_602-1">5301.602-1 Authority</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_602-2.dita#DAFFARS_5301_602-2">5301.602-2 Responsibilities</xref>
                      </p>
@@ -129,25 +129,32 @@
                         <xref outputclass="fm:TOC" href="5301_602-3.dita#DAFFARS_5301_602-3">5301.602-3 Ratification of Unauthorized Commitments</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_603-1.dita#DAFFARS_5301_603-1">5301.603-1 General</xref>
+                        <xref outputclass="fm:TOC" href="5301_603.dita#DAFFARS_5301_603">5301.603 Selection, appointment, and termination of appointment for contracting officers.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5301_603-2-90.dita#DAFFARS_5301_603-2-90">5301.603-2-90 Selection</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5301_603-3.dita#DAFFARS_5301_603-3">5301.603-3 Appointment</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5301_603-3-90.dita#DAFFARS_5301_603-3-90">5301.603-3-90 Field Ordering Officer Appointments.</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised June 12, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5301_603-1.dita#DAFFARS_5301_603-1">5301.603-1 General</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5301_603-2-90.dita#DAFFARS_5301_603-2-90">5301.603-2-90 Selection</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5301_603-3.dita#DAFFARS_5301_603-3">5301.603-3 Appointment</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5301_603-3-90.dita#DAFFARS_5301_603-3-90">5301.603-3-90 Field Ordering Officer Appointments.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                   <li>
                      <p>
@@ -161,7 +168,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5301_7.dita#DAFFARS_SUBPART_5301_7">Subpart 5301.7 - DETERMINATIONS AND FINDINGS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_707.dita#DAFFARS_5301_707">5301.707 Signatory Authority</xref>
                      </p>
@@ -174,14 +181,14 @@
                         href="SUBPART_5301_90.dita#DAFFARS_SUBPART_5301_90">Subpart 5301.90 - CLEARANCE</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9000.dita#DAFFARS_5301_9000">5301.9000 Scope and Definitions</xref>
+                        <xref outputclass="fm:TOC" href="5301_9000.dita#DAFFARS_5301_9000">5301.9000 Definitions</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5301_9001.dita#DAFFARS_5301_9001">5301.9001 Policy, Thresholds, and Approvals</xref>
+                        <xref outputclass="fm:TOC" href="5301_9001.dita#DAFFARS_5301_9001">5301.9001 Objectives, Approval Thresholds, and Procedures</xref>
                      </p>
                   </li>
                </ul>
@@ -197,7 +204,7 @@
                         <xref outputclass="fm:TOC" href="5301_9101.dita#DAFFARS_5301_9101">5301.9101 Purpose</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5301_9102.dita#DAFFARS_5301_9102">5301.9102 Policy</xref>
                      </p>

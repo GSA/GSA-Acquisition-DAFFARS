@@ -6,44 +6,35 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5307</ph> - Acquisition Planning</title>
       <body>
-         <p id="UPsvWJ" outputclass="Normal">
+         <p id="UPsvWJ" outputclass="Normal" class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5307.aspx"
-                  scope="external">DAFFARS PART 5307 Knowledge Center</xref>
+                  scope="external"
+                  class="- topic/xref ">DAFFARS PART 5307 Knowledge Center</xref>
          </p>
-         <p id="HKEvyq" outputclass="Normal">Revised: June 2023</p>
+         <p id="HKEvyq" outputclass="Normal" class="- topic/p ">Revised: June 2024</p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_5307_1.dita#DAFFARS_SUBPART_5307_1">Subpart 5307.1 - ACQUISITION PLANS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5307_103.dita#DAFFARS_5307_103">5307.103 Agency Head Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5307_104.dita#DAFFARS_5307_104">5307.104 General Procedures</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-90.dita#DAFFARS_5307_104-90">5307.104-90  Solicitation Release</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-91.dita#DAFFARS_5307_104-91">5307.104-91  Changes</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5307_104-92.dita#DAFFARS_5307_104-92">5307.104-92  Acquisition Strategy Panels (ASP) and Approval Authority (AP)</xref>
-                     </p>
-                  </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5307_105.dita#DAFFARS_5307_105">5307.105 Contents of Written Acquisition Plans</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5307_107-2.dita#DAFFARS_5307_107-2">5307.107-2  Consolidation</xref>
                      </p>
@@ -60,7 +51,7 @@
                   <xref outputclass="fm:TOC" href="SUBPART_5307_4.dita#DAFFARS_SUBPART_5307_4">Subpart 5307.4 - EQUIPMENT LEASE OR PURCHASE</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5307_470.dita#DAFFARS_5307_470">5307.470  Statutory Requirements</xref>
                      </p>

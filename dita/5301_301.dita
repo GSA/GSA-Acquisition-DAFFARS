@@ -2,13 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5301_301">
+   <concept id="DAFFARS_5301_301" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5301.301</ph> Policy</title>
-      <conbody>
-        <p outputclass="List1">(a)(1)(S-90) The DAFFARS is issued by the DAS(C),
-in coordination with the HCAs for SSC and SDA, on behalf of the
-Senior Procurement Executive (SPE).</p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a)(1)(S-90) The DAFFARS is issued by the DAS(C), in coordination with the HCAs for SSC<ph rev="Revised June 12, 2024" class="- topic/ph ">, SpRCO,</ph> and SDA, on behalf of the Senior Procurement Executive (SPE).</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>
