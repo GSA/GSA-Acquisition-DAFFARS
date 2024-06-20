@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept xtrc=""
+            id="DAFFARS_5304_806"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " rev="Revised June 12, 2024">
+         <ph class="- topic/ph " props="autonumber">5304.806</ph> Storage, handling, and contract files.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p rev="Revised June 12, 2024" class="- topic/p ">Prior to disposing of contract and other procurement files under Series 63, Acquisition, or Series 64, Contracting, of the Air Force Records Disposition Schedule, contracting officers shall ensure that all records necessary to support intellectual property rights are transferred to an appropriate Air Force organization with an appropriate system of records, such as research and development (R&amp;D) case files. These records may include, but are not limited to: contracts, especially the solicitation/contract forms, the description/statement of work, and any attached licenses or data rights assertions; the solicitation; market research; the awardee’s proposal; preliminary and critical design review slides; the integrated master schedule; and data deliverables such as technical reports or software development plans and other procurement records that may grant the Government licenses to technical data, computer software, and other intellectual property or may be necessary to establish that a given technology was developed with Government funding, . To protect the Government’s intellectual property interests, records that support the intellectual property rights may need to be retained for multiple decades following contract closeout. Certain documents evidencing the Government’s rights and interests in intellectual property might also need to be recorded with other government entities, such as the U.S. Patent and Trademark Office. Consult with legal counsel and records managers as necessary.</p>
+      </conbody>
+   </concept>
+</dita>

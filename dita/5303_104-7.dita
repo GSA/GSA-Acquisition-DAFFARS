@@ -2,38 +2,36 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5303_104-7">
+   <concept id="DAFFARS_5303_104-7" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5303.104-7</ph> Violations or possible violations</title>
-      <conbody>
-        <p outputclass="List1">(a) The contracting officer must provide a copy of
-the information and documentation generated under <xref format="html"
-                  href="https://www.acquisition.gov/far/part-3#FAR_3_104_7"
-                  scope="external">FAR
-3.104-7</xref> to their <xref format="html"
-                  href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA</xref>, cognizant legal counsel, to <xref format="html"
-                  href="mailto:SAF.AQ.SAF-AQC.Workflow@us.af.mil"
-                  scope="external">SAF/AQC</xref> and to
-<xref format="html"
-                  href="mailto:SAF.GCR.Workflow@us.af.mil"
-                  scope="external">SAF/GCR</xref>.</p>
-        <p outputclass="List2">(1) The contracting officer must forward the
+      <conbody class="- topic/body  concept/conbody ">
+         <p rev="Revised June 12, 2024" class="- topic/p ">(a) When a potential Procurement Integrity Act (PIA) violation is alleged, the contracting officer must notify their cognizant Clearance Approval Authority (CAA), legal counsel, cognizant HCA (as defined in <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5302</xref>), and the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/Procurement-Integrity-Act-(PIA).aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAS(C)</xref> (SAF/AQC or, for classified programs, SAF/AQCS). This notification to all parties should identify the cognizant CAA and shall be accomplished within 7 business days of initial discovery. The contracting officer will subsequently provide a copy of the information and documentation generated under FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/3.104-7"
+                  class="- topic/xref ">3.104-7</xref> to those same stakeholders and to SAF/GCR.</p>
+         <p outputclass="List2" class="- topic/p ">(1) The contracting officer must forward the
 information and determination required by <xref format="html"
                   href="https://www.acquisition.gov/far/part-3#FAR_3_104_7"
-                  scope="external">FAR
+                  scope="external"
+                  class="- topic/xref ">FAR
 3.104-7(a)(1)</xref> to the clearance approval authority (<xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_5301_9001"
-                  scope="external">
-               <u>DAFFARS
+                  scope="external"
+                  class="- topic/xref ">
+               <u class="+ topic/ph hi-d/u ">DAFFARS
 5301.9001(i)</u>
             </xref>) of the affected procurement for review.</p>
-        <p outputclass="List1">(f) See <xref format="html"
+         <p outputclass="List1" class="- topic/p ">(<ph rev="Revised June 12, 2024" class="- topic/ph ">g</ph>) See <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>for
-individuals who may authorize award. <ph id="Toc38284410"/>
-        </p>
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

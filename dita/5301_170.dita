@@ -2,40 +2,35 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5301_170">
+   <concept id="DAFFARS_5301_170" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5301.170</ph> Peer Reviews</title>
-      <conbody>
-        <p outputclass="List1">(a) <i>DPC Peer Reviews.</i>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">DPC Peer Reviews.</i>
         </p>
-        <p outputclass="List2">(2) To facilitate planning for and execution of
-DoD Peer Reviews (see <xref format="html"
+         <p outputclass="List2" class="- topic/p ">(2) To facilitate planning for and execution of DoD Peer Reviews (see <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170"
-                  scope="external">DFARS
-201.170</xref> for applicable competitive and noncompetitive
-thresholds), the SCO must use the <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 201.170</xref> for applicable competitive and noncompetitive thresholds), the SCO must use the <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/KnowledgeCenter/quarterly_updates/Forms/AllItems.aspx"
-                  scope="external">Peer
-Review and Clearance Forecasting Tool</xref> to submit quarterly peer
-review forecasts by the 15<sup>th</sup> of March, June, September,
-and December each year. SAF/AQC will submit a consolidated forecast
-to DPC on behalf of the DAF at the end of each quarter. When DoD
-Peer Review is required, follow the procedures in
-MP5301.9001(a)(1)(i)(A)(2)(g),
-MP5301.9001(i)(2)(vi)(A)<i>(1)(c)</i>, or MP5301.9001(i)(2)(vi)
-as appropriate, regarding clearance.</p>
-        <p outputclass="List1">(b) Component Peer Reviews. Pre-award peer reviews
-of solicitations for competitive procurements and pre-award peer
-reviews for non-competitive procurements not subject to the
-requirements of <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">Peer Review and Clearance Forecasting Tool</xref> to submit quarterly peer review forecasts by the 15<sup class="+ topic/ph hi-d/sup ">th</sup> of March, June, September, and December each year. SAF/AQC will submit a consolidated forecast to DPC on behalf of the DAF at the end of each quarter. When DoD Peer Review is required, follow the procedures in 5301.9001 regarding clearance.</p>
+         <p outputclass="List1" rev="Revised June 12, 2024" class="- topic/p ">(b)To support DoD IP Cadre participation in DPC Peer Reviews, contracting officers shall obtain DAF IP Cadre (SAF/AQCC) feedback on draft RFPs before submission of the RFP for DPC Peer Review. Request DAF IP Cadre input by completing the <xref href="https://usaf.dps.mil/:b:/r/teams/IntellectualProperty/Shared%20Documents/General/1.%20Cadre%20Support%20Request%20Intake%20Form.pdf?csf=1&amp;web=1&amp;e=TAAJZn"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Cadre Support Request Intake Form</xref> and submit to the <xref href="mailto:SAF.AQ.SAF-AQCC.Workflow@us.af.mil"
+                  format="AQ.SAF-AQCC.Workflow@us.af.mil.SAF-AQCC.Workflow@us.af.mil.Workflow@us.af.mil.af.mil.mil"
+                  scope="external"
+                  class="- topic/xref ">DAF IP Cadre Workflow</xref>
+         </p>
+         <p outputclass="List1" class="- topic/p ">(<ph rev="Revised June 12, 2024" class="- topic/ph ">c</ph>) Component Peer Reviews. Pre-award peer reviews of solicitations for competitive procurements and pre-award peer reviews for non-competitive procurements not subject to the requirements of <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.170"
-                  scope="external">DFARS
-201.170(a)(1)(i) or (ii)</xref> must be accomplished by complying with
-the clearance requirements in <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 201.170(a)(1)(i) or (ii)</xref> must be accomplished by complying with the clearance requirements in <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5301-federal-acquisition-regulations-system#DAFFARS_SUBPART_5301_90"
-                  scope="external">DAFFARS
-5301.90</xref>.<ph id="Toc351646714"/>
-        </p>
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5301.90</xref>.<ph id="Toc351646714" class="- topic/ph "/> 
+         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

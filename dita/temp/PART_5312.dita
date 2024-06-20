@@ -72,11 +72,23 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="Revised June 12, 2024">
                <p>
                   <xref outputclass="fm:TOC"
-                        href="SUBPART_5312_90.dita#DAFFARS_SUBPART_5312_90">Subpart 5312.90 - PILOT PROGRAM FOR DEFENSE COMMERCIAL SOLUTIONS OPENING</xref>
+                        href="SUBPART_5312_70.dita#DAFFARS_SUBPART_5312_70">Subpart 5312.70 - DEFENSE COMMERCIAL SOLUTIONS OPENING</xref>
                </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5312_7003.dita#DAFFARS_5312_7003">5312.7003 Limitations.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised June 12, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5312_7005.dita#DAFFARS_5312_7005">5312.7005 Congressional Notification.</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
          </ul>
       </body>

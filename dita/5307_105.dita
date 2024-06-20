@@ -2,45 +2,22 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5307_105">
+   <concept id="DAFFARS_5307_105" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5307.105</ph> Contents of Written Acquisition Plans</title>
-      <conbody>
-        <p outputclass="List2">(1) For actions that do not fall within one of the
-categories listed within <xref format="html"
-                  href="https://www.acquisition.gov/dfars/part-207-acquisition-planning#DFARS_207.103"
-                  scope="external">DFARS
-207.103</xref> or actions with dollar thresholds less than a need for
-a written <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Acquisition
-Plan</xref> (e.g. &lt;$50M total program or &lt;$25M in a FY for
-products &amp; services), written AP documentation is still
-recommended. This documentation may include Market Research
-Acquisition Approach document (MRAA), Briefing Charts, Memorandum
-for Record, or use of the Streamlined Acquisition Strategy Summary
-as directed by the applicable approval authority.</p>
-        <p outputclass="List2">(2) Actions above $10M but below the thresholds
-prescribed at DFARS 207.103, written AP documentation is
-recommended. Acquisition Teams should consider the depth,
-complexity, and requirements needs of their program to determine
-use of the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">AP
-template</xref>, ASP brief, or the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Streamlined
-Market Acquisition Approach Document (SMRAA)</xref> template.</p>
-        <p outputclass="List2">(3) Actions for production or services when the
-total cost of all contracts for the acquisition program is equal to
-or greater than $50M for all years or $25M or more for any fiscal
-year, an Acquisition Strategy Panel (ASP) is recommended. (Note:
-recommend documentation that identifies the ASP as the written
-AP)</p>
-        <p outputclass="List2">(4) The acquisition strategy approval authority
-may utilize the ASP briefing charts and associated note pages,
-minutes, and change charts to satisfy a required written AP.
-Recommend documentation identifies the ASP as the written AP.</p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" rev="Revised June 12, 2024" class="- topic/p ">(b) (6) Budgeting and funding. The requiring activity is responsible for ensuring funding is effectively addressed within the requirements documents and must convey these requirements to the assigned planner for inclusion in the acquisition plan. </p>
+         <p outputclass="List2" rev="Revised June 12, 2024" class="- topic/p "> (14) (iii) For all acquisitions, see also <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/501044p.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DoDI 5010.44</xref>, <xref href="https://static.e-publishing.af.mil/production/1/saf_aq/publication/dafi63-101_20-101/dafi63-101_20-101.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFI63-101/20-101</xref>, paragraph 4.7, and <xref href="https://usaf.dps.mil/:b:/r/teams/IntellectualProperty/Shared%20Documents/General/2.%20Air%20Force%20Data%20Rights%20Guidebook_V1.5.doc.pdf?csf=1&amp;web=1&amp;e=dS8j1D"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">DAF Data Rights Guidebook</xref> regarding IP strategies.<ph id="_anchor_1" class="- topic/ph "/>
+         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

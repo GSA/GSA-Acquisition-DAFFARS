@@ -2,32 +2,33 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5304_803">
+   <concept id="DAFFARS_5304_803" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5304.803</ph>  Contents of Contract Files</title>
-      <conbody>
-        <p>If contracting offices are not using KTFS and maintain hard copy
-official contract files, SCOs may use the Air Force contract file
-content index templates below, or their own specific contract file
-content checklist or index to maintain contract files:</p>
-        <p>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">
+            <ph rev="Revised June 12, 2024" class="- topic/ph ">For contract offices not listed in </ph>KTFS and <ph rev="Revised June 12, 2024" class="- topic/ph ">that </ph>maintain hard copy official contract files, SCOs may use the Air Force contract file content index templates below, or their own specific contract file content checklist or index to maintain contract files:</p>
+         <p class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Operational
+                  scope="external"
+                  class="- topic/xref ">Operational
 Services and Construction</xref>
         </p>
-        <p>
+         <p class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Research
+                  scope="external"
+                  class="- topic/xref ">Research
 and Development</xref>
         </p>
-        <p>
+         <p class="- topic/p ">
             <xref format="html"
                   href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Systems
+                  scope="external"
+                  class="- topic/xref ">Systems
 and Logistics</xref>
         </p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

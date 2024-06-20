@@ -2,80 +2,80 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5304_403">
+   <concept id="DAFFARS_5304_403" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5304.403</ph>  Responsibilities of Contracting Officers</title>
-      <conbody>
-        <p outputclass="List1">(a) In accordance with the <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) In accordance with the <xref format="html"
                   href="https://www.acquisition.gov/far/part-4#FAR_Subpart_4_4"
-                  scope="external">FAR
+                  scope="external"
+                  class="- topic/xref ">FAR
 part 4.4</xref>, the contracting officer is responsible for reviewing
 all proposed solicitations to determine whether access to
 classified information may be required by offerors or by a
 contractor during contract performance.</p>
-        <p outputclass="List1">(b) Contracting officers
+         <p outputclass="List1" class="- topic/p ">(b) Contracting officers
                                 will require input and support from program
                                 managers, project managers, or other personnel
                                 knowledgeable of the contract requirements to
                                 perform this responsibility.</p>
-        <p outputclass="List1">(c) The Contracting Officer will, in accordance with <xref format="html"
+         <p outputclass="List1" class="- topic/p ">(c) The Contracting Officer will, in accordance with <xref format="html"
                   href="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
-                  scope="external">32
+                  scope="external"
+                  class="- topic/xref ">32
 CFR Part 117</xref> and <xref format="html"
                   href="https://static.e-publishing.af.mil/production/1/saf_aa/publication/dodm5220.22v2_afman16-1406v2/dodm5220.22v2_afman16-1406v2.pdf"
-                  scope="external">DAFMAN
+                  scope="external"
+                  class="- topic/xref ">DAFMAN
 16-1406V2</xref>, National Industrial Security Program: Industrial
 Security Procedures for Government Activities:</p>
-        <p outputclass="List3">i. Verify the vendor’s
+         <p outputclass="List3" class="- topic/p ">i. Verify the vendor’s
                                 facility clearance status and safeguarding
                                 capability by accessing the National Industrial
                                 Security System (NISS), unless otherwise
                                 delegated.</p>
-        <p outputclass="List3"> ii. Submit a facility
+         <p outputclass="List3" class="- topic/p "> ii. Submit a facility
                                 clearance sponsorship request to the Defense
                                 Counterintelligence and Security Agency (DCSA)
                                 using NISS, unless otherwise delegated.</p>
-        <p outputclass="List3"> iii. Include the security
+         <p outputclass="List3" class="- topic/p "> iii. Include the security
                                 requirements clause, <xref format="html"
                   href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
-                  scope="external">FAR 52.204-2</xref> and the
+                  scope="external"
+                  class="- topic/xref ">FAR 52.204-2</xref> and the
                                 Department of Defense Contact Security
                                 Classification Specification (DD Form 254) if
                                 access to classified information is required
                                 during the solicitation phase or award phase of
                                 a contract.</p>
-        <p outputclass="List3"> iv. Ensure the DD Form 254
-                                is properly prepared, reviewed, and
-                                coordinated.</p>
-        <p outputclass="List3"> v. Serve as the approving
-                                official for the DD Form 254, unless otherwise
-                                delegated.</p>
-        <p outputclass="List3"> vi. Ensure the DD Form 254
+         <p outputclass="List3" class="- topic/p "> iv. Ensure the DD Form 254 is properly prepared, reviewed, coordinated<ph rev="Revised June 12, 2024" class="- topic/ph "> and distributed in accordance with DAFMAN 16-1406V2. In the absence of exceptional circumstances that support classification, the DD Form 254 will not be classified</ph>.</p>
+         <p outputclass="List3" class="- topic/p "> v. Serve as the approving official <ph rev="Revised June 12, 2024" class="- topic/ph ">Certifier</ph> for the DD Form 254.</p>
+         <p outputclass="List3" class="- topic/p "> vi. Ensure the DD Form 254
                                 is distributed to:</p>
-        <p outputclass="List2"> (1) The contractor as part
+         <p outputclass="List2" class="- topic/p "> (1) The contractor as part
                                 of the contract.</p>
-        <p outputclass="List2"> (2) All DCSA field
+         <p outputclass="List2" class="- topic/p "> (2) All DCSA field
                                 activities listed in blocks 6c, 7c, 8c, and 10
                                 (as applicable).</p>
-        <p outputclass="List2"> (3) All host installation
+         <p outputclass="List2" class="- topic/p "> (3) All host installation
                                 Air Force Information Protection Office(s)
                                 listed as government performance locations (or
                                 Army, Navy, Marine Corps, Coast Guard equivalent
                                 where classified performance will occur).</p>
-        <p outputclass="List2"> (4) Others in accordance
+         <p outputclass="List2" class="- topic/p "> (4) Others in accordance
                                 with local DD Form 254 processing
                                 procedures.</p>
-        <p outputclass="List3"> vii. Within 30 calendar
+         <p outputclass="List3" class="- topic/p "> vii. Within 30 calendar
                                 days prior to classified work beginning to all
                                 government performance locations:</p>
-        <p outputclass="List2"> (1) Ensure the host
+         <p outputclass="List2" class="- topic/p "> (1) Ensure the host
                                 Installation Commander is aware of the
                                 contractor’s presence as a visitor on the
                                 installation normally through the installation
                                 Information Protection Office when performance
                                 is on an Air Force installation at least 30
                                 calendar days in advance.</p>
-        <p outputclass="List2"> (2) If the certified DD
+         <p outputclass="List2" class="- topic/p "> (2) If the certified DD
                                 Form 254 cannot be provided to the installation
                                 Information Protection Office at least 30
                                 calendar days in advance due to contract
@@ -83,16 +83,8 @@ Security Procedures for Government Activities:</p>
                                 days from date of contract award, then the DD
                                 Form 254 is to be provided within 72 hours after
                                 contract award.</p>
-        <p outputclass="List3"> viii. Upon receipt of
-                                notification of a contractor security violation
-                                from the DCSA, the contracting officer or
-                                designee will ensure the owner of the classified
-                                information subject to loss, compromise, or
-                                suspected compromise (e.g., Original
-                                Classification Authority (OCA) or
-                                representative) is further notified.</p>
-
-        <p outputclass="List3"> ix. Upon notification of an
+         <p outputclass="List3" class="- topic/p "> viii. Upon receipt of notification of a contractor security violation from the DCSA, the contracting officer or designee will ensure the owner of the classified information subject to loss, compromise, or suspected compromise (e.g., Original Classification Authority (OCA) or representative) is further notified<ph rev="Revised June 12, 2024" class="- topic/ph "> and can perform required actions to mitigate potential damage in accordance with DoDM 5200.01, Volume 3, Enclosure and DAFI 16-1404, Chapters 3 and 7</ph>.</p>
+         <p outputclass="List3" class="- topic/p "> ix. Upon notification of an
                                 adverse facility clearance action (e.g.
                                 Invalidation/Intent to Revoke) and/or receipt of
                                 a contractor being issued a less than
@@ -103,27 +95,28 @@ Security Procedures for Government Activities:</p>
                                 vendor mitigates all reported instances of
                                 non-compliance with <xref format="html"
                   href="https://www.acquisition.gov/far/part-52#FAR_52_204_2"
-                  scope="external">FAR 52.204-2</xref>, as
+                  scope="external"
+                  class="- topic/xref ">FAR 52.204-2</xref>, as
                                 applicable.</p>
-        <p outputclass="List1"> (d) National Interest
+         <p outputclass="List1" class="- topic/p "> (d) National Interest
                                 Determination (NID)</p>
-        <p outputclass="List3"> i. As of 1 October 2020, in
+         <p outputclass="List3" class="- topic/p "> i. As of 1 October 2020, in
                                 accordance with Public Law 115-232, John S.
                                 McCain National Defense Authorization Act for
                                 Fiscal Year 2019, Section 842, “Removal of
                                 National Interest Determination Requirements for
                                 Certain Entities,” August 13, 2018:</p>
-        <p outputclass="List2"> (1) NIDs are no longer
+         <p outputclass="List2" class="- topic/p "> (1) NIDs are no longer
                                 required for National Technology and Industrial
                                 Base foreign ownership entities that require
                                 access to proscribed information and under
                                 Special Security Agreements to mitigate the
                                 foreign ownership, control, or influence.</p>
-        <p outputclass="List2"> (2) If necessary, contact
+         <p outputclass="List2" class="- topic/p "> (2) If necessary, contact
                                 the servicing Information Protection Office to
                                 verify if a NID is required prior to submitting
                                 a NID request.</p>
-        <p outputclass="List3"> ii. Upon receiving adequate
+         <p outputclass="List3" class="- topic/p "> ii. Upon receiving adequate
                                 written justification from the requesting
                                 program office or activity, the contracting
                                 officer reviews, validates, and processes the
@@ -131,10 +124,10 @@ Security Procedures for Government Activities:</p>
                                 approvals/documentation, in accordance with AFH
                                 16-1406, National Interest Determination
                                 Handbook</p>
-        <p outputclass="List3"> iii. The contracting
+         <p outputclass="List3" class="- topic/p "> iii. The contracting
                                 officer shall maintain a copy of the approved
                                 program, project, or contract specific NID
                                 package in the contract file.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

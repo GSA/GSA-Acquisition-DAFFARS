@@ -2,18 +2,18 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5301_602-3">
+   <concept id="DAFFARS_5301_602-3" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5301.602-3</ph> Ratification of Unauthorized Commitments</title>
-      <conbody>
-        <p outputclass="List1">(b) <i>Policy</i>.</p>
-        <p outputclass="List2">(2) See <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
+         <p outputclass="List2" class="- topic/p ">(2) See <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5301-federal-acquisition-regulations-system#DAFFARS_MP5301_601"
-                  scope="external">MP5301.601(a)(i)</xref>.
-Submit a copy of the approval to the <xref format="html"
-                  href="mailto:SAF.AQ.SAF-AQCP.Workflow@us.af.mil?subject=DAFFARS%205301.602-3%20Approvals%20--%20For%20Situational%20Awareness%20Only"
-                  scope="external">SAF/AQC
-Workflow</xref>.</p>
+                  scope="external"
+                  class="- topic/xref ">MP5301.601(a)(i)</xref>. See the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">ratification approval template</xref>.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>

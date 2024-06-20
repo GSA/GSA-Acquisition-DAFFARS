@@ -2,44 +2,37 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="DAFFARS_5301_403">
+   <concept id="DAFFARS_5301_403" class="- topic/topic concept/concept ">
       <title class="- topic/title "> 
          <ph class="- topic/ph " props="autonumber">5301.403</ph> Individual Deviations</title>
-      <conbody>
-        <p outputclass="List3">(1)(i) SCOs are authorized to approve individual
-deviations except as described in (ii) below or as described in <xref format="html"
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List3" class="- topic/p ">(1)(i) SCOs are authorized to approve individual deviations except as described in (ii) below or as described in <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.402"
-                  scope="external">DFARS
-201.402(1)</xref> and <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 201.402(1)</xref>, <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-201-federal-acquisition-regulations-system#DFARS-201.403"
-                  scope="external">DFARS
-201.403(2)</xref>.</p>
-        <p outputclass="List3">(ii) The cognizant HCA is the approval authority
-for individual deviations from <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 201.403(2) <ph rev="Revised June 12, 2024" class="- topic/ph ">and DPC directed data system requirements</ph>
+            </xref>.</p>
+         <p outputclass="List3" class="- topic/p ">(ii) The cognizant HCA is the approval authority for individual deviations from <xref format="html"
                   href="https://www.acquisition.gov/far/part-15#FAR_Subpart_15_3"
-                  scope="external">FAR
-15.3</xref>, <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 15.3</xref>, <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5315-contracting-negotiation"
-                  scope="external">DAFFARS
-5315.3</xref>, and <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DAFFARS 5315.3</xref>, and <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation"
-                  scope="external">MP5315.3</xref>.
-This approval authority is not further delegable. See the <xref format="html"
-                  href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
-                  scope="external">Deviation
-Request</xref> template. Deviation requests must be submitted through
-the SCO to the <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">MP5315.3</xref>. This approval authority is not further delegable. <ph rev="Revised June 12, 2024" class="- topic/ph ">R</ph>equests must be submitted through the SCO to the <xref format="html"
                   href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms"
-                  scope="external">cognizant
-HCA workflow</xref> for approval. When a proposed deviation, as
-described herein, also requires a waiver from <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA workflow</xref> for approval. When a proposed deviation, as described herein, also requires a waiver from <xref format="html"
                   href="https://www.acquisition.gov/dfars/part-215-contracting-negotiation#DFARS-SUBPART_215.3"
-                  scope="external">DFARS
-215.3</xref>, <i>DoD Source Selection Procedures</i>, the waiver
-process in <xref format="html"
+                  scope="external"
+                  class="- topic/xref ">DFARS 215.3</xref>, <i class="+ topic/ph hi-d/i ">DoD Source Selection Procedures</i>, the waiver process in <xref format="html"
                   href="https://www.acquisition.gov/daffars/mp5315-contracting-negotiation"
-                  scope="external">MP5315.3</xref>,
-para 1.2.4., must also be followed.</p>
+                  scope="external"
+                  class="- topic/xref ">MP5315.3</xref>, para 1.2.4., must also be followed.</p>
       </conbody>
-    </concept>
+   </concept>
 </dita>
