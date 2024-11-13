@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DAFFARS_5343_102-90" class="- topic/topic concept/concept "><title class="- topic/title "> 
-         <ph class="- topic/ph " props="autonumber">5343.102-90</ph> Contract Scope Considerations</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">Contracting officers shall document scope determinations when modifying contracts (see the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx" format="html" scope="external" class="- topic/xref ">Scope Determination – MFR template</xref>). New work requires competition unless one of the seven exceptions to competition found in FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/6.302" class="- topic/xref ">6.302</xref> applies. When determining whether proposed modifications constitute new work the following should be considered- </p><p outputclass="List1" class="- topic/p ">(a) the extent of any changes in the type of work,
+<dita>
+   <concept id="DAFFARS_5343_102-90" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5343.102-90</ph> Contract Scope Considerations</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Contracting officers shall document scope determinations when modifying contracts (see the <xref href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAFFARS-Templates.aspx"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Scope Determination – MFR template</xref>). New work requires competition unless one of the seven exceptions to competition found in FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/6.302"
+                  class="- topic/xref ">6.302</xref> applies. When determining whether proposed modifications constitute new work the following should be considered- </p>
+         <p outputclass="List1" class="- topic/p ">(a) the extent of any changes in the type of work,
         performance period, and costs between the modification and the original
-        contract; </p><p outputclass="List1" class="- topic/p ">(b) whether the original solicitation adequately
+        contract; </p>
+         <p outputclass="List1" class="- topic/p ">(b) whether the original solicitation adequately
         advised offerors of the potential for the change or the change was the
-        type that reasonably could have been anticipated; and </p><p outputclass="List1" class="- topic/p ">(c) whether the modification materially changes the
-        field of competition for the requirement.</p><p class="- topic/p "> For unilateral modifications authorized by clauses other than the
+        type that reasonably could have been anticipated; and </p>
+         <p outputclass="List1" class="- topic/p ">(c) whether the modification materially changes the
+        field of competition for the requirement.</p>
+         <p class="- topic/p "> For unilateral modifications authorized by clauses other than the
         Changes clause (e.g., Property clause, Options clause, Suspension of
-        Work, etc. (see FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/43.103" class="- topic/xref ">43.103</xref>(b)(3)), a
+        Work, etc. (see FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/43.103"
+                  class="- topic/xref ">43.103</xref>(b)(3)), a
         scope determination is not required to be documented but is highly
-        encouraged. </p></conbody></concept></dita>
+        encouraged. </p>
+      </conbody>
+   </concept>
+</dita>

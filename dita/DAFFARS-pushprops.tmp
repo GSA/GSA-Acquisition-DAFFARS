@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="DAFFARS" outputclass="daffars" rev="Revised June 12, 2024">
+<map title="DAFFARS" outputclass="daffars">
    <title>DAFFARS</title>
    <topicref navtitle="Volume I - Parts 5301 to 5352"
              href="Volume_I.dita"
@@ -11,7 +11,8 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_I.html">
+             xtrc="Volume_I.html"
+             product="45">
       <topicref navtitle="Department of the Air Force Federal Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="SubPart"
@@ -251,49 +252,49 @@
                    outputclass="subtopic"
                    props="5301.603"
                    audience="DAFFARS_5301_603"
-                   xtrc="DAFFARS_5301_603.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="concept"
                    tables="0"
                    figures="0">
             <topicref navtitle="5301.603-1 General"
                       href="5301_603-1.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-1"
                       base="concept"
                       audience="DAFFARS_5301_603-1"
-                      xtrf="subtopic"
-                      xtrc=""
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-1.html"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="5301.603-2-90 Selection"
                       href="5301_603-2-90.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-2-90"
                       base="concept"
                       audience="DAFFARS_5301_603-2-90"
-                      xtrf="subtopic"
-                      xtrc=""
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-2-90.html"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="5301.603-3 Appointment"
                       href="5301_603-3.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-3"
                       base="concept"
                       audience="DAFFARS_5301_603-3"
-                      xtrf="subtopic"
-                      xtrc=""
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-3.html"
                       tables="0"
                       figures="0"/>
             <topicref href="5301_603-3-90.dita"
                       navtitle="5301.603-3-90 Field Ordering Officer Appointments."
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-3-90"
                       audience="DAFFARS_5301_603-3-90"
-                      xtrf="subtopic"
+                      xtrf="SubPart"
                       base="concept"
-                      xtrc=""
+                      xtrc="DAFFARS_5301_603-3-90.html"
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -834,6 +835,7 @@
                    audience="DAFFARS_5304_805"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5304_806.dita"
@@ -843,6 +845,7 @@
                    audience="DAFFARS_5304_806"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -863,6 +866,7 @@
                    audience="DAFFARS_5304_1102"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -883,6 +887,7 @@
                    audience="DAFFARS_5304_1600"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5304_1603.dita"
@@ -892,6 +897,7 @@
                    audience="DAFFARS_5304_1603"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -954,6 +960,7 @@
                    audience="DAFFARS_5304_7303"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1234,6 +1241,7 @@
                    audience="DAFFARS_5307_103"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5307.104 General Procedures"
@@ -1429,6 +1437,7 @@
                    audience="DAFFARS_5309_105-1"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1581,6 +1590,7 @@
                    audience="DAFFARS_5309_506"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref navtitle="5309.507-2 Solicitation Provisions and Contract Clause"
@@ -1842,6 +1852,7 @@
                    audience="DAFFARS_5312_7003"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5312_7005.dita"
@@ -1851,6 +1862,7 @@
                    audience="DAFFARS_5312_7005"
                    xtrf="subtopic"
                    base="concept"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5606,7 +5618,8 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_II.html">
+             xtrc="Volume_II.html"
+             product="11">
       <topicref navtitle="Air Force Federal Acquisition Regulation Supplement - MP"
                 href="Cover_3.dita"
                 outputclass="SubPart"
