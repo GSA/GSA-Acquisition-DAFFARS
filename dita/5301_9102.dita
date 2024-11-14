@@ -1,65 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="DAFFARS_5301_9102" class="- topic/topic concept/concept ">
-      <title class="- topic/title "> 
-         <ph class="- topic/ph " props="autonumber">5301.9102</ph>  Policy</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p rev="Revised June 12, 2024" outputclass="List1" class="- topic/p ">(a) MAJCOM/DRU/DAFRCO/ Commanders must appoint an experienced senior official who is independent of the contracting officer and program manager as the ombudsman at their organization. For AFMC Centers, an ombudsman is required at each Center, instead of at the MAJCOM. Centers may also have an ombudsman at each Operating Location/Geographically Separated Unit. At SSC, SpRCO, and SDA, the HCA is responsible for the ombudsman appointment.</p>
-         <p outputclass="List1" class="- topic/p ">(b) The ombudsman will have the authority to call
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DAFFARS_5301_9102" class="- topic/topic concept/concept "><title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5301.9102</ph>  Policy</title><conbody class="- topic/body  concept/conbody "><p rev="Revised June 12, 2024" outputclass="List1" class="- topic/p ">(a) MAJCOM/DRU/DAFRCO/ Commanders must appoint an experienced senior official who is independent of the contracting officer and program manager as the ombudsman at their organization. For AFMC Centers, an ombudsman is required at each Center, instead of at the MAJCOM. Centers may also have an ombudsman at each Operating Location/Geographically Separated Unit. At SSC, SpRCO, and SDA, the HCA is responsible for the ombudsman appointment.</p><p outputclass="List1" class="- topic/p ">(b) The ombudsman will have the authority to call
 upon other resources of the activity to assist in resolving
 acquisition issues or concerns (e.g., administrative support,
-independent review teams).</p>
-         <p outputclass="List1" class="- topic/p ">(c) Contracting officers must identify the
+independent review teams).</p><p outputclass="List1" class="- topic/p ">(c) Contracting officers must identify the
 ombudsman in the initial announcement of the acquisition as well as
-in the draft and final RFP.</p>
-         <p outputclass="List1" class="- topic/p ">(d) The ombudsman must:</p>
-         <p outputclass="List2" class="- topic/p ">(1) Support acquisition personnel in the
-resolution of issues or concerns raised by interested parties;</p>
-         <p outputclass="List2" class="- topic/p ">(2) Act in a manner that does not compromise the
+in the draft and final RFP.</p><p outputclass="List1" class="- topic/p ">(d) The ombudsman must:</p><p outputclass="List2" class="- topic/p ">(1) Support acquisition personnel in the
+resolution of issues or concerns raised by interested parties;</p><p outputclass="List2" class="- topic/p ">(2) Act in a manner that does not compromise the
 interested party and, if requested, maintain anonymity of the
-parties;</p>
-         <p outputclass="List2" class="- topic/p ">(3) Avoid any appearance of usurping normal
+parties;</p><p outputclass="List2" class="- topic/p ">(3) Avoid any appearance of usurping normal
 procurement authority (e.g., program manager, contracting officer,
-and source selection authority);</p>
-         <p outputclass="List2" class="- topic/p ">(4) Ensure all affected or knowledgeable offices
-and officials are consulted as part of any resolution process;</p>
-         <p outputclass="List2" class="- topic/p ">(5) Inform the Commander/Director, or PEO, as
-required, of issues raised and actions taken;</p>
-         <p outputclass="List2" class="- topic/p ">(6) Review complaints relative to multiple-award
-task order and delivery order contracts awarded under <xref format="html"
-                  href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3403&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
-                  scope="external"
-                  class="- topic/xref ">10
-U.S.C. 3403(d)(1)(B)</xref> or <xref format="html"
-                  href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3405&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim"
-                  scope="external"
-                  class="- topic/xref ">3405(f)</xref>
+and source selection authority);</p><p outputclass="List2" class="- topic/p ">(4) Ensure all affected or knowledgeable offices
+and officials are consulted as part of any resolution process;</p><p outputclass="List2" class="- topic/p ">(5) Inform the Commander/Director, or PEO, as
+required, of issues raised and actions taken;</p><p outputclass="List2" class="- topic/p ">(6) Review complaints relative to multiple-award
+task order and delivery order contracts awarded under <xref format="html" href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3403&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim" scope="external" class="- topic/xref ">10
+U.S.C. 3403(d)(1)(B)</xref> or <xref format="html" href="https://uscode.house.gov/view.xhtml?hl=false&amp;edition=prelim&amp;req=granuleid%3AUSC-prelim-title10-section3405&amp;f=treesort&amp;num=0&amp;saved=%7CKHRpdGxlOjEwIHNlY3Rpb246MzQwMSBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlMTAtc2VjdGlvbjM0MDEp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim" scope="external" class="- topic/xref ">3405(f)</xref>
 to ensure that all contractors are afforded a fair opportunity to
 be considered for task orders and delivery orders in excess of the
 micro-purchase threshold, consistent with the procedures in the
-contract;</p>
-         <p outputclass="List2" class="- topic/p ">(7) Consistent with security requirements, have
+contract;</p><p outputclass="List2" class="- topic/p ">(7) Consistent with security requirements, have
 access to the appropriate offices and be allowed to collect all
 facts relevant to the resolution of issues raised by interested
 parties. Ombudsmen are granted access to proprietary information.
 Source selection information must be obtained through the source
-selection authority.</p>
-         <p outputclass="List1" class="- topic/p ">(e) The Ombudsman Program does not replace the
-agency level protest, GAO bid protest or disputes processes.</p>
-         <p id="P783_20442" outputclass="List1" class="- topic/p ">(f) The DAF ombudsman is the ADAS(C), who may
-take action to assist in resolving issues, concerns, disagreements,
-and recommendations that cannot be resolved at the
-MAJCOM/FLDCOM/DRU level, or for those having DAF wide implications.
-The ADAS(C) is the DAF ombudsman for procurement integrity issues
-(see <xref format="html"
-                  href="https://www.acq.osd.mil/dpap/policy/policyvault/USA004579-09-DPAP.pdf"
-                  scope="external"
-                  class="- topic/xref ">OUSD(AT&amp;L)/DPAP
-memo, 1 Oct 09</xref>).</p>
-         <p outputclass="List1" class="- topic/p ">(g) Government personnel may use the Ombudsman
-Program as a way to express concerns about an acquisition.</p>
-      </conbody>
-   </concept>
-</dita>
+selection authority.</p><p outputclass="List1" class="- topic/p ">(e) The Ombudsman Program does not replace the
+agency level protest, GAO bid protest or disputes processes.</p><p id="P783_20442" outputclass="List1" class="- topic/p ">(f) The DAF ombudsman is the ADAS(C), who may take action to assist in resolving issues, concerns, disagreements, and recommendations that cannot be resolved at the MAJCOM/FLDCOM/DRU level, or for those having DAF wide implications. The ADAS(C) is the DAF ombudsman for procurement integrity issues (see <xref format="html" href="https://www.acq.osd.mil/dpcap/policy/policyvault/USA004579-09-DPCAP.pdf" scope="external" class="- topic/xref ">OUSD(AT&amp;L)/DPC memo, 1 Oct 09</xref>).</p><p outputclass="List1" class="- topic/p ">(g) Government personnel may use the Ombudsman
+Program as a way to express concerns about an acquisition.</p></conbody></concept></dita>

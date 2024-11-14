@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="DAFFARS_5332_607" class="- topic/topic concept/concept "><title class="- topic/title "> 
-         <ph class="- topic/ph " props="autonumber">5332.607</ph> Installment Payments and Deferment of Collection</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a) When a request for deferment of a contract debt is received from a contractor, the contracting officer must forward the request for deferment to the SCO. The SCO must submit, on a priority basis, an evaluation of the contractor’s request with the necessary reporting information and recommendation through the <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101" format="html" scope="external" class="- topic/xref ">cognizant HCA Workflow</xref> to <xref href="mailto:SAF.FMF.Workflow@us.af.mil" format="html" scope="external" class="- topic/xref ">SAF/FMF</xref>. </p></conbody></concept></dita>
+<dita>
+   <concept id="DAFFARS_5332_607" class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">5332.607</ph> Installment Payments and Deferment of Collection</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p outputclass="List1" class="- topic/p ">(a) When a request for deferment of a contract debt is received from a contractor, the contracting officer must forward the request for deferment to the SCO. The SCO must submit, on a priority basis, an evaluation of the contractor’s request with the necessary reporting information and recommendation through the <xref href="https://www.acquisition.gov/daffars/part-5302-definitions-words-and-terms#DAFFARS_5302_101"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">cognizant HCA Workflow</xref> to <xref href="mailto:SAF.FMF.Workflow@us.af.mil"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">SAF/FMF</xref>. </p>
+      </conbody>
+   </concept>
+</dita>

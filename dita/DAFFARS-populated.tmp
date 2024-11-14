@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="DAFFARS" outputclass="daffars" rev="Revised June 12, 2024">
+<map title="DAFFARS" outputclass="daffars">
    <title>DAFFARS</title>
    <topicref navtitle="Volume I - Parts 5301 to 5352"
              href="Volume_I.dita"
@@ -11,7 +11,8 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_I.html">
+             xtrc="Volume_I.html"
+             product="45">
       <topicref navtitle="Department of the Air Force Federal Acquisition Regulation Supplement"
                 href="Cover_1.dita"
                 outputclass="SubPart"
@@ -207,41 +208,41 @@
                    outputclass="subtopic"
                    props="5301.603"
                    audience="DAFFARS_5301_603"
-                   xtrc="DAFFARS_5301_603.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="concept">
             <topicref navtitle="5301.603-1 General"
                       href="5301_603-1.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-1"
                       base="concept"
                       audience="DAFFARS_5301_603-1"
-                      xtrf="subtopic"
-                      xtrc=""/>
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-1.html"/>
             <topicref navtitle="5301.603-2-90 Selection"
                       href="5301_603-2-90.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-2-90"
                       base="concept"
                       audience="DAFFARS_5301_603-2-90"
-                      xtrf="subtopic"
-                      xtrc=""/>
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-2-90.html"/>
             <topicref navtitle="5301.603-3 Appointment"
                       href="5301_603-3.dita"
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-3"
                       base="concept"
                       audience="DAFFARS_5301_603-3"
-                      xtrf="subtopic"
-                      xtrc=""/>
+                      xtrf="SubPart"
+                      xtrc="DAFFARS_5301_603-3.html"/>
             <topicref href="5301_603-3-90.dita"
                       navtitle="5301.603-3-90 Field Ordering Officer Appointments."
-                      outputclass="subtopic"
+                      outputclass="SubPart"
                       props="5301.603-3-90"
                       audience="DAFFARS_5301_603-3-90"
-                      xtrf="subtopic"
+                      xtrf="SubPart"
                       base="concept"
-                      xtrc=""/>
+                      xtrc="DAFFARS_5301_603-3-90.html"/>
          </topicref>
          <topicref navtitle="5301.670 Appointment of Property Administrators and Plant Clearance Officers"
                    href="5301_670.dita"
@@ -677,14 +678,16 @@
                    props="5304.805"
                    audience="DAFFARS_5304_805"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
          <topicref href="5304_806.dita"
                    navtitle="5304.806 Storage, handling, and contract files."
                    outputclass="subtopic"
                    props="5304.806"
                    audience="DAFFARS_5304_806"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
       <topicref href="SUBPART_5304_11.dita"
                 navtitle="Subpart 5304.11 SYSTEM FOR AWARD MANAGEMENT"
@@ -700,7 +703,8 @@
                    props="5304.1102"
                    audience="DAFFARS_5304_1102"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
       <topicref href="SUBPART_5304_16.dita"
                 navtitle="Subpart 5304.16 [RESERVED]"
@@ -716,14 +720,16 @@
                    props="5304.1600"
                    audience="DAFFARS_5304_1600"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
          <topicref href="5304_1603.dita"
                    navtitle="5304.1603 Procedures"
                    outputclass="subtopic"
                    props="5304.1603"
                    audience="DAFFARS_5304_1603"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
       <topicref navtitle="Subpart 5304.70 - UNIFORM PROCUREMENT INSTRUMENT IDENTIFICATION NUMBERS"
                 href="SUBPART_5304_70.dita"
@@ -773,7 +779,8 @@
                    props="5304.7303"
                    audience="DAFFARS_5304_7303"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
    </topicref>
    <topicref navtitle="Part 5305 - Publicizing Contract Actions"
@@ -999,7 +1006,8 @@
                    props="5307.103"
                    audience="DAFFARS_5307_103"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
          <topicref navtitle="5307.104 General Procedures"
                    href="5307_104.dita"
                    outputclass="subtopic"
@@ -1156,7 +1164,8 @@
                    props="5309.105-1"
                    audience="DAFFARS_5309_105-1"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
       <topicref navtitle="Subpart 5309.2 - QUALIFICATION REQUIREMENTS"
                 href="SUBPART_5309_2.dita"
@@ -1278,7 +1287,8 @@
                    props="5309.506"
                    audience="DAFFARS_5309_506"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
          <topicref navtitle="5309.507-2 Solicitation Provisions and Contract Clause"
                    href="5309_507-2.dita"
                    outputclass="subtopic"
@@ -1489,14 +1499,16 @@
                    props="5312.7003"
                    audience="DAFFARS_5312_7003"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
          <topicref href="5312_7005.dita"
                    navtitle="5312.7005 Congressional Notification."
                    outputclass="subtopic"
                    props="5312.7005"
                    audience="DAFFARS_5312_7005"
                    xtrf="subtopic"
-                   base="concept"/>
+                   base="concept"
+                   xtrc=""/>
       </topicref>
    </topicref>
    <topicref navtitle="Part 5313 - Simplified Acquisition Procedures"
@@ -4530,7 +4542,8 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="Volume"
-             xtrc="Volume_II.html">
+             xtrc="Volume_II.html"
+             product="11">
       <topicref navtitle="Air Force Federal Acquisition Regulation Supplement - MP"
                 href="Cover_3.dita"
                 outputclass="SubPart"
