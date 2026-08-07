@@ -1,83 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DAFFARS_PART_5352">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">Part 5352</ph> - Solicitation Provisions and Contract Clauses</title>
-      <body>
-         <p>
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5352.aspx">DAFFARS PART 5352 Knowledge Center</xref>
-         </p>
-         <p>
-            <i>Revised: June 2024</i>
-         </p>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_5352_2.dita#DAFFARS_SUBPART_5352_2">Subpart 5352.2 — TEXT OF PROVISIONS AND CLAUSES</xref>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="DAFFARS_PART_5352" class="- topic/topic "><title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5352</ph> - Solicitation Provisions and Contract Clauses</title><body class="- topic/body "><p class="- topic/p ">*ARCHIVED*</p><p class="- topic/p "> <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAF-Contracting-Compass/Previous-DAFFARS-Provision-and-Clause-Verbiage.aspx" class="- topic/xref ">DAF Contracting Compass Part 52</xref> </p><p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
+         </p><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="SUBPART_5352_2.dita#DAFFARS_SUBPART_5352_2" class="- topic/xref ">Subpart 5352.2 — TEXT OF PROVISIONS AND CLAUSES</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_201-9101.dita#DAFFARS_5352_201-9101">5352.201-9101 Ombudsman</xref>
+               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_201-9101.dita#DAFFARS_5352_201-9101" class="- topic/xref ">5352.201-9101 Ombudsman</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_204-9000.dita#DAFFARS_5352_204-9000">5352.204-9000 Notification of Government Security Activities</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_204-9000.dita#DAFFARS_5352_204-9000" class="- topic/xref ">5352.204-9000 Notification of Government Security Activities</xref>
                      </p>
-                  </li>
-                  <li rev="Revised June 12, 2024">
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_204-9002.dita#DAFFARS_5352_204-9002">5352.204-9002 Security Incident Reporting and Procedures</xref>
+                  </li><li rev="Revised June 12, 2024" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_204-9002.dita#DAFFARS_5352_204-9002" class="- topic/xref ">5352.204-9002 Security Incident Reporting and Procedures</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_209-9000.dita#DAFFARS_5352_209-9000">5352.209-9000 Organizational Conflict of Interest</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_209-9000.dita#DAFFARS_5352_209-9000" class="- topic/xref ">5352.209-9000 Organizational Conflict of Interest</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_209-9001.dita#DAFFARS_5352_209-9001">5352.209-9001 Potential Organizational Conflict of Interest</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_209-9001.dita#DAFFARS_5352_209-9001" class="- topic/xref ">5352.209-9001 Potential Organizational Conflict of Interest</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_217-9000.dita#DAFFARS_5352_217-9000">5352.217-9000 Long Lead Limitation of Government Liability</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_217-9000.dita#DAFFARS_5352_217-9000" class="- topic/xref ">5352.217-9000 Long Lead Limitation of Government Liability</xref>
                      </p>
-                  </li>
-                  <li rev="Revised June 12, 2024">
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_223-9000.dita#DAFFARS_5352_223-9000">5352.223-9000 Elimination of Use of Class I Ozone Depleting Substances (ODS)</xref>
+                  </li><li rev="Revised June 12, 2024" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_223-9000.dita#DAFFARS_5352_223-9000" class="- topic/xref ">5352.223-9000 Elimination of Use of Class I Ozone Depleting Substances (ODS)</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_223-9001.dita#DAFFARS_5352_223-9001">5352.223-9001 Health and Safety on Government Installations</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_223-9001.dita#DAFFARS_5352_223-9001" class="- topic/xref ">5352.223-9001 Health and Safety on Government Installations</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_228-9101.dita#DAFFARS_5352_228-9101">5352.228-9101 Insurance Certificate Requirement in Spain (USAFE)</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_228-9101.dita#DAFFARS_5352_228-9101" class="- topic/xref ">5352.228-9101 Insurance Certificate Requirement in Spain (USAFE)</xref>
                      </p>
-                  </li>
-                  <li rev="Revised June 12, 2024">
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_242-9000.dita#DAFFARS_5352_242-9000">5352.242-9000 Contractor Access to Department of the Air Force Installations</xref>
+                  </li><li rev="Revised June 12, 2024" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_242-9000.dita#DAFFARS_5352_242-9000" class="- topic/xref ">5352.242-9000 Contractor Access to Department of the Air Force Installations</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5352_242-9001.dita#DAFFARS_5352_242-9001">5352.242-9001 Common Access Cards (CAC) for Contractor Personnel</xref>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5352_242-9001.dita#DAFFARS_5352_242-9001" class="- topic/xref ">5352.242-9001 Common Access Cards (CAC) for Contractor Personnel</xref>
                      </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+                  </li></ul>
+            </li></ul></body></topic></dita>
