@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DAFFARS_PART_5339">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">Part 5339</ph> - Acquisition of Information Technology </title>
-      <body>
-         <p>
-            <xref scope="external"
-                  format="html"
-                  href="https://usaf.dps.mil/:u:/r/sites/AFCC/AQCP/KnowledgeCenter/SitePages/5339.aspx">DAFFARS PART 5339 Knowledge Center</xref>
-         </p>
-         <p>
-            <i>Revised: June 2024</i>
-         </p>
-         <ul otherprops="TOC">
-            <li rev="Revised June 12, 2024">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5339_72.dita#DAFFARS_SUBPART_5339_72">Subpart 5339.72 – [Reserved]</xref>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="DAFFARS_PART_5339" class="- topic/topic "><title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 5339</ph> - Acquisition of Information Technology </title><body class="- topic/body "><p class="- topic/p "><b>*ARCHIVED*</b></p><p class="- topic/p "> <xref scope="external" format="html" href="https://usaf.dps.mil/sites/AFCC/AQCP/KnowledgeCenter/SitePages/DAF-Contracting-Compass/Part-39---Acquisition-of-Information-Technology.aspx" class="- topic/xref ">DAF Contracting Compass Part 39</xref> </p><p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Revised: June 2024</i>
+         </p><ul otherprops="TOC" class="- topic/ul "><li rev="Revised June 12, 2024" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5339_72.dita#DAFFARS_SUBPART_5339_72" class="- topic/xref ">Subpart 5339.72 – [Reserved]</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li rev="Revised June 12, 2024">
-                     <p>
-                        <xref outputclass="fm:TOC" href="5339_7201-90.dita#DAFFARS_5339_7201-90">5339.7201-90 Data Servers/Centers Approval Process</xref>
+               <ul otherprops="TOC" class="- topic/ul "><li rev="Revised June 12, 2024" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5339_7201-90.dita#DAFFARS_5339_7201-90" class="- topic/xref ">5339.7201-90 Data Servers/Centers Approval Process</xref>
                      </p>
-                  </li>
-               </ul>
-            </li>
-            <li rev="Revised June 12, 2024">
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5339_73.dita#DAFFARS_SUBPART_5339_73">Subpart 5339.73 – Use of Large Language Models (LLMs) (aka ChatGPT and other like AI Tools)</xref>
+                  </li></ul>
+            </li><li rev="Revised June 12, 2024" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5339_73.dita#DAFFARS_SUBPART_5339_73" class="- topic/xref ">Subpart 5339.73 – Use of Large Language Models (LLMs) (aka ChatGPT and other like AI Tools)</xref>
                </p>
-            </li>
-         </ul>
-      </body>
-   </topic>
-</dita>
+            </li></ul></body></topic></dita>
